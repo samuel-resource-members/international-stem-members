@@ -1,0 +1,48 @@
+name: 提交资料
+description: 提交新的试卷、评分资料或教学练习
+title: "[资料] "
+body:
+  - type: input
+    id: course
+    attributes:
+      label: 课程与考试
+      placeholder: 例如 CAIE IGCSE Physics 0625
+    validations:
+      required: true
+  - type: input
+    id: identity
+    attributes:
+      label: 年份、考季与卷号
+      placeholder: 例如 2025 May/June Paper 42
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 资料类型
+      options:
+        - 题卷
+        - 评分标准
+        - 详解
+        - 教学练习
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: 文件或链接
+      description: 将文件拖入此处，或粘贴可访问的链接。请勿提交个人信息。
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 备注
+      description: 可填写适用章节、语言或其他有助于查阅的信息。
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: 确认
+      options:
+        - label: 我有权提交这份资料，并同意经审核后收入题库。
+          required: true

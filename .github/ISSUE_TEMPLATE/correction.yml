@@ -1,0 +1,17 @@
+name: 题目反馈
+description: 反馈题面、答案或分类问题
+title: "[反馈] "
+body:
+  - type: input
+    id: question
+    attributes:
+      label: 题目编号或链接
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题与建议
+      description: 请写明有问题的位置，可以附图说明。
+    validations:
+      required: true
