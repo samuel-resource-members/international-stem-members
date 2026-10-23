@@ -15,29 +15,35 @@ function database(status='active',role='member',githubId='42') {
 }
 function fixture(options={}) {
  const db=database(options.status,options.role,options.githubId),calls=[];
- let direct=options.direct||false, inherited=options.inherited||false, permission=options.permission||'read',invitations=options.invitations||[],putHook=options.putHook;
+ let direct=options.direct||false, inherited=options.inherited||false, permission=options.permission||'read',invitations=options.invitations||[],putHook=options.putHook,lookupCalls=0,wrongDirect=false;
  const env={DB:db,OWNER_GITHUB_ID:'237370912',MEMBER_GITHUB_APP_ID:'1',MEMBER_GITHUB_INSTALLATION_ID:'2',MEMBER_GITHUB_APP_KEY:'test'};
  const fetch=async(input,init={})=>{
   const url=new URL(input),method=init.method||'GET';calls.push({path:url.pathname+url.search,method,body:init.body});
   assert.equal(url.origin,'https://api.github.com');
   if(url.pathname==='/user/42')return Response.json({id:options.profileId||42,login:'renamed-member'});
+  if(url.pathname==='/user/43')return Response.json({id:43,login:'reclaimed-name'});
+  if(url.pathname==='/users/renamed-member') {lookupCalls++;return Response.json({id:options.lookupIds?.[Math.min(lookupCalls-1,options.lookupIds.length-1)]||42,login:'renamed-member'});}
+  if(url.pathname==='/users/reclaimed-name')return Response.json({id:43,login:'reclaimed-name'});
+  if(url.pathname==='/repos/samuel-resource-members/international-stem-members/collaborators/reclaimed-name/permission')return wrongDirect?Response.json({permission:'read',role_name:'read',user:{id:43,login:'reclaimed-name'}}):new Response(null,{status:404});
+  if(url.pathname==='/repos/samuel-resource-members/international-stem-members/collaborators/reclaimed-name'&&method==='DELETE'){wrongDirect=false;return new Response(null,{status:204});}
   if(url.pathname==='/repos/samuel-resource-members/international-stem-members/collaborators/renamed-member/permission')return direct||inherited||options.noneResponse?Response.json({permission:direct||inherited?permission:'none',role_name:direct||inherited?permission:'none',user:{id:42,login:'renamed-member'}}):new Response(null,{status:404});
   if(url.pathname==='/repos/samuel-resource-members/international-stem-members/invitations') {
    const page=Number(url.searchParams.get('page')||1);return Response.json(invitations.slice((page-1)*100,page*100));
   }
-  if(url.pathname.startsWith('/repos/samuel-resource-members/international-stem-members/invitations/')&&method==='DELETE') {invitations=invitations.filter(i=>String(i.id)!==url.pathname.split('/').at(-1));return new Response(null,{status:204});}
+  if(url.pathname.startsWith('/repos/samuel-resource-members/international-stem-members/invitations/')&&method==='DELETE') {if(options.invitationDeleteFailure)return new Response(null,{status:503});invitations=invitations.filter(i=>String(i.id)!==url.pathname.split('/').at(-1));return new Response(null,{status:204});}
   if(url.pathname==='/repos/samuel-resource-members/international-stem-members/collaborators/renamed-member') {
    if(method==='DELETE'){if(options.deleteFailure)return Response.json({message:'secret upstream payload'},{status:503});direct=false;return new Response(null,{status:204});}
    if(method==='PUT') {
     assert.deepEqual(JSON.parse(init.body),{permission:'pull'});
     if(putHook)await putHook(db);
+    if(options.wrong204){wrongDirect=true;return new Response(null,{status:204});}
     if(direct){permission='read';return new Response(null,{status:204});}
-    const invitation={id:900,invitee:{id:42,login:'renamed-member'},permissions:'read'};invitations=[...invitations,invitation];return Response.json(invitation,{status:201});
+    const invitation={id:900,invitee:{id:options.wrongInvitation?43:42,login:'renamed-member'},permissions:options.wrongPermission?'write':'read',repository:{full_name:'samuel-resource-members/international-stem-members'}};invitations=[...invitations,invitation];return Response.json(invitation,{status:201});
    }
   }
   throw new Error('Unexpected API call '+method+' '+url.pathname+url.search);
  };
- return {db,env,calls,deps:{fetch,getToken:async()=> 'private-test-token'},get invitations(){return invitations;},get direct(){return direct;}};
+ return {db,env,calls,deps:{fetch,getToken:async()=> 'private-test-token'},get invitations(){return invitations;},get direct(){return direct;},get wrongDirect(){return wrongDirect;}};
 }
 test('owner, administrators, missing users and invalid identities never trigger GitHub access changes',async()=>{
  for(const spec of [{role:'admin'},{githubId:'237370912'},{githubId:'bad'}]) {
@@ -53,7 +59,7 @@ test('active member resolves immutable ID and creates exactly one read-only invi
  const f=fixture();const status=await runRepositorySync(f.env,'member',f.deps);
  assert.equal(status.state,'invited');assert.equal(status.githubLogin,'renamed-member');assert.equal(status.invitationUrl,'https://github.com/samuel-resource-members/international-stem-members/invitations');
  await runRepositorySync(f.env,'member',f.deps);assert.equal(f.calls.filter(x=>x.method==='PUT').length,1);
- assert.ok(f.calls.every(x=>x.path.startsWith('/user/42')||x.path.startsWith('/repos/samuel-resource-members/international-stem-members/')));
+ assert.ok(f.calls.every(x=>x.path.startsWith('/user/42')||x.path.startsWith('/users/renamed-member')||x.path.startsWith('/repos/samuel-resource-members/international-stem-members/')));
 });
 test('mismatched resolved GitHub ID persists a retry without inviting',async()=>{
  const f=fixture({profileId:43});const result=await runRepositorySync(f.env,'member',f.deps);assert.equal(result.state,'retry');assert.equal(result.lastError,'identity_mismatch');assert.equal(f.calls.filter(x=>x.method==='PUT').length,0);
@@ -90,4 +96,22 @@ test('scheduled retries pick due members and periodically audit accepted access'
 });
 test('portal helper retains durable pending state when internal service is unavailable',async()=>{
  const f=fixture();await repositorySyncStatement(f.db,'member').run();const result=await syncRepositoryAccess({...f.env,REPOSITORY_ACCESS:{fetch:async()=>{throw new Error('unavailable');}}},'member');assert.equal(result.state,'pending');
+});
+test('a renamed or reclaimed login fails the final identity check before invitation PUT',async()=>{
+ const f=fixture({lookupIds:[43]});const result=await runRepositorySync(f.env,'member',f.deps);assert.equal(result.state,'retry');assert.equal(result.lastError,'identity_mismatch');assert.equal(f.calls.filter(x=>x.method==='PUT').length,0);
+});
+test('a 201 invitation response with the wrong immutable recipient or elevated permission is cancelled',async()=>{
+ for(const options of [{wrongInvitation:true},{wrongPermission:true}]) {
+  const f=fixture(options);const result=await runRepositorySync(f.env,'member',f.deps);assert.equal(result.state,'retry');assert.equal(f.invitations.length,0);assert.ok(f.calls.some(x=>x.method==='DELETE'&&x.path.endsWith('/invitations/900')));
+ }
+});
+test('failed cancellation keeps a durable cleanup receipt and the next retry removes the wrong invitation first',async()=>{
+ const options={wrongInvitation:true,invitationDeleteFailure:true},f=fixture(options);await runRepositorySync(f.env,'member',f.deps);assert.equal(f.invitations.length,1);assert.equal(f.db.sqlite.prepare('SELECT cleanup_invitation_id FROM repository_access').get().cleanup_invitation_id,900);
+ options.invitationDeleteFailure=false;options.wrongInvitation=false;const before=f.calls.length;await runRepositorySync(f.env,'member',f.deps);const later=f.calls.slice(before);assert.ok(later.findIndex(x=>x.method==='DELETE')<later.findIndex(x=>x.method==='PUT'));assert.equal(f.invitations.some(i=>i.invitee.id===43),false);
+});
+test('a reclaimed account receiving a 204 grant is resolved by ID and its direct access is removed',async()=>{
+ const f=fixture({lookupIds:[42,43],wrong204:true});const result=await runRepositorySync(f.env,'member',f.deps);assert.equal(result.state,'retry');assert.equal(f.wrongDirect,false);assert.ok(f.calls.some(x=>x.path==='/user/43'));assert.ok(f.calls.some(x=>x.method==='DELETE'&&x.path.endsWith('/collaborators/reclaimed-name')));
+});
+test('scheduled recovery creates jobs for memberships missing a queue row',async()=>{
+ const f=fixture();assert.equal(f.db.sqlite.prepare('SELECT count(*) n FROM repository_access').get().n,0);await retryRepositoryAccess(f.env,f.deps);assert.equal((await repositoryStatus(f.db,'member')).state,'invited');
 });

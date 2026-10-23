@@ -10,7 +10,10 @@ CREATE TABLE repository_access (
  attempts INTEGER NOT NULL DEFAULT 0,
  version INTEGER NOT NULL DEFAULT 1,
  lease_id TEXT,
- lease_until INTEGER NOT NULL DEFAULT 0
+ lease_until INTEGER NOT NULL DEFAULT 0,
+ cleanup_invitation_id INTEGER,
+ cleanup_github_id TEXT,
+ cleanup_login TEXT
 );
 CREATE INDEX repository_access_due ON repository_access(next_attempt_at,lease_until);
 INSERT INTO repository_access(user_id,github_id,updated_at)
