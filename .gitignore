@@ -2,3 +2,9 @@
 .tmp/
 __pycache__/
 /index.html
+portal/node_modules/
+portal/dist/
+portal/.wrangler/
+portal/.dev.vars
+portal/.tmp/
+portal/worker-configuration.d.ts

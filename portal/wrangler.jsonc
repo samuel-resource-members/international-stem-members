@@ -1,0 +1,15 @@
+{
+  "name": "stem-member-library",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-23",
+  "compatibility_flags": ["nodejs_compat"],
+  "account_id": "359403db49a40a0ae05a8f752d57579b",
+  "workers_dev": true,
+  "preview_urls": false,
+  "vars": {"APP_URL": "https://stem-member-library.xpartara.workers.dev"},
+  "assets": {"directory": "dist", "binding": "ASSETS", "run_worker_first": true},
+  "d1_databases": [{"binding": "DB", "database_name": "stem-member-portal", "database_id": "f15c5b77-b3cf-4c14-9f72-0aab38e04af5", "migrations_dir": "migrations"}],
+  "r2_buckets": [{"binding": "SUBMISSIONS", "bucket_name": "stem-member-submissions"}],
+  "services": [{"binding":"RESOURCES","service":"stem-member-resource-reader"}],
+  "observability": {"enabled": true, "traces": {"enabled": true}}
+}
