@@ -25,8 +25,11 @@ async function membership(env:AccessEnv,userId:string) {
 function controlledFetch(fetcher:typeof fetch,deadline:number):typeof fetch {
  return async(input,init={})=>{
   const time=Math.min(8000,deadline-Date.now());if(time<=0)throw new AccessError('github_timeout');
-  try{return await fetcher(input,{...init,redirect:'error',signal:AbortSignal.timeout(time)});}
-  catch{throw new AccessError('github_unavailable');}
+  try {
+   const response=await fetcher(input,{...init,redirect:'manual',signal:AbortSignal.timeout(time)});
+   if(response.status>=300&&response.status<400)throw new AccessError('github_redirect');
+   return response;
+  }catch(error){if(error instanceof AccessError)throw error;throw new AccessError('github_unavailable');}
  };
 }
 async function installationToken(env:AccessEnv,deadline:number) {
@@ -37,7 +40,14 @@ async function installationToken(env:AccessEnv,deadline:number) {
   const token=await auth({type:'installation',repositoryNames:['international-stem-members'],permissions:{administration:'write',metadata:'read'}});
   if(token.repositoryNames?.length!==1||token.repositoryNames[0]!=='international-stem-members'||token.permissions.administration!=='write'||Object.entries(token.permissions).some(([name,permission])=>name!=='administration'&&(name!=='metadata'||permission!=='read')))throw new AccessError('installation_scope');
   return token.token;
- } catch(e){if(e instanceof AccessError)throw e;throw new AccessError('github_authentication');}
+ } catch(e){
+  if(e instanceof AccessError)throw e;
+  const diagnostic=e as {name?:string;status?:number;cause?:Error};
+  if(diagnostic?.cause instanceof AccessError)throw diagnostic.cause;
+  const errorName=(value:string|undefined)=>['Error','TypeError','HttpError','RequestError','DOMException','DataError','OperationError'].includes(value||'')?value:'unknown';
+  console.warn(JSON.stringify({event:'repository_authentication_failure',name:errorName(diagnostic?.name),status:Number.isInteger(diagnostic?.status)?diagnostic.status:undefined,causeName:errorName(diagnostic?.cause?.name)}));
+  throw new AccessError('github_authentication');
+ }
 }
 function github(token:string,fetcher:typeof fetch,deadline:number) {
  const controlled=controlledFetch(fetcher,deadline);

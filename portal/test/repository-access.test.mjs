@@ -20,6 +20,8 @@ function fixture(options={}) {
  const fetch=async(input,init={})=>{
   const url=new URL(input),method=init.method||'GET';calls.push({path:url.pathname+url.search,method,body:init.body});
   assert.equal(url.origin,'https://api.github.com');
+  assert.equal(init.redirect,'manual');
+  if(options.redirectResponse)return new Response(null,{status:302,headers:{Location:'https://untrusted.example.test/token'}});
   if(url.pathname==='/user/42')return Response.json({id:options.profileId||42,login:'renamed-member'});
   if(url.pathname==='/user/43')return Response.json({id:43,login:'reclaimed-name'});
   if(url.pathname==='/users/renamed-member') {lookupCalls++;return Response.json({id:options.lookupIds?.[Math.min(lookupCalls-1,options.lookupIds.length-1)]||42,login:'renamed-member'});}
@@ -139,4 +141,7 @@ test('an unconfirmed wrong-recipient invitation cancellation keeps the receipt a
  const options={lookupIds:[42,43],wrongInvitation:true,lostPutResponse:true},f=fixture(options);await runRepositorySync(f.env,'member',f.deps);
  f.db.sqlite.prepare("UPDATE memberships SET status='suspended' WHERE user_id='member'").run();await repositorySyncStatement(f.db,'member').run();options.invitationDeleteFailure=true;
  const result=await runRepositorySync(f.env,'member',f.deps);assert.equal(result.state,'retry');assert.equal(f.invitations.length,1);assert.equal(f.db.sqlite.prepare('SELECT cleanup_github_id FROM repository_access').get().cleanup_github_id,'43');
+});
+test('GitHub redirects are rejected explicitly with the Workers-supported manual mode',async()=>{
+ const f=fixture({redirectResponse:true});const result=await runRepositorySync(f.env,'member',f.deps);assert.equal(result.state,'retry');assert.equal(result.lastError,'github_redirect');assert.equal(f.calls.length,1);assert.equal(f.calls.filter(x=>x.method==='PUT').length,0);
 });
