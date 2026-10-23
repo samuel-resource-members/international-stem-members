@@ -94,6 +94,18 @@ test('concurrent syncs serialize external writes with a lease',async()=>{
 test('scheduled retries pick due members and periodically audit accepted access',async()=>{
  const f=fixture({direct:true});await runRepositorySync(f.env,'member',f.deps);f.db.sqlite.prepare('UPDATE repository_access SET next_attempt_at=0').run();const before=f.calls.length;await retryRepositoryAccess(f.env,f.deps);assert.ok(f.calls.length>before);assert.equal((await repositoryStatus(f.db,'member')).state,'ready');
 });
+test('pending activation is not starved by completed suspension audits',async()=>{
+ const f=fixture();await repositorySyncStatement(f.db,'member').run();
+ f.db.sqlite.prepare('UPDATE repository_access SET next_attempt_at=1 WHERE user_id=?').run('member');
+ for(let i=0;i<104;i++){
+  const id='suspended-'+i,githubId=String(10000+i);
+  f.db.sqlite.prepare("INSERT INTO memberships VALUES(?,?,'member','suspended')").run(id,githubId);
+  f.db.sqlite.prepare("INSERT INTO repository_access(user_id,github_id,state,updated_at,next_attempt_at) VALUES(?,?,'revoked',0,0)").run(id,githubId);
+ }
+ await retryRepositoryAccess(f.env,f.deps);
+ assert.equal((await repositoryStatus(f.db,'member')).state,'invited');
+ assert.equal(f.calls.filter(x=>x.method==='PUT').length,1);
+});
 test('portal helper retains durable pending state when internal service is unavailable',async()=>{
  const f=fixture();await repositorySyncStatement(f.db,'member').run();const result=await syncRepositoryAccess({...f.env,REPOSITORY_ACCESS:{fetch:async()=>{throw new Error('unavailable');}}},'member');assert.equal(result.state,'pending');
 });

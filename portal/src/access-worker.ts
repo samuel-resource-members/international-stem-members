@@ -190,7 +190,8 @@ export async function retryRepositoryAccess(env:AccessEnv,deps:Dependencies={}) 
  SELECT user_id,github_id,'pending',? FROM memberships WHERE role='member' AND github_id IS NOT NULL AND github_id<>? AND github_id<>?
  ON CONFLICT(user_id) DO NOTHING`).bind(now,OWNER,env.OWNER_GITHUB_ID).run();
  const due=await env.DB.prepare(`SELECT a.user_id FROM repository_access a JOIN memberships m ON m.user_id=a.user_id AND m.github_id=a.github_id
- WHERE m.role='member' AND m.github_id<>? AND m.github_id<>? AND a.next_attempt_at<=? AND a.lease_until<? ORDER BY CASE WHEN m.status='active' THEN 1 ELSE 0 END,a.next_attempt_at LIMIT 8`).bind(OWNER,env.OWNER_GITHUB_ID,now,now).all<{user_id:string}>();
+ WHERE m.role='member' AND m.github_id<>? AND m.github_id<>? AND a.next_attempt_at<=? AND a.lease_until<?
+ ORDER BY CASE WHEN m.status<>'active' AND a.state<>'revoked' THEN 0 WHEN a.state IN ('pending','retry') THEN 1 WHEN a.state IN ('invited','blocked') THEN 2 ELSE 3 END,a.next_attempt_at LIMIT 8`).bind(OWNER,env.OWNER_GITHUB_ID,now,now).all<{user_id:string}>();
  for(const member of due.results)try{await runRepositorySync(env,member.user_id,deps);}catch{console.warn(JSON.stringify({event:'repository_sync_rejected'}));}
 }
 async function health(env:AccessEnv) {
