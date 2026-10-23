@@ -23,10 +23,11 @@ async function authPage(){
  if(!options.github){card.append(notice('会员登录暂不可用，请稍后再试。'));return;}
  button.disabled=false;button.addEventListener('click',async()=>{button.disabled=true;try{const result=await api('/api/auth/sign-in/social',{provider:'github'});location.assign(result.url);}catch(error){card.append(notice(error.message,true));button.disabled=false;}});
 }
-function activationPage(){const body=page('激活会员','输入为当前 GitHub 账号开通的专属激活码。'),form=h('form',{class:'panel narrow'},h('p',{},'GitHub · @'+me.github.login),field('专属激活码','code','text',{autocomplete:'off',autocapitalize:'characters',maxlength:128}),h('button',{type:'submit',class:'full'},'激活会员'));controlled(form,async values=>{await api('/api/activate',{code:values.get('code')});location.replace('/library');});body.append(form);}
+function activationPage(){const body=page('激活会员','输入为当前 GitHub 账号开通的专属激活码。'),form=h('form',{class:'panel narrow'},h('p',{},'GitHub · @'+me.github.login),field('专属激活码','code','text',{autocomplete:'off',autocapitalize:'characters',maxlength:128}),h('button',{type:'submit',class:'full'},'激活会员'));controlled(form,async values=>{await api('/api/activate',{code:values.get('code')});location.replace('/account?activated=1');});body.append(form);}
 function friendlyResource(row){let m=row.name.match(/question-bank-(math|physics|chemistry|biology)-part-(\d+)/);if(m)return({math:'数学',physics:'物理',chemistry:'化学',biology:'生物'}[m[1]])+'题目包 · '+Number(m[2]);m=row.name.match(/^(AMC\d+)_/);if(m)return m[1]+' 题库';return row.group;}
 async function resourcePage(){
  const body=page('资源库','按课程查阅题目与评分资料。'),{resources}=await api('/api/resources');
+ body.append(h('p',{},h('a',{href:'/account#github-access'},'通过 GitHub 批量获取资料')));
  const order=['学科题目包','AMC','IGCSE Physics 0625','IGCSE Co-ordinated Sciences 0654','题目与评分资料'];resources.sort((a,b)=>order.indexOf(a.group)-order.indexOf(b.group)||a.name.localeCompare(b.name));
  const search=h('input',{type:'search',placeholder:'搜索课程或文件名','aria-label':'搜索资源'}),select=h('select',{'aria-label':'资料分类'},h('option',{value:''},'全部资料'),order.map(x=>h('option',{value:x},x))),grid=h('div',{class:'resource-grid'}),pager=h('div',{class:'pager'});let current=0;
  function render(){const rows=resources.filter(x=>(!select.value||x.group===select.value)&&(!search.value||[x.name,x.group,friendlyResource(x)].join(' ').toLowerCase().includes(search.value.toLowerCase())));const count=Math.max(1,Math.ceil(rows.length/18));current=Math.min(current,count-1);grid.replaceChildren(...rows.slice(current*18,(current+1)*18).map(row=>h('article',{class:'panel resource-card'},h('span',{class:'badge'},row.group),h('h3',{},friendlyResource(row)),h('p',{class:'filename'},row.name.replace('_reusable_handoff','').replace('_20261013','')),h('footer',{},h('span',{class:'muted'},formatSize(row.size)),h('a',{href:'/download/'+row.id},'下载资料')))));if(!rows.length)grid.append(notice('没有符合条件的资料。'));pager.replaceChildren(h('button',{class:'secondary compact',disabled:current===0,onclick:()=>{current--;render();}},'上一页'),h('span',{class:'muted'},`${current+1} / ${count} · ${rows.length} 份资料`),h('button',{class:'secondary compact',disabled:current>=count-1,onclick:()=>{current++;render();}},'下一页'));}
@@ -39,11 +40,36 @@ async function submissionPage(){const body=page('提交资料','分享试卷、�
  controlled(form,async values=>{const file=values.get('file'),url=values.get('url').trim();if(!url&&!file?.size)throw new Error('请提供资料链接或上传文件。');if(file?.size>20*1024*1024)throw new Error('文件不能超过 20 MB。');const created=await api('/api/submissions',{title:values.get('title'),course:values.get('course'),details:values.get('details'),...(url?{url}:{}),...(file?.size?{fileName:file.name,fileSize:file.size}:{})});if(created.uploadRequired){const response=await fetch('/api/submissions/'+created.id+'/file',{method:'PUT',headers:{'Content-Type':'application/octet-stream'},body:file});if(!response.ok)throw new Error('文件上传未完成，请重新提交。');}form.reset();form.append(notice('资料已提交，等待审核。'));await load();});
  async function load(){const rows=await api('/api/submissions');history.replaceChildren(h('h2',{},'我的提交'),...rows.submissions.map(x=>submissionCard(x)));if(!rows.submissions.length)history.append(h('p',{class:'muted'},'你还没有提交资料。'));}await load();
 }
-function accountPage(){const body=page('账户','查看你的会员账户。');body.append(h('section',{class:'panel narrow'},h('h2',{},'GitHub · @'+me.github.login),h('p',{},'会员状态：使用中'),h('a',{href:'https://github.com/settings/security',target:'_blank',rel:'noopener noreferrer'},'管理 GitHub 登录安全')));}
+const repositoryLabels={pending:'等待开通',invited:'等待接受邀请',ready:'已开通',revoked:'已撤销',blocked:'需要管理员处理',retry:'等待重新同步'};
+async function accountPage(){
+ const body=page('账户','查看你的会员账户与 GitHub 访问。');
+ if(new URLSearchParams(location.search).has('activated'))body.append(notice('会员已激活，可以开始使用题库。接受下方邀请后，还可通过 GitHub 获取资料。'));
+ body.append(h('section',{class:'panel narrow'},h('h2',{},'GitHub · @'+me.github.login),h('p',{},'会员状态：使用中'),h('a',{href:'https://github.com/settings/security',target:'_blank',rel:'noopener noreferrer'},'管理 GitHub 登录安全')));
+ const section=h('section',{id:'github-access',class:'panel narrow',style:'margin-top:1.5rem'});body.append(section);
+ async function render(){
+  const {repository}=await api('/api/repository'),state=repository?.state||'pending';
+  section.replaceChildren(h('h2',{},'GitHub 访问'),h('p',{},'仓库访问：'+repositoryLabels[state]));
+  if(state==='invited')section.append(h('p',{},'请使用 @'+me.github.login+' 接受一次只读邀请。'),h('a',{href:repository.invitationUrl,target:'_blank',rel:'noopener noreferrer',role:'button'},'接受只读邀请'));
+  if(['pending','retry'].includes(state))section.append(notice('GitHub 访问正在开通，稍后会自动重试。网页题库可以正常使用。'));
+  if(state==='blocked')section.append(notice('请联系管理员检查仓库访问权限。',true));
+  const actions=h('div',{class:'actions',style:'margin-top:1rem'});
+  if(me.role==='member'){
+   const refresh=h('button',{type:'button',class:'secondary compact',onclick:async()=>{refresh.disabled=true;try{await api('/api/repository/sync',{});await render();}catch(error){section.append(notice(error.message,true));refresh.disabled=false;}}},'检查访问状态');actions.append(refresh);
+  }
+  if(state==='ready')actions.append(h('a',{href:repository.repositoryUrl,target:'_blank',rel:'noopener noreferrer',role:'button',class:'secondary compact'},'打开会员仓库'));
+  section.append(actions);
+  if(!['ready','invited'].includes(state))return;
+  const instructions='打开这个私有仓库，按照 README 获取我指定的课程或题目：\n'+repository.repositoryUrl;
+  const copy=h('button',{type:'button',class:'secondary compact',onclick:async()=>{try{await navigator.clipboard.writeText(instructions);copy.textContent='已复制';}catch{section.append(notice('请直接复制下方仓库地址。'));}}},'复制获取说明');
+  section.append(h('h3',{style:'margin-top:2rem'},'批量获取资料'),h('p',{},'接受邀请后，使用自己的 GitHub 登录即可按课程或题号获取资料。'),h('p',{},h('a',{href:repository.repositoryUrl+'/blob/main/README.md',target:'_blank',rel:'noopener noreferrer'},'查看获取方法')),copy,h('pre',{class:'code-box'},repository.repositoryUrl));
+ }
+ await render();
+}
 function downloadCodes(rows){const csv='\ufeffGitHub账号,专属激活码\r\n'+rows.map(x=>x.githubLogin+','+x.code).join('\r\n')+'\r\n',url=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'})),a=h('a',{href:url,download:'会员激活码.csv'});a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
 function table(headings,rows){return h('div',{class:'table-wrap'},h('table',{},h('thead',{},h('tr',{},headings.map(x=>h('th',{},x)))),h('tbody',{},rows)));}
-async function adminPage(tab='codes'){
+async function adminPage(tab='codes',flash=''){
  const body=page('会员管理','开通会员、管理访问权限与审核共享资料。');
+ if(flash)body.append(notice(flash));
  body.append(h('div',{class:'tabs',role:'tablist'},[['codes','激活码'],['members','会员'],['review','资料审核']].map(([value,label])=>h('button',{type:'button',role:'tab','aria-selected':value===tab,onclick:()=>adminPage(value).catch(e=>body.append(notice(e.message,true)))},label))));
  if(tab==='codes'){
   const form=h('form',{class:'code-form'},field('会员 GitHub 用户名','githubUsername','text',{autocomplete:'off',maxlength:39,placeholder:'例如 octocat'}),field('备注（可选）','label','text',{required:false,maxlength:100}),field('激活期限（可选）','expiresAt','datetime-local',{required:false}),h('button',{type:'submit'},'生成专属激活码')),issued=h('div');body.append(form,issued);
@@ -51,7 +77,18 @@ async function adminPage(tab='codes'){
   const listing=h('div',{style:'margin-top:2rem'});body.append(listing);
   async function list(){const {codes}=await api('/api/admin/codes');listing.replaceChildren(table(['激活码','备注','GitHub 账号','状态','激活期限','操作'],codes.map(row=>h('tr',{},h('td',{},'•••• '+row.suffix),h('td',{},row.label||'—'),h('td',{},row.bound_github_login?'@'+row.bound_github_login:'已停用'),h('td',{},row.used_by?'已使用':row.revoked?'已停用':row.expires_at&&row.expires_at<Date.now()?'已过期':'待使用'),h('td',{},formatDate(row.expires_at)),h('td',{},!row.used_by&&!row.revoked?h('button',{class:'secondary compact',onclick:async()=>{try{await api('/api/admin/codes/'+row.id+'/revoke',{});await list();}catch(e){issued.replaceChildren(notice(e.message,true));}}},'停用'):'—')))));}await list();
  }else if(tab==='members'){
-  const {members}=await api('/api/admin/members'),message=h('div');body.append(message,table(['GitHub 账号','权限','状态','开通时间','操作'],members.map(row=>h('tr',{},h('td',{},'@'+row.github_login),h('td',{},row.role==='admin'?'管理员':'会员'),h('td',{},statusLabels[row.status]),h('td',{},formatDate(row.activated_at)),h('td',{},row.role!=='admin'?h('button',{class:'secondary compact',onclick:async()=>{try{await api('/api/admin/members/'+row.id+'/status',{status:row.status==='active'?'suspended':'active'});await adminPage('members');}catch(e){message.replaceChildren(notice(e.message,true));}}},row.status==='active'?'停用访问':'恢复访问'):'—')))));
+  const {members}=await api('/api/admin/members'),message=h('div');
+  const rows=members.map(row=>{
+   const actions=h('div',{class:'actions'});
+   if(row.role!=='admin'){
+    const change=h('button',{class:'secondary compact',onclick:async()=>{change.disabled=true;try{const suspended=row.status==='active',result=await api('/api/admin/members/'+row.id+'/status',{status:suspended?'suspended':'active'});await adminPage('members',suspended&&result.repository?.state!=='revoked'?'网站访问已停用；GitHub 撤权尚未完成，将自动重试。':suspended?'网站与 GitHub 访问均已停用。':'会员访问已恢复。');}catch(e){message.replaceChildren(notice(e.message,true));change.disabled=false;}}},row.status==='active'?'停用访问':'恢复访问');actions.append(change);
+    if(row.repository_state!==(row.status==='active'?'ready':'revoked')){
+     const sync=h('button',{class:'secondary compact',onclick:async()=>{sync.disabled=true;try{await api('/api/admin/members/'+row.id+'/repository/sync',{});await adminPage('members');}catch(e){message.replaceChildren(notice(e.message,true));sync.disabled=false;}}},'同步 GitHub');actions.append(sync);
+    }
+   }
+   return h('tr',{},h('td',{},'@'+row.github_login),h('td',{},row.role==='admin'?'管理员':'会员'),h('td',{},statusLabels[row.status]),h('td',{title:row.repository_error==='inherited_access'?'仍有组织或团队权限，请检查仓库授权。':null},row.role==='admin'?'所有者':repositoryLabels[row.repository_state||'pending']),h('td',{},formatDate(row.activated_at)),h('td',{},row.role==='admin'?'—':actions));
+  });
+  body.append(message,table(['GitHub 账号','权限','会员状态','仓库访问','开通时间','操作'],rows));
 
  }else{
   let current=1;const status=h('select',{'aria-label':'审核状态'},[['pending','待审核'],['approved','已收入题库'],['rejected','未通过']].map(([value,label])=>h('option',{value},label))),listing=h('div',{class:'stack'}),pager=h('div',{class:'pager'});body.append(status,listing,pager);
@@ -59,5 +96,5 @@ async function adminPage(tab='codes'){
   status.addEventListener('change',()=>{current=1;load();});await load();
  }
 }
-async function start(){if(location.pathname==='/reset-password'){location.replace('/');return;}try{me=await api('/api/me');}catch{me=null;}configureNavigation();if(!me){await authPage();return;}if(me.status==='suspended'){page('访问已停用','请联系管理员了解会员状态。');return;}if(me.status!=='active'){activationPage();return;}if(location.pathname==='/'||location.pathname==='/activate'){enter();return;}if(location.pathname==='/admin'){if(me.role!=='admin'){page('无权访问','请从题目检索开始使用会员题库。');return;}await adminPage();}else if(location.pathname==='/resources')await resourcePage();else if(location.pathname==='/submit')await submissionPage();else if(location.pathname==='/account')accountPage();else location.replace('/library');}
+async function start(){if(location.pathname==='/reset-password'){location.replace('/');return;}try{me=await api('/api/me');}catch{me=null;}configureNavigation();if(!me){await authPage();return;}if(me.status==='suspended'){page('访问已停用','请联系管理员了解会员状态。');return;}if(me.status!=='active'){activationPage();return;}if(location.pathname==='/'||location.pathname==='/activate'){enter();return;}if(location.pathname==='/admin'){if(me.role!=='admin'){page('无权访问','请从题目检索开始使用会员题库。');return;}await adminPage();}else if(location.pathname==='/resources')await resourcePage();else if(location.pathname==='/submit')await submissionPage();else if(location.pathname==='/account')await accountPage();else location.replace('/library');}
 start().catch(error=>{app.replaceChildren(notice(error.message,true));});

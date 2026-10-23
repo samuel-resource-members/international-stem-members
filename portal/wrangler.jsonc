@@ -10,6 +10,6 @@
   "assets": {"directory": "dist", "binding": "ASSETS", "run_worker_first": true},
   "d1_databases": [{"binding": "DB", "database_name": "stem-member-portal", "database_id": "f15c5b77-b3cf-4c14-9f72-0aab38e04af5", "migrations_dir": "migrations"}],
   "r2_buckets": [{"binding": "SUBMISSIONS", "bucket_name": "stem-member-submissions"}],
-  "services": [{"binding":"RESOURCES","service":"stem-member-resource-reader"}],
+  "services": [{"binding":"RESOURCES","service":"stem-member-resource-reader"},{"binding":"REPOSITORY_ACCESS","service":"stem-member-repository-access"}],
   "observability": {"enabled": true, "traces": {"enabled": true}}
 }

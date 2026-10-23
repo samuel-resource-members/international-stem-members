@@ -9,6 +9,7 @@ import { resources, downloadResource } from './resources';
 import { resolveGitHubUser } from './github';
 import { submissionRoutes } from './submissions';
 import { readJson as json } from './http';
+import { MEMBER_REPOSITORY, repositorySyncStatement, repositoryStatus, syncRepositoryAccess } from './github-access';
 
 export type Identity = NonNullable<Awaited<ReturnType<typeof identity>>>;
 export type Bindings = {Bindings:AppEnv;Variables:{identity:Identity}};
@@ -57,7 +58,7 @@ app.post('/api/activate',async c=>{
   if(who.membership)return c.json({error:who.membership.status==='active'?'ALREADY_ACTIVE':'ACCOUNT_SUSPENDED'},403);
   const input=await json(c.req.raw,z.object({code:z.string().min(8).max(128)}).strict());
   if(!await redeemCode(c.env,input.code,who.user.id,who.github.id))return c.json({error:'CODE_UNAVAILABLE'},409);
-  return c.json({ok:true});
+  return c.json({ok:true,repository:await syncRepositoryAccess(c.env,who.user.id)});
 });
 app.use('*',async(c,next)=>{
   const who=await identity(c.req.raw,c.env);
@@ -66,8 +67,24 @@ app.use('*',async(c,next)=>{
   c.set('identity',who);await next();
 });
 app.get('/api/resources',c=>c.json({resources}));
+app.get('/api/repository',async c=>{
+  const who=c.get('identity');
+  return c.json({repository:who.membership?.role==='admin'?{state:'ready',githubLogin:who.github.login,invitationUrl:null,repositoryUrl:MEMBER_REPOSITORY,updatedAt:null,retryAt:null,lastError:null}:await repositoryStatus(c.env.DB,who.user.id)});
+});
+app.post('/api/repository/sync',async c=>{
+  const who=c.get('identity');
+  if(who.membership?.role!=='member')return c.json({error:'OWNER_ALREADY_ENABLED'},403);
+  if(!await rateLimit(c.env,c.req.raw))return c.json({error:'TOO_MANY_ATTEMPTS'},429);
+  await json(c.req.raw,z.object({}).strict());
+  await repositorySyncStatement(c.env.DB,who.user.id).run();
+  return c.json({repository:await syncRepositoryAccess(c.env,who.user.id)});
+});
 app.on(['GET','HEAD'],'/download/:id',c=>downloadResource(c.req.raw,c.req.param('id'),c.env));
 app.use('/api/admin/*',async(c,next)=>{if(c.get('identity').membership?.role!=='admin')return c.json({error:'OWNER_ONLY'},403);await next();});
+app.get('/api/admin/repository-health',async c=>{
+  const response=await c.env.REPOSITORY_ACCESS.fetch('https://access.internal/health');
+  return c.json(await response.json(),response.ok?200:503);
+});
 app.get('/api/admin/codes',async c=>{
   const result=await c.env.DB.prepare('SELECT id,suffix,label,bound_github_id,bound_github_login,expires_at,revoked,used_by,redeemed_at,created_at FROM activation_codes WHERE role=\'member\' ORDER BY created_at DESC LIMIT 1000').all();
   return c.json({codes:result.results});
@@ -88,15 +105,24 @@ app.post('/api/admin/codes/:id/revoke',async c=>{
   return result.meta.changes?c.json({ok:true}):c.json({error:'CODE_UNAVAILABLE'},409);
 });
 app.get('/api/admin/members',async c=>{
-  const result=await c.env.DB.prepare('SELECT u.id,u.github_login,m.github_id,m.role,m.status,m.activated_at FROM memberships m JOIN user u ON u.id=m.user_id ORDER BY activated_at DESC LIMIT 1000').all();
+  const result=await c.env.DB.prepare('SELECT u.id,u.github_login,m.github_id,m.role,m.status,m.activated_at,r.state AS repository_state,r.last_error AS repository_error FROM memberships m JOIN user u ON u.id=m.user_id LEFT JOIN repository_access r ON r.user_id=m.user_id AND r.github_id=m.github_id ORDER BY activated_at DESC LIMIT 1000').all();
   return c.json({members:result.results});
 });
 app.post('/api/admin/members/:id/status',async c=>{
   const input=await json(c.req.raw,z.object({status:z.enum(['active','suspended'])}).strict());
-  const result=await c.env.DB.prepare("UPDATE memberships SET status=? WHERE user_id=? AND role='member'").bind(input.status,c.req.param('id')).run();
-  if(!result.meta.changes)return c.json({error:'MEMBER_UNAVAILABLE'},404);
+  const target=c.req.param('id');
+  const result=await c.env.DB.batch([c.env.DB.prepare("UPDATE memberships SET status=? WHERE user_id=? AND role='member'").bind(input.status,target),repositorySyncStatement(c.env.DB,target)]);
+  if(!result[0].meta.changes)return c.json({error:'MEMBER_UNAVAILABLE'},404);
   if(input.status==='suspended')await c.env.DB.prepare('DELETE FROM session WHERE userId=?').bind(c.req.param('id')).run();
-  return c.json({ok:true});
+  const repository=await syncRepositoryAccess(c.env,target);
+  return c.json({ok:true,repository},input.status==='suspended'&&repository?.state!=='revoked'?202:200);
+});
+app.post('/api/admin/members/:id/repository/sync',async c=>{
+  await json(c.req.raw,z.object({}).strict());
+  const target=c.req.param('id');
+  const result=await repositorySyncStatement(c.env.DB,target).run();
+  if(!result.meta.changes)return c.json({error:'MEMBER_UNAVAILABLE'},404);
+  return c.json({repository:await syncRepositoryAccess(c.env,target)});
 });
 app.route('/',submissionRoutes);
 app.get('*',async c=>{

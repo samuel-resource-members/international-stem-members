@@ -25,7 +25,7 @@ sql.push(`INSERT INTO submissions(id,user_id,title,course,details,status,created
 for(let i=0;i<201;i++)sql.push(`INSERT INTO submissions(id,user_id,title,course,details,status,created_at) VALUES('history-${i}','history-fixture','Earlier shared paper','Physics','','approved',${now-86400000+i});`);
 writeFileSync('.tmp/fixtures.sql',sql.join('\n'));writeFileSync('.tmp/identities.json',JSON.stringify(fixtures));
 cli(['d1','execute','DB','--local','--persist-to','.tmp/test-runtime','--file','.tmp/fixtures.sql']);
-const server=spawn(process.execPath,[wrangler,'dev','--port','8798','--ip','127.0.0.1','--persist-to','.tmp/test-runtime','--var','APP_URL:http://127.0.0.1:8798','--var','OWNER_GITHUB_ID:1000','--var','BETTER_AUTH_SECRET:'+secret,'--var','GITHUB_CLIENT_ID:local-test-client','--var','GITHUB_CLIENT_SECRET:local-test-client-secret','--log-level','error'],{stdio:['ignore','pipe','pipe']});
+const server=spawn(process.execPath,[wrangler,'dev','--config','wrangler.jsonc','--config','wrangler.access.jsonc','--port','8798','--ip','127.0.0.1','--persist-to','.tmp/test-runtime','--var','APP_URL:http://127.0.0.1:8798','--var','OWNER_GITHUB_ID:1000','--var','BETTER_AUTH_SECRET:'+secret,'--var','GITHUB_CLIENT_ID:local-test-client','--var','GITHUB_CLIENT_SECRET:local-test-client-secret','--log-level','error'],{stdio:['ignore','pipe','pipe']});
 let log='';server.stdout.on('data',x=>log+=x);server.stderr.on('data',x=>log+=x);
 try{
  let ready=false;

@@ -1,4 +1,5 @@
 import type { AppEnv } from './auth';
+import { repositorySyncStatement } from './github-access';
 
 export const normalizeCode = (value: string) => value.replace(/[\s-]/g,'').toUpperCase();
 export async function codeHash(value: string) {
@@ -10,6 +11,7 @@ export async function redeemCode(env: AppEnv, value: string, userId: string, git
   const result=await env.DB.batch([
     env.DB.prepare('UPDATE activation_codes SET used_by=?,redeemed_at=? WHERE code_hash=? AND used_by IS NULL AND revoked=0 AND (expires_at IS NULL OR expires_at>?) AND bound_github_id=? AND NOT EXISTS (SELECT 1 FROM memberships WHERE user_id=? OR github_id=?)').bind(userId,now,hash,now,githubId,userId,githubId),
     env.DB.prepare("INSERT INTO memberships(user_id,github_id,role,status,code_id,activated_at) SELECT ?,bound_github_id,role,'active',id,? FROM activation_codes WHERE code_hash=? AND used_by=? AND redeemed_at=? AND bound_github_id=? ON CONFLICT(user_id) DO NOTHING").bind(userId,now,hash,userId,now,githubId),
+    repositorySyncStatement(env.DB,userId),
   ]);
   return result[1].meta.changes===1;
 }

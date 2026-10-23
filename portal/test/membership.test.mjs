@@ -15,6 +15,8 @@ test('GitHub-bound membership and reviewed contributions',{timeout:90000},async 
  await t.test('only the verified owner GitHub ID receives administrator access',async()=>{
   const me=await(await get('/api/me',owner)).json();assert.equal(me.role,'admin');assert.equal(me.github.id,'1000');assert.ok(!('email' in me));
   assert.equal((await get('/api/admin/codes',owner)).status,200);
+  const access=await(await get('/api/repository',owner)).json();assert.equal(access.repository.state,'ready');
+  assert.equal((await post('/api/repository/sync',{},owner)).status,403);
  });
  await t.test('legacy credential sessions cannot access or activate membership',async()=>{
   assert.equal((await get('/api/me',fixtures.credential.cookie)).status,401);
@@ -29,6 +31,9 @@ test('GitHub-bound membership and reviewed contributions',{timeout:90000},async 
   const me=await(await get('/api/me',member)).json();assert.equal(me.role,'member');assert.equal(me.github.id,fixtures.first.githubId);
   assert.equal((await get('/api/resources',member)).status,200);
   const reader=await get('/library',member);assert.equal(reader.status,200);assert.match(reader.headers.get('Cache-Control'),/no-store/);assert.equal((await reader.text()).includes("connect-src 'none'"),false);
+  const access=await(await get('/api/repository?userId='+fixtures.owner.id,member)).json();assert.ok(['pending','retry','invited','ready'].includes(access.repository.state));assert.notEqual(access.repository.githubLogin,'owner');
+  assert.equal((await get('/api/admin/repository-health',member)).status,403);
+  assert.equal((await post('/api/admin/members/'+fixtures.owner.id+'/repository/sync',{},member)).status,403);
  });
  await t.test('a used code cannot activate another GitHub account',async()=>{
   assert.equal((await post('/api/activate',{code:'test-first-activation'},fixtures.bound.cookie)).status,409);
@@ -68,7 +73,8 @@ test('GitHub-bound membership and reviewed contributions',{timeout:90000},async 
   const file=await get('/api/submissions/'+contribution+'/file',fixtures.bound.cookie);assert.equal(file.status,200);assert.equal(await file.text(),'%PDF-1.4\ntest\n');
  });
  await t.test('suspension invalidates sessions and restoration preserves GitHub binding',async()=>{
-  assert.equal((await post('/api/admin/members/'+fixtures.first.id+'/status',{status:'suspended'},owner)).status,200);
+  const suspension=await post('/api/admin/members/'+fixtures.first.id+'/status',{status:'suspended'},owner);
+  assert.equal(suspension.status,202);assert.notEqual((await suspension.json()).repository.state,'revoked');
   assert.equal((await get('/api/resources',member)).status,401);
   assert.equal((await post('/api/admin/members/'+fixtures.first.id+'/status',{status:'active'},owner)).status,200);
   member=await refreshedCookie('first');assert.equal((await get('/api/resources',member)).status,200);

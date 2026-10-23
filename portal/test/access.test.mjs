@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 const base='http://127.0.0.1:8798';
-for (const path of ['/library','/library.html','/catalogue/manifest.json','/catalogue/part-0.json','/api/resources','/download/665910606']) {
+for (const path of ['/library','/library.html','/catalogue/manifest.json','/catalogue/part-0.json','/api/resources','/api/repository','/api/admin/repository-health','/download/665910606']) {
   test(`anonymous access is denied for ${path}`, async () => {
     const response=await fetch(base+path,{redirect:'manual'});
     assert.ok([401,302,303].includes(response.status),`expected an authentication boundary, received ${response.status}`);
