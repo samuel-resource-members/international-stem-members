@@ -5,7 +5,7 @@
   "packageManager": "npm@11.12.0",
   "scripts": {
     "test": "node scripts/test.mjs",
-    "check": "tsc --noEmit",
+    "check": "wrangler types --include-runtime=false && tsc --noEmit",
     "build": "python3 scripts/build_catalogue.py",
     "dev": "wrangler dev --port 8797 --ip 127.0.0.1",
     "deploy": "wrangler deploy"
