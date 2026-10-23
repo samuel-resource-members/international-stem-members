@@ -2,9 +2,9 @@
 
 数学、物理、化学与生物真题，按课程、考试和专题查阅。
 
-- [题目检索](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/index.html)：下载后打开，可搜索题目、查看分类并保存选题；点击“下载题目包”，解压后阅读 PDF。
-- [资源下载](https://github.com/samuel-resource-members/international-stem-members/releases)：选择所需学科的题目与评分资料。
-- [提交资料](https://github.com/samuel-resource-members/international-stem-members/issues/new?template=resource.yml)：填写课程与资料信息，附上文件或链接。
-- [反馈题目问题](https://github.com/samuel-resource-members/international-stem-members/issues/new?template=correction.yml)。
+- [会员入口](https://stem-member-library.xpartara.workers.dev)：使用激活码开通，以后通过邮箱和密码登录。
+- [题目检索](https://stem-member-library.xpartara.workers.dev/library)：按课程与专题搜索题目，保存选题清单。
+- [资源库](https://stem-member-library.xpartara.workers.dev/resources)：下载题目与评分资料。
+- [提交资料](https://stem-member-library.xpartara.workers.dev/submit)：提交文件或链接，审核通过后与会员共享。
 
 各考试试题与评分资料的版权归其权利人所有。

@@ -18,6 +18,7 @@ test('one-time membership, account permissions, owner controls, and reviewed upl
   const me=await (await get('/api/me',member)).json();memberId=me.id;assert.equal(me.role,'member');assert.equal(me.status,'active');
   assert.equal((await get('/api/resources',member)).status,200);
   const reader=await get('/library.html',member);assert.equal(reader.status,200);assert.match(reader.headers.get('Cache-Control'),/no-store/);
+  assert.equal((await reader.text()).includes("connect-src 'none'"),false,'Offline connection policy must be removed');
  });
  await t.test('a consumed code cannot activate another account',async()=>{
   assert.equal((await post('/api/register',{email:'second@example.test',password,code:'test-first-activation'})).status,403);
@@ -70,5 +71,16 @@ test('one-time membership, account permissions, owner controls, and reviewed upl
   const token=destination.searchParams.get('token');
   const changed=await post('/api/auth/reset-password',{token,newPassword:'Changed Password 49!'});assert.equal(changed.status,200,await changed.clone().text());
   assert.notEqual((await post('/api/auth/reset-password',{token,newPassword:'Another Password 49!'})).status,200);
+ });
+ await t.test('older pending submissions remain available when history exceeds one page',async()=>{
+  const queue=await (await get('/api/admin/submissions',owner)).json();assert.ok(queue.submissions.some(row=>row.id==='old-pending'));
+  const history=await (await get('/api/admin/submissions?status=approved&page=2',owner)).json();assert.equal(history.page,2);assert.ok(history.submissions.length>0);assert.ok(history.pages>=4);
+ });
+ await t.test('simultaneous uploads cannot exceed the daily submission quota',async()=>{
+  const login=await post('/api/auth/sign-in/email',{email:'first@example.test',password:'Changed Password 49!'});member=cookies(login);
+  const existing=(await (await get('/api/submissions',member)).json()).submissions.length;
+  for(let i=existing;i<19;i++)assert.equal((await post('/api/submissions',{title:'Paper '+i,course:'Physics',url:'https://example.com/paper'},member)).status,200);
+  const results=await Promise.all(Array.from({length:5},(_,i)=>post('/api/submissions',{title:'Concurrent '+i,course:'Physics',fileName:'paper.pdf',fileSize:100},member)));
+  assert.equal(results.filter(r=>r.status===200).length,1);assert.equal(results.filter(r=>r.status===429).length,4);
  });
 });

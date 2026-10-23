@@ -12,6 +12,10 @@ writeFileSync('.tmp/fixtures.sql',fixtures.map(([id,role])=>{
  return `INSERT INTO activation_codes(id,code_hash,suffix,role,created_at,bound_email,expires_at,revoked) VALUES('${id}','${hash}','TEST','${role}',${Date.now()},${id==='bound'?"'bound@example.test'":'NULL'},${id==='expired'?Date.now()-10000:'NULL'},${id==='revoked'?1:0});`;
 }).join('\n'));
 cli(['d1','execute','DB','--local','--persist-to','.tmp/test-runtime','--file','.tmp/fixtures.sql']);
+const history=[`INSERT INTO user(id,name,email,emailVerified,createdAt,updatedAt) VALUES('history-fixture','History','history@example.test',0,${Date.now()},${Date.now()});`];
+history.push(`INSERT INTO submissions(id,user_id,title,course,details,status,created_at) VALUES('old-pending','history-fixture','Earlier pending paper','Physics','','pending',${Date.now()-864000000});`);
+for(let i=0;i<201;i++)history.push(`INSERT INTO submissions(id,user_id,title,course,details,status,created_at) VALUES('history-${i}','history-fixture','Earlier shared paper','Physics','','approved',${Date.now()-86400000+i});`);
+writeFileSync('.tmp/history.sql',history.join('\n'));cli(['d1','execute','DB','--local','--persist-to','.tmp/test-runtime','--file','.tmp/history.sql']);
 const server=spawn(process.execPath,[wrangler,'dev','--port','8798','--ip','127.0.0.1','--persist-to','.tmp/test-runtime','--var','APP_URL:http://127.0.0.1:8798','--var','BETTER_AUTH_SECRET:local-test-only-secret-with-over-thirty-two-bytes','--log-level','error'],{stdio:['ignore','pipe','pipe']});
 let log='';server.stdout.on('data',x=>log+=x);server.stderr.on('data',x=>log+=x);
 try {
