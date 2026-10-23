@@ -29,9 +29,21 @@ app.use('/api/*',async(c,next)=>{
 });
 
 const publicAssets=new Set(['/portal.js','/portal.css','/pico.min.css','/mathjax.js','/math-config.js','/favicon.svg']);
+const publicDocuments=new Map([
+  ['/guide',{asset:'/guide.html',type:'text/html; charset=utf-8'}],
+  ['/guide.md',{asset:'/guide.md',type:'text/markdown; charset=utf-8'}],
+  ['/llms.txt',{asset:'/llms.txt',type:'text/plain; charset=utf-8'}],
+]);
 app.get('*',async(c,next)=>{
   if(publicAssets.has(c.req.path)) return c.env.ASSETS.fetch(c.req.raw);
-  if(['/','/activate','/reset-password'].includes(c.req.path)) return c.env.ASSETS.fetch(new Request(new URL('/index.html',c.req.url)));
+  const document=publicDocuments.get(c.req.path);
+  if(document||['/','/activate','/reset-password'].includes(c.req.path)){
+    const response=await c.env.ASSETS.fetch(new Request(new URL(document?.asset||'/index.html',c.req.url)));
+    const headers=new Headers(response.headers);
+    headers.set('Link','</guide.md>; rel="alternate"; type="text/markdown", </llms.txt>; rel="describedby"');
+    if(document)headers.set('Content-Type',document.type);
+    return new Response(response.body,{status:response.status,headers});
+  }
   await next();
 });
 app.get('/api/login-options',c=>c.json({github:Boolean(c.env.GITHUB_CLIENT_ID&&c.env.GITHUB_CLIENT_SECRET)}));

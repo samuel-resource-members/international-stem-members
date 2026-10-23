@@ -16,7 +16,7 @@ function enter(){location.replace(me?.role==='admin'?'/admin':'/library');}
 
 async function authPage(){
  const intro=h('section',{class:'entry-intro'},h('span',{class:'eyebrow'},'INTERNATIONAL COURSES & COMPETITIONS'),h('h1',{},'让每次练习，',h('br'),'都有章可循。'),h('p',{},'从课程到专题，从原题到评分资料。找到适合当前进度的练习，留下自己的选题清单。'),h('div',{class:'numbers'},h('div',{},h('strong',{},'27,284'),h('small',{},'题目记录')),h('div',{},h('strong',{},'68'),h('small',{},'课程与考试分类'))),h('div',{class:'subjects'},['数学','物理','化学','生物'].map(x=>h('span',{},x))));
- const button=h('button',{class:'full',type:'button'},'使用 GitHub 登录'),card=h('section',{class:'panel auth-panel'},h('span',{class:'eyebrow'},'MEMBER LIBRARY'),h('h2',{},'登录会员题库'),h('p',{},'使用自己的 GitHub 账号登录。首次进入时，输入为你开通的专属激活码。'),button,h('small',{},'会员资格与开通时指定的 GitHub 账号关联。'));
+ const button=h('button',{class:'full',type:'button'},'使用 GitHub 登录'),card=h('section',{class:'panel auth-panel'},h('span',{class:'eyebrow'},'MEMBER LIBRARY'),h('h2',{},'登录会员题库'),h('p',{},'使用自己的 GitHub 账号登录。首次进入时，输入为你开通的专属激活码。'),button,h('small',{},'会员资格与开通时指定的 GitHub 账号关联。'),h('p',{},h('a',{href:'/guide'},'首次使用？查看使用指南')));
  if(new URLSearchParams(location.search).has('error'))card.append(notice('GitHub 登录未完成，请重试。',true));
  app.replaceChildren(h('div',{class:'entry'},intro,card));
  button.disabled=true;const options=await api('/api/login-options');
@@ -59,9 +59,9 @@ async function accountPage(){
   if(state==='ready')actions.append(h('a',{href:repository.repositoryUrl,target:'_blank',rel:'noopener noreferrer',role:'button',class:'secondary compact'},'打开会员仓库'));
   section.append(actions);
   if(!['ready','invited'].includes(state))return;
-  const instructions='打开这个私有仓库，按照 README 获取我指定的课程或题目：\n'+repository.repositoryUrl;
-  const copy=h('button',{type:'button',class:'secondary compact',onclick:async()=>{try{await navigator.clipboard.writeText(instructions);copy.textContent='已复制';}catch{section.append(notice('请直接复制下方仓库地址。'));}}},'复制获取说明');
-  section.append(h('h3',{style:'margin-top:2rem'},'批量获取资料'),h('p',{},'接受邀请后，使用自己的 GitHub 登录即可按课程或题号获取资料。'),h('p',{},h('a',{href:repository.repositoryUrl+'/blob/main/README.md',target:'_blank',rel:'noopener noreferrer'},'查看获取方法')),copy,h('pre',{class:'code-box'},repository.repositoryUrl));
+  const instructions='请阅读公开使用指南，按其中步骤使用我的 GitHub 账号获取我指定的课程或题目。需要登录、验证或接受邀请时，请提示我完成：\n'+location.origin+'/guide.md';
+  const copy=h('button',{type:'button',class:'secondary compact',onclick:async()=>{try{await navigator.clipboard.writeText(instructions);copy.textContent='已复制';}catch{section.append(notice('请直接复制下方获取说明。'));}}},'复制获取说明');
+  section.append(h('h3',{style:'margin-top:2rem'},'批量获取资料'),h('p',{},'接受邀请后，在自己的终端中完成 GitHub 授权，即可按课程或题号获取资料。'),h('p',{},h('a',{href:'/guide',target:'_blank',rel:'noopener noreferrer'},'查看获取方法')),copy,h('pre',{class:'code-box'},instructions));
  }
  await render();
 }
