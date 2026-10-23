@@ -42,13 +42,22 @@ def read_json(path):
 
 
 def gh(*args, capture=True):
-    try:
-        result = subprocess.run(['gh', *args], capture_output=capture, text=True)
-    except FileNotFoundError as exc:
-        raise DownloadError('请先安装 GitHub CLI：https://cli.github.com/') from exc
-    if result.returncode:
-        raise DownloadError('GitHub 请求失败。请确认 gh auth status --hostname github.com 显示会员账号，并已接受仓库邀请；随后重试。')
-    return result.stdout if capture else ''
+    for attempt in range(2):
+        try:
+            result = subprocess.run(['gh', *args], capture_output=capture, text=True)
+        except FileNotFoundError as exc:
+            raise DownloadError('请先安装 GitHub CLI：https://cli.github.com/') from exc
+        if result.returncode == 0:
+            return result.stdout if capture else ''
+        error = (result.stderr or '').lower()
+        transient = re.search(r'\beof\b|tls[^\n]*timeout|i/o timeout|connection reset|http[ /:]*(?:502|503|504)\b|(?:502 bad gateway|503 service unavailable|504 gateway timeout)', error)
+        if transient and attempt == 0:
+            continue
+        if transient:
+            raise DownloadError('GitHub 网络连接暂时失败，请稍后重试。')
+        if re.search(r'http[ /:]*(?:401|403|404)\b|bad credentials|not logged|failed to log in|release not found|authentication', error):
+            raise DownloadError('GitHub 账号或仓库权限不可用。请确认 gh auth status --hostname github.com 显示会员账号，并已接受仓库邀请。')
+        raise DownloadError('GitHub 命令未完成，请检查 GitHub CLI 后重试。')
 
 
 def sha256(path):
@@ -198,7 +207,7 @@ def download_asset(asset, root, replace=False):
     with tempfile.TemporaryDirectory(prefix='.member-download-', dir=root) as temp:
         incoming = Path(temp) / asset['name']
         gh('release', 'download', asset['tag'], '--repo', 'github.com/' + REPO,
-           '--pattern', asset['name'], '--output', str(incoming))
+           '--pattern', asset['name'], '--output', str(incoming), '--clobber')
         if not valid_file(incoming, asset['size'], asset['sha256']):
             raise DownloadError(f'下载摘要不符，请重试：{asset["name"]}')
         target_path(root, asset['name'])

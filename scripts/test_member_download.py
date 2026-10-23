@@ -5,6 +5,7 @@ import io
 import json
 from pathlib import Path
 import tempfile
+import subprocess
 import unittest
 from unittest import mock
 import zipfile
@@ -82,6 +83,7 @@ class MemberDownloads(unittest.TestCase):
             def fake_gh(*args, **kwargs):
                 self.assertEqual(args[:3], ('release', 'download', 'resources'))
                 self.assertIn('github.com/' + m.REPO, args)
+                self.assertIn('--clobber', args)
                 Path(args[args.index('--output') + 1]).write_bytes(b'abc')
             with mock.patch.object(m, 'gh', side_effect=fake_gh):
                 self.assertEqual(m.download_asset(asset, root), 'downloaded')
@@ -250,6 +252,38 @@ class MemberDownloads(unittest.TestCase):
                     answer = json.loads(result.getvalue())
                 self.assertEqual([row['id'] for row in answer['assets']], [1])
                 self.assertEqual(set(answer['assets'][0]['courses']), set(initial_courses) | {'IBO'})
+
+
+    def test_gh_retries_one_transient_network_failure(self):
+        for message in ['unexpected EOF', 'net/http: TLS handshake timeout', 'i/o timeout',
+                        'connection reset by peer', 'HTTP 502: Bad Gateway',
+                        'HTTP 503: Service Unavailable', 'HTTP 504: Gateway Timeout']:
+            with self.subTest(message=message):
+                failed = subprocess.CompletedProcess(['gh'], 1, stdout='', stderr=message)
+                passed = subprocess.CompletedProcess(['gh'], 0, stdout='[]', stderr='')
+                with mock.patch.object(m.subprocess, 'run', side_effect=[failed, passed]) as run:
+                    self.assertEqual(m.gh('api', 'user'), '[]')
+                self.assertEqual(run.call_count, 2)
+
+    def test_gh_network_exhaustion_is_bounded_and_does_not_expose_urls(self):
+        failed = subprocess.CompletedProcess(['gh'], 1, stdout='',
+            stderr='HTTP 502: https://release-assets.githubusercontent.com/item?signature=private unexpected EOF')
+        with mock.patch.object(m.subprocess, 'run', return_value=failed) as run:
+            with self.assertRaises(m.DownloadError) as error:
+                m.gh('release', 'download', 'resources')
+        self.assertEqual(run.call_count, 2)
+        self.assertIn('网络', str(error.exception))
+        self.assertNotIn('signature', str(error.exception))
+        self.assertNotIn('http', str(error.exception))
+
+    def test_gh_authentication_failure_is_not_retried(self):
+        failed = subprocess.CompletedProcess(['gh'], 1, stdout='', stderr='HTTP 401: Bad credentials')
+        with mock.patch.object(m.subprocess, 'run', return_value=failed) as run:
+            with self.assertRaises(m.DownloadError) as error:
+                m.gh('api', 'user')
+        self.assertEqual(run.call_count, 1)
+        self.assertIn('账号', str(error.exception))
+        self.assertNotIn('网络', str(error.exception))
 
 
 if __name__ == '__main__':
