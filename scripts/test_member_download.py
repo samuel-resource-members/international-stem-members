@@ -233,5 +233,24 @@ class MemberDownloads(unittest.TestCase):
                 self.assertEqual(remote_call.call_count, 1)
 
 
+    def test_course_listing_merges_question_shards_into_existing_course_fields(self):
+        for initial_courses in [[], ['BBO']]:
+            with self.subTest(initial_courses=initial_courses), tempfile.TemporaryDirectory() as d:
+                root = Path(d)
+                assets = [{'id': 1, 'name': 'pdfs-one.zip', 'size': 3, 'group': 'PDF', 'courses': initial_courses}]
+                questions = [{'id': 'IBO-Q1', 'course_id': 'IBO', 'paths': ['ibo/q1.pdf'], 'packages': []}]
+                index = {'files': {'ibo/q1.pdf': {'shard': 'pdfs-one.zip'}}}
+                with contextlib.ExitStack() as stack:
+                    for name, value in [('MANIFEST', assets), ('QUESTIONS', questions), ('PDF_INDEX', index)]:
+                        path = root / (name + '.json'); path.write_text(json.dumps(value))
+                        stack.enter_context(mock.patch.object(m, name, path))
+                    result = io.StringIO()
+                    with contextlib.redirect_stdout(result):
+                        m.main(['list', '--course', 'IBO', '--json'])
+                    answer = json.loads(result.getvalue())
+                self.assertEqual([row['id'] for row in answer['assets']], [1])
+                self.assertEqual(set(answer['assets'][0]['courses']), set(initial_courses) | {'IBO'})
+
+
 if __name__ == '__main__':
     unittest.main()

@@ -439,7 +439,7 @@ def main(argv=None):
         return
     assets = load_assets()
     if args.command in ['list', 'download']:
-        if any('courses' not in row for row in assets) and QUESTIONS.exists() and PDF_INDEX.exists():
+        if QUESTIONS.exists() and PDF_INDEX.exists():
             assets = add_course_assets(assets, load_questions(), read_json(PDF_INDEX))
         rows = select_assets(assets, args.course, args.name, args.asset)
         if args.command == 'list':
