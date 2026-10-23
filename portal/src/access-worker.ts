@@ -99,8 +99,11 @@ async function cleanMutation(api:GitHub,env:AccessEnv,userId:string,leaseId:stri
   const administrator=await env.DB.prepare("SELECT user_id FROM memberships WHERE github_id=? AND role='admin'").bind(wrongId).first();
   if(wrongId===OWNER||wrongId===env.OWNER_GITHUB_ID||administrator)throw new AccessError('protected_identity');
   const login=await profile(api,wrongId),current=await permission(api,login,wrongId);
+  const pending=await invitations(api,wrongId);
   if(current){await assertLogin(api,login,wrongId);await api(PATH+'/collaborators/'+login,'DELETE');}
-  if(await permission(api,login,wrongId))throw new AccessError('cleanup_access_remains');
+  for(const invite of pending)await api(PATH+'/invitations/'+invite.id,'DELETE');
+  const remainingPermission=await permission(api,login,wrongId),remainingInvitations=await invitations(api,wrongId);
+  if(remainingPermission||remainingInvitations.length)throw new AccessError('cleanup_access_remains');
  }
  await saveReceipt(env,userId,leaseId,{cleanup_invitation_id:null,cleanup_github_id:null,cleanup_login:null});
 }

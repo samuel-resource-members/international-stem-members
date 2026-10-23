@@ -38,7 +38,7 @@ function fixture(options={}) {
     if(putHook)await putHook(db);
     if(options.wrong204){wrongDirect=true;return new Response(null,{status:204});}
     if(direct){permission='read';return new Response(null,{status:204});}
-    const invitation={id:900,invitee:{id:options.wrongInvitation?43:42,login:'renamed-member'},permissions:options.wrongPermission?'write':'read',repository:{full_name:'samuel-resource-members/international-stem-members'}};invitations=[...invitations,invitation];return Response.json(invitation,{status:201});
+    const invitation={id:900,invitee:{id:options.wrongInvitation?43:42,login:'renamed-member'},permissions:options.wrongPermission?'write':'read',repository:{full_name:'samuel-resource-members/international-stem-members'}};invitations=[...invitations,invitation];if(options.lostPutResponse)throw new Error('Simulated lost response after GitHub creates invitation');return Response.json(invitation,{status:201});
    }
   }
   throw new Error('Unexpected API call '+method+' '+url.pathname+url.search);
@@ -114,4 +114,17 @@ test('a reclaimed account receiving a 204 grant is resolved by ID and its direct
 });
 test('scheduled recovery creates jobs for memberships missing a queue row',async()=>{
  const f=fixture();assert.equal(f.db.sqlite.prepare('SELECT count(*) n FROM repository_access').get().n,0);await retryRepositoryAccess(f.env,f.deps);assert.equal((await repositoryStatus(f.db,'member')).state,'invited');
+});
+test('a lost PUT response retains the username receipt and suspension cancels every wrong-recipient invitation before reporting revoked',async()=>{
+ const f=fixture({lookupIds:[42,43],wrongInvitation:true,lostPutResponse:true});
+ assert.equal((await runRepositorySync(f.env,'member',f.deps)).state,'retry');assert.equal(f.invitations.length,1);
+ const receipt=f.db.sqlite.prepare('SELECT cleanup_login,cleanup_invitation_id FROM repository_access').get();assert.equal(receipt.cleanup_login,'renamed-member');assert.equal(receipt.cleanup_invitation_id,null);
+ f.db.sqlite.prepare("UPDATE memberships SET status='suspended' WHERE user_id='member'").run();await repositorySyncStatement(f.db,'member').run();
+ const result=await runRepositorySync(f.env,'member',f.deps);assert.equal(result.state,'revoked');assert.equal(f.invitations.length,0);assert.ok(f.calls.some(x=>x.method==='DELETE'&&x.path.endsWith('/invitations/900')));
+ assert.equal(f.db.sqlite.prepare('SELECT cleanup_login FROM repository_access').get().cleanup_login,null);
+});
+test('an unconfirmed wrong-recipient invitation cancellation keeps the receipt and never reports revoked',async()=>{
+ const options={lookupIds:[42,43],wrongInvitation:true,lostPutResponse:true},f=fixture(options);await runRepositorySync(f.env,'member',f.deps);
+ f.db.sqlite.prepare("UPDATE memberships SET status='suspended' WHERE user_id='member'").run();await repositorySyncStatement(f.db,'member').run();options.invitationDeleteFailure=true;
+ const result=await runRepositorySync(f.env,'member',f.deps);assert.equal(result.state,'retry');assert.equal(f.invitations.length,1);assert.equal(f.db.sqlite.prepare('SELECT cleanup_github_id FROM repository_access').get().cleanup_github_id,'43');
 });
