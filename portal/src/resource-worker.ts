@@ -2,6 +2,15 @@ import inventory from './resource-manifest.json';
 type ResourceEnv={RESOURCE_GITHUB_TOKEN:string};
 export default {
  async fetch(request:Request,env:ResourceEnv){
+  const login=new URL(request.url).pathname.match(/^\/github-user\/([A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?)$/)?.[1];
+  if(login&&request.method==='GET'){
+   if(!env.RESOURCE_GITHUB_TOKEN)return new Response('Unavailable',{status:503});
+   const response=await fetch('https://api.github.com/users/'+login,{headers:{Authorization:`Bearer ${env.RESOURCE_GITHUB_TOKEN}`,Accept:'application/vnd.github+json','User-Agent':'stem-member-library','X-GitHub-Api-Version':'2022-11-28'},redirect:'manual'});
+   if(response.status===404)return new Response('Not found',{status:404});
+   if(!response.ok)return new Response('Unavailable',{status:502});
+   const profile=await response.json() as {id:number;login:string};
+   return Response.json({id:profile.id,login:profile.login},{headers:{'Cache-Control':'private, no-store'}});
+  }
   const id=new URL(request.url).pathname.match(/^\/download\/(\d+)$/)?.[1];
   const resource=inventory.find(row=>String(row.id)===id);
   if(!resource||!['GET','HEAD'].includes(request.method))return new Response('Not found',{status:404});

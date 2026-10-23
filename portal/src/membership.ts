@@ -5,15 +5,11 @@ export async function codeHash(value: string) {
   const bytes = await crypto.subtle.digest('SHA-256',new TextEncoder().encode(normalizeCode(value)));
   return Array.from(new Uint8Array(bytes),b=>b.toString(16).padStart(2,'0')).join('');
 }
-export async function validCode(env: AppEnv, value: string, email: string) {
-  return env.DB.prepare('SELECT id FROM activation_codes WHERE code_hash=? AND used_by IS NULL AND revoked=0 AND (expires_at IS NULL OR expires_at>?) AND (bound_email IS NULL OR lower(bound_email)=?)')
-    .bind(await codeHash(value),Date.now(),email.toLowerCase()).first();
-}
-export async function redeemCode(env: AppEnv, value: string, userId: string, email: string) {
+export async function redeemCode(env: AppEnv, value: string, userId: string, githubId: string) {
   const hash=await codeHash(value),now=Date.now();
   const result=await env.DB.batch([
-    env.DB.prepare('UPDATE activation_codes SET used_by=?,redeemed_at=? WHERE code_hash=? AND used_by IS NULL AND revoked=0 AND (expires_at IS NULL OR expires_at>?) AND (bound_email IS NULL OR lower(bound_email)=?) AND NOT EXISTS (SELECT 1 FROM memberships WHERE user_id=?)').bind(userId,now,hash,now,email.toLowerCase(),userId),
-    env.DB.prepare("INSERT INTO memberships(user_id,role,status,code_id,activated_at) SELECT ?,role,'active',id,? FROM activation_codes WHERE code_hash=? AND used_by=? ON CONFLICT(user_id) DO NOTHING").bind(userId,now,hash,userId),
+    env.DB.prepare('UPDATE activation_codes SET used_by=?,redeemed_at=? WHERE code_hash=? AND used_by IS NULL AND revoked=0 AND (expires_at IS NULL OR expires_at>?) AND bound_github_id=? AND NOT EXISTS (SELECT 1 FROM memberships WHERE user_id=? OR github_id=?)').bind(userId,now,hash,now,githubId,userId,githubId),
+    env.DB.prepare("INSERT INTO memberships(user_id,github_id,role,status,code_id,activated_at) SELECT ?,bound_github_id,role,'active',id,? FROM activation_codes WHERE code_hash=? AND used_by=? AND redeemed_at=? AND bound_github_id=? ON CONFLICT(user_id) DO NOTHING").bind(userId,now,hash,userId,now,githubId),
   ]);
   return result[1].meta.changes===1;
 }

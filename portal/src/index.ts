@@ -4,8 +4,9 @@ import { bodyLimit } from 'hono/body-limit';
 import { secureHeaders } from 'hono/secure-headers';
 import { z } from 'zod';
 import { createAuth, identity, type AppEnv } from './auth';
-import { codeHash, newCode, rateLimit, redeemCode, validCode } from './membership';
+import { codeHash, newCode, rateLimit, redeemCode } from './membership';
 import { resources, downloadResource } from './resources';
+import { resolveGitHubUser } from './github';
 import { submissionRoutes } from './submissions';
 import { readJson as json } from './http';
 
@@ -32,36 +33,22 @@ app.get('*',async(c,next)=>{
   if(['/','/activate','/reset-password'].includes(c.req.path)) return c.env.ASSETS.fetch(new Request(new URL('/index.html',c.req.url)));
   await next();
 });
-const email=z.email().max(254).transform(v=>v.trim().toLowerCase());
-const registration=z.object({email,password:z.string().min(10).max(128),code:z.string().min(8).max(128)}).strict();
-function cookieResponse(response:Response,body:unknown) {
-  const headers=new Headers({'Content-Type':'application/json; charset=utf-8','Cache-Control':'private, no-store'});
-  for(const value of response.headers.getSetCookie()) headers.append('Set-Cookie',value);
-  return new Response(JSON.stringify(body),{status:response.status,headers});
-}
-app.post('/api/register',async c=>{
-  if(!await rateLimit(c.env,c.req.raw)) return c.json({error:'TOO_MANY_ATTEMPTS'},429);
-  const input=await json(c.req.raw,registration);
-  if(!await validCode(c.env,input.code,input.email)) return c.json({error:'CODE_UNAVAILABLE'},403);
-  const response=await createAuth(c.env).api.signUpEmail({body:{email:input.email,password:input.password,name:input.email.split('@')[0]},headers:c.req.raw.headers,asResponse:true});
-  if(!response.ok) return response;
-  const result=await response.clone().json() as {user:{id:string}};
-  if(!await redeemCode(c.env,input.code,result.user.id,input.email)) return c.json({error:'CODE_ALREADY_USED'},409);
-  return cookieResponse(response,{ok:true});
-});
-const authPosts=new Set(['/api/auth/sign-in/email','/api/auth/sign-out','/api/auth/change-password','/api/auth/reset-password']);
+app.get('/api/login-options',c=>c.json({github:Boolean(c.env.GITHUB_CLIENT_ID&&c.env.GITHUB_CLIENT_SECRET)}));
+app.post('/api/register',c=>c.json({error:'GITHUB_REQUIRED'},403));
 app.all('/api/auth/*',async c=>{
-  if(c.req.method==='GET'&&/^\/api\/auth\/reset-password\/[a-zA-Z0-9_-]+$/.test(c.req.path))return createAuth(c.env).handler(c.req.raw);
-  if(c.req.method!=='POST'||!authPosts.has(c.req.path)) return c.json({error:'ACTIVATION_REQUIRED'},403);
-  if(!await rateLimit(c.env,c.req.raw)) return c.json({error:'TOO_MANY_ATTEMPTS'},429);
-  const response=await createAuth(c.env).handler(c.req.raw);
-  if(!response.ok) return response;
-  return cookieResponse(response,{ok:true});
+  if(c.req.method==='GET'&&c.req.path==='/api/auth/callback/github')return createAuth(c.env).handler(c.req.raw);
+  if(c.req.method==='GET'&&c.req.path==='/api/auth/error')return c.redirect('/?error=github',303);
+  if(c.req.method!=='POST'||!['/api/auth/sign-in/social','/api/auth/sign-out'].includes(c.req.path))return c.json({error:'GITHUB_REQUIRED'},403);
+  if(!await rateLimit(c.env,c.req.raw))return c.json({error:'TOO_MANY_ATTEMPTS'},429);
+  if(c.req.path==='/api/auth/sign-out')return createAuth(c.env).handler(c.req.raw);
+  await json(c.req.raw,z.object({provider:z.literal('github')}).strict());
+  if(!c.env.GITHUB_CLIENT_ID||!c.env.GITHUB_CLIENT_SECRET)return c.json({error:'GITHUB_UNAVAILABLE'},503);
+  return createAuth(c.env).api.signInSocial({body:{provider:'github',callbackURL:c.env.APP_URL+'/activate',errorCallbackURL:c.env.APP_URL+'/?error=github'},headers:c.req.raw.headers,asResponse:true});
 });
 app.get('/api/me',async c=>{
   const who=await identity(c.req.raw,c.env);
   if(!who)return c.json({error:'SIGN_IN_REQUIRED'},401);
-  return c.json({id:who.user.id,email:who.user.email,...(who.membership||{status:'inactive',role:'member'})});
+  return c.json({id:who.user.id,github:who.github,...(who.membership||{status:'inactive',role:'member'})});
 });
 app.post('/api/activate',async c=>{
   if(!await rateLimit(c.env,c.req.raw)) return c.json({error:'TOO_MANY_ATTEMPTS'},429);
@@ -69,7 +56,7 @@ app.post('/api/activate',async c=>{
   if(!who)return c.json({error:'SIGN_IN_REQUIRED'},401);
   if(who.membership)return c.json({error:who.membership.status==='active'?'ALREADY_ACTIVE':'ACCOUNT_SUSPENDED'},403);
   const input=await json(c.req.raw,z.object({code:z.string().min(8).max(128)}).strict());
-  if(!await redeemCode(c.env,input.code,who.user.id,who.user.email))return c.json({error:'CODE_UNAVAILABLE'},409);
+  if(!await redeemCode(c.env,input.code,who.user.id,who.github.id))return c.json({error:'CODE_UNAVAILABLE'},409);
   return c.json({ok:true});
 });
 app.use('*',async(c,next)=>{
@@ -82,21 +69,26 @@ app.get('/api/resources',c=>c.json({resources}));
 app.on(['GET','HEAD'],'/download/:id',c=>downloadResource(c.req.raw,c.req.param('id'),c.env));
 app.use('/api/admin/*',async(c,next)=>{if(c.get('identity').membership?.role!=='admin')return c.json({error:'OWNER_ONLY'},403);await next();});
 app.get('/api/admin/codes',async c=>{
-  const result=await c.env.DB.prepare('SELECT id,suffix,label,bound_email,expires_at,revoked,used_by,redeemed_at,created_at FROM activation_codes WHERE role=\'member\' ORDER BY created_at DESC LIMIT 1000').all();
+  const result=await c.env.DB.prepare('SELECT id,suffix,label,bound_github_id,bound_github_login,expires_at,revoked,used_by,redeemed_at,created_at FROM activation_codes WHERE role=\'member\' ORDER BY created_at DESC LIMIT 1000').all();
   return c.json({codes:result.results});
 });
 app.post('/api/admin/codes',async c=>{
-  const input=await json(c.req.raw,z.object({count:z.number().int().min(1).max(100),label:z.string().max(100).default(''),boundEmail:z.union([email,z.literal('')]).optional(),expiresAt:z.number().int().min(Date.now()).nullable().optional()}).strict());
-  const codes=await Promise.all(Array.from({length:input.count},async()=>{const value=newCode();return{id:crypto.randomUUID(),code:value,hash:await codeHash(value)};}));
-  await c.env.DB.batch(codes.map(row=>c.env.DB.prepare('INSERT INTO activation_codes(id,code_hash,suffix,label,bound_email,expires_at,created_at) VALUES(?,?,?,?,?,?,?)').bind(row.id,row.hash,row.code.slice(-4),input.label,input.boundEmail||null,input.expiresAt||null,Date.now())));
-  return c.json({codes:codes.map(row=>({id:row.id,code:row.code}))});
+  const input=await json(c.req.raw,z.object({githubUsername:z.string().regex(/^[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?$/),label:z.string().max(100).default(''),expiresAt:z.number().int().min(Date.now()).nullable().optional()}).strict());
+  const github=await resolveGitHubUser(input.githubUsername,c.env.RESOURCES);
+  if(!github)return c.json({error:'GITHUB_USER_NOT_FOUND'},404);
+  if(github.id===c.env.OWNER_GITHUB_ID)return c.json({error:'OWNER_ALREADY_ENABLED'},409);
+  const member=await c.env.DB.prepare('SELECT user_id FROM memberships WHERE github_id=?').bind(github.id).first();
+  if(member)return c.json({error:'MEMBER_ALREADY_ENABLED'},409);
+  const row={id:crypto.randomUUID(),code:newCode()};
+  await c.env.DB.prepare('INSERT INTO activation_codes(id,code_hash,suffix,label,bound_github_id,bound_github_login,expires_at,created_at) VALUES(?,?,?,?,?,?,?,?)').bind(row.id,await codeHash(row.code),row.code.slice(-4),input.label,github.id,github.login,input.expiresAt||null,Date.now()).run();
+  return c.json({codes:[{...row,githubId:github.id,githubLogin:github.login}]});
 });
 app.post('/api/admin/codes/:id/revoke',async c=>{
   const result=await c.env.DB.prepare("UPDATE activation_codes SET revoked=1 WHERE id=? AND role='member' AND used_by IS NULL").bind(c.req.param('id')).run();
   return result.meta.changes?c.json({ok:true}):c.json({error:'CODE_UNAVAILABLE'},409);
 });
 app.get('/api/admin/members',async c=>{
-  const result=await c.env.DB.prepare('SELECT u.id,u.email,m.role,m.status,m.activated_at FROM memberships m JOIN user u ON u.id=m.user_id ORDER BY activated_at DESC LIMIT 1000').all();
+  const result=await c.env.DB.prepare('SELECT u.id,u.github_login,m.github_id,m.role,m.status,m.activated_at FROM memberships m JOIN user u ON u.id=m.user_id ORDER BY activated_at DESC LIMIT 1000').all();
   return c.json({members:result.results});
 });
 app.post('/api/admin/members/:id/status',async c=>{
@@ -105,14 +97,6 @@ app.post('/api/admin/members/:id/status',async c=>{
   if(!result.meta.changes)return c.json({error:'MEMBER_UNAVAILABLE'},404);
   if(input.status==='suspended')await c.env.DB.prepare('DELETE FROM session WHERE userId=?').bind(c.req.param('id')).run();
   return c.json({ok:true});
-});
-app.post('/api/admin/members/:id/recovery',async c=>{
-  const user=await c.env.DB.prepare('SELECT email FROM user WHERE id=?').bind(c.req.param('id')).first<{email:string}>();
-  if(!user)return c.json({error:'MEMBER_UNAVAILABLE'},404);
-  let recovery='';
-  await createAuth(c.env,async url=>{recovery=url;}).api.requestPasswordReset({body:{email:user.email,redirectTo:c.env.APP_URL+'/reset-password'},headers:c.req.raw.headers});
-  if(!recovery)return c.json({error:'RECOVERY_UNAVAILABLE'},503);
-  return c.json({url:recovery});
 });
 app.route('/',submissionRoutes);
 app.get('*',async c=>{

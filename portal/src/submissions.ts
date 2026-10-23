@@ -41,7 +41,7 @@ submissionRoutes.get('/api/admin/submissions',async c=>{
   const {status,page}=input.data;
   const total=await c.env.DB.prepare('SELECT count(*) AS count FROM submissions WHERE status=?').bind(status).first<{count:number}>();
   const order=status==='pending'?'ASC':'DESC';
-  const rows=await c.env.DB.prepare(`SELECT s.*,u.email FROM submissions s JOIN user u ON s.user_id=u.id WHERE s.status=? ORDER BY s.created_at ${order} LIMIT 50 OFFSET ?`).bind(status,(page-1)*50).all();
+  const rows=await c.env.DB.prepare(`SELECT s.*,u.github_login FROM submissions s JOIN user u ON s.user_id=u.id WHERE s.status=? ORDER BY s.created_at ${order} LIMIT 50 OFFSET ?`).bind(status,(page-1)*50).all();
   return c.json({submissions:rows.results,page,pages:Math.max(1,Math.ceil(total!.count/50)),total:total!.count});
 });
 submissionRoutes.post('/api/admin/submissions/:id/review',async c=>{
