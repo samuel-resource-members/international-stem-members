@@ -1,0 +1,1269 @@
+{
+ "group": "live-poshenloh-amc10-2017a-question_paper",
+ "course_id": "AMC10",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q01",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "嵌套自定义运算：由内向外逐层代入 / 嵌套倍增加一：从内至外递推",
+   "search_text": "What is the value of the following expression?\n\n\\[ \\begin{aligned} &2(2(2(2(2(2+1)+1)\\\\ &\\qquad{}+1)+1)+1)+1 \\end{aligned} \\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q01",
+    "live-poshenloh-amc10-2017a-question_paper__q01",
+    "AMC10-2017A-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the value of the following expression?\n\n\\[ \\begin{aligned} &2(2(2(2(2(2+1)+1)\\\\ &\\qquad{}+1)+1)+1)+1 \\end{aligned} \\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q02",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "不同包装固定预算：枚举大包装数量优化",
+   "search_text": "Pablo buys popsicles for his friends. The store sells single popsicles for \\(\\$1\\) each, \\(3\\)-popsicle boxes for \\(\\$2\\) each, and \\(5\\)-popsicle boxes for \\(\\$3.\\) What is the greatest number of popsicles that Pablo can buy with \\(\\$8?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q02",
+    "live-poshenloh-amc10-2017a-question_paper__q02",
+    "AMC10-2017A-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Pablo buys popsicles for his friends. The store sells single popsicles for \\(\\$1\\) each, \\(3\\)-popsicle boxes for \\(\\$2\\) each, and \\(5\\)-popsicle boxes for \\(\\$3.\\) What is the greatest number of popsicles that Pablo can buy with \\(\\$8?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q03",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "规则区域去除部分：整体面积减去缺口 / 多行花床含走道：整体矩形减花床",
+   "search_text": "Tamara has three rows of two \\(6\\)-feet by \\(2\\)-feet flower beds in her garden. The beds are separated and also surrounded by \\(1\\)-foot-wide walkways, as shown on the diagram. What is the total area of the walkways, in square feet?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q03",
+    "live-poshenloh-amc10-2017a-question_paper__q03",
+    "AMC10-2017A-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Tamara has three rows of two \\(6\\)-feet by \\(2\\)-feet flower beds in her garden. The beds are separated and also surrounded by \\(1\\)-foot-wide walkways, as shown on the diagram. What is the total area of the walkways, in square feet?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q04",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "反复放入取出首次达到目标：最后轮不扣回",
+   "search_text": "Mia is “helping” her mom pick up \\(30\\) toys that are strewn on the floor. Mia’s mom manages to put \\(3\\) toys into the toy box every \\(30\\) seconds, but each time immediately after those \\(30\\) seconds have elapsed, Mia takes \\(2\\) toys out of the box. How much time, in minutes, will it take Mia and her mom to put all \\(30\\) toys into the box for the first time?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q04",
+    "live-poshenloh-amc10-2017a-question_paper__q04",
+    "AMC10-2017A-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Mia is “helping” her mom pick up \\(30\\) toys that are strewn on the floor. Mia’s mom manages to put \\(3\\) toys into the toy box every \\(30\\) seconds, but each time immediately after those \\(30\\) seconds have elapsed, Mia takes \\(2\\) toys out of the box. How much time, in minutes, will it take Mia and her mom to put all \\(30\\) toys into the box for the first time?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q05",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "两数和为乘积倍数：同除非零乘积",
+   "search_text": "The sum of two nonzero real numbers is \\(4\\) times their product. What is the sum of the reciprocals of the two numbers?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q05",
+    "live-poshenloh-amc10-2017a-question_paper__q05",
+    "AMC10-2017A-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The sum of two nonzero real numbers is \\(4\\) times their product. What is the sum of the reciprocals of the two numbers?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q06",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "条件命题的必然结论：写包含关系、否定或逆否后检验 / 充分条件的必然结论：写逆否命题",
+   "search_text": "Ms. Carroll promised that anyone who got all the multiple choice questions right on the upcoming exam would receive an A on the exam. Which one of these statements necessarily follows logically?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q06",
+    "live-poshenloh-amc10-2017a-question_paper__q06",
+    "AMC10-2017A-Q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q07",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "实际长度中的直角三角形：识别三边后列勾股 / 绕方形两边与走对角线：按原路程算减少率",
+   "search_text": "Jerry and Silvia wanted to go from the southwest corner of a square field to the northeast corner. Jerry walked due east and then due north to reach the goal, but Silvia headed northeast and reached the goal walking in a straight line. Which of the following is closest to how much shorter Silvia’s trip was, compared to Jerry’s trip?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q07",
+    "live-poshenloh-amc10-2017a-question_paper__q07",
+    "AMC10-2017A-Q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q08",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "聚会熟人拥抱其余握手：总配对减熟人配对",
+   "search_text": "At a gathering of \\(30\\) people, there are \\(20\\) people who all know each other and \\(10\\) people who know no one. People who know each other hug, and people who do not know each other shake hands. How many handshakes occur?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q08",
+    "live-poshenloh-amc10-2017a-question_paper__q08",
+    "AMC10-2017A-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "At a gathering of \\(30\\) people, there are \\(20\\) people who all know each other and \\(10\\) people who know no one. People who know each other hug, and people who do not know each other shake hands. How many handshakes occur?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q09",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "不同速度或效率的合平均：总路程除总时间或总耗量 / 环线反向骑行：分路段重新判断上下坡",
+   "search_text": "Minnie rides on a flat road at \\(20\\) kilometers per hour (kph), downhill at \\(30\\) kph, and uphill at \\(5\\) kph. Penny rides on a flat road at \\(30\\) kph, downhill at \\(40\\) kph, and uphill at \\(10\\) kph. Minnie goes from town \\(A\\) to town \\(B,\\) a distance of \\(10\\) km all uphill, then from town \\(B\\) to town \\(C,\\) a distance of \\(15\\) km all downhill, and then back to town \\(A,\\) a distance of \\(20\\) km on the flat. Penny goes the other way around using the same route. How many more minutes does it take Minnie to complete the \\(45\\)-km ride than it takes Penny?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q09",
+    "live-poshenloh-amc10-2017a-question_paper__q09",
+    "AMC10-2017A-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Minnie rides on a flat road at \\(20\\) kilometers per hour (kph), downhill at \\(30\\) kph, and uphill at \\(5\\) kph. Penny rides on a flat road at \\(30\\) kph, downhill at \\(40\\) kph, and uphill at \\(10\\) kph. Minnie goes from town \\(A\\) to town \\(B,\\) a distance of \\(10\\) km all uphill, then from town \\(B\\) to town \\(C,\\) a distance of \\(15\\) km all downhill, and then back to town \\(A,\\) a distance of \\(20\\) km on the flat. Penny goes the other way around using the same route. How many more minutes does it take Minnie to complete the \\(45\\)-km ride than it takes Penny?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q10",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "线段可围成多边形：最长边严格小于其余边和 / 四杆成非退化四边形：最长边小于其余和",
+   "search_text": "Joy has \\(30\\) thin rods, one each of every integer length from \\(1\\) cm through \\(30\\) cm. She places the rods with lengths \\(3\\) cm, \\(7\\) cm, and \\(15\\) cm on a table. She then wants to choose a fourth rod that she can put with these three to form a quadrilateral with positive area. How many of the remaining rods can she choose as the fourth rod?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q10",
+    "live-poshenloh-amc10-2017a-question_paper__q10",
+    "AMC10-2017A-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Joy has \\(30\\) thin rods, one each of every integer length from \\(1\\) cm through \\(30\\) cm. She places the rods with lengths \\(3\\) cm, \\(7\\) cm, and \\(15\\) cm on a table. She then wants to choose a fourth rod that she can put with these three to form a quadrilateral with positive area. How many of the remaining rods can she choose as the fourth rod?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q11",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定距离空间邻域：面柱、棱圆柱及角球分块相加 / 线段的固定距离邻域体积：圆柱加两半球",
+   "search_text": "The region consisting of all points in three-dimensional space within \\(3\\) units of line segment \\(\\overline{AB}\\) has volume \\(216\\pi.\\) What is the length \\(AB?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q11",
+    "live-poshenloh-amc10-2017a-question_paper__q11",
+    "AMC10-2017A-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The region consisting of all points in three-dimensional space within \\(3\\) units of line segment \\(\\overline{AB}\\) has volume \\(216\\pi.\\) What is the length \\(AB?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q12",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三个表达式两者相等且第三不大：分类画射线",
+   "search_text": "Let \\(S\\) be the set of points \\((x,y)\\) in the coordinate plane such that two of the three quantities \\(3,\\) \\(x+2,\\) and \\(y-4\\) are equal and the third of the three quantities is no greater than this common value. Which of the following is a correct description of \\(S?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q12",
+    "live-poshenloh-amc10-2017a-question_paper__q12",
+    "AMC10-2017A-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(S\\) be the set of points \\((x,y)\\) in the coordinate plane such that two of the three quantities \\(3,\\) \\(x+2,\\) and \\(y-4\\) are equal and the third of the three quantities is no greater than this common value. Which of the following is a correct description of \\(S?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q13",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "递推数列余数：记录完整状态并找循环 / 模三斐波那契递推：状态对重复给周期",
+   "search_text": "Define a sequence recursively by \\(F_{0}=0,\\) \\(~F_{1}=1,\\) and \\(F_{n}=\\) the remainder when \\(F_{n-1}+F_{n-2}\\) is divided by \\(3,\\) for all \\(n\\geq 2.\\) Thus the sequence starts \\(0,\\) \\(1,\\) \\(1,\\) \\(2,\\) \\(0,\\) \\(2,\\) \\(\\ldots.\\) What is \\[F_{2017}+F_{2018}+F_{2019}+F_{2020}+\\]\\[F_{2021}+F_{2022}+F_{2023}+F_{2024}?\\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q13",
+    "live-poshenloh-amc10-2017a-question_paper__q13",
+    "AMC10-2017A-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Define a sequence recursively by \\(F_{0}=0,\\) \\(~F_{1}=1,\\) and \\(F_{n}=\\) the remainder when \\(F_{n-1}+F_{n-2}\\) is divided by \\(3,\\) for all \\(n\\geq 2.\\) Thus the sequence starts \\(0,\\) \\(1,\\) \\(1,\\) \\(2,\\) \\(0,\\) \\(2,\\) \\(\\ldots.\\) What is \\[F_{2017}+F_{2018}+F_{2019}+F_{2020}+\\]\\[F_{2021}+F_{2022}+F_{2023}+F_{2024}?\\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q14",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "两项费用线性变化：账单等式相减消元 / 相互扣除后百分率：联立两项费用",
+   "search_text": "Every week Roger pays for a movie ticket and a soda out of his allowance. Last week, Roger’s allowance was \\(A\\) dollars. The cost of his movie ticket was \\(20\\%\\) of the difference between \\(A\\) and the cost of his soda, while the cost of his soda was \\(5\\%\\) of the difference between \\(A\\) and the cost of his movie ticket. To the nearest whole percent, what fraction of \\(A\\) did Roger pay for his movie ticket and soda?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q14",
+    "live-poshenloh-amc10-2017a-question_paper__q14",
+    "AMC10-2017A-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Every week Roger pays for a movie ticket and a soda out of his allowance. Last week, Roger’s allowance was \\(A\\) dollars. The cost of his movie ticket was \\(20\\%\\) of the difference between \\(A\\) and the cost of his soda, while the cost of his soda was \\(5\\%\\) of the difference between \\(A\\) and the cost of his movie ticket. To the nearest whole percent, what fraction of \\(A\\) did Roger pay for his movie ticket and soda?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q15",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续均匀取点：把不等式转可行区域后求面积比 / 不同区间独立均匀抽数：矩形面积补集",
+   "search_text": "Chloé chooses a real number uniformly at random from the interval \\([0, 2017].\\)\n\nIndependently, Laurent chooses a real number uniformly at random from the interval \\([0, 4034].\\)\n\nWhat is the probability that Laurent’s number is greater than Chloé’s number?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q15",
+    "live-poshenloh-amc10-2017a-question_paper__q15",
+    "AMC10-2017A-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Chloé chooses a real number uniformly at random from the interval \\([0, 2017].\\)\n\nIndependently, Laurent chooses a real number uniformly at random from the interval \\([0, 4034].\\)\n\nWhat is the probability that Laurent’s number is greater than Chloé’s number?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q16",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多个整数倍条件同时成立：求最小公倍数 / 多个周期至少五者同步：数小整数因子",
+   "search_text": "There are \\(10\\) horses, named Horse \\(1,\\) Horse \\(2,\\) and so on through Horse \\(10.\\) They get their names from how many minutes it takes them to run one lap around a circular race track: Horse \\(k\\) runs one lap in exactly \\(k\\) minutes. At time \\(0\\) all the horses are together at the starting point on the track. The horses start running in the same direction, and they keep running around the circular track at their constant speeds.\n\nThe least time \\(S > 0,\\) in minutes, at which all \\(10\\) horses will again simultaneously be at the starting point is \\(S=2520.\\) Let \\(T > 0\\) be the least time, in minutes, such that at least \\(5\\) of the horses are again at the starting point. What is the sum of the digits of \\(T?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q16",
+    "live-poshenloh-amc10-2017a-question_paper__q16",
+    "AMC10-2017A-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "There are \\(10\\) horses, named Horse \\(1,\\) Horse \\(2,\\) and so on through Horse \\(10.\\) They get their names from how many minutes it takes them to run one lap around a circular race track: Horse \\(k\\) runs one lap in exactly \\(k\\) minutes. At time \\(0\\) all the horses are together at the starting point on the track. The horses start running in the same direction, and they keep running around the circular track at their constant speeds.\n\nThe least time \\(S > 0,\\) in minutes, at which all \\(10\\) horses will again simultaneously be at the starting point is \\(S=2520.\\) Let \\(T > 0\\) be the least time, in minutes, such that at least \\(5\\) of the horses are again at the starting point. What is the sum of the digits of \\(T?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q17",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆与格点：距离平方方程限制整数坐标 / 圆上整数点的无理弦比：有限枚举极短极长弦",
+   "search_text": "Distinct points \\(P,\\) \\(Q,\\) \\(R,\\) \\(S\\) lie on the circle \\(x^{2}+y^{2}=25\\) and have integer coordinates. The distances \\(PQ\\) and \\(RS\\) are irrational numbers.\n\nWhat is the greatest possible value of the ratio \\(\\dfrac{PQ}{RS}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q17",
+    "live-poshenloh-amc10-2017a-question_paper__q17",
+    "AMC10-2017A-Q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Distinct points \\(P,\\) \\(Q,\\) \\(R,\\) \\(S\\) lie on the circle \\(x^{2}+y^{2}=25\\) and have integer coordinates. The distances \\(PQ\\) and \\(RS\\) are irrational numbers.\n\nWhat is the greatest possible value of the ratio \\(\\dfrac{PQ}{RS}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q18",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "首次出现指定事件：前面未发生乘当次发生，或写自重复关系 / 交替投币先正获胜：一轮失败后自重复",
+   "search_text": "Amelia has a coin that lands heads with probability \\(\\frac{1}{3},\\) and Blaine has a coin that lands on heads with probability \\(\\frac{2}{5}.\\) Amelia and Blaine alternately toss their coins until someone gets a head; the first one to get a head wins. All coin tosses are independent. Amelia goes first. The probability that Amelia wins is \\(\\frac{p}{q},\\) where \\(p\\) and \\(q\\) are relatively prime positive integers. What is \\(q-p?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q18",
+    "live-poshenloh-amc10-2017a-question_paper__q18",
+    "AMC10-2017A-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Amelia has a coin that lands heads with probability \\(\\frac{1}{3},\\) and Blaine has a coin that lands on heads with probability \\(\\frac{2}{5}.\\) Amelia and Blaine alternately toss their coins until someone gets a head; the first one to get a head wins. All coin tosses are independent. Amelia goes first. The probability that Amelia wins is \\(\\frac{p}{q},\\) where \\(p\\) and \\(q\\) are relatively prime positive integers. What is \\(q-p?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q19",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相邻位置限制的排列：先放受限元素再枚举合法补位 / 多人线排禁止三种相邻：按位置或容斥计数",
+   "search_text": "Alice refuses to sit next to either Bob or Carla. Derek refuses to sit next to Eric. How many ways are there for the five of them to sit in a row of \\(5\\) chairs under these conditions?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q19",
+    "live-poshenloh-amc10-2017a-question_paper__q19",
+    "AMC10-2017A-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Alice refuses to sit next to either Bob or Carla. Derek refuses to sit next to Eric. How many ways are there for the five of them to sit in a row of \\(5\\) chairs under these conditions?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q20",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "加一后的数位和：数末尾连续九的进位损失",
+   "search_text": "Let \\(S(n)\\) equal the sum of the digits of positive integer \\(n.\\) For example, \\(S(1507) = 13.\\) For a particular positive integer \\(n,\\) \\(S(n) = 1274.\\)\n\nWhich of the following could be the value of \\(S(n+1)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q20",
+    "live-poshenloh-amc10-2017a-question_paper__q20",
+    "AMC10-2017A-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(S(n)\\) equal the sum of the digits of positive integer \\(n.\\) For example, \\(S(1507) = 13.\\) For a particular positive integer \\(n,\\) \\(S(n) = 1274.\\)\n\nWhich of the following could be the value of \\(S(n+1)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q21",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角形内接正方形：相似截线宽等于方边 / 两种三角形内接正方形：相似统一底高公式",
+   "search_text": "A square with side length \\(x\\) is inscribed in a right triangle with sides of length \\(3,\\) \\(4,\\) and \\(5\\) so that one vertex of the square coincides with the right-angle vertex of the triangle. A square with side length \\(y\\) is inscribed in another right triangle with sides of length \\(3,\\) \\(4,\\) and \\(5\\) so that one side of the square lies on the hypotenuse of the triangle. What is \\(\\dfrac{x}{y}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q21",
+    "live-poshenloh-amc10-2017a-question_paper__q21",
+    "AMC10-2017A-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A square with side length \\(x\\) is inscribed in a right triangle with sides of length \\(3,\\) \\(4,\\) and \\(5\\) so that one vertex of the square coincides with the right-angle vertex of the triangle. A square with side length \\(y\\) is inscribed in another right triangle with sides of length \\(3,\\) \\(4,\\) and \\(5\\) so that one side of the square lies on the hypotenuse of the triangle. What is \\(\\dfrac{x}{y}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q22",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "切线围成曲边区域：直线多边形面积减扇形或弓形 / 等边三角形两边在端点切圆：减圆弓形",
+   "search_text": "Sides \\(\\overline{AB}\\) and \\(\\overline{AC}\\) of equilateral triangle \\(ABC\\) are tangent to a circle at points \\(B\\) and \\(C\\) respectively. What fraction of the area of \\(\\triangle ABC\\) lies outside the circle?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q22",
+    "live-poshenloh-amc10-2017a-question_paper__q22",
+    "AMC10-2017A-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Sides \\(\\overline{AB}\\) and \\(\\overline{AC}\\) of equilateral triangle \\(ABC\\) are tangent to a circle at points \\(B\\) and \\(C\\) respectively. What fraction of the area of \\(\\triangle ABC\\) lies outside the circle?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q23",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "格点三点共线：按直线分组，计组合或取补集 / 格点三角形总数：三点组合减共线",
+   "search_text": "How many triangles with positive area have all their vertices at points \\((i,j)\\) in the coordinate plane, where \\(i\\) and \\(j\\) are integers between \\(1\\) and \\(5,\\) inclusive?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q23",
+    "live-poshenloh-amc10-2017a-question_paper__q23",
+    "AMC10-2017A-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "How many triangles with positive area have all their vertices at points \\((i,j)\\) in the coordinate plane, where \\(i\\) and \\(j\\) are integers between \\(1\\) and \\(5,\\) inclusive?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q24",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多项式共有给定根：因式定理写整除关系并比较系数 / 两个多项式共享全部互异根：整除后对系数",
+   "search_text": "For certain real numbers \\(a,\\) \\(b,\\) and \\(c,\\) the polynomial \\[g(x) = x^3 + ax^2 + x + 10\\] has three distinct roots, and each root of \\(g(x)\\) is also a root of the polynomial \\[ \\begin{aligned} f(x) &= x^4 + x^3 \\\\ &\\quad {}+ bx^2 + 100x + c. \\end{aligned} \\] What is \\(f(1)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q24",
+    "live-poshenloh-amc10-2017a-question_paper__q24",
+    "AMC10-2017A-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For certain real numbers \\(a,\\) \\(b,\\) and \\(c,\\) the polynomial \\[g(x) = x^3 + ax^2 + x + 10\\] has three distinct roots, and each root of \\(g(x)\\) is also a root of the polynomial \\[ \\begin{aligned} f(x) &= x^4 + x^3 \\\\ &\\quad {}+ bx^2 + 100x + c. \\end{aligned} \\] What is \\(f(1)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2017,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2017a-question_paper__q25",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数位可重排成十一倍数：数位多重集去重再回计",
+   "search_text": "How many integers between \\(100\\) and \\(999,\\) inclusive, have the property that some permutation of its digits is a multiple of \\(11\\) between \\(100\\) and \\(999?\\) For example, both \\(121\\) and \\(211\\) have this property.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2017-A-Q25",
+    "live-poshenloh-amc10-2017a-question_paper__q25",
+    "AMC10-2017A-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "How many integers between \\(100\\) and \\(999,\\) inclusive, have the property that some permutation of its digits is a multiple of \\(11\\) between \\(100\\) and \\(999?\\) For example, both \\(121\\) and \\(211\\) have this property."
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2017a-question_paper__q25.md"
+  }
+ ]
+}

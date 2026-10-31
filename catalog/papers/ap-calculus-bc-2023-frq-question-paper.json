@@ -1,0 +1,290 @@
+{
+ "group": "ap-calculus-bc-2023-frq-question-paper",
+ "course_id": "AP-CALCULUS-BC",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-calculus-bc-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2023-frq-question-paper__q01",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "t\n                                         0     60    90    120   135   150\n                          (seconds)\n\n                                             f t( )\n                                         0     0.1    0.15    0.1    0.05    0\n                       (gallons per second)\n\n\n1. A customer at a gas station is pumping gasoline into a gas tank. The rate of flow of gasoline is modeled by a\n   differentiable function  f , where  f (t) is measured in gallons per second and t is measured in seconds since\n  pumping began. Selected values of  f (t) are given in the table.\n\n                                                    135\n   (a) Using correct units, interpret the meaning of        f (t) dt in the context of the problem. Use a right                                                      ∫60\n\n     Riemann sum with the three subintervals [60, 90], [90, 120], and [120, 135] to approximate the value of\n\n        135\n                f (t) dt .       ∫60\n\n   (b) Must there exist a value of c, for 60 < c < 120, such that  f ¢(c) = 0 ? Justify your answer.\n\n                                                                                                      ⎛                                                                                           ⎛   t  ⎞    ⎜⎛   t  ⎞2⎞                                                                                           ⎜                                                                                                                 for   (c) The rate of flow of gasoline, in gallons per second, can also be modeled by g(t) =                                                                                                                                                                                                                        ⎟⎟                                                                                           ⎜                                                                                                                                                                                                  ⎟⎟ cos⎜⎜⎜⎜                                                                                           ⎝                                                                         500 ⎟⎠                                                                                    ⎜⎝120⎝                                                                                                                                                                                                                         ⎠⎟    ⎟⎟⎟⎟⎟⎠\n\n     0 £ t £ 150. Using this model, find the average rate of flow of gasoline over the time interval 0 £ t £ 150.\n\n\n     Show the setup for your calculations.\n\n\n   (d) Using the model g defined in part (c), find the value of g¢(140). Interpret the meaning of your answer in\n       the context of the problem.\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-bc Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2023-frq-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2023-frq-question-paper__q01.md"
+  },
+  {
+   "paper_id": "ap-calculus-bc-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2023-frq-question-paper__q02",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "力学",
+   "knowledge_point": "运动学",
+   "problem_type": "连接位移、速度、加速度和时间",
+   "search_text": "2. For 0 £ t £ p , a particle is moving along the curve shown so that its position at time t is (x(t), y(t) ), where\n\n                                                       dx     cos t   xt() is not explicitly given and y()t = 2sin t. It is known that   = e       . At time t = 0, the particle is at\n                                                                   dt\n   position (1, 0).\n\n   (a) Find the acceleration vector of the particle at time t = 1. Show the setup for your calculations.\n\n   (b) For 0 £ t £ p, find the first time t at which the speed of the particle is 1.5. Show the work that leads to\n      your answer.\n\n   (c) Find the slope of the line tangent to the path of the particle at time t = 1. Find the x-coordinate of the\n       position of the particle at time t = 1. Show the work that leads to your answers.\n\n   (d) Find the total distance traveled by the particle over the time interval 0 £ t £ p. Show the setup for your\n       calculations.\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n\nEND OF PART A\n\nCALCULUS BC\n\n\n             SECTION II, Part B\n\n\n                  Time—1 hour\n\n                       4 Questions\n\n\nNO CALCULATOR IS ALLOWED FOR THESE QUESTIONS.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-bc Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2023-frq-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2023-frq-question-paper__q02.md"
+  },
+  {
+   "paper_id": "ap-calculus-bc-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2023-frq-question-paper__q03",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分方程",
+   "knowledge_point": "微分方程",
+   "problem_type": "解微分方程并代入初始条件",
+   "search_text": "3. A bottle of milk is taken out of a refrigerator and placed in a pan of hot water to be warmed. The increasing\n\n   function M models the temperature of the milk at time t, where M(t) is measured in degrees Celsius (°C)\n\n  and t is the number of minutes since the bottle was placed in the pan. M satisfies the differential equation\n\n  dM   1\n      =   (40 − M). At time t = 0, the temperature of the milk is 5°C. It can be shown that M(t) < 40 for all\n    dt    4\n\n   values of t.\n\n                             dM   1\n   (a) A slope field for the differential equation    =   (40 − M) is shown. Sketch the solution curve through\n                                                   dt    4\n       the point (0, 5).\n\n\n\n\n\n   (b) Use the line tangent to the graph of M at t = 0 to approximate M(2), the temperature of the milk at\n      time t = 2 minutes.\n\n                                 2                         2\n                         d M                 d M\n   (c) Write an expression for       in terms of M . Use       to determine whether the approximation from\n                               dt2                      dt2\n\n       part (b) is an underestimate or an overestimate for the actual value of M(2). Give a reason for your answer.\n\n\n   (d) Use separation of variables to find an expression for M(t), the particular solution to the differential\n\n          dM   1\n      equation    =   (40 − M) with initial condition M(0) = 5.\n                  dt    4\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-bc Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2023-frq-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2023-frq-question-paper__q03.md"
+  },
+  {
+   "paper_id": "ap-calculus-bc-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2023-frq-question-paper__q04",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "4. The function  f  is defined on the closed interval [−2, 8] and satisfies  f (2) = 1. The graph of  f ¢, the derivative\n   of  f , consists of two line segments and a semicircle, as shown in the figure.\n\n   (a) Does  f have a relative minimum, a relative maximum, or neither at x = 6 ? Give a reason for your\n      answer.\n\n   (b) On what open intervals, if any, is the graph of  f concave down? Give a reason for your answer.\n\n                        6 f (x) − 3x\n   (c) Find the value of lim                      , or show that it does not exist. Justify your answer.\n                  x→2 x2 − 5x + 6\n\n   (d) Find the absolute minimum value of  f on the closed interval [−2, 8]. Justify your answer.\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-bc Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2023-frq-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2023-frq-question-paper__q04.md"
+  },
+  {
+   "paper_id": "ap-calculus-bc-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2023-frq-question-paper__q05",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "积分",
+   "knowledge_point": "定积分",
+   "problem_type": "用定积分求累积量或区间积分",
+   "search_text": "12\n5. The graphs of the functions  f and g are shown in the figure for 0 £ x £ 3. It is known that g(x) =\n                                                                                  3 + x\n   for x ≥ 0. The twice-differentiable function  f , which is not explicitly given, satisfies  f (3) = 2 and\n\n        f (x) dx = 10.   3∫0\n\n   (a) Find the area of the shaded region enclosed by the graphs of  f and g.\n\n                            ∞       2   (b) Evaluate the improper integral    (g(x))  dx, or show that the integral diverges.                                       ∫0\n\n                                                                            3\n   (c) Let h be the function defined by h(x ) = x ◊ f ¢(x). Find the value of   h(x) dx .                                                                  ∫0\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-bc Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2023-frq-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2023-frq-question-paper__q05.md"
+  },
+  {
+   "paper_id": "ap-calculus-bc-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2023-frq-question-paper__q06",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "6. The function  f has derivatives of all orders for all real numbers. It is known that f(0) = 2,  f ¢(0) = 3,\n\n     f ¢¢( x ) = − f x   and  f ¢¢¢(x) = −2x · f ¢   2            ( 2),                    (x  ).\n\n\n   (a) Find  f                (4 )( x), the fourth derivative of  f with respect to x. Write the fourth-degree Taylor polynomial for  f\n\n      about x = 0. Show the work that leads to your answer.\n\n   (b) The fourth-degree Taylor polynomial for  f about x = 0 is used to approximate f(0.1). Given that\n\n           (5)           f   (x) £ 15 for 0 £ x £ 0.5, use the Lagrange error bound to show that this approximation is within\n\n      1\n           of the exact value of f(0.1).         5\n      10\n\n   (c) Let g be the function such that g(0) = 4 and g¢(x) = e x f(x). Write the second-degree Taylor polynomial\n       for g about x = 0.\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n\nSTOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-bc Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2023-frq-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2023-frq-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2023-frq-question-paper__q06.md"
+  }
+ ]
+}

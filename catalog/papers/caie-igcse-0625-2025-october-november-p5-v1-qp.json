@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2025-october-november-p5-v1-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2025-october-november-p5-v1-qp",
+   "year": 2025,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2025-october-november-p5-v1-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1    In this experiment, you will investigate the balancing of a metre ruler.\n\n    Refer to Fig. 1.1.\n\n                                                  50.0 cm mark\n\n                                                                          metre ruler\n               load                                            object Q\n\n                            x                    y\n         0                                                100\n\n\n                                                                90.0 cm mark\n\n                                                                   bench\n                                                          pivot\n\n\n                                               Fig. 1.1\n\n     (a)  •   Place the metre ruler on the pivot at the 50.0 cm mark.\n           •   Place the object Q with its centre on the metre ruler at the 90.0 cm mark.\n\n        Determine the distance y from the 50.0 cm mark to the centre of the object Q.\n\n\n\n                                                   y =  .................................................... cm [2]\n\n     (b)  •   Place the 2.0 N load on the metre ruler.\n           •    Adjust the position of the load so that the metre ruler  is as near as possible to\n             being balanced.\n\n             (i)  Determine the distance x from the centre of the load to the 50.0 cm mark.\n\n\n\n                                                   x =  .................................................... cm [1]\n\n                                                                  x\n             (ii)  Calculate the weight W of object Q, using the equation W =  × 2.0 N.\n                                                                  y\n            Give your answer to a suitable number of significant figures for this experiment.\n\n\n\n\n                           W =  ...................................................... N [2]\n\n     (c) Remove the 2.0 N load from the metre ruler. Do not change the position of object Q.\n\n                                                                    x\n        Repeat the steps above, using the 3.0 N load and the equation W =  × 3.0 N.\n                                                                    y\n\n\n                                                   y =  .......................................................... cm\n\n                                                   x =  .......................................................... cm\n\n\n\n\n                           W =  ............................................................ N\n                                                                                                                       [2]\n\n(d)  State and explain whether your two values of W are equal within the limits of experimental\n    accuracy. Refer to the values of W in your answer.\n\n    statement ..................................................................................................................................\n\n    explanation ................................................................................................................................\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n                                                                                                                 [2]\n\n(e)  Explain how you ensure that the centre of object Q is directly over the 90.0 cm mark of the\n    metre ruler. You may draw a diagram.\n\n\n\n\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n(f)    It is difficult to find the position of the load to obtain the exact balance of the metre ruler.\n\n    Explain how you try to overcome this difficulty.\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2025 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w25_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-october-november-p5-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-october-november-p5-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-october-november-p5-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-october-november-p5-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-october-november-p5-v1-qp",
+   "year": 2025,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2025-october-november-p5-v1-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2    In this experiment, you will investigate the resistance of a wire.\n\n    Refer to Fig. 2.1. The circuit has been set up for you.\n\n\n\n\n                                                A\n\n\n                              d\n\n            B                                  C\n\n                      V                                                                 sliding        resistance\n                                                         contact S     wire\n\n\n                                               Fig. 2.1\n\n     (a)  Close the switch.\n\n       Measure the current I in the circuit. Include the unit.\n\n                                                             I =  .........................................................  [1]\n\n     (b)  Place the sliding contact on the resistance wire at a distance of 20.0 cm from B.\n\n       Measure the potential difference (p.d.) V across the length d = 20.0 cm of resistance wire BC.\n\n             (i)  Record the values of d and V in Table 2.1.                                                    [1]\n\n          Open the switch.\n\n             (ii)  Calculate the resistance R of 20.0 cm of the resistance wire, using the equation\n\n                                  V\n                             R =     .\n                                                       I\n\n\n            Record R in Table 2.1.                                                                           [1]\n\n            (iii)  Complete the column headings in Table 2.1.                                                  [1]\n\n                                        Table 2.1\n\n\n                            d /        V /        R /\n\n(c)  Close the switch.\n\n    Repeat the procedure in (b)(i) and (b)(ii) using values of d = 40.0 cm, d = 60.0 cm, d = 80.0 cm\n    and d = 100.0 cm.                                                                                      [3]\n\n(d)  Plot a graph of resistance R / Ω (y-axis) against length d / cm (x-axis). Draw a best-fit line.\n\n\n\n\n\n                                                                                                                 [4]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2025 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w25_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-october-november-p5-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-october-november-p5-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-october-november-p5-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-october-november-p5-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-october-november-p5-v1-qp",
+   "year": 2025,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2025-october-november-p5-v1-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3    In this experiment, you will investigate the refraction of light in the material of a transparent block.\n\n    Use the separate ray-trace sheet provided. You may refer to Fig. 3.1 for guidance.\n\n\n\n\n                        N\nhole\n                 P\n\n\n\n\n\n                                                                          i\n\n\n               A         Q                              B\n\n\n\n\n\n               D                                        C\n\n\n\n\n\n                            L\n\n\n\n\n\n                                                                                 eye\n\n\n                                               Fig. 3.1\n\n(a)  •   Place the transparent block, largest face down, on the ray-trace sheet supplied. The block\n        should be approximately in the middle of the paper.\n     •   Draw and label the outline of the block ABCD.\n     •   Remove the block and draw the normal NL to the side AB at a distance 2.0 cm from A.\n        Continue the normal so that it passes through side CD of the block.\n     •   Label the point Q where NL crosses AB.\n                                                                                                                 [2]\n\n(b)  •   Draw the line PQ at an angle i = 30° to the normal as shown in Fig. 3.1.\n     •   Place the paper on the pin board.\n     •   Place two pins P1 and P2 on line PQ at a suitable distance apart for this experiment.\n     •   Replace the block and look from the position of the eye shown in Fig. 3.1, to observe\n         the images of P1 and P2 through side CD of the block. Adjust your line of sight until the\n        images of P1 and P2 appear exactly one behind the other.\n     •   Place two pins P3 and P4 (at a suitable distance apart) between side CD of the block\n       and your eye so that P3 , P4 and the images of P1 and P2 seen through the block appear\n         exactly one behind the other.\n     •   Label the positions of P1 , P2 , P3 and P4 .\n     •   Remove the pins.\n                                                                                                                 [3]\n\n(c)  •   Draw a line through the positions of P3 and P4 . Continue the line until it meets NL and\n          label that point E.\n     •   Label the other end of this line F.\n     •   Measure the acute angle θ between EF and the normal. An acute angle is an angle less\n        than 90°.\n\n                                                        angle θ = ……………………….. [2]\n\n(d) Repeat the procedure in (b) and (c) using an angle of incidence i = 45° to obtain a new value\n     of angle θ.\n\n                                                        angle θ = ……………………….. [1]\n\n(e)  Tick one box to complete the sentence.\n\n    To produce the most accurate ray-trace, a student places the pins P1 and P2\n\n           exactly 5.0 cm apart.\n\n           less than 5.0 cm apart.\n\n         more than 5.0 cm apart.\n\n                                                                                                                 [1]\n\n(f)  A student plans to investigate the relationship between angle i and angle θ. The student takes\n       more sets of readings to test the relationship. List suitable values of angle i that the student\n        can use.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\nWrite your name, centre number and candidate number on your ray-trace sheet.\n\nTie your ray-trace sheet into this Question Booklet between pages 6 and 7.\n                                                                                                           [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2025 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w25_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-october-november-p5-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-october-november-p5-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-october-november-p5-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-october-november-p5-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-october-november-p5-v1-qp",
+   "year": 2025,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2025-october-november-p5-v1-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student is investigating electrical heaters that are used in the school laboratory to heat beakers\n     of water. The heaters are all 12 V heaters with the same power rating. The student thinks that\n   some heaters are more efficient than other heaters.\n\n    Plan an experiment to compare how quickly the heaters increase the temperature of water to\n     boiling point.\n\n    You are not required to do this experiment.\n\n    The following apparatus is available to the student:\n\n     •    five electrical heaters\n     •   beakers\n     •   supply of water\n     •   12 V power supply with suitable leads.\n\n    Other apparatus normally available in a school laboratory can also be used.\n\n     In your plan:\n\n     •     list any additional apparatus required\n\n     •    explain briefly how you do the investigation, including the measurements you take\n\n     •    state the key variables to be kept constant\n\n     •   draw a suitable table, with column headings, to show how to display your readings (you are\n        not required to enter any readings in the table)\n\n     •    explain how you use the results to reach a conclusion.\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2025 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w25_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-october-november-p5-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-october-november-p5-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-october-november-p5-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-october-november-p5-v1-qp__q04.md"
+  }
+ ]
+}

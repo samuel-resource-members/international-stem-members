@@ -1,0 +1,243 @@
+{
+ "group": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp",
+ "course_id": "IB-AI-SL",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 5,
+ "questions": [
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q01",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "利用首项、公差和项数求项或和",
+   "search_text": "1.   [Maximum mark: 16]\n\n     Thai cushions are designed with a triangular cross-section and are made from layers of\n      smaller cushions. These cushions can be modelled as triangular prisms.\n\n     This is shown in the diagram.\n\n                                                             diagram not to scale\n\n\n\n\n                                             5 layers\n\n\n                                                                          bottom layer\n\n             Thai cushion with  4  layers              Cross-section of Thai cushion with  5  layers\n\n      (a)   Write down the number of triangular prisms in the bottom layer of the cushion with\n\n                 (i)    4  layers.\n\n                   (ii)    5  layers.                                                                                           [2]\n\n    Mayumi notices that the number of triangular prisms in the bottom layer of the cushions\n     forms an arithmetic sequence.\n\n      (b)     (i)    Write down the common difference of this sequence.\n\n                   (ii)   Find an expression for the number of triangular prisms in the bottom layer of a\n                cushion with  n  layers.                                                                           [3]\n\n(This question continues on the following page)\n\n(Question 1 continued)\n\n    Mayumi wants to extend this design to create a cushion with  9  layers.\n\n       (c)     (i)   Find the number of triangular prisms in the bottom layer of Mayumi’s cushion.\n\n                   (ii)   Calculate the total number of triangular prisms in Mayumi’s cushion.                    [3]\n\n      (d)   Find an expression for the total number of triangular prisms in a cushion with  n  layers,\n            giving your answer in its simplest form.                                                              [2]\n\n    The cross-section of the cushion consists of black triangles and white triangles.\n\n\n\n\n\n            This cushion with  4  layers has a total      This cushion with  5  layers has  \n                       of  6  white triangles.              4  white triangles in its bottom layer.\n\n      (e)   Write down the total number of black triangles in a cushion with  4  layers.                     [1]\n\n    The number of black triangles in each layer forms an arithmetic sequence.\n\n        (f)   Find and simplify an expression for the total number of black triangles in a cushion\n            with  n  layers.                                                                                            [2]\n\n                                                         n ( n −1)    The total number of white triangles in a cushion with  n  layers is              .\n                                                            2\n\n      (g)   Using both the given expression and your answer to part (f), find and simplify an\n           expression for the total number of black and white triangles in a cushion with  n  layers.     [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI SL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q01.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q02",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "2.   [Maximum mark: 12]\n\n    The diagram shows part of the graphs of the functions\n\n                                                f (x) = 1.5x              x ≥ 0\n\n                                     3                            g ( x )  6                 x > 0 .\n                                          x\n\n                       y                                                 f ( x ) =1.5x\n\n                   6\n                                                                       3\n                                     B           g ( x )  6\n                                                                                x\n                   5\n\n                   4\n\n                   3\n\n                   2\n                   A\n                   1\n\n                   0                                         x\n                           1     2     3     4     5\n\n                 −1\n\n\n      (a)   Solve  f (x) = g (x) .                                                                                       [3]\n\n      (b)     (i)    Write down the integral that represents the area of the shaded region.\n\n                   (ii)   Calculate the area of this shaded region.\n\n                   (iii)  Hence, or otherwise, calculate the area of the region enclosed between\n                 the curves  y = f (x)  and  y = g (x) .                                                              [6]\n\n    The tangent to the graph of  y = f (x)  is parallel to the tangent to the graph of  y = g (x)  at  x = k .\n\n       (c)   Find the value of  k .                                                                                     [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI SL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q02.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q03",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "3.   [Maximum mark: 20]\n\n     According to the timetable, the evening train from Cardiff arrives in London at  6:00 pm.\n     Records show that the arrival times for this train are normally distributed with a mean arrival\n     time of  6:20 pm and a standard deviation of  10  minutes.\n\n      Let  X  be the random variable “the number of minutes late the train arrives”.\n\n      (a)   Write down\n\n                 (i)    the mean of  X .\n\n                   (ii)   the variance of  X .                                                                                [2]\n\n      (b)   Find the probability that the evening train arrives in London between  15  and  \n           25  minutes late.                                                                                         [2]\n\n         If the train arrives more than  30  minutes late, the train company must pay a fine.\n\n       (c)   Calculate the expected number of days, in a  365 -day year, that the train company\n          pays a fine.                                                                                              [3]\n\n     Janine arrives in London on the evening train from Cardiff. She then has to catch a\n     connecting train.\n\n    She allows  10  minutes to change platforms at the station.\n\n    She requires the minimum probability of arriving at the platform to catch the connecting train\n      to be  99 % .\n\n      (d)   Find the earliest time, correct to the nearest minute, that the connecting train could\n           depart to meet Janine’s requirements.                                                               [4]\n\n     David, an employee of the train company, is concerned about the number of trains being late.\n\n    He spends  7  days in London noting the arrivals of trains.\n\n         It can be assumed that train arrivals are independent.\n\n      (e)   Find the probability that the Cardiff to London evening train arrives late\n\n                 (i)   on the first day that David is in London.\n\n                   (ii)   on  5  of the  7  days that David is in London.\n\n                   (iii)  on at least  5  consecutive days that David is in London.                                    [9]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI SL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q03.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q04",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.   [Maximum mark: 16]\n\n    The circular clock face of a grandfather clock is  30 cm  in diameter and its lowest point\n       is  120 cm  above the ground. The length of the minute hand is  15 cm  and the length of the\n     hour hand is  10 cm . This is shown in the diagram.\n\n    The clock is started at  3 pm precisely.\n\n                                                             diagram not to scale\n\n\n\n\n\n                                                                 11   12    1\n\n                                                           10                 2\n\n                                                          9                     3                                30                            12\n                                                           8                  4                                 11         1\n                                                               7    6    5\n                                              cm                                                     10                 2\n                                              15\n\n                                                    9                     3\n                                                                10 cm\n\n                                                     8                  4\n                                120\n                                                         7          5\n                                                              6\n\n\n    ground\n\n      (a)     (i)    Write down the size of the angle between the hour hand and the minute hand of\n                 the clock at  3 pm.\n\n                   (ii)   Calculate the distance between the tips of the two hands of the clock at  3 pm.         [3]\n\n(This question continues on the following page)\n\n(Question 4 continued)\n\n    The height of the tip of the minute hand,  f (t) , above the ground can be modelled by the\n     cosine function\n\n                                                          f (t) = a cos (bt) + d , a , b > 0\n\n     where the angle  bt  is measured in degrees and  t  is the number of minutes after  3 pm.\n\n    A sketch of the graph of  y = f (t)  as time passes from  3 pm to  4 pm is shown.\n\n                                       f (t)\n              m\n\n\n\n                    n\n\n\n                                                                                                                   t\n                     0                                      60\n\n      (b)   Write down the value of\n\n                 (i)    m .\n\n                   (ii)     n .                                                                                                   [2]\n\n       (c)  Hence find the value of\n\n                 (i)     a .\n\n                   (ii)     b .\n\n                   (iii)    d .                                                                                                   [3]\n\n(This question continues on page 9)\n\n(Question 4 continued)\n\n    The height of the tip of the hour hand,  g (t) , above the ground can be modelled by the sine function\n\n                                                        g (t) = p sin (qt) + d\n\n     where  qt  is measured in degrees and  t  is the number of minutes after  3 pm.\n\n      (d)     (i)   Show that  q = 0.5 .\n\n                   (ii)   Find the value of  p .                                                                              [3]\n\n      (e)   Find the height of the tip of the hour hand above the ground at  4 pm.                           [2]\n\n        (f)   Find the first time after  3 pm at which the tips of the two hands of the clock are at the\n        same height above the ground.\n\n          Give your answer correct to the nearest minute.                                                   [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI SL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q04.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q05",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "几何",
+   "knowledge_point": "面积与体积",
+   "problem_type": "从图形尺寸求面积、体积或表面积",
+   "search_text": "5.   [Maximum mark: 16]\n\n     Ju Shen designs a plastic cover, in the shape of a cylinder combined with a hemisphere on\n      top, as shown in the diagram.\n\n    The plastic used to make the cover forms the curved surface of both the hemisphere and the\n      cylinder; there is no bottom to the cover, however it stands on a flat horizontal surface.\n\n      Let the height of the cylinder be  h cm and the internal radius of its base be  r cm .\n\n                                                             diagram not to scale\n\n\n\n\n\n                                   h\n\n                                                            r\n\n\n      (a)   Find an expression for the total internal surface area,  A cm2 , of the cover in terms\n            of  r  and  h .                                                                                              [2]\n\n      (b)  Show that the total volume,  V cm3 , enclosed by the cover and the horizontal surface is\n           given by the expression\n\n                                       2  r 3  3  r 2 h                             V                          .                                                [2]\n                                           3\n\n    The total volume enclosed by the cover is  10 000 cm3 .\n\n                           30 000  2  r 3\n       (c)  Hence show that h               2        .                                                                 [2]                              3  r\n\n     Ju Shen uses the total internal surface area to model the amount of plastic used to construct\n      the cover.\n\n      (d)  Show that  A  is given by the expression\n\n                                      2  r 2  20 000                             A                                     .                                                [2]\n                                        3       r\n\n(This question continues on the following page)\n\n(Question 5 continued)\n\n     Ju Shen wants to use the minimum amount of plastic in the construction of the cover.\n\n                          dA\n      (e)   Find an expression for       .                                                                           [3]\n                                dr\n        (f)   Find the value of  r  and the value of  h  that minimizes the use of plastic.                       [4]\n\n      (g)  By interpreting your answer to part (f), suggest the best shape for Ju Shen’s\n             plastic cover.                                                                                             [1]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI SL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p2-sl-tz2-qp__q05.md"
+  }
+ ]
+}

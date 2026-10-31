@@ -1,0 +1,61 @@
+# CIE-0625 · 2023 · February/March · 2 · 2 · Q20
+
+- id: caie-igcse-0625-2023-february-march-p2-v2-qp__q20
+- course: CIE-0625
+- exam: CIE-0625
+- subject: physics
+- year: 2023
+- session: February/March
+- paper: 2
+- variant: 2
+- question_number: 20
+- paper_id: caie-igcse-0625-2023-february-march-p2-v2-qp
+- chapter: Waves
+- knowledge_point: Light
+- problem_type: 用折射、反射或透镜关系处理光路
+- topic_tags: caie-igcse-0625-2023-february-march-p2-v2-qp__q20
+
+## Text (OCR)
+
+```text
+20 A thin converging lens has a focal length f. An object O is placed to the left of the lens, as shown.
+
+
+
+                    O
+
+
+
+
+                                                            f                                         f
+
+
+
+
+   Where is the image formed and how does its size compare to the object?
+
+                      image position                     image size
+
+    A    on the opposite side of the lens to the object      larger than the object
+
+    B    on the opposite side of the lens to the object     smaller than the object
+
+    C     on the same side of the lens as the object       larger than the object
+
+    D     on the same side of the lens as the object      smaller than the object
+
+
+
+
+© UCLES 2023                                         0625/22/F/M/23                             [Turn over
+```
+
+## Answer / mark scheme candidates
+
+- [Cambridge IGCSE Physics 0625 — February/March 2023 — Paper 2 — 2 — Mark Scheme](https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_m23_ms_22.pdf)
+
+## Source files
+
+- package `question-bank-physics-part-003.zip` (release `subject-resources`) · member `question-corpus/questions/caie-igcse-0625-2023-february-march-p2-v2-qp__q20/question.pdf`: https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

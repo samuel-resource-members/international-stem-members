@@ -1,0 +1,1276 @@
+{
+ "group": "live-poshenloh-amc12-2002a-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分解乘积后由零积求根并检条件 / 公因式提取后零积求根和",
+   "search_text": "Compute the sum of all the roots of \\[ \\begin{aligned} &(2x+3)(x-4) \\\\ &\\quad {}+(2x+3)(x-6)=0. \\end{aligned} \\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q01",
+    "live-poshenloh-amc12-2002a-question_paper__q01",
+    "AMC12-2002A-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Compute the sum of all the roots of \\[ \\begin{aligned} &(2x+3)(x-4) \\\\ &\\quad {}+(2x+3)(x-6)=0. \\end{aligned} \\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "逐层逆运算还原原输入 / 错用减数与除数先还原输入再正算",
+   "search_text": "Cindy was asked by her teacher to subtract \\(3\\) from a certain number and then divide the result by \\(9.\\) Instead, she subtracted \\(9\\) and then divided the result by \\(3,\\) giving an answer of \\(43.\\) What would her answer have been had she worked the problem correctly?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q02",
+    "live-poshenloh-amc12-2002a-question_paper__q02",
+    "AMC12-2002A-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Cindy was asked by her teacher to subtract \\(3\\) from a certain number and then divide the result by \\(9.\\) Instead, she subtracted \\(9\\) and then divided the result by \\(3,\\) giving an answer of \\(43.\\) What would her answer have been had she worked the problem correctly?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按括号树穷尽运算次序 / 幂塔加括号枚举不同运算树",
+   "search_text": "According to the standard convention for exponentiation, \\[2^{2^{2^2}} = 2^{\\left(2^{\\left(2^2\\right)}\\right)} = 2^{16} = 65{,}536.\\] If the order in which the exponentiations are performed is changed, how many other values are possible?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q03",
+    "live-poshenloh-amc12-2002a-question_paper__q03",
+    "AMC12-2002A-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "According to the standard convention for exponentiation, \\[2^{2^{2^2}} = 2^{\\left(2^{\\left(2^2\\right)}\\right)} = 2^{16} = 65{,}536.\\] If the order in which the exponentiations are performed is changed, how many other values are possible?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "一次关系设未知量求解 / 余角与补角倍数建一元方程",
+   "search_text": "Find the degree measure of an angle whose complement is \\(25\\%\\) of its supplement.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q04",
+    "live-poshenloh-amc12-2002a-question_paper__q04",
+    "AMC12-2002A-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Find the degree measure of an angle whose complement is \\(25\\%\\) of its supplement."
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆心距离等于半径和或差 / 七圆紧密排列确定外包圆半径",
+   "search_text": "Each of the small circles in the figure has radius one. The innermost circle is tangent to the six circles that surround it, and each of those circles is tangent to the large circle and to its small-circle neighbors. Find the area of the shaded region.\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q05",
+    "live-poshenloh-amc12-2002a-question_paper__q05",
+    "AMC12-2002A-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Each of the small circles in the figure has radius one. The innermost circle is tangent to the six circles that surround it, and each of those circles is tangent to the large circle and to its small-circle neighbors. Find the area of the shaded region.\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "存在整数条件先检最小见证 / 存在正整数搭档的不等式先取最小值",
+   "search_text": "For how many positive integers \\(m\\) does there exist at least one positive integer \\(n\\) such that \\(m \\cdot n \\le m + n?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q06",
+    "live-poshenloh-amc12-2002a-question_paper__q06",
+    "AMC12-2002A-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For how many positive integers \\(m\\) does there exist at least one positive integer \\(n\\) such that \\(m \\cdot n \\le m + n?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相似图形长度面积体积倍率 / 同弧长角度不同求圆面积比",
+   "search_text": "If an arc of \\(45^\\circ\\) on circle \\(A\\) has the same length as an arc of \\(30^\\circ\\) on circle \\(B,\\) then the ratio of the area of circle \\(A\\) to the area of circle \\(B\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q07",
+    "live-poshenloh-amc12-2002a-question_paper__q07",
+    "AMC12-2002A-Q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "If an arc of \\(45^\\circ\\) on circle \\(A\\) has the same length as an arc of \\(30^\\circ\\) on circle \\(B,\\) then the ratio of the area of circle \\(A\\) to the area of circle \\(B\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "勾股定理确定边长比例尺 / 旋转单位方块与中央方块面积比较",
+   "search_text": "Betsy designed a flag using blue triangles, small white squares, and a red center square, as shown. Let \\(B\\) be the total area of the blue triangles, \\(W\\) the total area of the white squares, and \\(R\\) the area of the red square. Which of the following is correct?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q08",
+    "live-poshenloh-amc12-2002a-question_paper__q08",
+    "AMC12-2002A-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Betsy designed a flag using blue triangles, small white squares, and a red center square, as shown. Let \\(B\\) be the total area of the blue triangles, \\(W\\) the total area of the white squares, and \\(R\\) the area of the red square. Which of the following is correct?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "不可拆装箱按允许组合求容量下界 / 不同大小不可拆文件的装箱下界与构造",
+   "search_text": "Jamal wants to store \\(30\\) computer files on floppy disks, each of which has a capacity of \\(1.44\\) megabytes (mb). Three of his files require \\(0.8\\) mb of memory each, \\(12\\) more require \\(0.7\\) mb each, and the remaining \\(15\\) require \\(0.4\\) mb each. No file can be split between floppy disks. What is the minimal number of floppy disks that will hold all the files?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q09",
+    "live-poshenloh-amc12-2002a-question_paper__q09",
+    "AMC12-2002A-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Jamal wants to store \\(30\\) computer files on floppy disks, each of which has a capacity of \\(1.44\\) megabytes (mb). Three of his files require \\(0.8\\) mb of memory each, \\(12\\) more require \\(0.7\\) mb each, and the remaining \\(15\\) require \\(0.4\\) mb each. No file can be split between floppy disks. What is the minimal number of floppy disks that will hold all the files?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "混合后按当前份额跟踪成分 / 混匀后倒回指定份额",
+   "search_text": "Sarah pours four ounces of coffee into an eight-ounce cup and four ounces of cream into a second cup of the same size. She then transfers half the coffee from the first cup to the second and, after stirring thoroughly, transfers half the liquid in the second cup back to the first. What fraction of the liquid in the first cup is now cream?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q10",
+    "live-poshenloh-amc12-2002a-question_paper__q10",
+    "AMC12-2002A-Q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "总路程除总时间 / 等路程两段以总路程除总时间",
+   "search_text": "Mr. Earl E. Bird leaves his house for work at exactly \\(8{:}00\\) A.M. every morning. When he averages \\(40\\) miles per hour, he arrives at his workplace three minutes late. When he averages \\(60\\) miles per hour, he arrives three minutes early. At what average speed, in miles per hour, should Mr. Bird drive to arrive at his workplace precisely on time?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q11",
+    "live-poshenloh-amc12-2002a-question_paper__q11",
+    "AMC12-2002A-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Mr. Earl E. Bird leaves his house for work at exactly \\(8{:}00\\) A.M. every morning. When he averages \\(40\\) miles per hour, he arrives at his workplace three minutes late. When he averages \\(60\\) miles per hour, he arrives three minutes early. At what average speed, in miles per hour, should Mr. Bird drive to arrive at his workplace precisely on time?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "奇偶迫使素数等于二 / 奇数根和迫使一根为唯一偶素数",
+   "search_text": "Both roots of the quadratic equation \\[x^2 - 63x + k = 0\\] are prime numbers. The number of possible values of \\(k\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q12",
+    "live-poshenloh-amc12-2002a-question_paper__q12",
+    "AMC12-2002A-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Both roots of the quadratic equation \\[x^2 - 63x + k = 0\\] are prime numbers. The number of possible values of \\(k\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "已知符号或断点后拆绝对值 / 正数倒数差绝对值分两支",
+   "search_text": "Two different positive numbers \\(a\\) and \\(b\\) each differ from their reciprocals by \\(1.\\) What is \\(a + b?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q13",
+    "live-poshenloh-amc12-2002a-question_paper__q13",
+    "AMC12-2002A-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Two different positive numbers \\(a\\) and \\(b\\) each differ from their reciprocals by \\(1.\\) What is \\(a + b?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "换底或指数化统一对数关系 / 同底对数和合并乘积识别底数",
+   "search_text": "For all positive integers \\(n,\\) let \\(f(n) = \\log_{2002} n^2.\\) Let \\[N = f(11) + f(13) + f(14).\\] Which of the following relations is true?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q14",
+    "live-poshenloh-amc12-2002a-question_paper__q14",
+    "AMC12-2002A-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For all positive integers \\(n,\\) let \\(f(n) = \\log_{2002} n^2.\\) Let \\[N = f(11) + f(13) + f(14).\\] Which of the following relations is true?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "统计量约束配合整数界筛选 / 均值中位众数极差同时约束最大数",
+   "search_text": "The mean, median, unique mode, and range of a collection of eight integers are all equal to \\(8.\\) The largest integer that can be an element of this collection is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q15",
+    "live-poshenloh-amc12-2002a-question_paper__q15",
+    "AMC12-2002A-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The mean, median, unique mode, and range of a collection of eight integers are all equal to \\(8.\\) The largest integer that can be an element of this collection is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定一个随机量后累计可选结果数 / 独立均匀整数大于两数和用条件计数",
+   "search_text": "Tina randomly selects two distinct numbers from the set \\(\\{1, 2, 3, 4, 5\\},\\) and Sergio randomly selects a number from the set \\(\\{1, 2, \\ldots, 10\\}.\\) The probability that Sergio’s number is larger than the sum of the two numbers chosen by Tina is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q16",
+    "live-poshenloh-amc12-2002a-question_paper__q16",
+    "AMC12-2002A-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Tina randomly selects two distinct numbers from the set \\(\\{1, 2, 3, 4, 5\\},\\) and Sergio randomly selects a number from the set \\(\\{1, 2, \\ldots, 10\\}.\\) The probability that Sergio’s number is larger than the sum of the two numbers chosen by Tina is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数位贡献下界配合素数末位限制 / 非零数字各用一次的素数集合最小和",
+   "search_text": "Several sets of prime numbers, such as \\(\\{7, 83, 421, 659\\},\\) use each of the nine nonzero digits exactly once. What is the smallest possible sum such a set of primes could have?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q17",
+    "live-poshenloh-amc12-2002a-question_paper__q17",
+    "AMC12-2002A-Q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Several sets of prime numbers, such as \\(\\{7, 83, 421, 659\\},\\) use each of the nine nonzero digits exactly once. What is the smallest possible sum such a set of primes could have?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆心投影与勾股求公切线 / 两圆最短公切线段用内公切线",
+   "search_text": "Let \\(C_1\\) and \\(C_2\\) be circles defined by \\[(x - 10)^2 + y^2 = 36\\] and \\[(x + 15)^2 + y^2 = 81,\\] respectively. What is the length of the shortest line segment \\(\\overline{PQ}\\) that is tangent to \\(C_1\\) at \\(P\\) and to \\(C_2\\) at \\(Q?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q18",
+    "live-poshenloh-amc12-2002a-question_paper__q18",
+    "AMC12-2002A-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(C_1\\) and \\(C_2\\) be circles defined by \\[(x - 10)^2 + y^2 = 36\\] and \\[(x + 15)^2 + y^2 = 81,\\] respectively. What is the length of the shortest line segment \\(\\overline{PQ}\\) that is tangent to \\(C_1\\) at \\(P\\) and to \\(C_2\\) at \\(Q?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "复合函数逐层反求原像 / 两级原像计数",
+   "search_text": "The graph of the function \\(f\\) is shown below. How many solutions does the equation \\(f(f(x)) = 6\\) have?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q19",
+    "live-poshenloh-amc12-2002a-question_paper__q19",
+    "AMC12-2002A-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The graph of the function \\(f\\) is shown below. How many solutions does the equation \\(f(f(x)) = 6\\) have?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "枚举限定范围内的正因数 / 两位循环小数约分后分母的因数集合",
+   "search_text": "Suppose that \\(a\\) and \\(b\\) are digits, not both nine and not both zero, and the repeating decimal \\(0.\\overline{ab}\\) is expressed as a fraction in lowest terms. How many different denominators are possible?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q20",
+    "live-poshenloh-amc12-2002a-question_paper__q20",
+    "AMC12-2002A-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose that \\(a\\) and \\(b\\) are digits, not both nine and not both zero, and the repeating decimal \\(0.\\overline{ab}\\) is expressed as a fraction in lowest terms. How many different denominators are possible?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "有限状态转移找周期 / 模10二阶递推以状态对判周期求前缀和",
+   "search_text": "Consider the sequence of numbers \\(4,\\) \\(7,\\) \\(1,\\) \\(8,\\) \\(9,\\) \\(7,\\) \\(6,\\) \\(\\ldots\\) For \\(n \\gt 2,\\) the \\(n\\)th term of the sequence is the units digit of the sum of the two previous terms. Let \\(S_n\\) denote the sum of the first \\(n\\) terms of this sequence. The smallest value of \\(n\\) for which \\(S_n \\gt 10{,}000\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q21",
+    "live-poshenloh-amc12-2002a-question_paper__q21",
+    "AMC12-2002A-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Consider the sequence of numbers \\(4,\\) \\(7,\\) \\(1,\\) \\(8,\\) \\(9,\\) \\(7,\\) \\(6,\\) \\(\\ldots\\) For \\(n \\gt 2,\\) the \\(n\\)th term of the sequence is the units digit of the sum of the two previous terms. Let \\(S_n\\) denote the sum of the first \\(n\\) terms of this sequence. The smallest value of \\(n\\) for which \\(S_n \\gt 10{,}000\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续随机量画区域算概率 / 射线交边长度门槛化三角区域",
+   "search_text": "Triangle \\(ABC\\) is a right triangle with \\(\\angle ACB\\) as its right angle, \\(m\\angle ABC = 60^\\circ,\\) and \\(AB = 10.\\) Let \\(P\\) be randomly chosen inside \\(\\triangle ABC,\\) and extend \\(\\overline{BP}\\) to meet \\(\\overline{AC}\\) at \\(D.\\) What is the probability that \\(BD \\gt 5\\sqrt{2}?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q22",
+    "live-poshenloh-amc12-2002a-question_paper__q22",
+    "AMC12-2002A-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Triangle \\(ABC\\) is a right triangle with \\(\\angle ACB\\) as its right angle, \\(m\\angle ABC = 60^\\circ,\\) and \\(AB = 10.\\) Let \\(P\\) be randomly chosen inside \\(\\triangle ABC,\\) and extend \\(\\overline{BP}\\) to meet \\(\\overline{AC}\\) at \\(D.\\) What is the probability that \\(BD \\gt 5\\sqrt{2}?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "角平分线分边接长度与面积比例 / 垂直平分线与角平分线共同约束面积",
+   "search_text": "In triangle \\(ABC,\\) side \\(\\overline{AC}\\) and the perpendicular bisector of \\(\\overline{BC}\\) meet in point \\(D,\\) and \\(\\overline{BD}\\) bisects \\(\\angle ABC.\\) If \\(AD = 9\\) and \\(DC = 7,\\) what is the area of triangle \\(ABD?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q23",
+    "live-poshenloh-amc12-2002a-question_paper__q23",
+    "AMC12-2002A-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In triangle \\(ABC,\\) side \\(\\overline{AC}\\) and the perpendicular bisector of \\(\\overline{BC}\\) meet in point \\(D,\\) and \\(\\overline{BD}\\) bisects \\(\\angle ABC.\\) If \\(AD = 9\\) and \\(DC = 7,\\) what is the area of triangle \\(ABD?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "幂与共轭条件先定模长再解辐角 / 幂等于共轭转单位根并单列零",
+   "search_text": "Find the number of ordered pairs of real numbers \\((a, b)\\) such that \\((a + bi)^{2002} = a - bi.\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q24",
+    "live-poshenloh-amc12-2002a-question_paper__q24",
+    "AMC12-2002A-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Find the number of ordered pairs of real numbers \\((a, b)\\) such that \\((a + bi)^{2002} = a - bi.\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002a-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "图像读取符号与关键取值 / 系数平均保和与正半轴同号单调约束",
+   "search_text": "The nonzero coefficients of a polynomial \\(P\\) with real coefficients are all replaced by their mean to form a polynomial \\(Q.\\) Which of the following could be a graph of \\(y = P(x)\\) and \\(y = Q(x)\\) over the interval \\(-4 \\le x \\le 4?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-A-Q25",
+    "live-poshenloh-amc12-2002a-question_paper__q25",
+    "AMC12-2002A-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The nonzero coefficients of a polynomial \\(P\\) with real coefficients are all replaced by their mean to form a polynomial \\(Q.\\) Which of the following could be a graph of \\(y = P(x)\\) and \\(y = Q(x)\\) over the interval \\(-4 \\le x \\le 4?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002a-question_paper__q25.md"
+  }
+ ]
+}

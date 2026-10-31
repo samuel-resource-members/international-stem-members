@@ -1,0 +1,337 @@
+{
+ "group": "mat-2017-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2017-mat-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2017-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "1. For ALL APPLICANTS.\nFor each part of the question on pages 3-7 you will be given ﬁve possible answers, just\none of which is correct. Indicate for each part A-J which answer (a), (b), (c), (d), or\n(e) you think is correct with a tick (!) in the corresponding column in the table below.\nPlease show any rough working in the space provided between the parts.\n\n\n\n\n                         (a)          (b)           (c)          (d)           (e)\n\n\n\n      A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n       E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n         J\n\n\n\n\n\n                                      2\n\nA. Let\n                           f(x) = 2x3 −kx2 + 2x −k.\n\nFor what values of the real number k does the graph y = f(x) have two distinct real\nstationary points?\n\n    √     √\n(a)  −2  3 < k < 2  3      √   √\n(b)  k < −2  3 or 2  3 < k      √     √\n(c)  k < −  21 −3 or  21 −3 < k    √       √\n(d) −  21 −3 < k <  21 −3\n(e)   all values of k.\n\n\n\n\n\nB. The minimum value achieved by the function\n\n                          f(x) = 9 cos4 x −12 cos2 x + 7\n\nequals\n                   (a)  3    (b)  4     (c)  5    (d)  6     (e)   7.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      3\n\nC. A sequence (an) has the property that\n                                          an\n                                   an+1 =\n                                          an−1\nfor every n ⩾2. Given that a1 = 2 and a2 = 6, what is a2017?\n                    1         1         1\n                  (a)        (b)         (c)        (d)  2     (e)   3.\n                    6         3         2\n\n\n\n\n\nD. The diagram below shows the graph of y = f(x).\n\n                                                               y\n\n\n\n                                                            5\n\n\n\n                                                                      x\n                                     −4   −2           2      4\n\n\n                                             −5\n\n\nThe graph of the function y = −f(−x) is drawn in which of the following diagrams?\n                        y                                                   y                                                  y\n\n\n\n                      5                                                 5                                                 5\n\n\n\n                                     x                                           x                                           x\n       −4   −2           2      4                 −4   −2           2      4                 −4   −2           2      4\n\n\n                −5                                     −5                                     −5\n\n(a)                               (b)                                  (c)\n                         y                                                  y\n\n\n\n                      5                                                 5\n\n\n\n                                     x                                           x\n        −4   −2           2      4                 −4   −2           2      4\n\n\n                −5                                     −5\n\n(d)                                  (e)\n\n\n                                      4\n\nE. Let a and b be positive integers such that a + b = 20. What is the maximum value\nthat a2b can take?\n\n          (a)  1000    (b)  1152     (c)  1176    (d)  1183     (e)  1196.\n\n\n\n\n\nF. The picture below shows the unit circle, where each point has coordinates (cos x, sin x)\nfor some x. Which of the marked arcs corresponds to\n\n                             tan x < cos x < sin x ?\n\n                                         sin x\n\n\n\n                    C       B\n\n\n\n\n\n                                  A\n\n                                                                 cos x\n\n           D\n\n\n\n                               E\n\n\n\n\n\n                 (a) A    (b) B     (c) C     (d) D     (e)  E.\n\n\n\n                                                               Turn over\n\n\n\n                                      5\n\nG. For all θ in the range 0 ⩽θ < 2π the line\n\n                              (y −1) cos θ = (x + 1) sin θ\n\ndivides the disc x2 + y2 ⩽4 into two regions. Let A(θ) denote the area of the larger\nregion.\n\nThen A(θ) achieves its maximum value at\n\n       (a)   one value of θ     (b)   two values of θ     (c)   three values of θ\n       (d)   four values of θ     (e)    all values of θ.\n\n\n\n\n\nH. In this question a and b are real numbers, and a is non-zero.\nWhen the polynomial x2 −2ax + a4 is divided by x + b the remainder is 1.\nThe polynomial bx2 + x + 1 has ax −1 as a factor.\n\nIt follows that b equals\n\n    (a)  1 only    (b)  0 or −2     (c)  1 or 2    (d)  1 or 3     (e)  −1 or 2.\n\n\n\n\n\n                                      6\n\nI. Let a, b, c > 0 and a ̸= 1. The equation\n\n                                          cx          1\n                      logb ((bx)x) + loga    + loga      loga(c) = 0\n                                          bx            b\n\nhas a repeated root when\n\n                            1               b             1\n    (a)   b2 = 4ac    (b)  b =       (c)  c =       (d)  c =       (e)  a = b = c.\n                          a            a               b\n\n\n\n\n\nJ. Which of these integrals has the largest value? You are not expected to calculate the\nexact value of any of these.\n\n        Z 2                       Z 2π                   Z π\n     (a)      (x2 −4) sin8(πx) dx    (b)       (2 + cos x)3 dx     (c)       sin100 x dx\n              0                                       0                                  0\n        Z π                   Z 8π\n     (d)      (3 −sin x)6 dx     (e)       108(sin3 x −1) dx.\n              0                                0\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2017",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions17.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2017-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2017-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2017-mat-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2017-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "二次方程",
+   "problem_type": "解二次方程或判断根的情况",
+   "search_text": "2. For ALL APPLICANTS.\n\n   There is a unique real number α that satisﬁes the equation\n\n                                 α3 + α2 = 1.\n\n[You are not asked to prove this.]\n\n(i) Show that 0 < α < 1.\n\n(ii) Show that\n                              α4 = −1 + α + α2.\n\n(iii) Four functions of α are given in (a) to (d) below. In a similar manner to part (ii),\neach is equal to a quadratic expression\n\n                     A + Bα + Cα2\n\nin α, where A, B, C are integers. (So in (ii) we found A = −1, B = 1, C = 1.) You may\nassume in each case that the quadratic expression is unique.\n\nIn each case below ﬁnd the quadratic expression in α.\n\n    (a) α−1.\n\n   (b) The inﬁnite sum\n\n                        1 −α + α2 −α3 + α4 −α5 + · · · .\n\n    (c) (1 −α)−1.\n\n   (d) The inﬁnite product\n\n                     (1 + α)(1 + α2)(1 + α4)(1 + α8)(1 + α16) · · · .\n\n\n\n\n\n                                      8\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                             9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2017",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions17.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2017-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2017-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2017-mat-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2017-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "3.\n             MATHEMATICS                \n                                                               MATHEMATICS & STATISTICS       For APPLICANTS IN                                     ONLY.\n                MATHEMATICS & PHILOSOPHY\n                                                               MATHEMATICS & COMPUTER SCIENCE \n\nComputer Science and Computer Science & Philosophy applicants should turn to\npage 14.\n\nFor each positive integer k, let fk(x) = x1/k for x ⩾0.\n\n(i) On the same axes (provided below), labelling each curve clearly, sketch y = fk(x) for\nk = 1, 2, 3, indicating the intersection points.\n\n(ii) Between the two points of intersection in (i), the curves y = fk(x) enclose several\nregions. What is the area of the region between y = fk(x) and y = fk+1(x)? Verify that\nthe area of the region between y = f1(x) and y = f2(x) is 16.\n\nLet c be a constant where 0 < c < 1.\n\n(iii) Find the x-coordinates of the points of intersection of the line y = c with y = f1(x)\nand of y = c with y = f2(x).\n\n(iv) The constant c is chosen so that the line y = c divides the region between y = f1(x)\nand y = f2(x) into two regions of equal area. Show that c satisﬁes the cubic equation\n4c3 −6c2 + 1 = 0. Hence ﬁnd c.\n\n       y\n\n     1.5\n\n    1.25\n\n      1\n\n    0.75\n\n     0.5\n\n    0.25\n\n                                     x\n             0.25  0.5  0.75   1   1.25  1.5\n\n\n\n\n\n                                     10\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            11\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2017",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions17.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2017-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2017-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2017-mat-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2017-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "4.\n              MATHEMATICS           \n                                  For APPLICANTS IN  MATHEMATICS & STATISTICS\n              MATHEMATICS & PHILOSOPHY ONLY.\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 14.\n\nA horse is attached by a rope to the corner of a square ﬁeld of side length 1.\n\n(i) What length of rope allows the horse to reach precisely half the area of the ﬁeld?\n\nAnother horse is placed in the ﬁeld, attached to the corner diagonally opposite from the\nﬁrst horse. Each horse has a length of rope such that each can reach half the ﬁeld.\n\n(ii) Explain why the area that both can reach is the same as the area neither can reach.\n\n\n\n\n\n                         α\n\n\n                                                              √π(iii) The angle α is marked in the diagram above. Show that α = cos−1      and hence                                                                                         2\n                                                4       √π  q 4−πshow that the area neither can reach is  cos−1    −          . Note that cos−1 can also                                          π           2         π\nbe written as arccos.\n\nA third horse is placed in the ﬁeld, and the three horses are rearranged. One horse is\nnow attached to the midpoint of the bottom side of the ﬁeld, and another horse is now\nattached to the midpoint of the left side of the ﬁeld. The third horse is attached to the\nupper right corner.\n\n(iv) Given each horse can access an equal area of the ﬁeld and that none of the areas\noverlap, what length of rope must each horse have to minimise the area that no horse\ncan reach?\n\nThe horses on the bottom and left midpoints of the ﬁeld are each replaced by a goat;\neach goat is attached by a rope of length g to the same midpoint as in part (iii). The\nremaining horse is attached to the upper right corner with rope length h.\n\n(v) Given that 0 ⩽h ⩽1, and that none of the animals’ areas can overlap, show that√\n  5−2 ⩽g ⩽ √1  holds if the area that the animals can reach is maximised.  2            2  2\n\n                                     12\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            13\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2017",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions17.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2017-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2017-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2017-mat-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2017-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For ALL APPLICANTS.\n\nTen children, c0, c1, c2, . . . , c9, are seated clockwise in a circle. The teacher walks clock-\nwise behind the children with a large bag of sweets. She gives a sweet to child c1. She\nthen skips a child and gives a sweet to the next child, c3. Next she skips two children\nand gives a sweet to the next child, c6. She continues in this way, at each stage skipping\none more child than at the preceding stage before giving a sweet to the next child.\n\n(i) The kth sweet is given to child ci. Explain why i is the last digit of the number\n\n                                   k(k + 1)\n                                                                           .\n                                     2\n\n(ii) Let 1 ⩽k ⩽18. Explain why the kth and (20 −k −1)th sweets are given to the\nsame child.\n\n(iii) Explain why the kth sweet is given to the same child as the (k + 20)th sweet.\n\n(iv) Which children can never receive any sweets?\n\nWhen the teacher has given out all the sweets, she has walked exactly 183 times round\nthe circle, and given the last sweet to c0.\n\n(v) How many sweets were there initially?\n\n(vi) Which children received the most sweets and how many did they receive?\n\n\n\n\n\n                                     14\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2017",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions17.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2017-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2017-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2017-mat-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2017-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6.\n             COMPUTER SCIENCE            \n                                      For APPLICANTS IN  MATHEMATICS & COMPUTER SCIENCE\n             COMPUTER SCIENCE & PHILOSOPHY  ONLY.\n\nYou need to pack several items into your shopping bag, without squashing any item.\nSuppose each item i has a (positive) weight wi, and a strength si which is the maximum\nweight that can be placed above it without it being squashed. For the purposes of this\nquestion, suppose that the items will be arranged one on top of the other within your\nbag. We will say that a particular packing order is safe if no item is squashed, that is,\nfor each item i, si is at least the sum of the wj corresponding to items j placed above\nitem i. For example, suppose we have the following items, packed in the order given\n\n                           Ordering  Item     wi   si\n                         Top    Apples   5   6\n                           Middle   Bread    4   4\n                        Bottom   Carrots  12  9\n\nThis packing is not safe: the bread is squashed, since the weight above it (5) is greater\nthan its strength (4). However, swapping the apples and the bread gives a safe packing.\n\n(i) Which of the other four orderings of apples, bread, and carrots are safe or unsafe?\n\n(ii) Consider the tactic of packing the items in weight order, with the heaviest at the\nbottom. Show by giving an example that this might not produce a safe packing order,\neven if a safe packing order exists.\n\n(iii) Now consider the tactic of packing the items in strength order, with the strongest\nat the bottom. Again show by giving an example that this might not produce a safe\npacking order, even if one exists.\n\n(iv) Suppose we have a safe packing order, with item j directly on top of item i. Suppose\nfurther that\n\n                             wj −si ⩾  wi −sj.\n\nShow that if we swap items i and j, we still have a safe packing order.\n\n(v) Hence suggest a practical method of producing a safe packing order if one exists.\nExplain why your method works. (Listing all possible orderings is not practical.)\n\n\n\n\n\n                                     16\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            17\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2017",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions17.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2017-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2017-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2017-mat-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2017-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "7.\n              COMPUTER SCIENCE\nFor APPLICANTS IN                                   ONLY.\n              COMPUTER SCIENCE & PHILOSOPHY\n\nA simple computer can operate on lists of numbers in several ways.\n\n   • Given two lists a and b, it can make the join a + b, by placing list b after list a.\n     For example if\n\n           a = (1, 2, 3, 4)  and  b = (5, 6, 7)  then  a + b = (1, 2, 3, 4, 5, 6, 7).\n\n\n   • Given a list a it can form the reverse sequence R(a) by listing a in reverse order.\n     For example if\n                      a = (1, 2, 3, 4)  then  R(a) = (4, 3, 2, 1).\n\n(i) Given sequences a and b, express R(a + b) as the join of two sequences. What is\nR(R(a))?\n\n   • Given a sequence a of length n and 0 ⩽k ⩽n, then the kth shuﬄe Sk of a moves\n     the ﬁrst k elements of a to the end of the sequence in reverse order. For example\n\n             S2(1, 2, 3, 4, 5) = (3, 4, 5, 2, 1)  and  S3(1, 2, 3, 4, 5) = (4, 5, 3, 2, 1).\n\n(ii) Given two sequences a and b, both of length k, express Sk(a + b) as the join of two\nsequences. What is Sk(Sk(a + b))?\n\n(iii) Now let a = (1, 2, 3, 4, 5, 6, 7, 8). Write down\n\n                                     S5(S5(a))\n\nas the join of three sequences that are either in order or in reverse order. Show that the\nsequence a is back in its original order after four S5 shuﬄes.\n\n(iv) Now let a be a sequence of length n with k ⩾n/2. Prove, after Sk is performed four\ntimes, that the sequence returns to its original order.\n\n(v) Give an example to show that when k < n/2, the sequence need not be in its original\norder after Sk is performed four times. For your example how many times must Sk be\nperformed to ﬁrst return the sequence to its original order?\n\n\n\n\n\n                                                 End of last question\n\n\n\n                                     18\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            19\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2017",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions17.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2017-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2017-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2017-mat-question-paper__q07.md"
+  }
+ ]
+}

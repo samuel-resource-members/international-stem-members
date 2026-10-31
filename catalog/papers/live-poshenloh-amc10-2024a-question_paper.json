@@ -1,0 +1,1333 @@
+{
+ "group": "live-poshenloh-amc10-2024a-question_paper",
+ "course_id": "AMC10",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q01",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "代数式化简：展开、合并或提出公共部分 / 相邻乘积相减：直接展开或提基准数",
+   "search_text": "1.  What is the value of 9901 ⋅101 −99 ⋅10101?\n\n     A   2\n\n    B   20\n\n    C   200\n\n    D   202\n\n     E   2020\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q01",
+    "live-poshenloh-amc10-2024a-question_paper__q01",
+    "AMC10-2024A-Q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q02",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "两项线性条件：倍乘相减消去一个未知量 / 双因素线性模型：两标定方程消元",
+   "search_text": "2. A model used to estimate the time it will take to hike to the top of the mountain on a\n     trail is of the form T = aL + bG, where a and b are constants, T is the time in minutes,\n  L is the length of the trail in miles, and G is the altitude gain in feet. The model\n   estimates that it will take 69 minutes to hike to the top if a trail is 1.5 miles long and\n   ascends 800 feet, as well as if a trail is 1.2 miles long and ascends 1100 feet. How\n   many minutes does the model estimate it will take to hike to the top if the trail is 4.2\n    miles long and ascends 4000 feet?\n\n     A   240\n\n    B   246\n\n    C   252\n\n    D   258\n\n     E   264\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q02",
+    "live-poshenloh-amc10-2024a-question_paper__q02",
+    "AMC10-2024A-Q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q03",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "含质数的和差或根：先用奇偶排除除2外的偶数 / 五不同素数之和仍素：奇偶先排2",
+   "search_text": "3. What is the sum of the digits of the smallest prime that can be written as a sum of 5\n    distinct primes?\n\n     A   5\n\n    B   7\n\n    C   9\n\n    D   10\n\n     E   11\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q03",
+    "live-poshenloh-amc10-2024a-question_paper__q03",
+    "AMC10-2024A-Q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q04",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "装足总量或达到门槛：商向上取整并检查末份 / 两位数求和最少项：最大单项给界",
+   "search_text": "4. The number 2024 is written as the sum of not necessarily distinct two-digit numbers.\n   What is the least number of two-digit numbers needed to write this sum?\n\n     A   20\n\n    B   21\n\n    C   22\n\n    D   23\n\n     E   24\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q04",
+    "live-poshenloh-amc10-2024a-question_paper__q04",
+    "AMC10-2024A-Q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q05",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "阶乘整除关系：约去公共因子后检查质因数指数 / 阶乘含指定数：最大素因子界",
+   "search_text": "5. What is the least value of n such that n! is a multiple of 2024?\n\n     A   11\n\n    B   21\n\n    C   22\n\n    D   23\n\n     E   253\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q05",
+    "live-poshenloh-amc10-2024a-question_paper__q05",
+    "AMC10-2024A-Q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q06",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相邻交换逆序：逆序对数下界可达",
+   "search_text": "6. What is the minimum number of successive swaps of adjacent letters in the string\n   ABCDEF that are needed to change the string to FEDCBA?\n\n    (For example, 3 swaps are required to change ABC to CBA; one such sequence of\n   swaps is ABC → BAC → BCA → CBA.)\n\n     A   6\n\n    B   10\n\n    C   12\n\n    D   15\n\n     E   24\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q06",
+    "live-poshenloh-amc10-2024a-question_paper__q06",
+    "AMC10-2024A-Q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q07",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定整数乘积：枚举因数搭配并比较和或周长 / 整数三因数最小正和：允许两负并枚举因数",
+   "search_text": "7.  The product of three integers is 60. What is the least possible positive sum of the three\n    integers?\n\n     A   2\n\n    B   3\n\n    C   5\n\n    D   6\n\n     E   13\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q07",
+    "live-poshenloh-amc10-2024a-question_paper__q07",
+    "AMC10-2024A-Q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q08",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多人工作有进退场：累计个人贡献 / 多人工时贡献：先算始终在场者产量",
+   "search_text": "8. Amy, Bomani, Charlie, and Daria work in a chocolate factory. On Monday Amy, Bomani,\n   and Charlie started working at 1:00 PM and were able to pack 4,3, and 3 packages,\n    respectively, every 3 minutes. At some later time, Daria joined the group, and Daria was\n   able to pack 5 packages every 4 minutes. Together, they finished packing 450\n   packages at exactly 2:45 PM. At what time did Daria join the group?\n\n     A    1:25 PM\n\n    B    1:35 PM\n\n    C    1:45 PM\n\n    D    1:55 PM\n\n     E    2:05 PM\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q08",
+    "live-poshenloh-amc10-2024a-question_paper__q08",
+    "AMC10-2024A-Q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q09",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "不标号分队且每队两类各二：各组配对再匹配",
+   "search_text": "9.  In how many ways can 6 juniors and 6 seniors form 3 disjoint teams of 4 people so that\n   each team has 2 juniors and 2 seniors?\n\n     A   720\n\n    B   1350\n\n    C   2700\n\n    D   3280\n\n     E   8100\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q09",
+    "live-poshenloh-amc10-2024a-question_paper__q09",
+    "AMC10-2024A-Q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q10",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "有限状态重复操作：列完整状态直到出现循环 / 分段整数操作：先找尾段周期再取余",
+   "search_text": "10. Consider the following operation. Given a positive integer n, if n is a multiple of 3, then\n                   n   you replace n by    ​. If n is not a multiple of 3, then you replace n by n + 10. Then                       3\n   continue this process. For example, beginning with n = 4, this procedure gives 4 →\n   14 →24 →8→18 →6 →2 →12 →⋯.\n\n   Suppose you start with n = 100. What value results if you perform this operation\n    exactly 100 times?\n\n     A   10\n\n    B   20\n\n    C   30\n\n    D   40\n\n     E   50\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q10",
+    "live-poshenloh-amc10-2024a-question_paper__q10",
+    "AMC10-2024A-Q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q11",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整数平方差：分解为两因子并检查同奇偶 / 平方根为整数且非负：平方差因数对",
+   "search_text": "11. How many ordered pairs of integers (m, n) satisfy\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                          n 2 −49                         = m?\n\n\n     A   1\n\n    B   2\n\n    C   3\n\n    D   4\n\n\n     E     Infinitely many\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q11",
+    "live-poshenloh-amc10-2024a-question_paper__q11",
+    "AMC10-2024A-Q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q12",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "每日增减量：先累计还原原值再求均值 / 柱状变化量还原原值：累计再平均",
+   "search_text": "12. Zelda played the Adventures of Math game on August 1 and scored 1700 points. She\n   continued to play daily over the next 5 days. The bar chart below shows the daily\n   change in her score compared to the day before. (For example, Zelda’s score on\n   August 2 was 1700 + 80 = 1780 points.) What was Zelda’s average score in points\n   over the 6 days?\n\n\n\n\n\n     A   1700\n\n    B   1702\n\n    C   1703\n\n    D   1713\n\n     E   1715\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q12",
+    "live-poshenloh-amc10-2024a-question_paper__q12",
+    "AMC10-2024A-Q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q13",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "旋转反射的复合：逐次写坐标映射并按顺序作用 / 变换可交换：逐对写坐标复合",
+   "search_text": "13. Two transformations are said to commute if applying the first followed by the second\n   gives the same result as applying the second followed by the first. Consider these four\n   transformations of the coordinate plane:\n\n   • a translation 2 units to the right,\n\n   • a 90∘ rotation counterclockwise about the origin,\n\n   • a reflection across the x -axis, and\n\n   • a dilation centered at the origin with scale factor 2.\n\n   Of the 6 pairs of distinct transformations from this list, how many commute?\n\n     A   1\n\n    B   2\n\n    C   3\n\n    D   4\n\n     E   5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q13",
+    "live-poshenloh-amc10-2024a-question_paper__q13",
+    "AMC10-2024A-Q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q14",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "切线围成曲边区域：直线多边形面积减扇形或弓形 / 圆切楔形空隙：切线四边形减扇形",
+   "search_text": "14. One side of an equilateral triangle of height 24 lies on line ℓ. A circle of radius 12 is\n   tangent to ℓ and is externally tangent to the triangle. The area of the region exterior to\n   the triangle and the circle and bounded by the triangle, the circle, and line ℓ can be\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​    written as a  b         − cπ, where a,b, and c are positive integers and b is not divisible by the\n   square of any prime. What is a + b + c?\n\n     A   72\n\n    B   73\n\n    C   74\n\n    D   75\n\n     E   76\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q14",
+    "live-poshenloh-amc10-2024a-question_paper__q14",
+    "AMC10-2024A-Q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q15",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整数平方差：分解为两因子并检查同奇偶 / 两平方差固定求最大：最小同奇偶因数差",
+   "search_text": "15. Let M be the greatest integer such that both M + 1213 and M + 3773 are perfect\n   squares. What is the units digit of M?\n\n     A   1\n\n    B   2\n\n    C   3\n\n    D   6\n\n     E   8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q15",
+    "live-poshenloh-amc10-2024a-question_paper__q15",
+    "AMC10-2024A-Q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q16",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相似图形面积：长度比平方或由面积比开平方 / 相似矩形面积拼边：统一长宽比参数",
+   "search_text": "16. All of the rectangles in the figure below, which is drawn to scale, are similar to the\n   enclosing rectangle. Each number represents the area of the rectangle. What is length\n  AB?\n\n\n\n\n\n     A   4 + 4   ​5\n\n    B   10   ​2\n\n    C   5 + 5   ​5\n\n\n    D                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​         10 4 8\n\n     E   20\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q16",
+    "live-poshenloh-amc10-2024a-question_paper__q16",
+    "AMC10-2024A-Q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q17",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "先到指定胜场：枚举合法停止路径并相加概率 / 三局两胜异地胜率：枚举停止路径",
+   "search_text": "17. Two teams are in a best-two-out-of-three playoff:the teams will play at most 3\n   games, and the winner of the playoffis the first team to win 2 games. The first game is\n   played on Team A’s home field, and the remaining games are played on Team B’s home\n                         2    field. Team A has a  chance of winning at home, and its probability of winning when                                          ​3\n    playing away from home is p. Outcomes of the games are independent. The\n                                                  1    probability that Team A wins the playoffis    ​. Then p can be written in the form                                                  2\n\n\n\n\n\n                                                                                                                                                        ​                                                                                                                                                                                                                                                                                                                    ​    1( m −  n) , where m and n are positive integers. What is m + n?    2\n\n     A   10\n\n    B   11\n\n    C   12\n\n    D   13\n\n     E   14\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q17",
+    "live-poshenloh-amc10-2024a-question_paper__q17",
+    "AMC10-2024A-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q18",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "进制数的整除与余数：按位展开后模运算 / 进制多项式模16：降到基数模8",
+   "search_text": "18. There are exactly K positive integers b with 5 ≤b ≤2024 such that the base- b\n    integer 2024 ​b is divisible by 16 (where 16 is in base ten). What is the sum of the digits of\n  K?\n\n     A   16\n\n    B   17\n\n    C   18\n\n    D   20\n\n     E   21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q18",
+    "live-poshenloh-amc10-2024a-question_paper__q18",
+    "AMC10-2024A-Q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q19",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "代数",
+   "knowledge_point": "等比数列",
+   "problem_type": "三项整数等比：中项平方等于两端乘积并筛因数 / 整数等比三项：中项平方的相邻因数",
+   "search_text": "19. The first three terms of a geometric sequence are the integers a,720, and b, where\n   a < 720 < b. What is the sum of the digits of the least possible value of b?\n\n     A   9\n\n    B   12\n\n    C   16\n\n    D   18\n\n     E   21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q19",
+    "live-poshenloh-amc10-2024a-question_paper__q19",
+    "AMC10-2024A-Q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q20",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "双重最小间距选集：有限记忆状态动态规划",
+   "search_text": "20. Let S be a subset of {1, 2, 3, … , 2024} such that the following two conditions hold:\n\n    • If x and y are distinct elements of S, then ∣x −y∣> 2.\n\n    • If x and y are distinct odd elements of S, then ∣x −y∣> 6.\n\n   What is the maximum possible number of elements in S?\n\n     A   436\n\n     B   506\n\n    C   608\n\n    D   654\n\n      E   675\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q20",
+    "live-poshenloh-amc10-2024a-question_paper__q20",
+    "AMC10-2024A-Q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q21",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "行列皆等差阵列：双线性通式",
+   "search_text": "21. The numbers, in order, of each row and the numbers, in order, of each column of a 5 ×\n   5 array of integers form an arithmetic progression of length 5. The numbers in\n    positions (5, 5),(2, 4),(4, 3), and (3, 1) are 0,48,16, and 12, respectively. What\n   number is in position (1, 2)?\n\n                                                    ⋅   ?     ⋅      ⋅     ⋅\n                                                    ⋅     ⋅     ⋅   48    ⋅\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​                                                                            ​                                                                                                                 ​                                                                                                                                                          ​                                                                                                                                                          ​                                                                                                                   ​                                                   ​                            12    ⋅     ⋅      ⋅     ⋅\n                                                    ⋅     ⋅  16     ⋅     ⋅\n                                                    ⋅     ⋅     ⋅      ⋅   0\n\n\n     A   19\n\n    B   24\n\n    C   29\n\n    D   34\n\n     E   39\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q21",
+    "live-poshenloh-amc10-2024a-question_paper__q21",
+    "AMC10-2024A-Q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q22",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平面交线围面积：设坐标求交点再算面积 / 全等风筝拼图：逐边向量定位三角顶点",
+   "search_text": "22. Let K be the kite formed by joining two right triangles with legs 1 and    ​3 along a\n   common hypotenuse. Eight copies of K are used to form the polygon shown below.\n   What is the area of △ABC?\n\n\n\n\n\n     A   2 + 3  3\n\n         9\n     B                                                                                                                                                                                 ​  3\n         2                                                                                                                 ​\n\n         10 + 8  3    C\n             3\n\n    D   8\n\n\n     E         5   ​3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q22",
+    "live-poshenloh-amc10-2024a-question_paper__q22",
+    "AMC10-2024A-Q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q23",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多项式方程：移项提因式后分零因子讨论 / 三整数乘加联立：相减因式给有限候选",
+   "search_text": "23. Integers a,b, and c satisfy\n\n                                ab + c = 100,\n                                   bc + a        ​ = 87,                                       ​\n                                ca + b = 60.\n\n\n   What is ab + bc + ca?\n\n     A   212\n\n     B   247\n\n    C   258\n\n    D   276\n\n     E   284\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q23",
+    "live-poshenloh-amc10-2024a-question_paper__q23",
+    "AMC10-2024A-Q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q24",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "立方体或格点不重复路径：记已访顶点与边逐步枚举 / 三维随机步属于同一单位立方：包围盒与不重边",
+   "search_text": "24. A bee is moving in three-dimensional space. A fair six-sided die with faces labeled\n    +      +      +  A  , A −B,      , B −C,     , and C− is rolled. Suppose the bee occupies the point (a, b, c).\n                +      If the die shows A  , then the bee moves to the point (a + 1, b, c), and if the die\n         −   shows A  , then the bee moves to the point (a −1, b, c). Analogous moves are made\n\n    with the other four outcomes.\n\n   Suppose the bee starts at the point (0, 0, 0) and the die is rolled four times. What is\n    the probability that the bee traverses four distinct edges of some unit cube?\n\n          1\n     A                                                                                                                                                                                                                        ​\n         54\n\n          7\n     B                                                                                                                                                                                                                       ​\n         54\n\n         1\n    C\n                ​6\n\n          5\n    D                                                                                                                                                                                                                      ​\n         18\n\n         2     E\n                ​5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q24",
+    "live-poshenloh-amc10-2024a-question_paper__q24",
+    "AMC10-2024A-Q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "A",
+   "id": "live-poshenloh-amc10-2024a-question_paper__q25",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "网格单闭环边选择：度数与连通性及格线索约束",
+   "search_text": "25. The figure below shows a dotted grid 8 cells wide and 3 cells tall consisting of 1 ′′ × 1′′\n     squares. Carl places 1 -inch toothpicks along some of the sides of the squares to\n     create a closed loop that does not intersect itself. The numbers in the cells indicate\n     the number of sides of that square that are to be covered by toothpicks, and any\n\n    number of toothpicks are allowed if no number is written. In how many ways can Carl\n     place the toothpicks?\n\n\n\n\n\n      A   130\n\n      B   144\n\n     C   146\n\n     D   162\n\n       E   196\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/amc10/2024A/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 10A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 10A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2024-A-Q25",
+    "live-poshenloh-amc10-2024a-question_paper__q25",
+    "AMC10-2024A-Q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2024a-question_paper__q25.md"
+  }
+ ]
+}

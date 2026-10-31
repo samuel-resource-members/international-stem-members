@@ -1,0 +1,1276 @@
+{
+ "group": "live-poshenloh-amc10-2011a-question_paper",
+ "course_id": "AMC10",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q01",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定费用加用量费用：基价加单价乘数量 / 固定月费加分项超额费：统一时间单位",
+   "search_text": "A cell phone plan costs \\(\\$20\\) each month, plus \\(5\\)¢ per text message sent, plus \\(10\\)¢ for each minute used over \\(30\\) hours. In January Michelle sent \\(100\\) text messages and talked for \\(30.5\\) hours. How much did she have to pay?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q01",
+    "live-poshenloh-amc10-2011a-question_paper__q01",
+    "AMC10-2011A-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A cell phone plan costs \\(\\$20\\) each month, plus \\(5\\)¢ per text message sent, plus \\(10\\)¢ for each minute used over \\(30\\) hours. In January Michelle sent \\(100\\) text messages and talked for \\(30.5\\) hours. How much did she have to pay?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q02",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "装足总量或达到门槛：商向上取整并检查末份 / 定容量小瓶装足大瓶：商上取整",
+   "search_text": "A small bottle of shampoo can hold \\(35\\) milliliters of shampoo, whereas a large bottle can hold \\(500\\) milliliters of shampoo. Jasmine wants to buy the minimum number of small bottles necessary to completely fill a large bottle. How many bottles must she buy?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q02",
+    "live-poshenloh-amc10-2011a-question_paper__q02",
+    "AMC10-2011A-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A small bottle of shampoo can hold \\(35\\) milliliters of shampoo, whereas a large bottle can hold \\(500\\) milliliters of shampoo. Jasmine wants to buy the minimum number of small bottles necessary to completely fill a large bottle. How many bottles must she buy?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q03",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "嵌套自定义运算：由内向外逐层代入 / 嵌套均值：先算内层再数外层对象",
+   "search_text": "Suppose \\([a\\ b]\\) denotes the average of \\(a\\) and \\(b,\\) and \\(\\{a\\ b\\ c\\}\\) denotes the average of \\(a,\\) \\(b,\\) and \\(c.\\) What is the value of the following expression? \\[\\{\\{1 \\ 1 \\ 0\\} \\ [0 \\ 1] \\ 0\\}\\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q03",
+    "live-poshenloh-amc10-2011a-question_paper__q03",
+    "AMC10-2011A-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose \\([a\\ b]\\) denotes the average of \\(a\\) and \\(b,\\) and \\(\\{a\\ b\\ c\\}\\) denotes the average of \\(a,\\) \\(b,\\) and \\(c.\\) What is the value of the following expression? \\[\\{\\{1 \\ 1 \\ 0\\} \\ [0 \\ 1] \\ 0\\}\\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q04",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相邻或错位求和：配对相减消去公共项 / 相邻等差和相减：删去公共项",
+   "search_text": "Let \\(X\\) and \\(Y\\) be the following sums of arithmetic sequences: \\[\\begin{aligned} X &= 10+12+14+\\cdots+100,\\\\ Y &= 12+14+16+\\cdots+102. \\end{aligned}\\] What is the value of \\(Y - X?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q04",
+    "live-poshenloh-amc10-2011a-question_paper__q04",
+    "AMC10-2011A-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(X\\) and \\(Y\\) be the following sums of arithmetic sequences: \\[\\begin{aligned} X &= 10+12+14+\\cdots+100,\\\\ Y &= 12+14+16+\\cdots+102. \\end{aligned}\\] What is the value of \\(Y - X?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q05",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多组均值合并：人数或质量作权重还原总和 / 不同人数的组均值：按比例恢复总和",
+   "search_text": "At an elementary school, the students in third grade, fourth grade, and fifth grade run an average of \\(12,\\) \\(15,\\) and \\(10\\) minutes per day, respectively. There are twice as many third graders as fourth graders, and twice as many fourth graders as fifth graders. What is the average number of minutes run per day by these students?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q05",
+    "live-poshenloh-amc10-2011a-question_paper__q05",
+    "AMC10-2011A-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "At an elementary school, the students in third grade, fourth grade, and fifth grade run an average of \\(12,\\) \\(15,\\) and \\(10\\) minutes per day, respectively. There are twice as many third graders as fourth graders, and twice as many fourth graders as fifth graders. What is the average number of minutes run per day by these students?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q06",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "并集最小：让小集合包含在大集合中",
+   "search_text": "Set \\(A\\) has \\(20\\) elements, and set \\(B\\) has \\(15\\) elements. What is the smallest possible number of elements in \\(A \\cup B,\\) the union of \\(A\\) and \\(B?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q06",
+    "live-poshenloh-amc10-2011a-question_paper__q06",
+    "AMC10-2011A-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Set \\(A\\) has \\(20\\) elements, and set \\(B\\) has \\(15\\) elements. What is the smallest possible number of elements in \\(A \\cup B,\\) the union of \\(A\\) and \\(B?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q07",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "非负式的下界：每项不能为负，取等锁定变量 / 绝对值和根式可解性：先看非负下界",
+   "search_text": "Which of the following equations does <u>not</u> have a solution?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q07",
+    "live-poshenloh-amc10-2011a-question_paper__q07",
+    "AMC10-2011A-Q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q08",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "条件概率：把已知条件的群体重新作为分母 / 条件百分比：重新选非某类作为整体",
+   "search_text": "Last summer \\(30 \\%\\) of the birds living on Town Lake were geese, \\(25 \\%\\) were swans, \\(10 \\%\\) were herons, and \\(35 \\%\\) were ducks. What percent of the birds that were not swans were geese?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q08",
+    "live-poshenloh-amc10-2011a-question_paper__q08",
+    "AMC10-2011A-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Last summer \\(30 \\%\\) of the birds living on Town Lake were geese, \\(25 \\%\\) were swans, \\(10 \\%\\) were herons, and \\(35 \\%\\) were ducks. What percent of the birds that were not swans were geese?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q09",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "坐标轴两侧矩形：端点差就是两段和",
+   "search_text": "A rectangular region is bounded by the graphs of the equations \\(y=a,\\) \\(y=-b,\\) \\(x=-c,\\) and \\(x=d,\\) where \\(a,\\) \\(b,\\) \\(c,\\) and \\(d\\) are all positive numbers. Which of the following represents the area of this region?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q09",
+    "live-poshenloh-amc10-2011a-question_paper__q09",
+    "AMC10-2011A-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A rectangular region is bounded by the graphs of the equations \\(y=a,\\) \\(y=-b,\\) \\(x=-c,\\) and \\(x=d,\\) where \\(a,\\) \\(b,\\) \\(c,\\) and \\(d\\) are all positive numbers. Which of the following represents the area of this region?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q10",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整数乘积固定：列因数对并按范围筛选 / 总费用整数三因子：人数范围与大小条件筛选",
+   "search_text": "A majority of the \\(30\\) students in Ms. Demeanor’s class bought pencils at the school bookstore. Each of these students bought the same number of pencils, and this number was greater than \\(1.\\) The cost of a pencil in cents was greater than the number of pencils each student bought, and the total cost of all the pencils was \\(\\$17.71.\\) What was the cost of a pencil in cents?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q10",
+    "live-poshenloh-amc10-2011a-question_paper__q10",
+    "AMC10-2011A-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A majority of the \\(30\\) students in Ms. Demeanor’s class bought pencils at the school bookstore. Each of these students bought the same number of pencils, and this number was greater than \\(1.\\) The cost of a pencil in cents was greater than the number of pencils each student bought, and the total cost of all the pencils was \\(\\$17.71.\\) What was the cost of a pencil in cents?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q11",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "正方形相对旋转：邻边投影组成直角三角形再勾股 / 内接转动正方形面积比：邻角直角三角勾股",
+   "search_text": "Square \\(EFGH\\) has one vertex on each side of square \\(ABCD.\\) Point \\(E\\) is on \\(\\overline{AB}\\) with \\(AE=7\\cdot EB.\\) What is the ratio of the area of \\(EFGH\\) to the area of \\(ABCD?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q11",
+    "live-poshenloh-amc10-2011a-question_paper__q11",
+    "AMC10-2011A-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Square \\(EFGH\\) has one vertex on each side of square \\(ABCD.\\) Point \\(E\\) is on \\(\\overline{AB}\\) with \\(AE=7\\cdot EB.\\) What is the ratio of the area of \\(EFGH\\) to the area of \\(ABCD?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q12",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数量总数与加权总值：设一种数量后消去其他数量 / 投篮得分相等：用二分球数统一计数",
+   "search_text": "The players on a basketball team made some three-point shots, some two-point shots, and some one-point free throws. They scored as many points with two-point shots as with three-point shots. Their number of successful free throws was one more than their number of successful two-point shots. The team’s total score was \\(61\\) points. How many free throws did they make?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q12",
+    "live-poshenloh-amc10-2011a-question_paper__q12",
+    "AMC10-2011A-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The players on a basketball team made some three-point shots, some two-point shots, and some one-point free throws. They scored as many points with two-point shots as with three-point shots. Their number of successful free throws was one more than their number of successful two-point shots. The team’s total score was \\(61\\) points. How many free throws did they make?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q13",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数位限制计数：先限定受约束位置再填其余 / 数字不重复且偶数：优先限定首尾再填中间",
+   "search_text": "How many even integers are there between \\(200\\) and \\(700\\) whose digits are all different and come from the set \\(\\{1,2,5,7,8,9\\}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q13",
+    "live-poshenloh-amc10-2011a-question_paper__q13",
+    "AMC10-2011A-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "How many even integers are there between \\(200\\) and \\(700\\) whose digits are all different and come from the set \\(\\{1,2,5,7,8,9\\}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q14",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续均匀取点：把不等式转可行区域后求面积比 / 概率前先解几何不等式：面积小于周长",
+   "search_text": "A pair of standard \\(6\\)-sided fair dice is rolled once. The sum of the numbers rolled determines the diameter of a circle. What is the probability that the numerical value of the area of the circle is less than the numerical value of the circle’s circumference?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q14",
+    "live-poshenloh-amc10-2011a-question_paper__q14",
+    "AMC10-2011A-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A pair of standard \\(6\\)-sided fair dice is rolled once. The sum of the numbers rolled determines the diameter of a circle. What is the probability that the numerical value of the area of the circle is less than the numerical value of the circle’s circumference?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q15",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "不同速度或效率的合平均：总路程除总时间或总耗量 / 部分路段零油耗：总路程除实际用油",
+   "search_text": "Roy bought a new battery-gasoline hybrid car. On a trip the car ran exclusively on its battery for the first \\(40\\) miles, then ran exclusively on gasoline for the rest of the trip, using gasoline at a rate of \\(0.02\\) gallons per mile. On the whole trip he averaged \\(55\\) miles per gallon. How long was the trip in miles?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q15",
+    "live-poshenloh-amc10-2011a-question_paper__q15",
+    "AMC10-2011A-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Roy bought a new battery-gasoline hybrid car. On a trip the car ran exclusively on its battery for the first \\(40\\) miles, then ran exclusively on gasoline for the rest of the trip, using gasoline at a rate of \\(0.02\\) gallons per mile. On the whole trip he averaged \\(55\\) miles per gallon. How long was the trip in miles?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q16",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "根式和差关系：平方或平方差消去共同根式 / 共轭根式和：先平方消去内根再取正根",
+   "search_text": "Which of the following is equal to \\(\\sqrt{9-6\\sqrt{2}}+\\sqrt{9+6\\sqrt{2}}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q16",
+    "live-poshenloh-amc10-2011a-question_paper__q16",
+    "AMC10-2011A-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Which of the following is equal to \\(\\sqrt{9-6\\sqrt{2}}+\\sqrt{9+6\\sqrt{2}}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q17",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续定长和相等：相邻两式相减得到周期",
+   "search_text": "In the eight term sequence \\(A,\\) \\(B,\\) \\(C,\\) \\(D,\\) \\(E,\\) \\(F,\\) \\(G,\\) \\(H,\\) the value of \\(C\\) is \\(5\\) and the sum of any three consecutive terms is \\(30.\\) What is \\(A+H?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q17",
+    "live-poshenloh-amc10-2011a-question_paper__q17",
+    "AMC10-2011A-Q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In the eight term sequence \\(A,\\) \\(B,\\) \\(C,\\) \\(D,\\) \\(E,\\) \\(F,\\) \\(G,\\) \\(H,\\) the value of \\(C\\) is \\(5\\) and the sum of any three consecutive terms is \\(30.\\) What is \\(A+H?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q18",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆与半圆重叠面积：扇形三角形分割后容斥 / 三个等圆交叠：小圆面积扣两个透镜形",
+   "search_text": "Circles \\(A,\\) \\(B,\\) and \\(C\\) each have radius \\(1.\\) Circles \\(A\\) and \\(B\\) share one point of tangency. Circle \\(C\\) has a point of tangency with the midpoint of \\(\\overline{AB}.\\) What is the area inside circle \\(C\\) but outside circle \\(A\\) and circle \\(B?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q18",
+    "live-poshenloh-amc10-2011a-question_paper__q18",
+    "AMC10-2011A-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Circles \\(A,\\) \\(B,\\) and \\(C\\) each have radius \\(1.\\) Circles \\(A\\) and \\(B\\) share one point of tangency. Circle \\(C\\) has a point of tangency with the midpoint of \\(\\overline{AB}.\\) What is the area inside circle \\(C\\) but outside circle \\(A\\) and circle \\(B?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q19",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整数平方差：分解为两因子并检查同奇偶 / 两次平方人口差：因数对限定原平方",
+   "search_text": "In \\(1991\\) the population of a town was a perfect square. Ten years later, after an increase of \\(150\\) people, the population was \\(9\\) more than a perfect square. Now, in \\(2011,\\) with an increase of another \\(150\\) people, the population is once again a perfect square. Which of the following is closest to the percent growth of the town’s population during this twenty-year period?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q19",
+    "live-poshenloh-amc10-2011a-question_paper__q19",
+    "AMC10-2011A-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In \\(1991\\) the population of a town was a perfect square. Ten years later, after an increase of \\(150\\) people, the population was \\(9\\) more than a perfect square. Now, in \\(2011,\\) with an increase of another \\(150\\) people, the population is once again a perfect square. Which of the following is closest to the percent growth of the town’s population during this twenty-year period?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q20",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆弦相交：端点沿圆周交错的条件转为计数 / 两定长有向圆弦相交：固定首弦后数起点弧",
+   "search_text": "Two points on the circumference of a circle of radius \\(r\\) are selected independently and at random. From each point a chord of length \\(r\\) is drawn in a clockwise direction. What is the probability that the two chords intersect?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q20",
+    "live-poshenloh-amc10-2011a-question_paper__q20",
+    "AMC10-2011A-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Two points on the circumference of a circle of radius \\(r\\) are selected independently and at random. From each point a chord of length \\(r\\) is drawn in a clockwise direction. What is the probability that the two chords intersect?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q21",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "条件抽样概率：在条件样本空间内计有利与总数 / 已知两对同重的条件概率：数满足条件的抽取",
+   "search_text": "Two counterfeit coins of equal weight are mixed with \\(8\\) identical genuine coins. The weight of each of the counterfeit coins is different from the weight of each of the genuine coins. A pair of coins is selected at random without replacement from the \\(10\\) coins. A second pair is selected at random without replacement from the remaining \\(8\\) coins. The combined weight of the first pair is equal to the combined weight of the second pair. What is the probability that all \\(4\\) selected coins are genuine?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q21",
+    "live-poshenloh-amc10-2011a-question_paper__q21",
+    "AMC10-2011A-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Two counterfeit coins of equal weight are mixed with \\(8\\) identical genuine coins. The weight of each of the counterfeit coins is different from the weight of each of the genuine coins. A pair of coins is selected at random without replacement from the \\(10\\) coins. A second pair is selected at random without replacement from the remaining \\(8\\) coins. The combined weight of the first pair is equal to the combined weight of the second pair. What is the probability that all \\(4\\) selected coins are genuine?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q22",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "环形相邻限色：固定首项并检查末项闭合约束 / 奇环顶点染色：按首色是否相同递推闭环",
+   "search_text": "Each vertex of convex pentagon \\(ABCDE\\) is to be assigned a color. There are \\(6\\) colors to choose from, and the ends of each diagonal must have different colors. How many different colorings are possible?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q22",
+    "live-poshenloh-amc10-2011a-question_paper__q22",
+    "AMC10-2011A-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Each vertex of convex pentagon \\(ABCDE\\) is to be assigned a color. There are \\(6\\) colors to choose from, and the ends of each diagonal must have different colors. How many different colorings are possible?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q23",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "删除后重新编号：追踪位置递推或逆向恢复编号 / 反复保留每三项中项：追踪剩余等差数列",
+   "search_text": "Seven students count from \\(1\\) to \\(1000\\) as follows:\n\n• Alice says all the numbers, except she skips the middle number in each consecutive group of three numbers. That is, Alice says \\(1,\\) \\(3,\\) \\(4,\\) \\(6,\\) \\(7,\\) \\(9,\\) \\(\\ldots,\\) \\(997,\\) \\(999,\\) \\(1000.\\)\n\n• Barbara says all of the numbers that Alice doesn’t say, except she also skips the middle number in each consecutive group of three numbers.\n\n• Candice says all of the numbers that neither Alice nor Barbara says, except she also skips the middle number in each consecutive group of three numbers.\n\n• Debbie, Eliza, and Fatima say all of the numbers that none of the students with the first names beginning before theirs in the alphabet say, except each also skips the middle number in each of her consecutive groups of three numbers.\n\n• Finally, George says the only number that no one else says.\n\nWhat number does George say?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q23",
+    "live-poshenloh-amc10-2011a-question_paper__q23",
+    "AMC10-2011A-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Seven students count from \\(1\\) to \\(1000\\) as follows:\n\n• Alice says all the numbers, except she skips the middle number in each consecutive group of three numbers. That is, Alice says \\(1,\\) \\(3,\\) \\(4,\\) \\(6,\\) \\(7,\\) \\(9,\\) \\(\\ldots,\\) \\(997,\\) \\(999,\\) \\(1000.\\)\n\n• Barbara says all of the numbers that Alice doesn’t say, except she also skips the middle number in each consecutive group of three numbers.\n\n• Candice says all of the numbers that neither Alice nor Barbara says, except she also skips the middle number in each consecutive group of three numbers.\n\n• Debbie, Eliza, and Fatima say all of the numbers that none of the students with the first names beginning before theirs in the alphabet say, except each also skips the middle number in each of her consecutive groups of three numbers.\n\n• Finally, George says the only number that no one else says.\n\nWhat number does George say?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q24",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多面体体积：分割或补成可计算的棱锥 / 立方体内两正四面体交集：辨认面心八面体",
+   "search_text": "Two distinct regular tetrahedra have all their vertices among the vertices of the same unit cube. What is the volume of the region formed by the intersection of the tetrahedra?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q24",
+    "live-poshenloh-amc10-2011a-question_paper__q24",
+    "AMC10-2011A-Q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2011,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2011a-question_paper__q25",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "正方形等面积射线剖分：每边扇三角面积为整数份",
+   "search_text": "Let \\(R\\) be a square region and \\(n \\geq 4\\) an integer. A point \\(X\\) in the interior of \\(R\\) is called \\(n\\)-ray partitional if there are \\(n\\) rays emanating from \\(X\\) that divide \\(R\\) into \\(n\\) triangles of equal area. How many points are \\(100\\)-ray partitional but not \\(60\\)-ray partitional?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2011-A-Q25",
+    "live-poshenloh-amc10-2011a-question_paper__q25",
+    "AMC10-2011A-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(R\\) be a square region and \\(n \\geq 4\\) an integer. A point \\(X\\) in the interior of \\(R\\) is called ",
+     {
+      "tag": "i",
+      "children": [
+       "\\(n\\)-ray partitional"
+      ]
+     },
+     " if there are \\(n\\) rays emanating from \\(X\\) that divide \\(R\\) into \\(n\\) triangles of equal area. How many points are \\(100\\)-ray partitional but not \\(60\\)-ray partitional?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2011a-question_paper__q25.md"
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "group": "ap-physics-c-mechanics-2025-frq",
+ "course_id": "AP-PHYSICS-C-MECHANICS",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "ap-physics-c-mechanics-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-mechanics-2025-frq__q01",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "Question 1: Version J\n\n1. Two blocks, 1 and 2, slide toward each other on a horizontal surface. Block 1 has mass m\n  and slides in the + x- direction with constant speed 2v0. Block 2 has mass 6m and slides in the\n  - x- direction with constant speed v0, as shown in Figure 1. The blocks then collide and stick\n  together. The collision occurs from time t = 0 to t = tc . After the collision, where t > tc, the blocks\n  move together with the same constant speed.\n\n\n\n\n\n  A. The diagrams in Figure 2 can be used to represent the momentum of blocks 1 and 2 before\n    and after the collision. The momentum vector diagram for Block 1 before the collision is\n    shown.\n            i. Draw arrows on the grids to represent the momentum vectors of Block 2 before the\n          collision and the two-block system before and after the collision.\n            •  Arrows should start at the zero-momentum line.\n            •  The length of the arrows should be proportional to the relative magnitudes of the\n             vectors.\n            •  Represent an arrow of zero length by drawing a dot at zero.\n\nii. During the time interval 0 # t # tc , a force F is exerted on Block 2 by Block 1 along the\n       x-direction as a function of t that is modeled by F  t = Fmax sin At  where A is a positive                                                               _  i           _   i,      constant and Fmax is the magnitude of the maximum force exerted on Block 2 by Block 1\n      during the collision.\n      Derive an expression for Fmax. Express your answer in terms of m, v0, A, tc, and physical\n       constants, as appropriate. Begin your derivation by writing a fundamental physics\n       principle or an equation from the reference information.\nB. Consider a new scenario where Block 1 initially slides in the + x- direction with a new\n   constant speed v1 and Block 2 again initially slides in the - x- direction with constant speed v0.\n  The blocks collide and stick together. In this new scenario, the two-block system has constant\n  speed v0 after the collision.\n  Derive an expression for v1 in terms of v0. Begin your derivation by writing a fundamental\n   physics principle or an equation from the reference information.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics C: Mechanics - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-c-mech.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2025-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2025-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2025-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2025-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-physics-c-mechanics-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-mechanics-2025-frq__q02",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "Question 2: Version J\n\n2. In Scenario 1, a system composed of two springs, A and B, and a block of mass m is at rest on\n  a horizontal surface. Friction between the block and the surface is negligible. Each spring is\n  attached to a fixed wall and the block, as shown in Figure 1. Spring A has a spring constant k\n  and Spring B has a spring constant 2k . Each spring is at its relaxed length when the block is at\n  position x = 0 , as shown.\n\n\n\n\n\n  The block is moved to x = x1 and held at rest, as shown in Figure 2.\n\nA. An energy bar chart can be used to represent the elastic potential energy UA of Spring A,\n   the elastic potential energy UB of Spring B, and the kinetic energy Kblock of the block. On the\n  energy bar chart in Figure 3, draw shaded bars to represent the energy of the system for\n  when the block is at x = x1 .\n     •  The height of the shaded bars should be proportional to the relative values of UA, UB,\n     and Kblock.\n     •  Any energy that is equal to zero should be represented by a distinct line on the zero-\n      energy line.\n\n\n\n\n\nB. The block is released from rest at x = x1 and begins to oscillate. Derive an expression for the\n                                                1\n  speed v of the block as the block passes through x = 2 x1 . Express your answer in terms of m,\n   k, x1, and physical constants, as appropriate. Begin your derivation by writing a fundamental\n   physics principle or an equation from the reference information.\n\nC. In Scenario 1, the block oscillates with period T . The position x of the block in Scenario 1 as a\n   function of time t is shown in Figure 4.\n\nIn Scenario 2, the block-springs system is placed on a new surface. There is friction between\n   the block and the new surface. The block is again moved to the same position x = x1 and\n   released from rest. The block completes multiple oscillations with the same period as in\n   Scenario 1 before coming to rest.\n  On the axes shown in Figure 5, sketch a graph of the kinetic energy K of the block as a\n   function of t for Scenario 2.\n\n\n\n\n\nD. In Scenario 3, the block is replaced with a new block of larger mass. The coefficient of kinetic\n   friction between the new block and the surface in Scenario 3 is the same as the coefficient of\n   kinetic friction between the original block and the surface in Scenario 2.\n  The new block is moved to position x = x1 and released from rest. The kinetic energy of the\n  new block is plotted as a function of time.\n  Describe how one feature of the graph of K as a function of t in Scenario 3 would differ\n  from the graph you drew in Figure 5 for Scenario 2.\n   Briefly justify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics C: Mechanics - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-c-mech.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2025-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2025-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2025-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2025-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-physics-c-mechanics-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-mechanics-2025-frq__q03",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "Question 3\n\n3. A box is connected to one end of a rigid rod. Both the box and the rod have negligible mass. The\n  other end of the rod is connected to a pivot. The box is open on one side, and a block is placed\n  inside the box.\n\n  The center of mass of the block is displaced a vertical distance h, as shown in Figure 1. The\n  block-box system is then released from rest and swings downward. There is negligible friction\n  about the pivot. When the system is at the lowest point of its swing, the rod collides with a rigid\n  stopper, as shown in Figure 2. The box comes to rest, and the block is launched horizontally out\n  of the box. The block moves across a horizontal surface toward a motion sensor that measures\n  the speed of the block. All frictional forces are negligible.\n\n\n\n\n\n  A. Students are asked to experimentally determine the acceleration due to gravity g using a\n     linear graph. To determine g, the students are permitted to use measurements from only a\n     meterstick and the motion sensor.\n    Describe an experimental procedure using the described setup to collect data that would\n     allow the students to determine an experimental value of g using a linear graph. Include any\n     steps necessary to reduce experimental uncertainty.\n  B. Describe how the data collected in part A could be graphed and how that graph would be\n     analyzed to determine the value of g.\n\nC. The experiment is repeated, but the horizontal surface on which the block slides is replaced\n   with a new rough surface, as shown in Figure 3. The coefficient of kinetic friction between\n   the block and the new surface is n.\n\n\n\n\n\n  The block-box system is pulled aside so that the center of mass of the block is displaced\n   various vertical distances h and then released from rest. For each vertical distance, students\n  measure the position x = xmax at which the block comes to rest.\n  The students’ measurements of h and xmax are shown in Table 1.\n\n                                       Table 1\n\n                               h (m)   xmax(m)\n\n                                       0.30     0.76\n\n                                       0.45     1.10\n\n                                       0.60     1.40\n\n                                       0.75     1.90\n\n                                       0.90     2.30\n\n        i. Indicate two quantities, either measured quantities from Table 1 or additional calculated\n       quantities, that could be graphed to produce a straight line that could be used to\n      determine n.\n       Vertical axis: ______     Horizontal axis: ______\n\nii. On the grid provided, create a graph of the quantities indicated in part C (i).\n         •  Use Table 2 to record the measured or calculated quantities that you will plot.\n         •   Clearly label the axes, including units as appropriate.\n         •   Plot the points you recorded in Table 2.\n\n\n\n\n\n     iii. Draw a best-fit line to the data graphed in part C (ii).\nD. Using the best-fit line that you drew in part C (iii), calculate an experimental value for n.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics C: Mechanics - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-c-mech.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2025-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2025-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2025-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2025-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-physics-c-mechanics-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-mechanics-2025-frq__q04",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question 4\n\n4. A uniform disk and ring, each of mass M and radius R, roll without slipping along a horizontal\n  surface, as shown in Figure 1. The outer edges of the disk and ring are made of the same\n  material. The center of mass of the disk and the center of mass of the ring each initially move\n  with the same constant speed v.\n\n  The disk and the ring then smoothly transition to a ramp that is inclined at an angle i above\n  the horizontal. Both the disk and the ring continue to roll without slipping as they move up the\n  ramp, as shown in Figure 2.\n\n  The ring travels a greater distance along the ramp than the disk travels before each\n  momentarily comes to rest.\n\n\n\n\n\n  A. While the disk and the ring are rolling on the ramp without slipping, the magnitudes of\n     the static frictional force exerted on the disk and on the ring by the ramp are fD and fR,\n     respectively.\n     Indicate whether fD is greater than, less than, or equal to fR by writing one of the following.\n        •     fD > fR\n        •     fD < fR\n        •     fD = fR\n     Justify your answer using qualitative reasoning beyond referencing equations.\n\nB. A cylinder has mass M, radius R, and rotational inertia I about its central axis. The cylinder\n   rolls without slipping up a ramp that is inclined at an angle i above the horizontal.\n  Derive an expression for the magnitude of the static frictional force f exerted on the\n   cylinder by the ramp. Express your answer in terms of M, R, I, i, and physical constants,\n   as appropriate. Begin your derivation by writing a fundamental physics principle or an\n   equation from the reference information.\nC. In a different scenario, the centers of mass of the original disk and ring each have the same\n   initial speed v as they did in the original scenario. The ramp is replaced by a new ramp on\n  which the disk and the ring initially slip as they roll up the new ramp.\n   Indicate whether the magnitude of the kinetic frictional force exerted on the disk by the\n  new ramp is greater than, less than, or equal to the magnitude of the kinetic frictional force\n   exerted on the ring by the new ramp while both are slipping.\n   Briefly justify your answer.\n\n\n\n                            STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics C: Mechanics - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-c-mech.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2025-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2025-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2025-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2025-frq__q04.md"
+  }
+ ]
+}

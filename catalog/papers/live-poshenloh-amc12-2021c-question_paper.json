@@ -1,0 +1,1308 @@
+{
+ "group": "live-poshenloh-amc12-2021c-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按运算顺序计算指数与根式 / 平方商先约根：差值恰为分母平方根倍数",
+   "search_text": "1.  What is the value of\n\n                               (2112 −2021)2\n                                                                              ​?\n                                  169\n\n     A   7\n\n    B   21\n\n    C   49\n\n    D   64\n\n     E   91\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q01",
+    "live-poshenloh-amc12-2021c-question_paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "矩形面积变动列长宽方程 / 矩形一边缩短给面积：辨明哪边再换另一边",
+   "search_text": "2. Menkara has a 4 × 6 index card. If she shortens the length of one side of this card by 1\n    inch, the card would have area 18 square inches. What would the area of the card be in\n   square inches if instead she shortens the length of the other side by 1 inch?\n\n     A   16\n\n    B   17\n\n    C   18\n\n    D   19\n\n     E   20\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q02",
+    "live-poshenloh-amc12-2021c-question_paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "逐段路程除速度比较总时间 / 两路线分段速度时间差：逐段路程除速度",
+   "search_text": "3.  Mr. Lopez has a choice of two routes to get to work. Route A is 6 miles long, and his\n   average speed along this route is 30 miles per hour. Route B is 5 miles long, and his\n                                                                           1   average speed along this route is 40 miles per hour, except for a  -mile stretch in a                                                                                                                              ​2\n   school zone where his average speed is 20 miles per hour. By how many minutes is\n   Route B quicker than Route A?\n\n              3     A   2                        ​4\n\n              3    B   3                        ​4\n\n              1    C         4                        ​2\n\n              1    D   5                        ​2\n\n              3     E   6                        ​4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q03",
+    "live-poshenloh-amc12-2021c-question_paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "位值式与数字范围筛因数 / 补个位成唯一素数：整除规则排除其余候选",
+   "search_text": "​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ​                 A4. The six-digit number 2                    0                      2                       1                        0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​ is prime for only one digit A. What is A?\n\n     A   1\n\n    B   3\n\n    C   5\n\n    D   7\n\n     E   9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q04",
+    "live-poshenloh-amc12-2021c-question_paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等距点数减一求间隔 / 等距杆数与间隔数：先换40段再算步长差",
+   "search_text": "5. Elmer the emu takes 44 equal strides to walk between consecutive telephone poles\n   on a rural road. Oscar the ostrich can cover the same distance in 12 equal leaps. The\n   telephone poles are evenly spaced, and the 41 st pole along this road is exactly one\n    mile ( 5280 feet) from the first pole. How much longer, in feet, is Oscar’s leap than\n    Elmer’s stride?\n\n     A   6\n\n    B   8\n\n    C   10\n\n    D   11\n\n     E   15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q05",
+    "live-poshenloh-amc12-2021c-question_paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等腰等边三角形追角 / 正方形外等腰三角形：周角求顶角再取外角",
+   "search_text": "6. As shown in the figure below, point E lies on the opposite half-plane determined by\n                                                     ∘    line CD from point A so that ∠CDE = 110 . Point F lies on AD so that DE = DF,\n   and ABCD is a square. What is the degree measure of ∠AFE?\n\n\n\n\n\n     A   160\n\n    B   164\n\n    C   166\n\n    D   170\n\n     E   174\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q06",
+    "live-poshenloh-amc12-2021c-question_paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按类别权重累计概率 / 抽学生与抽老师的班级平均：大小加权导致不同样本分布",
+   "search_text": "7. A school has 100 students and 5 teachers. In the first period, each student is taking\n   one class, and each teacher is teaching one class. The enrollments in the classes are\n   50,20,20,5, and 5. Let t be the average value obtained if a teacher is picked at\n   random and the number of students in their class is noted. Let s be the average value\n\n   obtained if a student was picked at random and the number of students in their class,\n    including the student, is noted. What is t −s?\n\n     A   −18.5\n\n    B   −13.5\n\n    C   0\n\n    D    13.5\n\n     E    18.5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q07",
+    "live-poshenloh-amc12-2021c-question_paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "最小公倍数与同步周期 / 扩充整数集最小公倍数：只跟踪最大素数幂新增",
+   "search_text": "8. Let M be the least common multiple of all the integers 10 through 30, inclusive. Let N\n   be the least common multiple of M,32,33,34,35,36,37,38,39, and 40. What is the\n      N\n    value of     ​?\n     M\n\n     A   1\n\n    B   2\n\n    C   37\n\n    D   74\n\n     E   2886\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q08",
+    "live-poshenloh-amc12-2021c-question_paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "几何",
+   "knowledge_point": "面积与体积",
+   "problem_type": "换底或指数化统一对数关系 / 长方体表面积等体积：除体积转倒数对数和",
+   "search_text": "9. A right rectangular prism whose surface area and volume are numerically equal has\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ​                                      x. What is x?   edge lengths log 2                    x, log 3                           x, and log 4\n\n     A   2   ​6\n\n    B   6   ​6\n\n    C   24\n\n    D   48\n\n     E   576\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q09",
+    "live-poshenloh-amc12-2021c-question_paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "位值式取模求余数 / 九进制大数模五：底数同余负一交错求和",
+   "search_text": "10. The base-nine representation of the number N is 27,006,000,052 nine ​. What is the\n   remainder when N is divided by 5?\n\n     A   0\n\n    B   1\n\n    C   2\n\n    D   3\n\n     E   4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q10",
+    "live-poshenloh-amc12-2021c-question_paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "切线垂直半径消平方差 / 同心圆一弦半段在内圆：共弦心距勾股相减",
+   "search_text": "11. Consider two concentric circles of radius 17 and 19. The larger circle has a chord, half\n   of which lies inside the smaller circle. What is the length of the chord in the larger\n    circle?\n\n     A   12   ​2\n\n    B   10   ​3\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​    C     17 ⋅19\n\n    D   18\n\n     E   8   ​6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q11",
+    "live-poshenloh-amc12-2021c-question_paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "代数",
+   "knowledge_point": "二项式展开",
+   "problem_type": "展开乘积按指数选择计系数 / 根式二项展开有理系数：独立素数指数均整数",
+   "search_text": "12. What is the number of terms with rational coefficients among the 1001 terms in the\n   expansion of\n\n                                                          1000\n                                                              3\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​                                                                                                                                                                                                                                              ​                          x  2 + y       ?                        (        3)\n\n     A   0\n\n    B   166\n\n    C   167\n\n    D   500\n\n     E   501\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q12",
+    "live-poshenloh-amc12-2021c-question_paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "到两条直线等距确定角平分线 / 两直线锐角角平分线：点到两线距离相等",
+   "search_text": "13. The angle bisector of the acute angle formed at the origin by the graphs of the lines\n   y = x and y = 3x has equation y = kx. What is k?\n\n         1 +    ​5     A                                                                                                                                                                                                                                                                                                                                                                                       ​\n           2\n\n         1 +    ​7    B                                                                                                                                                                                                                                                                                                                                                                                       ​\n           2\n\n         2 +    ​3    C                                                                                                                                                                                                                                                                                                                                                                                    ​\n           2\n\n    D   2\n\n         2 +    ​5     E                                                                                                                                                                                                                                                                                                                                                                                         ​\n           2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q13",
+    "live-poshenloh-amc12-2021c-question_paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分割补形计算多边形面积 / 三尖等边六边形面积：中心等边加三个等腰耳",
+   "search_text": "14. In the figure, equilateral hexagon ABCDEF has three nonadjacent acute interior\n                                    ∘   angles that each measure 30 . The enclosed area of the hexagon is 6   ​.3 What is the\n   perimeter of the hexagon?\n\n\n\n\n\n     A   4\n\n\n    B         4   ​3\n\n    C   12\n\n    D   18\n\n     E   12   ​3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q14",
+    "live-poshenloh-amc12-2021c-question_paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "代数",
+   "knowledge_point": "复数",
+   "problem_type": "根的和积与系数互相转换 / 共轭再缩放全部根：实系数共轭闭包与韦达",
+   "search_text": "15. Recall that the conjugate of the complex number w = a + bi, where a and b are real\n   numbers and i =  −1 ​, is the complex number w = a −bi. For any complex number\n    z, let f(z) = 4i .z The polynomial\n\n                      P(z) = z 4 + 4z 3 + 3z 2 + 2z + 1\n\n   has four complex roots: z 1 ​, z 2 ​, z 3 ​, and z 4 ​. Let\n\n                         Q(z) = z 4 + Az 3 + Bz 2\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​\n                  + Cz + D\n\n   be the polynomial whose roots are f(z 1 ​), f(z 2 ​), f(z 3 ​), and f(z 4 ​), where the\n    coefficients A,B,C, and D are complex numbers. What is B + D?\n\n     A   −304\n\n    B   −208\n\n    C    12i\n\n    D   208\n\n     E   304\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q15",
+    "live-poshenloh-amc12-2021c-question_paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "图连通性用最小割 / 二部网络连通前最多边：最小割后补最后一边",
+   "search_text": "16. An organization has 30 employees, 20 of whom have a brand A computer while the\n   other 10 have a brand B computer. For security, the computers can only be connected\n   to each other and only by cables. The cables can only connect a brand A computer to a\n   brand B computer. Employees can communicate with each other if their computers\n\n   are directly connected by a cable or by relaying messages through a series of\n   connected computers. Initially, no computer is connected to any other. A technician\n    arbitrarily selects one computer of each brand and installs a cable between them,\n   provided there is not already a cable between that pair. The technician stops once\n   every employee can communicate with each other. What is the maximum possible\n   number of cables used?\n\n     A   190\n\n    B   191\n\n    C   192\n\n    D   195\n\n     E   196\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q16",
+    "live-poshenloh-amc12-2021c-question_paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "二次方程根数用判别式 / 两二次式均无两异实根：双判别式限制整数对",
+   "search_text": "17. For how many ordered pairs (b, c) of positive integers does neither x 2 + bx + c = 0\n          2   nor x + cx + b = 0 have two distinct real solutions?\n\n     A   4\n\n    B   6\n\n    C   8\n\n    D   12\n\n     E   16\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q17",
+    "live-poshenloh-amc12-2021c-question_paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定成功次数用二项或多项计数 / 固定箱容量分配概率比：多项式系数大幅约分",
+   "search_text": "18. Each of 20 balls is tossed independently and at random into one of 5 bins. Let p be the\n    probability that some bin ends up with 3 balls, another with 5 balls, and the other three\n                                                                   p\n    with 4 balls each. Let q be the probability that every bin ends up with 4 balls. What is   ​?\n                                                                           q\n\n     A   1\n\n    B   4\n\n    C   8\n\n    D   12\n\n     E   16\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q18",
+    "live-poshenloh-amc12-2021c-question_paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角等值方程列角度解族并筛范围 / 正弦等值最小大于一：两角关系分族比较首根",
+   "search_text": "19. Let x be the least real number greater than 1 such that sin(x) = sin(x 2 ), where the\n   arguments are in degrees. What is x rounded up to the closest integer?\n\n     A   10\n\n    B   13\n\n    C   14\n\n    D   19\n\n     E   20\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q19",
+    "live-poshenloh-amc12-2021c-question_paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "有限状态转移找周期 / 约数个数迭代落固定点：枚举有限输出并判吸引类",
+   "search_text": "20. For each positive integer n, let f 1 ​(n) be twice the number of positive integer divisors\n    of n, and for j ≥2, let f j ​(n) = f 1 ​(f j−1 ​(n)). For how many values of n ≤50 is\n   f 50 ​(n) = 12?\n\n     A   7\n\n     B   8\n\n    C   9\n\n    D   10\n\n      E   11\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q20",
+    "live-poshenloh-amc12-2021c-question_paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "对角线投影与面积联立 / 等腰梯形给对角投影段：以对角为轴联立高比",
+   "search_text": "21. Let ABCD be an isosceles trapezoid with BC ∥ AD and AB = CD. Points X and\n  Y lie on diagonal AC with X between A and Y , as shown in the figure. Suppose\n  ∠AXD = ∠BY C = 90 ∘AX,   = 3,XY = 1, and Y C = 2. What is the area of\n  ABCD?\n\n\n\n\n\n     A   15\n\n\n    B                                                                                                                                                                                                                                                                                                                 ​         5  11\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​    C   3  35\n\n    D   18\n\n     E   7   ​7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q21",
+    "live-poshenloh-amc12-2021c-question_paper__q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "获胜终盘分类排除早停 / 井字棋第六步后手赢的终盘：先定O线再排X早赢",
+   "search_text": "22. Azar and Carl play a game of tic-tac-toe. Azar places an X in one of the boxes in a 3 -\n   by- 3 array of boxes, then Carl places an O in one of the remaining boxes. After that,\n    Azar places an X in one of the remaining boxes, and so on until all 9 boxes are filled or\n   one of the players has 3 of their symbols in a row — horizontal, vertical, or diagonal —\n   whichever comes first, in which case that player wins the game. Suppose the players\n   make their moves at random, rather than trying to follow a rational strategy, and that\n    Carl wins the game when he places his third O. How many ways can the board look\n    after the game is over?\n\n     A   36\n\n     B   112\n\n    C   120\n\n    D   148\n\n     E   160\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q22",
+    "live-poshenloh-amc12-2021c-question_paper__q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "复合函数逐层反求原像 / 二次自复合恰三实根：顶点值等于较小根再优化",
+   "search_text": "23. A quadratic polynomial with real coefficients and leading coefficient 1 is called\n    disrespectful if the equation p(p(x)) = 0 is satisfied by exactly three real numbers.\n\n   Among all the disrespectful quadratic polynomials, there is a unique such polynomial\n     p~​(x) for which the sum of the roots is maximized. What is p~​(1)?\n\n          5\n     A                                                                                                                                                                                                                        ​\n         16\n\n         1\n     B\n                ​2\n\n         5\n    C\n                ​8\n\n    D   1\n\n         9\n     E\n                ​8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q23",
+    "live-poshenloh-amc12-2021c-question_paper__q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "三角不等式判边长可行范围 / 梯形四边成等差且最大边已知：分边序并保留零公差",
+   "search_text": "24. Convex quadrilateral ABCD has AB = 18,∠A = 60 ∘ , and AB ∥ CD . In some\n    order, the lengths of the four sides form an arithmetic progression, and side AB is a\n    side of maximum length. The length of another side is a. What is the sum of all possible\n    values of a?\n\n     A   24\n\n     B   42\n\n    C   60\n\n    D   66\n\n     E   84\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q24",
+    "live-poshenloh-amc12-2021c-question_paper__q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2021c-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2021c-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "平移或对称双射使各类别等量 / 模m四元互异和计数：平移作用使各余数等量",
+   "search_text": "25. Let m ≥5 be an odd integer, and let D(m) denote the number of quadruples\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​                                           +   (a 1 ​, a 2 ​, a 3 ​, a 4 ​) of distinct integers with 1 ≤a i                         ≤ m for all i such that m divides a 1\n\n\n\n\n\n                                                                                                                                                                                              ​                                                                                                                                                                                                                                                                                                                                                                    ​   a 2   + a 3      + a 4 ​. There is a polynomial\n\n                          q(x) = c 3 ​x 3 + c 2 ​x 2 + c 1 ​x + c ​0\n\n   such that D(m) = q(m) for all odd integers m ≥5. What is c 1 ​?\n\n     A   −6\n\n     B   −1\n\n    C   4\n\n    D   6\n\n     E   11\n\nSolutions: https://live.poshenloh.com/past-contests/amc12/2021C/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 12A Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 12A Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2021C-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2021-Fall-A-Q25",
+    "live-poshenloh-amc12-2021c-question_paper__q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2021c-question_paper__q25.md"
+  }
+ ]
+}

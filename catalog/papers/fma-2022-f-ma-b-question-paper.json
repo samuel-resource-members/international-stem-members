@@ -1,0 +1,1183 @@
+{
+ "group": "fma-2022-f-ma-b-question-paper",
+ "course_id": "FMA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q01",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1. A ball is held a height h above a slope, which is at an angle 45◦from the horizontal. The ball is dropped\n   from rest. Assume the ball bounces off the slope perfectly elastically. What is the distance between its\n    first and second impact points?\n\n                √                     √\n   (A) 2h            (B) 2  2 h         (C) 4h            (D) 4  2 h          (E) 8h\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q01.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q02",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "2. A massless wheel of radius R has four small masses M placed evenly along its rim. Let the moment of\n   inertia for rotations about the center of wheel, in the plane of the wheel, be I0.\n\n\n                                                        I1\n\n                                                                     I2\n                         m\n\n                                                     45°\n\n                      m        m\n\n\n\n                         m\n\n\n\n  Now consider rotations about the two axes shown, with corresponding moments of inertia I1 and I2.\n  Which of the following is true?\n\n                             √\n   (A) I1 = I2 = I0/2              (B) I1 = I2 = I0/  2            (C) I1 = I2 = I0\n              √                √\n   (D) I1 = I0/2, I2 = I0/  2        (E) I1 = I0, I2 = I0/  2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q02.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q03",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3. Four evenly spaced points are marked on a massless seesaw, as shown.\n\n\n                                                             7 kg                                 5 kg\n                                                      I    II   III  IV\n\n\n\n\n  Two blocks, of masses 5 kg and 7 kg, are placed on the seesaw, so that it balances when the fulcrum is at\n   point IV. (The diagram is not drawn to scale.) Now suppose the fulcrum is moved to point II. How much\n  mass should be placed at point I so that the seesaw again balances?\n\n\n   (A) 12 kg\n\n   (B) 18 kg\n\n   (C) 24 kg\n\n   (D) 36 kg\n\n   (E) There is not enough information to decide.\n\n2022 F = ma Exam B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q03.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q04",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "4. A firework explodes, sending shells in all directions in a vertical plane, as shown.\n\n\n\n\n                                         g\n\n\n\n\n\n  Suppose the shells are all launched with the same speed, and ignore air resistance, but not gravity. A\n   long time later, but before any of the shells hit the ground, what shape do the shells make?\n\n\n\n   (A)               (B)               (C)               (D)                (E)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q04.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q05",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "5",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "5. A swimmer swims at speed v relative to still water. A river flows from a pier to a lake, with speed u. If\n   the swimmer swims downstream from the pier to the lake, then back upstream, what was their average\n   speed during the trip?\n\n               √                   (v −u)2             (v + u)2            v2 −u2\n   (A) v              (B)   v2 −u2       (C)               (D)                (E)\n                                                v                  v                 v\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q05.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q06",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "6",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "6. A block of mass m is at rest on a frictionless table. It is pushed horizontally by a constant force F, and\n   has total momentum p when it reaches the end of the table.  If a block of mass 2m is pushed across the\n   table in the same way, also starting from rest, what is its momentum when it reaches the end of the table?\n\n       p                  p                     √\n   (A)               (B) √             (C) p             (D)  2 p           (E) 2p\n       2                   2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q06.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q07",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7. Two blocks of unequal mass M and m are hung from the ends of a massless, frictionless pulley, as shown.\n  The blocks are held in place, and the entire pulley is mounted on a sensitive scale.\n\n\n\n                                                             scale\n\n\n\n\n                      M\n                            m\n\n\n   After the blocks are released from rest, but before either has fallen offthe pulley, what is the scale reading?\n\n2022 F = ma Exam B                                                                      4\n\n\n(A) It is less than (M + m)g.\n\n(B) It is equal to (M + m)g.\n\n(C) It is more than (M + m)g.\n\n(D) It is initially less than (M + m)g, then approaches (M + m)g.\n\n(E) It is initially more than (M + m)g, then approaches (M + m)g.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q07.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q08",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "8",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "8. A ball is launched with speed v at an angle θ to a fixed ramp, which itself makes a 45◦angle with the\n   horizontal.\n\n\n\n\n                                              v                                                  θ\n\n                                                     45°\n\n\n  Assume that when the ball hits the ramp, it bounces elastically and frictionlessly. For what value of θ\n   will the ball bounce off the ramp two times, and then return to its original launch point?\n\n   (A) 9.5◦           (B) 11.3◦          (C) 14.0◦          (D) 14.5◦          (E) 18.4◦\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q08.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q09",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "9",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "9. Billy is leaning on a box of mass 30.0 kg, exerting a force 35.0◦below the horizontal. If the coefficient of\n   static friction of the box on the ground is µs = 0.400, what is the minimum force needed for the box to\n   slide?\n\n\n   (A) 120 N         (B) 147 N         (C) 203 N         (D) 224 N          (E) 342 N\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q09.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q10",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "10",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "10. Two springs with spring constants 2 N/cm and 4 N/cm are connected in parallel. They are both connected\n    in series to a spring of constant 3 N/cm, as shown.\n\n\n                                       2 N/cm\n                                                    3 N/cm\n\n\n                                       4 N/cm\n\n\n   What force must be exerted at the end to extend the system by 1 cm from its relaxed length?\n\n\n    (A) 0.5 N          (B) 2 N           (C) 3 N           (D) 6 N            (E) 9 N\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q10.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q11",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "11",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Pressure",
+   "problem_type": "从力、面积或液柱高度求压强",
+   "search_text": "11. Water with total mass M is poured into a cup of cross-sectional area A. A block of mass m, whose density\n     is half that of water, is tied to a thin string. The string is attached to the bottom of the cup, and the\n    block floats in the water as shown. The atmospheric pressure is Patm. What is the total pressure force\n    that the water exerts on the bottom of the cup?\n\n2022 F = ma Exam B                                                                      5\n\n\n\n\n                         M\n\n                         m\n\n\n\n\n(A) Mg                       (B) (M + m)g                  (C) PatmA + Mg\n(D) PatmA + (M + m)g          (E) PatmA + (M + 2m)g\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q11.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q12",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "12",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "12. Two identical bricks of mass m are attached to two frictionless pulleys by a massless string, on a fixed\n    slope of angle θ to the horizontal, as shown.\n\n\n\n                            m\n\n                             m\n\n\n\n                                            θ\n\n\n   Suppose that the coefficient of static friction between the lower block and the slope is µ, and all other\n    surfaces are frictionless. What is the minimum value of µ so that the blocks can stay static?\n\n        1                 2                                    3\n    (A)   tan θ         (B)   tan θ         (C) tan θ          (D)   tan θ         (E) 2 tan θ\n        2                 3                                    2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q12.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q13",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "13",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "13. A ballistic pendulum is designed as shown below.\n\n\n\n\n\n                                                ℓ\n                           m\n\n                                                      v\n                                 m\n                                              r\n\n\n\n  A uniform ball of mass m and radius r is attached to a massless rigid rod, so that its center is a distance ℓ\n    from the ceiling. The ball has a small tunnel hollowed out. A small block of mass m and speed v goes into\n    the tunnel and collides at the center of the ball, perfectly inelastically. Subsequently, to what maximum\n    height does the block rise?\n\n         v2                                     v2                                v2\n    (A)                           (B)                           (C)\n        8g                             8g(1 + r2/5ℓ2)2                  8g(1 + 2r2/5ℓ2)2\n               v2                               v2\n    (D)                            (E)\n         8g(1 + r2/5ℓ2)                  8g(1 + 2r2/5ℓ2)\n\n2022 F = ma Exam B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q13.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q14",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "14. A cylinder of water is suspended in a space station. Under the influence of surface tension, the cylinder\n     splits into droplets. After a short time, viscosity causes the droplets to settle into static shapes. Neglect\n    the effect of evaporation. Compared to the original cylinder, the final set of droplets will have\n\n\n    (A) Almost exactly the same volume and surface area\n\n    (B) More volume, but almost exactly the same surface area\n\n    (C) Less volume, but almost exactly the same surface area\n\n    (D) More surface area, but almost exactly the same volume\n\n    (E) Less surface area, but almost exactly the same volume\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q14.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q15",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "15",
+   "chapter": "Space physics",
+   "knowledge_point": "Earth and the Solar System",
+   "problem_type": "从天体运动和轨道条件解释现象",
+   "search_text": "15. Five astronauts are orbiting Earth in a low circular orbit. They decided to go around the planet following\n    the same orbit, but much faster, to set a new record for orbiting Earth. Four of them thought that they\n    could quickly increase the velocity, then use a jet engine to maintain an orbit of the same shape; in the\n     first four choices below, the red arrow denotes the direction that fuel will flow out of the jet nozzle. The\n     fifth astronaut was skeptical about such a possibility. Who is right?\n\n\n\n\n\n    (A)                    (B)                    (C)                   (D)             Earth                  Earth                  Earth                  Earth\n\n\n\n\n    (E) It is impossible to follow the same orbit faster.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q15.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q16",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "16",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "16. A uniform rectangular block is in static equilibrium on an inclined plane, and experiences gravity, static\n     friction, and the normal force from the plane. Though gravity acts on the entire volume of the block,\n    for the purposes of torque balance, it is equivalent to a single resultant force acting at the block’s center\n    of mass.  Similarly, while the normal force acts on the entire bottom surface of the block, its torque is\n    equivalent to a resultant force acting at a single point. Which of the following best shows this point?\n\n\n\n\n\n                                            E\n\n                                   D\n                                   C\n                                  B\n\n                           A\n\n\n    (A) Point A, at the lowest point of the bottom side\n\n    (B) Point B, directly below the center of mass\n\n2022 F = ma Exam B                                                                      7\n\n\n(C) Point C, at the midpoint of the bottom side\n\n(D) Point D, directly below the top corner\n\n(E) Point E, at the highest point of the bottom side\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q16/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q16/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q16.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q17",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "17",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "17. A box of mass M  is sliding to the right with velocity v on a frictionless table. A small puck of mass\n   M/2 slides frictionlessly inside the box. Initially, the puck is at the left wall of the box, with a rightward\n    velocity of 2v with respect to the table. After a time T, the puck collides elastically with the right wall\n    of the box. How much longer will it take until the puck hits the left wall of the box again?\n\n\n                                 M\n\n                                                                  v\n\n                         M\n                                                2    2v\n\n\n\n\n    (A) T/2           (B) T             (C) 2T            (D) 3T             (E) 4T\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q17/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q17/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q17.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q18",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "18",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "18. The following information applies to problems 18 and 19.\n\n  A uniform rod of length L and mass M is placed with its ends resting on two identical springs of spring\n    constant k, as shown.\n\n\n                                    L\n\n\n                         M\n                                       k               k\n\n\n\n\n   The rod is initially in equilibrium.  If the rod is uniformly displaced downward and released from rest,\n   what is the frequency f of its oscillations?\n\n         1 r k            1 r k            1 r k             1 r 2k            1 r 4k\n    (A)               (B)               (C)               (D)                (E)\n        2π  4M          2π  2M          2π M           2π M           2π M\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q18/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q18/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q18.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q19",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "19",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "19. Next, the rod is brought back to equilibrium. It is slightly rotated about its center of mass, then released\n    from rest.\n\n\n                                    L\n\n\n                         M\n                                                       k                                       k\n\n2022 F = ma Exam B                                                                      8\n\n\nWhat is the frequency f of its oscillations?\n\n     1 r k             1 r 2k            1 r 3k            1 r 4k            1 r 6k\n (A)               (B)               (C)               (D)                (E)\n    2π M           2π M           2π M           2π M           2π M\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q19/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q19/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q19.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q20",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "20",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "20. A uniform, hollow sphere is initially at rest on a horizontal plane. The plane begins to accelerate hori-\n    zontally to the right, with acceleration a.  If friction is high enough to prevent the sphere from slipping,\n   what is its translational acceleration?\n\n\n    (A) 2a/3 to the left             (B) a/3 to the left              (C) zero\n\n    (D) 2a/5 to the right            (E) 2a/3 to the right\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q20/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q20/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q20.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q21",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "21",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "21. Amora and Bronko are given a long, thin rectangle of sheet metal. (It has been machined very precisely,\n    so they can assume it is perfectly rectangular.) Using calipers, Amora measures the width of the rectangle\n    as 1 cm with 1% uncertainty. Using a tape measure, Bronko independently measures its length as 100 cm\n    with 0.1% uncertainty. Which of the following are closest to the relative uncertainties they should report\n    for the area and the perimeter of the rectangle, respectively?\n\n\n    (A) 0.1%; 0.2%     (B) 1%; 0.1%      (C) 1%; 0.2%      (D) 1%; 1%        (E) 1%; 2%\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q21/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q21/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q21.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q22",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "22",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "22. A cannon just above the surface of a spherical planet with mass M and radius R launches a particle with\n    speed v, where pGM/R < v < p2GM/R. The initial velocity of the particle makes an angle θ with the\n    vertical direction. Neglect drag. For what θ will the particle never collide with the planet?\n\n\n    (A) All possible launch angles, 0◦≤θ ≤90◦\n       r v2R  !\n    (B) cos−1      −1 ≤θ ≤90◦\n          GM\n\n       r v2R  !\n    (C) sin−1      −1 ≤θ ≤90◦\n         GM\n\n    (D) Only θ = 90◦\n\n    (E) A collision will occur for any value of θ\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q22/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q22/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q22.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q23",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "23",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "23. A mass attached to a spring is performing simple harmonic motion, with velocity v(t) and acceleration\n     a(t). Which of the following could be a graph of the curve (v(t), a(t)) over a complete oscillation?\n\n2022 F = ma Exam B                                                                      9\n\n\n                a(t)                                a(t)                                a(t)\n\n\n                       v(t)                                v(t)                                v(t)\n(A)                           (B)                           (C)\n\n\n\n\n\n                a(t)                                a(t)\n\n\n                       v(t)                                v(t)\n(D)                            (E)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q23/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q23/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q23.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q24",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "24",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "24. A ramp with height h is moving with fixed, uniform speed v to the right. A small block of mass m is\n    placed at the top of the ramp, and is released at rest with respect to the ramp.\n\n\n                       m\n\n\n                              h                                                 v\n\n\n\n\n   The block slides smoothly to the bottom of the ramp and onto the floor. How much kinetic energy does\n     it gain in this process? Neglect friction.\n\n    (A) mgh                       (B) mgh + mv2/2              (C) mgh + mv√2gh\n    (D) mgh + mv√gh + mv2/2     (E) mgh + mv√2gh + mv2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q24/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q24/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q24.md"
+  },
+  {
+   "paper_id": "fma-2022-f-ma-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2022-f-ma-b-question-paper__q25",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "25. Two masses are initially at rest, separated by a distance r, and attract each other gravitationally. If their\n    masses are m and 2m, then they will collide after a time T. How long would they take to collide if they\n    both had mass 2m?\n\n          2  3/2            3         r 2        r 3       r 8\n    (A)       T      (B)  T            (C)    T         (D)    T          (E)    T\n          3                4                   3                 4                 9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 F=ma B Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Fma_Exam_B_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2022-f-ma-b-question-paper__q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q25/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2022-f-ma-b-question-paper__q25/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2022-f-ma-b-question-paper__q25.md"
+  }
+ ]
+}

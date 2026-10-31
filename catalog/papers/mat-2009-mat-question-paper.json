@@ -1,0 +1,337 @@
+{
+ "group": "mat-2009-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2009-mat-question-paper",
+   "year": 2009,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2009-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "1. For ALL APPLICANTS.\n\n\n   For each part of the question on pages 3—7 you will be given four possible answers,\n   just one of which is correct. Indicate for each part A—J which answer (a), (b), (c),\n   or (d) you think is correct with a tick (X) in the corresponding column in the table\n   below. Please show any rough working in the space provided between the parts.\n\n\n\n\n                           (a)           (b)            (c)           (d)\n\n\n\n       A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n        E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n          J\n\n\n\n\n\n                                  2\n\nA. The smallest value of           Z 1                                       ¡       ¢2\n                               I (a) =                                         x2 −a   dx,                                                0\nas a varies, is\n                      3           4           7\n                    (a)  20,     (b)  45,     (c)  13,     (d)   1.\n\n\n\n\n\nB. The point on the circle\n                              x2 + y2 + 6x + 8y = 75,\n\nwhich is closest to the origin, is at what distance from the origin?\n\n                      (a)   3,     (b)   4,     (c)   5,     (d)  10.\n\n\n\n\n\n                               3                          Turn Over\n\nC. Given a real constant c, the equation\n                                   x4 = (x −c)2\nhas four real solutions (including possible repeated roots) for\n\n            1                    1\n                                                             (d)   all values of c.    (a)  c 6 4,     (b) −14                 6 c 6 4,     (c)  c 6 −14,\n\n\n\n\n\nD. The smallest positive integer n such that\n                  1 −2 + 3 −4 + 5 −6 + · · · + (−1)n+1 n > 100,\nis\n                  (a)  99,     (b)  101,     (c)  199,     (d)  300.\n\n\n\n\n\n                                     4\n\nE. In the range 0 6 x < 2π, the equation\n\n                                             2sin2 x + 2cos2 x = 2\n\n(a) has 0 solutions;\n(b) has 1 solution;\n(c) has 2 solutions;\n(d) holds for all values of x.\n\n\n\n\n\nF. The equation in x\n                            3x4 −16x3 + 18x2 + k = 0\nhas four real solutions\n(a) when −27 < k < 5;(b) when 5 < k < 27;\n(c) when −27 < k < −5;\n(d) when −5 < k < 0.\n\n\n\n\n\n                               5                          Turn Over\n\nG.  The graph of all those points (x, y) in the xy-plane which satisfy the equation\nsin y = sin x is drawn in\n\n\n\n\n                                       10                                                                              10\n\n\n\n                                        5                                                                               5\n\n\n\n\n               10            5                         5            10                         10            5                         5            10\n\n\n                                        5                                                                               5\n\n\n\n                                       10                                                                              10\n\n                     (a)                                      (b)\n\n\n\n\n\n                                       10                                                                              10\n\n\n\n                                        5                                                                               5\n\n\n\n\n               10            5                         5            10                         10            5                         5            10\n\n\n                                        5                                                                               5\n\n\n\n                                       10                                                                              10\n\n                      (c)                                      (d)\n\n\n\nH. When the trapezium rule is used to estimate the integral\n                              Z 1\n                                         2x dx\n                                                 0\nby dividing the interval 0 6 x 6 1 into N subintervals the answer achieved is\n              ½       ¾          ½       ¾\n                   1          1                  1          2\n               (a)       1 +                  ,       (b)       1 +                  ,\n              2N       21/N + 1           2N       21/N             ½        ¾          ½     −1 ¾\n                  1          1                   1      5\n                (c)      1                        ,       (d)                                    .           N  − (21/N              2N   21/N + 1 −1                        −1)\n\n\n\n\n\n                                     6\n\nI. The polynomial\n                            n2x2n+3 −25nxn+1 + 150x7\nhas x2 −1 as a factor(a) for no values of n;\n(b) for n = 10 only;\n(c) for n = 15 only;\n(d) for n = 10 and n = 15 only.\n\n\n\n\n\nJ. The number of pairs of positive integers x, y which solve the equation\n\n                           x3 + 6x2y + 12xy2 + 8y3 = 230\n\nis\n                 (a)   0,     (b)   26,     (c)  29 −1,     (d)  210 + 2.\n\n\n\n\n\n                               7                          Turn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2009",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions09_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2009-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2009-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2009-mat-question-paper",
+   "year": 2009,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2009-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. For ALL APPLICANTS.\n\nA list of real numbers x1, x2, x3, . . . is deﬁned by x1 = 1, x2 = 3 and then for n > 3 by\n\n                            xn = 2xn−1 −xn−2 + 1.\nSo, for example,\n                       x3 = 2x2 −x1 + 1 = 2 × 3 −1 + 1 = 6.\n(i) Find the values of x4 and x5.\n\n(ii) Find values of real constants A, B, C such that for n = 1, 2, 3,\n\n                         xn = A + Bn + Cn2.     (∗)\n(iii) Assuming that equation (∗) holds true for all n > 1, ﬁnd the smallest n such thatxn > 800.\n\n(iv) A second list of real numbers y1, y2, y3, . . . is deﬁned by y1 = 1 and\n\n                                  yn = yn−1 + 2n\nFind, explaining your reasoning, a formula for yn which holds for n > 2.\n\nWhat is the approximate value of xn/yn for large values of n?\n\n\n\n\n\n                                     8\n\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2009",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions09_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2009-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2009-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2009-mat-question-paper",
+   "year": 2009,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2009-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "3.           ⎧                          ⎫\n            ⎪ MATHEMATICS                ⎪            ⎪                          ⎪            ⎨                          ⎬\n               MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n            ⎪ MATHEMATICS & PHILOSOPHY      ⎪            ⎪                          ⎪            ⎩                          ⎭\n               MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science applicants should turn to page 14.\n\nFor a positive whole number n, the function fn (x) is deﬁned by\n                                      ¡          ¢2\n                              fn (x) =  x2n−1 −1    .\n(i) On the axes provided opposite, sketch the graph of y = f2 (x) labelling where the\ngraph meets the axes.\n\n(ii) On the same axes sketch the graph of y = fn (x) where n is a large positive integer.\n\n(iii) Determine\n                            Z 1\n                                      fn (x) dx.\n                                              0\n(iv) The positive constants A and B are such that\n                  Z 1                          A\n                         fn (x) dx 6 1            for all n > 1.                             0        − n + B\n\nShow that\n                        (3n −1) (n + B) > A (4n −1) n,\nand explain why A 6 3/4.\n\n(v) When A = 3/4, what is the smallest possible value of B?\n\n\n\n\n\n                                    10\n\ny\n            6\n\np                                                             p                                                                                                                           p                                                             p\n\n\n\n\n\np                                                             p                                                                                                                           p                                                             p\n\n\n\n\n\np                                                             p                                                                                                                           p                                                             p\n\n\n\n\n\np                                                             p                                                                                                                           p                                                             p\n\n\n\n\n                          - x\n\n\n\n\n\n               11                          Turn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2009",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions09_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2009-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2009-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2009-mat-question-paper",
+   "year": 2009,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2009-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.            ⎧                     ⎫\n             ⎨ MATHEMATICS           ⎬\nFor APPLICANTS IN                MATHEMATICS & STATISTICS  ⎭ONLY.             ⎩\n                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science and Computer Science applicants should turn to\npage 14.\n\nAs shown in the diagram below: C is the parabola with equation y = x2; P is the point\n(0, 1); Q is the point (a, a2) on C; L is the normal to C which passes through Q.\n\n\n                                                              2.5\n\n\n\n                                                              2.0\n\n                                                              1.5                                    , 2\n                                       Q\n\n                      C            1.0  P                 L\n\n\n\n                                                              0.5\n\n\n\n\n                       2               1                              1               2\n\n(i) Find the equation of L.\n\n(ii) For what values of a does L pass through P?\n(iii) Determine |QP|2 as a function of a, where |QP| denotes the distance from P to Q.\n(iv) Find the values of a for which |QP| is smallest.\n(v) Find a point R, in the xy-plane but not on C, such that |RQ| is smallest for a uniquevalue of a. Brieﬂy justify your answer.\n\n\n\n\n\n                                    12\n\n13\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2009",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions09_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2009-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2009-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2009-mat-question-paper",
+   "year": 2009,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2009-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For ALL APPLICANTS.\nGiven an n × n grid of squares, where n > 1, a tour is a path drawn within the gridsuch that:\n   • along its way the path moves, horizontally or vertically, from the centre of one     square to the centre of an adjacent square;\n   • the path starts and ﬁnishes in the same square;\n   • the path visits the centre of every other square just once.\nFor example, below is a tour drawn in a 6 × 6 grid of squares which starts and ﬁnishesin the top-left square.\n\n\n\n\n\nFor parts (i)-(iv) it is assumed that n is even.\n\n(i) With the aid of a diagram, show how a tour, which starts and ﬁnishes in the top-left\nsquare, can be drawn in any n × n grid.\n(ii) Is a tour still possible if the start/ﬁnish point is changed to the centre of a diﬀerent\nsquare? Justify your answer.\nSuppose now that a robot is programmed to move along a tour of an n × n grid. Therobot understands two commands:\n   • command R which turns the robot clockwise through a right angle;\n   • command F which moves the robot forward to the centre of the next square.\nThe robot has a program, a list of commands, which it performs in the given order to\ncomplete a tour; say that, in total, command R appears r times in the program and\ncommand F appears f times.\n\n(iii) Initially the robot is in the top-left square pointing to the right. Assuming the ﬁrst\ncommand is an F, what is the value of f? Explain also why r + 1 is a multiple of 4.\n\n(iv) Must the results of part (iii) still hold if the robot starts and ﬁnishes at the centre\nof a diﬀerent square? Explain your reasoning.\n(v) Show that a tour of an n × n grid is not possible when n is odd.\n\n                                    14\n\n15\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2009",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions09_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2009-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2009-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2009-mat-question-paper",
+   "year": 2009,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2009-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6.             ½                               ¾\n              COMPUTER SCIENCE\nFor APPLICANTS IN                                     ONLY.\n               MATHEMATICS & COMPUTER SCIENCE\n\n(i) Alice, Bob, and Charlie make the following statements:\n\n  Alice:  Bob is lying.\n   Bob:  Charlie is lying.\nCharlie:  1 + 1 = 2.\n\nWho is telling the truth? Who is lying?. Explain your answer.\n\n(ii) Now Alice, Bob, and Charlie make the following statements:\n\n  Alice:  Bob is telling the truth.\n   Bob:  Alice is telling the truth.\nCharlie:  Alice is lying.\n\nWhat are the possible numbers of people telling the truth?  Explain your answer.\n\n(iii) They now make the following statements:\n\n  Alice:  Bob and Charlie are both lying.\n   Bob:  Alice is telling the truth or Charlie is lying (or both).\nCharlie:  Alice and Bob are both telling the truth.\n\nWho is telling the truth and who is lying on this occasion? Explain your answer.\n\n\n\n\n\n                                    16\n\n17\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2009",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions09_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2009-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2009-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2009-mat-question-paper",
+   "year": 2009,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2009-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7. For APPLICANTS IN COMPUTER SCIENCE ONLY.\n\nConsider sequences of the letters M, X and W. Valid sequences are made up according\nto the rule that an M and a W can never be adjacent in the sequence. So M, XMXW,\nand XMMXW are examples of valid sequences, whereas the sequences MW and XWMX\nare not valid.\n\n(i) Clearly, there are 3 valid sequences of length 1. List all valid sequences of length 2.\n\n(ii) Let g(n) denote the number of valid sequences of length n. Further, let m(n), x(n),\nw(n) denote the number of valid sequences of length n that start with an M, an X, a W\nrespectively.\n\nExplain why\n\n          m (n) = w (n) ,\n          m (n) = m (n −1) + x (n −1)   for n > 1,\n                x (n) = 2m (n −1) + x (n −1)   for n > 1,\nand write down a formula for g (n) in terms of m (n) and x (n) .\n\nHence compute g(3), and verify that g(4) = 41.\n\n(iii) Given a sequence using these letters then we say that it is reﬂexive if the following\noperation on the sequence does not change it: reverse the letters in the sequence, and\nthen replace each occurrence of M by W and vice versa. So MXW, WXXM and XWXMX\nare reﬂexive strings, but MXM and XMXX are not. Let r(n) be the number of valid,\nreﬂexive sequences of length n.\n\nIf a sequence is reﬂexive and has odd length, what must the middle letter be? Explain\nyour answer.\n\nHence, show that                    ½  ¡n+1 ¢                             x            if n is odd,\n                          r (n) =     ¡n2 ¢                              x          if n is even.                                                  2\n\n\n\n\n\n                                    18\n\n19\nTurn Over\n\n20\nEnd of Last Question\n\n21\n\n22\n\n23\n\n24\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2009",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions09_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2009-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2009-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2009-mat-question-paper__q07.md"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "group": "ib-dp-math-ai-2025-may-p3-hl-tz3-qp",
+ "course_id": "IB-AI-HL",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 2,
+ "questions": [
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p3-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "3",
+   "variant": "AI HL TZ3",
+   "id": "ib-dp-math-ai-2025-may-p3-hl-tz3-qp__q01",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "1.   [Maximum mark: 28]\n\n     This question considers how the assessment of the Air Quality Index (AQI) for a\n     school depends on the method chosen by the person doing the assessing.\n\n      Air quality for a district is measured at three monitoring stations. The positions of these\n      stations on a coordinate system with units in kilometres are  A (0 , 5) ,  B (8 , 9) and  C (8 , 1) .\n\n    A Voronoi diagram is constructed with the three stations as sites.\n\n                           y\n                      15\n\n\n\n\n                                 B\n\n\n                 A       V\n\n\n\n                                 C\n\n                                                                      x                                           8\n\n      (a)     (i)   Find the equation of the perpendicular bisector of  [BC] .                                   [2]\n\n                   (ii)   Given that the equation of the perpendicular bisector of  [AB]  is  y = 15 − 2x ,\n                   find the coordinates of vertex  V .                                                              [2]\n\n(This question continues on the following page)\n\n(Question 1 continued)\n\n    A school,  S , is situated in the district at the point with coordinates (5 , 6) .\n\n      (b)   State which station is closest to the school.                                                         [1]\n\n    The principal of the school is concerned about the air quality in the area. Air quality is\n     measured by the Air Quality Index (AQI). In this district, values less than  50  are taken to\n      indicate good air quality.\n\n    The principal contacts the local environmental agency requesting an AQI value for her\n      school. They tell her the mean AQI reading from the closest station to the school.\n\n       (c)   Write down the type of interpolation being used by the environmental agency.                [1]\n\n    The principal obtains the mean AQI value from each of the three stations.\n\n                               Station          Mean AQI value\n                     A                   132\n                       B                    49\n                       C                   125\n\n      (d)   Explain why the principal might not accept that the air quality around the school can\n         be classed as “good”.                                                                                  [1]\n\n(This question continues on the following page)\n\n(Question 1 continued)\n\n    The principal decides to obtain an expected value for the AQI at the school that uses all\n      the available information. To do this, she uses an alternative method: the natural neighbour\n      algorithm. This algorithm has two stages.\n\n    The first stage is to create a new Voronoi diagram with the school as an extra site. This is\n    shown in the following diagram with the edges of the previous diagram shown by dashed lines.\n\n                           y\n                      15\n\n\n\n\n                                 B\n\n                        Q\n                            P\n                 A         S\n                            R\n\n                                 C\n\n                                                                      x                                           8\n\n    The second stage is to estimate the AQI value at the school,  W , by using the formula\n\n                           wA a A wB a B  wC aC                   W                                      .\n                                       T\n      In the formula,  aA  is the area within the new cell that has been taken from the cell\n     surrounding site  A , shown as region  P  on the diagram, and  wA  is the mean AQI value\n     from site  A . This is given as  132  in the table of mean AQI values above. Similarly for\n      sites  B  and  C .  T  is the total area of the new cell around  S .\n\n      (e)     (i)   Find the mid-point of  [SB] .                                                                     [2]\n\n                   (ii)  Show that the equation of the perpendicular bisector of  [SB]  is  y = 14 − x .            [3]\n\n                   (iii)  Hence find  aB  (the area of region  Q  on the diagram).                                      [5]\n\n(This question continues on the following page)\n\n(Question 1 continued)\n\n    The areas of regions  P  and  R  are  aA = 13.7 km2  and  aC = 6.9 km2  respectively.\n\n        (f)   Use the natural neighbour algorithm to show that an estimate for the expected AQI\n           value at the school,  W , is  94.4 .                                                                      [2]\n\n    The principal is still concerned that this method is underestimating the AQI value at the\n      school, as the school is situated close to a busy traffic intersection. She decides to take her\n    own readings (x) over a period of 60 days. Her results are summarized as\n\n                                                                      x̅ = 97.8 , sn−1 = 17.2 , n = 60 .\n\n    The principal assumes that the daily AQI values at the school can be modelled by a normal\n      distribution and that each value is independent of any other value.\n\n      (g)   Test at the  10 %  significance level the hypothesis that the mean AQI value at the\n           school is greater than  94.4 . State clearly the null and alternative hypotheses and the\n           conclusion of the test in context.                                                                      [6]\n\n    The principal now assumes that the distribution of AQI values at the school follows a normal\n      distribution with mean  97.8  and standard deviation  17.2 .\n\n      (h)  Use this model to find the expected number of days per year (correct to the nearest\n           day) on which the AQI value can be classed as “good”.                                           [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 3 — AI HL TZ3 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_3_TZ3_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p3-hl-tz3-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p3-hl-tz3-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p3-hl-tz3-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p3-hl-tz3-qp__q01.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p3-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "3",
+   "variant": "AI HL TZ3",
+   "id": "ib-dp-math-ai-2025-may-p3-hl-tz3-qp__q02",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "统计推断",
+   "knowledge_point": "假设检验",
+   "problem_type": "建立假设并使用检验结果作判断",
+   "search_text": "2.   [Maximum mark: 27]\n\n    George is researching the growth in the number of electric vehicles (EVs) in the\n    European Union in order to investigate some of the difficulties that might arise if the\n      target of banning sales of all petrol and diesel cars in 2035 is to be met.\n\n     George begins his research by predicting how many electric vehicles (EVs) will be in the\n     European Union in 2035.\n\n    The number of EVs in the European Union,  N , measured in millions, is shown in the\n      following table. The time  t  is measured in years from the beginning of 2016 where  t ∈  .\n\n    End of year     2016     2017     2018     2019     2020     2021     2022\n                t          1        2        3        4        5        6        7\n       N            0.2        0.3        0.4        0.6        1.1        1.9        3.1\n\n                                                       310\n     George models this data set using the logistic function N                   kt  , where  C , k ∈ + .                                                     1 C e\n      (a)   In context, explain the significance of  310  in George’s logistic function.                        [1]\n\n      (b)     (i)   Use the value of  N at t = 1  to show that  C = 1549ek .                                       [2]\n\n                   (ii)  Use the value of  N at t = 7  to find a second expression for  C .                            [3]\n\n       (c)  Use your answers to part (b) to find a value for\n\n                 (i)      k .                                                                                                   [2]\n\n                   (ii)    C .                                                                                                  [1]\n\n     George uses his model to predict values of  N  at the end of the years 2017 to 2021. These\n     values are shown in the following table, correct to one decimal place.\n\n            End of year      2017     2018     2019     2020     2021\n                                 t            2        3        4        5        6\n              N             0.3        0.4        0.6        1.1        1.9\n              Predicted values      0.3        0.5       a          1.2        2.0\n\n      (d)   Calculate the value of  a  correct to one decimal place.                                            [2]\n\n      (e)   Using the value of  a  correct to one decimal place, find the sum of square\n            residuals,  SSres , when using this model to predict the values of  N .                              [2]\n\n(This question continues on the following page)\n\n(Question 2 continued)\n\n    As a measure of how well the model fits the data, George uses the error function,  E ,\n\n               SS res     where E =             , and  n  is the number of predictions made using the model.\n                 n\n     George decides he will use this model if  E  is less than  0.25 .\n\n        (f)   By finding the value of  E  for George’s model, show that George will decide that the\n         model can be used.                                                                                     [3]\n\n      (g)  Use the model to predict the number of EVs in the European Union at the end of 2035.     [2]\n\n    One of the main difficulties in meeting the European Union’s target is the provision of\n       sufficient public charging points.\n\n    The European Union estimates that  80 %  of car owners will be able to charge their cars at\n    home and the remaining  20 %  will require public charging points. It is planned to have one\n      public charging point for every  10  cars that require them.\n\n      (h)  Use George’s model to find an expression for the total number of public charging points\n           required at time  t .                                                                                      [2]\n\n     At the end of 2020 there were  0.22  million public charging points in the European Union\n     and at the end of 2022 there were  0.54  million.\n\n         (i)   Find the average number of public charging points installed per year during this period.     [1]\n\n     George assumes that the number of public charging points will continue to increase linearly,\n      at the same rate, until 2035.\n\n         (j)   Determine the value of  t , where  t ≥ 5 , at which the number of charging points will first\n         be insufficient to meet demand, and hence the year in which this occurs.                      [6]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 3 — AI HL TZ3 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_3_TZ3_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p3-hl-tz3-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p3-hl-tz3-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p3-hl-tz3-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p3-hl-tz3-qp__q02.md"
+  }
+ ]
+}

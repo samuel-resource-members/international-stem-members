@@ -1,0 +1,208 @@
+{
+ "course_id": "AIME",
+ "subject": "math",
+ "exam_id": "AIME",
+ "question_count": 180,
+ "years": [
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ],
+ "questions_dir": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/",
+ "papers": [
+  {
+   "group": "live-poshenloh-aime-2021i-question_paper",
+   "paper_id": "live-poshenloh-aime-2021i-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "question_count": 15,
+   "chapters": [
+    "代数",
+    "几何",
+    "微分",
+    "排列组合",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2021i-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2021ii-question_paper",
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "question_count": 15,
+   "chapters": [
+    "代数",
+    "几何",
+    "微分",
+    "排列组合"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2021ii-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2022i-question_paper",
+   "paper_id": "live-poshenloh-aime-2022i-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "question_count": 15,
+   "chapters": [
+    "代数",
+    "几何",
+    "微分",
+    "排列组合"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2022i-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2022ii-question_paper",
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "question_count": 15,
+   "chapters": [
+    "代数",
+    "几何",
+    "坐标几何",
+    "概率"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2022ii-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2023i-question_paper",
+   "paper_id": "live-poshenloh-aime-2023i-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "question_count": 15,
+   "chapters": [
+    "代数",
+    "几何"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2023i-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2023ii-question_paper",
+   "paper_id": "live-poshenloh-aime-2023ii-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "question_count": 15,
+   "chapters": [
+    "代数",
+    "坐标几何",
+    "微分",
+    "排列组合"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2023ii-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2024i-question_paper",
+   "paper_id": "live-poshenloh-aime-2024i-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "question_count": 15,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2024i-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2024ii-question_paper",
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "question_count": 15,
+   "chapters": [
+    "代数",
+    "几何",
+    "排列组合",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2024ii-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2025i-question_paper",
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "question_count": 15,
+   "chapters": [
+    "几何",
+    "函数",
+    "微分",
+    "排列组合",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2025i-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2025ii-question_paper",
+   "paper_id": "live-poshenloh-aime-2025ii-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "question_count": 15,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数",
+    "微分",
+    "排列组合"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2025ii-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2026i-question_paper",
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "question_count": 15,
+   "chapters": [
+    "微分",
+    "排列组合",
+    "概率"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2026i-question_paper.json"
+  },
+  {
+   "group": "live-poshenloh-aime-2026ii-question_paper",
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "question_count": 15,
+   "chapters": [
+    "代数",
+    "函数",
+    "微分",
+    "概率"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/live-poshenloh-aime-2026ii-question_paper.json"
+  }
+ ]
+}

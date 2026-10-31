@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2025-may-june-p5-v3-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2025-may-june-p5-v3-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "3",
+   "id": "caie-igcse-0625-2025-may-june-p5-v3-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1    In this experiment, you will investigate a suspended metre ruler and determine the weight of the\n    metre ruler.\n\n    Refer to Fig. 1.1. Do not change the position of the loops of thread attached to the force meters.\n\n\n                                                                         clamp\n\n                       force meter Y                 force meter X\n\n                                                                               stand\n\n                                       metre ruler\n\n              0.0cm mark                                         100.0cm mark\n\n\n                d\n\n                                                                        bench                          1.50N load\n\n\n\n                                               Fig. 1.1\n\n     (a)   (i)  Move the 1.50 N load to a distance d = 40.0 cm from the 0.0 cm end of the ruler.\n            Raise or lower one clamp slightly,  if necessary, so that the metre ruler is as near to\n              horizontal as possible.\n\n          Read the value FX on force meter X and the value FY on force meter Y.\n\n                                             FX =  ........................................................... N\n\n                                             FY =  ........................................................... N\n\n             Calculate a value WX using the equation WX = FX + FY – k, where k = 1.50 N.\n\n\n\n                                  WX =  ........................................................... N\n                                                                                                                       [1]\n\n             (ii)   Briefly describe how to check that the ruler is horizontal before taking the reading.\n           You may draw a diagram.\n\n\n\n\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n(b) Move the 1.50 N load to a distance d = 10.0 cm from the 0.0 cm end of the ruler.\n    Ensure that the metre ruler is as near to horizontal as possible.\n\n    Read, and record in Table 1.1, the value FX on force meter X.\n\n    Repeat this procedure for d = 30.0 cm, 50.0 cm, 70.0 cm and 90.0 cm.\n\n                                    Table 1.1\n\n                          d / cm         FX / N\n\n                               10.0\n\n                               30.0\n\n                               50.0\n\n                               70.0\n\n                               90.0\n                                                                                                                 [2]\n\n(c)  Plot a graph of FX / N (y-axis) against d / cm (x-axis). Start the axes at the origin (0, 0).\n\n    Draw a best-fit straight line.\n\n\n\n\n\n             0\n              0\n\n\n                                                                                                                 [4]\n\n(d) From your graph, determine F0, the value of FX when d = 0.0 cm.\n\n\n                                             F0 =  ...............................................................\n\n    Calculate the weight WR of the metre ruler, using the equation WR = 2 × F0.\n\n\n\n                               WR =  ........................................................... N\n                                                                                                                 [2]\n\n(e)  State and explain whether your plots made it easy to choose the best-fit line.\n     Justify your answer with reference to your plots.\n\n    statement ..................................................................................................................................\n\n    explanation  ...............................................................................................................................\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n                                                                                                                 [1]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2025 — Paper 5 — 3 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s25_ms_53.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-may-june-p5-v3-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v3-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v3-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-may-june-p5-v3-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-may-june-p5-v3-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "3",
+   "id": "caie-igcse-0625-2025-may-june-p5-v3-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "2    In this experiment, you will investigate the cooling of hot water in a beaker.\n\n    Refer to Fig. 2.1.\n\n\n                                   thermometer\n\n\n\n\n\n           beaker\n\n\n                                                                   bench\n\n\n\n                                               Fig. 2.1\n\n     (a)   (i)  Measure the room temperature θR shown on the thermometer.\n\n                                             θR =  .........................................................  [1]\n\n             (ii)  Describe one technique for ensuring that this reading is accurate.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n     (b) Pour 200 cm3 of hot water into the beaker.\n        Place the thermometer into the water in the beaker.\n\n          In the first row of Table 2.1, record the temperature θ of the water at time t = 0 and immediately\n           start the stop-watch.\n\n        Record, in Table 2.1, the temperature θ of the water every 30 s until t = 270 s.\n\n                                        Table 2.1\n\n\n                                                               t / s                    θ / °C\n\n                                 0\n\n                                30\n\n                                60\n\n                                90\n\n                               120\n\n                               150\n\n                               180\n\n                               210\n\n                               240\n\n                               270\n                                                                                                                       [1]\n\n(c)   (i)  Calculate the average cooling rate x1 during the first 90 s of the experiment. Use your\n         readings from Table 2.1 and the equation:\n\n                                            θ0 – θ90\n                                      x1 =                                   T\n\n        where T = 90 s and θ0 and θ90 are the temperatures at t = 0 and t = 90 s.\n         Include the unit for the cooling rate.\n\n\n\n\n                                                   x1 =  .........................................................  [1]\n\n      (ii)  Calculate the average cooling rate x2 during the middle 90 s of the experiment. Use your\n         readings from Table 2.1 and the equation:\n\n                                            θ90 – θ180\n                                      x2 =                                   T\n\n        where T = 90 s and θ90 and θ180 are the temperatures at t = 90 s and t = 180 s.\n\n\n\n\n                                                   x2 =  .........................................................  [1]\n\n     (iii)  Calculate the average cooling rate x3 during the last 90 s of the experiment. Use your\n         readings from Table 2.1 and the equation:\n\n                                            θ180 – θ270\n                                     x3 =                                   T\n\n        where T = 90 s and θ180 and θ270 are the temperatures at t = 180 s and t = 270 s.\n\n\n\n\n                                                   x3 =  .........................................................  [1]\n\n(d)   (i)  The temperature of the water decreases over time.\n\n       Use your results from (c) to describe the overall pattern of the rate of cooling of the water\n           in the experiment. Justify your answer by reference to your results.\n\n                ...........................................................................................................................................\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n      (ii)  Estimate the final temperature θF of the water after several hours.\n\n                                             θF =  .........................................................  [1]\n\n(e)   (i)  Another student does the same experiment. She starts with the hot water at a lower\n             initial temperature.\n\n        Suggest how her cooling rates are likely to compare with yours. Use your results to\n         explain your answer.\n\n         suggestion .........................................................................................................................\n\n                ...........................................................................................................................................\n\n         explanation ........................................................................................................................\n\n                ...........................................................................................................................................\n\n                ...........................................................................................................................................\n                                                                                                                 [2]\n\n      (ii)  State one variable, other than initial water temperature, that the student needs to control.\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2025 — Paper 5 — 3 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s25_ms_53.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-may-june-p5-v3-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v3-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v3-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-may-june-p5-v3-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-may-june-p5-v3-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "3",
+   "id": "caie-igcse-0625-2025-may-june-p5-v3-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "3    In this experiment, you will investigate circuits containing different combinations of resistors.\n\n     Circuit A has been set up for you.\n    Refer to Fig. 3.1.\n\n    Resistor RP must remain in place throughout the experiment.\n\n                           RP\n\n\n\n\n                  A\n                                    V\n\n                                          R1\n\n\n\n                          P           R2        Q\n\n\n\n                                               Fig. 3.1\n\n     Circuit A\n\n     (a)   (i)  Close the switch.\n\n            Measure, and record in Table 3.1:\n                •    the potential difference (p.d.) V across terminals P and Q\n                •    the current I in the circuit.\n\n          Open the switch.\n\n                                        Table 3.1\n\n\n                           V / V             I / A        R / Ω\n\n                       circuit A\n\n                       circuit B\n\n                       circuit C\n                                                                                                                       [2]\n\n             (ii)  Calculate, and record in Table 3.1, resistance R. Use your values of V and I and the\n                  V\n             equation R = I.                                                                                   [1]\n\nCircuit B\n\n(b)  Disconnect R2 from circuit A. Resistor R1 remains connected between terminals P and Q, as\n    shown in Fig. 3.2.\n\n                                   R1\n\n\n           P                                 Q\n\n\n                                          Fig. 3.2\n\n\n\n    Repeat the procedures in (a)(i) and (a)(ii).                                                         [1]\n\nCircuit C\n\n(c)  Connect R2 in series with R1 between terminals P and Q, as shown in Fig. 3.3.\n\n                             R1           R2\n\n\n           P                                 Q\n\n\n                                          Fig. 3.3\n\n\n\n    Repeat the procedures in (a)(i) and (a)(ii).                                                         [1]\n\n(d)   (i)  Calculate resistance RA. Use the value of R from circuit A and the equation:\n\n                              RA = 2R.\n\n\n\n                                      RA =  ........................................................... Ω\n\n        Record resistance RB. RB is equal to the value of R from circuit B.\n\n                                     RB =  ........................................................... Ω\n\n         Calculate resistance RC. Use the value of R from circuit C and the equation:\n                             R\n                              RC = 2.\n\n\n\n\n                                    RC =  ........................................................... Ω\n                                                                                                                 [2]\n\n(ii)  A student suggests that RA, RB and RC should all be equal.\n\n         State whether your results support this suggestion. Justify your statement with reference\n          to values from your results.\n\n        statement  ..........................................................................................................................\n\n           justification  ........................................................................................................................\n\n                ...........................................................................................................................................\n                                                                                                                 [2]\n\n(e)  Briefly explain why resistor RP , shown in Fig. 3.1, must remain in place throughout the\n    experiment.\n\n   RP has a resistance of 3 Ω. Use your values in Table 3.1 to support your answer.\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n(f)  A student determines the resistance of R1. He uses a variable resistor in circuit B to control\n    the current and draws a graph of V against I.\n\n     Briefly explain one advantage of using a variable resistor to control the current.\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2025 — Paper 5 — 3 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s25_ms_53.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-may-june-p5-v3-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v3-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v3-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-may-june-p5-v3-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-may-june-p5-v3-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "3",
+   "id": "caie-igcse-0625-2025-may-june-p5-v3-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the refraction of light.\n\n     Refraction is the change in direction of a ray of light when passing into a transparent substance,\n    as shown in Fig. 4.1.\n\n    Plan an experiment which enables him to investigate how the concentration of a gel affects the\n    angle at which light is refracted when passing from air into the gel.\n\n   A transparent gel block can be made by dissolving gel powder in hot water in a mould and allowing\n        it to cool. Changing the amount of powder will change the concentration.\n\n    Concentration is measured in g / cm3.\n\n    You are not required to do the experiment.\n\n    The apparatus available includes:\n\n     •   samples of gel made at different concentrations and labelled with those concentrations\n     •   a ray-lamp which produces a narrow ray of light.\n\n     In your plan:\n\n     •     list any additional apparatus needed\n     •    explain briefly how to do the experiment, including the measurements to take\n     •    state the key variable to keep constant\n     •   draw a table, or tables, with column headings, to show how to display the readings (you are\n        not required to enter any readings in the table)\n     •    explain how to use the readings to reach a conclusion.\n\n\n\n        ray of light from ray-lamp\n\n\n\n                                                                           block of\n                refracted ray of light                                          transparent gel\n\n\n\n\n\n                ray of light emerging from gel\n\n\n                                               Fig. 4.1\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2025 — Paper 5 — 3 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s25_ms_53.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-may-june-p5-v3-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v3-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v3-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-may-june-p5-v3-qp__q04.md"
+  }
+ ]
+}

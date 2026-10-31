@@ -1,0 +1,337 @@
+{
+ "group": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp",
+ "course_id": "IB-AI-HL",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q01",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "利用首项、公差和项数求项或和",
+   "search_text": "1.   [Maximum mark: 16]\n\n     Thai cushions are designed with a triangular cross-section and are made from layers of\n      smaller cushions. These cushions can be modelled as triangular prisms.\n\n     This is shown in the diagram.\n\n                                                             diagram not to scale\n\n\n\n\n                                             5 layers\n\n\n                                                                          bottom layer\n\n             Thai cushion with 4 layers              Cross-section of Thai cushion with 5 layers\n\n      (a)   Write down the number of triangular prisms in the bottom layer of the cushion with\n\n                 (i)   4 layers.\n\n                   (ii)   5 layers.                                                                                           [2]\n\n    Mayumi notices that the number of triangular prisms in the bottom layer of the cushions\n     forms an arithmetic sequence.\n\n      (b)     (i)    Write down the common difference of this sequence.\n\n                   (ii)   Find an expression for the number of triangular prisms in the bottom layer of a\n                cushion with n layers.                                                                           [3]\n\n(This question continues on the following page)\n\n(Question 1 continued)\n\n    Mayumi wants to extend this design to create a cushion with  9  layers.\n\n       (c)     (i)   Find the number of triangular prisms in the bottom layer of Mayumi’s cushion.\n\n                   (ii)   Calculate the total number of triangular prisms in Mayumi’s cushion.                    [3]\n\n      (d)   Find an expression for the total number of triangular prisms in a cushion with  n  layers,\n            giving your answer in its simplest form.                                                              [2]\n\n    The cross-section of the cushion consists of black triangles and white triangles.\n\n\n\n\n\n            This cushion with  4  layers has a total      This cushion with  5  layers has  \n                       of  6  white triangles.              4  white triangles in its bottom layer.\n\n      (e)   Write down the total number of black triangles in a cushion with  4  layers.                     [1]\n\n    The number of black triangles in each layer forms an arithmetic sequence.\n\n        (f)   Find and simplify an expression for the total number of black triangles in a cushion\n            with  n  layers.                                                                                            [2]\n\n                                                         n ( n −1)    The total number of white triangles in a cushion with  n  layers is              .\n                                                            2\n\n      (g)   Using both the given expression and your answer to part (f), find and simplify an\n           expression for the total number of black and white triangles in a cushion with  n  layers.     [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q01.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q02",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "2.   [Maximum mark: 12]\n\n    The diagram shows part of the graphs of the functions\n\n                                                f (x) = 1.5x              x ≥ 0\n\n                                     3\n                            g ( x )  6                 x > 0 .\n                                          x\n\n                       y                                                 f ( x ) =1.5x\n\n                   6\n                                                                       3\n                                     B           g ( x )  6\n                                                                                x\n                   5\n\n                   4\n\n                   3\n\n                   2\n                   A\n                   1\n\n                   0                                         x\n                           1     2     3     4     5\n\n                 −1\n\n\n      (a)   Solve  f (x) = g (x) .                                                                                       [3]\n\n      (b)     (i)    Write down the integral that represents the area of the shaded region.\n\n                   (ii)   Calculate the area of this shaded region.\n\n                   (iii)  Hence, or otherwise, calculate the area of the region enclosed between\n                 the curves  y = f (x)  and  y = g (x) .                                                              [6]\n\n    The tangent to the graph of  y = f (x)  is parallel to the tangent to the graph of  y = g (x)  at  x = k .\n\n       (c)   Find the value of  k .                                                                                     [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q02.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q03",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "几何",
+   "knowledge_point": "面积与体积",
+   "problem_type": "从图形尺寸求面积、体积或表面积",
+   "search_text": "3.   [Maximum mark: 16]\n\n     Ju Shen designs a plastic cover, in the shape of a cylinder combined with a hemisphere on\n      top, as shown in the diagram.\n\n    The plastic used to make the cover forms the curved surface of both the hemisphere and the\n      cylinder; there is no bottom to the cover, however it stands on a flat horizontal surface.\n\n      Let the height of the cylinder be  h cm  and the internal radius of its base be  r cm .\n\n                                                             diagram not to scale\n\n\n\n\n\n                                   h\n\n                                                            r\n\n\n      (a)   Find an expression for the total internal surface area,  A cm2 , of the cover in terms\n            of  r  and  h .                                                                                              [2]\n\n      (b)  Show that the total volume,  V cm3 , enclosed by the cover and the horizontal surface is\n           given by the expression\n\n                                       2  r 3  3  r 2 h                             V                          .                                                [2]\n                                           3\n\n    The total volume enclosed by the cover is  10 000 cm3 .\n\n                           30 000  2  r 3\n       (c)  Hence show that h               2        .                                                                 [2]                              3  r\n\n     Ju Shen uses the total internal surface area to model the amount of plastic used to construct\n      the cover.\n\n      (d)  Show that  A  is given by the expression\n\n                                      2  r 2  20 000                             A                                     .                                                [2]\n                                        3       r\n\n(This question continues on the following page)\n\n(Question 3 continued)\n\n     Ju Shen wants to use the minimum amount of plastic in the construction of the cover.\n\n                          dA      (e)   Find an expression for       .                                                                           [3]\n                                dr\n        (f)   Find the value of  r  and the value of  h  that minimizes the use of plastic.                       [4]\n\n      (g)  By interpreting your answer to part (f), suggest the best shape for Ju Shen’s\n             plastic cover.                                                                                             [1]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q03.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q04",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "代数",
+   "knowledge_point": "不等式",
+   "problem_type": "求满足不等式的范围",
+   "search_text": "4.   [Maximum mark: 13]\n\n    A wind farm consists of five wind turbines, located at points  A  to  E .\n\n    The table below shows the distances, in kilometres, between each pair of turbines.\n\n               A        B        C       D         E\n         A                     0.90         0.88         1.56         0.86\n         B        0.90                       0.74         0.94         1.28\n         C        0.88         0.74                       0.78         0.62\n         D        1.56         0.94         0.78                       1.36\n          E        0.86         1.28         0.62         1.36\n\n    The turbines must all be connected by cables. However, there does not need to be a direct\n     connection between every pair.\n\n      (a)  Use Prim’s algorithm, starting with vertex  A , to find the minimum total length of cable\n           required to connect the turbines. Show the order in which you added the vertices.           [4]\n\n    The supervisor of the wind farm has a monitoring cabin located at point  F . The distances\n     from  F  to each turbine are shown in the table.\n\n                  Turbine        A      B      C      D       E\n           Distance from  F  ( km )     0.96       1.82       1.57       2.24       1.14\n\n    The supervisor wants to visit every turbine exactly once for inspection, starting and finishing\n      at the cabin, and using the route of shortest possible length.\n\n      (b)  By deleting vertex  F , find a lower bound for the length of the shortest route.                  [2]\n\n       (c)  Use the nearest neighbour algorithm starting at  F  to find an upper bound for the\n           length of the shortest route.                                                                           [3]\n\n(This question continues on the following page)\n\n(Question 4 continued)\n\n    The table below shows the lower bounds found by deleting each of the other five vertices,\n     and the upper bounds found by starting at each of the other five vertices.\n\n                   Vertex      A      B      C      D       E\n              Lower bound     5.02       4.86       5.02       4.90       4.84\n              Upper bound     6.36       6.36       7.13       7.22       6.82\n\n    The supervisor travels between the turbines at a constant speed of  28 km / h  and spends  \n      12  minutes inspecting each turbine.\n\n      (d)  Based on the information given in the table, find the best possible upper and lower\n         bounds for the shortest amount of time,  T  hours, required for the inspection. Write your\n          answer as an inequality.                                                                               [4]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q04.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q05",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "统计推断",
+   "knowledge_point": "假设检验",
+   "problem_type": "建立假设并使用检验结果作判断",
+   "search_text": "5.   [Maximum mark: 15]\n\n    A zoologist collects a sample of cane beetles. He measures their length and categorizes\n     them as “small” meaning from  10  to  12 mm  long, “medium” meaning from  12  to  16 mm \n     long and “large” meaning from  16  to 18 mm  long. He also notes their sex and records the\n     frequencies in the following table.\n\n                                                     Length,  x mm\n                                       Small        Medium         Large\n                                 10 < x ≤ 12     12 < x ≤ 16     16 < x ≤ 18\n                       Female        42            25            19\n              Sex\n                        Male         61            27            12\n\n      (a)   Find how many cane beetles are in the zoologist’s sample.                                      [1]\n\n      (b)  Based on this data set, estimate the mean length of a cane beetle.                             [2]\n\n    Two female beetles are chosen at random with replacement from the sample.\n\n       (c)   Find the probability that they are both categorized as small.                                      [3]\n\n      (d)   Test, at the  5 %  significance level, the null hypothesis that length category and sex\n           are independent. State the  p -value of your test and write your conclusion in context.\n             Justify your answer.                                                                                     [4]\n\n      Let  ϕ  be the population proportion of cane beetles that are male.\n\n      (e)   Test, at the  5 %  significance level, the hypothesis that more than  45 %  of cane beetles\n           are male. Write the null and alternative hypotheses. State the  p -value of your test and\n            write your conclusion in context.                                                                      [5]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q05.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q06",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分方程",
+   "knowledge_point": "微分方程",
+   "problem_type": "解微分方程并代入初始条件",
+   "search_text": "6.   [Maximum mark: 21]\n\n    A financial analyst models the change in value of one share,  x  dollars at time  t  minutes,\n      after a report is released. She uses the differential equation\n\n                                   d 2 x   dx\n                                                                2  4    3 x  0 .                                   d t    d t\n\n     This equation can be written as the coupled differential equations\n\n                                        dx                                       = y\n                                        dt\n\n\n                                     dy                                          3 x  4 y .\n                                     dt\n      (a)   Find the general solution for  x .                                                                       [5]\n\n                    dx        Initially  x = 0  and       1.\n                    dt\n      (b)     (i)   Find an expression for  x  in terms of  t .\n\n                   (ii)   Sketch  x  against  t  in the interval  0 ≤ t ≤ 4 .                                                  [6]\n\n    Once the report has been released, the analyst is going to buy some shares and then sell\n     them later.\n\n       (c)     (i)   Use your graph to find how long after the report is released the analyst should\n                 wait to buy the shares in order to maximize her profit.\n\n                   (ii)   Find the upper limit of the profit the analyst can make per share.                         [4]\n\n    An improved model is written as\n\n                                 d 2 x   dx\n                                                             2  4    3 x  x sin t .                                 d t    d t\n\n    The same initial conditions as above apply.\n\n      (d)  Use Euler’s method with a  t -interval of  0.1  to predict the value of  x  when  t = 1 .             [6]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q06.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ2",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q07",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "矩阵",
+   "knowledge_point": "矩阵与行列式",
+   "problem_type": "用矩阵运算或行列式处理线性关系",
+   "search_text": "7.   [Maximum mark: 17]\n\n    On any given day, the probability that Emlyn charges his phone depends only on whether he\n     charged it the previous day.\n\n         If he charged his phone the previous day, the probability he charges it today is  0.4 .\n\n         If he did not charge his phone the previous day, the probability he charges it today is  p .\n\n    On day  n  this can be represented using the vector  vn  where\n\n                                probability that Emlyn charges his phone on day n\n                      vn                      probab ility that Emlyn does not charge his phone on day n\n\n    A Markov chain model is formed where\n\n                                                         vn+1 = Mvn .\n\n                         a   p\n      Matrix  M  is of the form                   .\n                         b  1  p\n\n      (a)   Write down the value of\n\n                 (i)     a .\n\n                   (ii)     b .                                                                                                   [2]\n\n      (b)  On day zero Emlyn charges his phone. Find the probability\n\n                 (i)    that Emlyn charges his phone on all days from  n = 1  to  n = 4 .\n\n                   (ii)    that Emlyn charges his phone on day  4 , when  p = 0.7 .                                    [5]\n\n                                                              1\n       (c)   Demonstrate that, for all values of  p , one eigenvector of  M  is     and hence state\n                                                              1           the associated eigenvalue.                                                                            [4]\n\n      (d)   Find, in terms of  p , the steady state probability that Emlyn charges his phone on a\n           given day.                                                                                                [4]\n\n      In the long term, Emlyn wants to charge his phone on at least  60 %  of days.\n\n      (e)   Find the minimum value of  p  required for this to occur.                                           [2]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ2 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ2_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz2-qp__q07.md"
+  }
+ ]
+}

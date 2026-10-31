@@ -1,0 +1,122 @@
+# CIE-0625 · 2024 · October/November · 5 · 3 · Q4
+
+- id: caie-igcse-0625-2024-october-november-p5-v3-qp__q04
+- course: CIE-0625
+- exam: CIE-0625
+- subject: physics
+- year: 2024
+- session: October/November
+- paper: 5
+- variant: 3
+- question_number: 4
+- paper_id: caie-igcse-0625-2024-october-november-p5-v3-qp
+- chapter: Practical skills
+- knowledge_point: Experimental design and data
+- problem_type: 处理实验变量、读数、图像和误差
+- topic_tags: caie-igcse-0625-2024-october-november-p5-v3-qp__q04
+
+## Text (OCR)
+
+```text
+4  A student investigates the speed of a small trolley moving down a sloping ramp.
+
+    Plan an experiment which will enable him to compare the effect of different angles of slope on the
+    average speed of the trolley between points on the ramp.
+
+    Average speed can be calculated from the equation:
+
+
+                                                                        distance
+                                                 average speed =
+                                                                        time
+
+    The apparatus available includes:
+
+     •   a long ramp with a support that enables it to be set at different angles of slope
+     •   a small trolley.
+
+    You are not required to do the experiment.
+
+     In your plan:
+
+     •     list any additional apparatus needed
+
+     •    explain briefly how to do the experiment, including how to take the measurements so that the
+        average speed can be determined
+
+     •   suggest a possible source of inaccuracy even if the method is carried out carefully
+
+     •    state the key variables to keep constant
+
+     •   draw a table, or tables, with column headings, to show how to display the readings (you are
+        not required to enter any readings in the table)
+
+     •    explain how to use the readings to reach a conclusion.
+
+    You may draw a diagram if it helps to explain your plan.
+
+..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ..........................................................................................................................................................
+
+        ....................................................................................................................................................  [7]
+
+
+
+
+
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+
+
+To avoid the issue of disclosure of answer-related information to candidates,  all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+
+
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+```
+
+## Answer / mark scheme candidates
+
+- [Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 5 — 3 — Mark Scheme](https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_53.pdf)
+
+## Source files
+
+- package `question-bank-physics-part-005.zip` (release `subject-resources`) · member `question-corpus/questions/caie-igcse-0625-2024-october-november-p5-v3-qp__q04/question.pdf`: https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

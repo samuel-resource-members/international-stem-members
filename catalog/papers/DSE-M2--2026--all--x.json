@@ -1,0 +1,1368 @@
+{
+ "group": "DSE-M2--2026--all--x",
+ "course_id": "DSE-M2",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 34,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q02__a",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "证明",
+   "knowledge_point": "数学归纳法",
+   "problem_type": "用数学归纳法证明恒等式",
+   "search_text": "Using mathematical induction, prove that sum_{k=1}^n 1/(1+2+...+k) = 2n/(n+1) for all positive integers n.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q02__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q02__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q02__a.pdf",
+     "bytes": 382806,
+     "sha256": "1d5f2e6641567babde18b1b930c16f622cd8e0e9e9d2d476189f379fff3ad883",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q02__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q02__b",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "证明",
+   "knowledge_point": "数学归纳法",
+   "problem_type": "利用数学归纳法得出的结论求级数和",
+   "search_text": "Using (a), evaluate 1/(2+4+...+100) + ... + 1/(2+4+...+200)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q02__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q02__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q02__b.pdf",
+     "bytes": 384048,
+     "sha256": "bff45ad2361bdbae7185ccc3c69bd520d2c2b17bfa0752491b458dc660ffb15b",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q02__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q03__a",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "矩阵",
+   "knowledge_point": "齐次线性方程组",
+   "problem_type": "由非平凡解条件确定参数关系",
+   "search_text": "Assume that (E) has non-trivial solutions. Express q in terms of p.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q03__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q03__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q03__a.pdf",
+     "bytes": 360761,
+     "sha256": "74cf1beafd43a988fb9d522a7e80aaa81e6e0fe174dfc91de6abe5e8e5a34a2c",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q03__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q03__b",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "矩阵",
+   "knowledge_point": "齐次线性方程组",
+   "problem_type": "由参数代数式求取值范围",
+   "search_text": "Write down the range of values of q.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q03__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q03__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q03__b.pdf",
+     "bytes": 359524,
+     "sha256": "9a2b90cc49197b1930d94c9cfa1bee948743bd1c1a99b5559064a2b63fafd8a4",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q03__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q03__c",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "矩阵",
+   "knowledge_point": "齐次线性方程组",
+   "problem_type": "求具有非平凡解的齐次线性方程组的通解",
+   "search_text": "Suppose that p = 3. Solve (E).",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q03__c"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q03__c.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q03__c.pdf",
+     "bytes": 360877,
+     "sha256": "2531dfe9885488be357addbb0529fcacb9fa18d1cce05715ade38c73b96fb2b6",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q03__c.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q04__a",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "三角",
+   "knowledge_point": "三角恒等式",
+   "problem_type": "证明积化和差或倍角三角恒等式",
+   "search_text": "Prove that 1 - cos 2x + cos 4x - cos 6x = 4 sin x cos 2x sin 3x",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q04__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q04__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q04__a.pdf",
+     "bytes": 379976,
+     "sha256": "b521b4670f18674c61223d82bab96ba28e96cedf55ee9b5fbb4c9f6c60fac33b",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q04__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q04__b",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "三角",
+   "knowledge_point": "三角方程",
+   "problem_type": "利用三角恒等式化简并在给定区间内解三角方程",
+   "search_text": "Solve the equation 1 - cos 2x + cos 4x - cos 6x = 4 cos x cos 2x cos 3x , where 0 <= x <= pi/3",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q04__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q04__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q04__b.pdf",
+     "bytes": 381218,
+     "sha256": "654e4268f2e05c3e49061de53ced70f654fa1ab59fb929af4baf84d672a67d10",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q04__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q05__a",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "函数",
+   "knowledge_point": "函数的奇偶性",
+   "problem_type": "检验函数是否为奇函数",
+   "search_text": "Define g(x) = ... Is g(x) an odd function? Explain your answer.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q05__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q05__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q05__a.pdf",
+     "bytes": 380581,
+     "sha256": "267a84dea37942237a5f1c8c3f916f627d7e8d3e0d597c83dc241d819430955d",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q05__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q05__b",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "积分",
+   "knowledge_point": "定积分与奇偶性",
+   "problem_type": "利用奇偶函数性质求对称区间上的定积分",
+   "search_text": "Using the result of (a), evaluate int_{-2026}^{2026} (2^(x+2) x^2 - 4^(x+1) x^2 + 8^x)/(1+8^x) dx",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q05__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q05__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q05__b.pdf",
+     "bytes": 381663,
+     "sha256": "98af53a60505aa92fedf471905ca92d9dd995085e8d337fa0bb85fea045b80ac",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q05__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q06__a",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "代数",
+   "knowledge_point": "代数恒等式",
+   "problem_type": "证明指数式与分式乘积恒等式",
+   "search_text": "Prove that (x + 1/x^2)^(n+2) (x^2 - 1/x)^n = (x^3 + 1)^2 (x^6 - 1)^n / x^(3n+4)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q06__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q06__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q06__a.pdf",
+     "bytes": 392679,
+     "sha256": "9159f71c2988627b151f3c46fbae14429dfda23645813de70c7d1539ee5f884a",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q06__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q06__b",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "代数",
+   "knowledge_point": "二项式定理",
+   "problem_type": "求二项式展开式中指定幂次的系数",
+   "search_text": "Find the least positive integer r such that the coefficient of x^r in the expansion of (x+1/x^2)^10 (x^2-1/x)^8 is non-zero. Hence, find this coefficient.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q06__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q06__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q06__b.pdf",
+     "bytes": 391446,
+     "sha256": "dc166df59b98fab9576a6e519a9a992cb87393205e3b609458f7933071ad4ed7",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q06__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q06__c",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "代数",
+   "knowledge_point": "二项式定理",
+   "problem_type": "判断二项式展开式中常数项的存在性",
+   "search_text": "Someone claims that there exists a positive integer n such that there is a non-zero constant term in the expansion of (x+1/x^2)^(n+2)(x^2-1/x)^n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q06__c"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q06__c.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q06__c.pdf",
+     "bytes": 391727,
+     "sha256": "57729e5c773855a275881126972f0e7039b810a65fbf0319e7f578ee69f5dce4",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q06__c.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q07__a-i",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "积分",
+   "knowledge_point": "换元积分法",
+   "problem_type": "运用换元积分法求不定积分",
+   "search_text": "Express int x sqrt(x^2 + a) dx in terms of a",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q07__a-i"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q07__a-i.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q07__a-i.pdf",
+     "bytes": 387122,
+     "sha256": "b650d28a5816a930b65d79019a58d761f49b88f17f773aa3953f17a07c90bd97",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q07__a-i.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q07__a-ii",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "积分",
+   "knowledge_point": "不定积分与有理化",
+   "problem_type": "通过有理化分母或代数变形求不定积分",
+   "search_text": "Prove that int (1/(x+sqrt(x^2+a)))^2 dx = 2x^3/(3a^2) - 2(x^2+a)^(3/2)/(3a^2) + x/a + C",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q07__a-ii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q07__a-ii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q07__a-ii.pdf",
+     "bytes": 387989,
+     "sha256": "82b4321651a30c34bf645404d6e9971236b7c07982a84549b39ef55b7fb10978",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q07__a-ii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q07__b",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "积分",
+   "knowledge_point": "旋转体体积",
+   "problem_type": "利用定积分和已知不定积分结果求旋转体体积",
+   "search_text": "Find the volume of the solid of revolution generated by revolving R about the x-axis",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q07__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q07__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q07__b.pdf",
+     "bytes": 388369,
+     "sha256": "bf31e8976cd6d5f7da9f3bfe9953435c1bf9cecd90b82993b8be9fce415f46dc",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q07__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q08__a",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "微积分与函数",
+   "knowledge_point": "水平渐近线与反导数",
+   "problem_type": "由导函数积分求函数并求水平渐近线",
+   "search_text": "Express the horizontal asymptote(s) of Gamma in terms of k",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q08__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q08__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q08__a.pdf",
+     "bytes": 399310,
+     "sha256": "dd44e47ce5c6199a8122ef8e224e0da977c61a2ef8ccc2f4d450303cf2aef589",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q08__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q08__b",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "微分",
+   "knowledge_point": "拐点与二阶导数",
+   "problem_type": "求二阶导数并证明无拐点",
+   "search_text": "Prove that Gamma has no points of inflexion when k > 6",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q08__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q08__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q08__b.pdf",
+     "bytes": 399310,
+     "sha256": "c8f3483265eeecfc5f0f120db7780caa105550ca250c132e0ca2153c8a014334",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q08__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q08__c",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "微分",
+   "knowledge_point": "拐点与二阶导数",
+   "problem_type": "检验二阶导数变号判断拐点个数",
+   "search_text": "Someone claims that Gamma has two points of inflexion when k < 6. Do you agree? Explain your answer.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q08__c"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q08__c.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q08__c.pdf",
+     "bytes": 398366,
+     "sha256": "fd8d0642f919d723a1fba60e41c768c560d8493269254c060fedc135d8dd70c6",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q08__c.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q09__a",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "微分",
+   "knowledge_point": "极值与驻点",
+   "problem_type": "求函数曲线的极大值点",
+   "search_text": "The figure shows the curve C: y = x e^-x. Find the maximum point of C.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q09__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q09__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q09__a.pdf",
+     "bytes": 359785,
+     "sha256": "be07da3ba6affb02f022f8ceb8cdf83d95b9a1beaa92cba17c348d18281e74fc",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q09__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q09__b-i",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "微分",
+   "knowledge_point": "切线与最值",
+   "problem_type": "建立三角形面积函数并求最大值",
+   "search_text": "Find the greatest value of alpha",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q09__b-i"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q09__b-i.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q09__b-i.pdf",
+     "bytes": 360584,
+     "sha256": "b8e791ccbb06aa7d5d3c0d79bddc15ee2558b2ba402af7102014fc2933d9ad16",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q09__b-i.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q09__b-ii",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "用定积分求曲边梯形与三角形面积之差",
+   "search_text": "Prove that beta = 1 - 1/2(h^2 + 2h + 2)e^-h",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q09__b-ii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q09__b-ii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q09__b-ii.pdf",
+     "bytes": 360584,
+     "sha256": "edba3a5f5ba0ddf7c69d1faae2b3eaf19212af374f6dff55e7f600141eff69a7",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q09__b-ii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q09__b-iii",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "利用复合函数求导法与链式法则求变化率",
+   "search_text": "When t = T, the rate of change of alpha is equal to the rate of change of beta. Find the rate of change of alpha when t = T",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q09__b-iii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q09__b-iii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q09__b-iii.pdf",
+     "bytes": 360798,
+     "sha256": "da66c82618efcb10041688c69cc026488715d03d4c65fdc3897d17ea98cdf109",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q09__b-iii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q10__a",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "积分",
+   "knowledge_point": "分部积分法",
+   "problem_type": "用分部积分法求三角函数与对数函数的定积分",
+   "search_text": "Using integration by parts, evaluate int_{pi/6}^{pi/3} cos 2x ln(tan x) dx",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q10__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q10__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q10__a.pdf",
+     "bytes": 366263,
+     "sha256": "b703281b8b1431413f37e22a439652ca9ec306d7e3c20881741ac97857ba8a51",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q10__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q10__b",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "积分",
+   "knowledge_point": "定积分的对称性与代换",
+   "problem_type": "利用区间代换与恒等式求定积分",
+   "search_text": "Prove that int_{pi/6}^{pi/3} cos^2 x ln(tan x) dx = - int_{pi/6}^{pi/3} sin^2 x ln(tan x) dx . Hence, evaluate ...",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q10__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q10__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q10__b.pdf",
+     "bytes": 367339,
+     "sha256": "c5cd4efb11bf1b3f1ac286985c8dcf42c135a64b5925f48f4ffd4fff809cbb25",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q10__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q10__c",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "积分",
+   "knowledge_point": "对数性质与定积分",
+   "problem_type": "拆分对数被积函数并利用前问结果求定积分",
+   "search_text": "Express int_{pi/6}^{pi/3} cos^2 x ln(k tan x) dx in terms of k, where k is a positive constant",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q10__c"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q10__c.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q10__c.pdf",
+     "bytes": 367344,
+     "sha256": "3a1f3071f5422ec58e2222499d1028db9d4da562b3837f784a1857db644a69f2",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q10__c.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q10__d",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "积分",
+   "knowledge_point": "换元与分部积分法",
+   "problem_type": "结合换元与分部积分法求定积分",
+   "search_text": "Evaluate int_0^{ln 3} x e^x / (e^(2x) + 3)^2 dx",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q10__d"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q10__d.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q10__d.pdf",
+     "bytes": 366192,
+     "sha256": "6531b945d8e519078f24af70336510fde59e41e19281f9030ac0cbd37100f61e",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q10__d.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q11__a",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "矩阵",
+   "knowledge_point": "特征方程与特征值",
+   "problem_type": "由特征多项式求矩阵的特征值",
+   "search_text": "Let lambda_1 and lambda_2 (lambda_1 >= lambda_2) be the roots of the equation det(x I - A) = 0. Find lambda_1 and lambda_2.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q11__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q11__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q11__a.pdf",
+     "bytes": 383344,
+     "sha256": "4cbf88028c1d936fd4845d1ab88a4fb58cd33c536be96df82373f1e667bb21a8",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q11__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q11__b-i",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "矩阵",
+   "knowledge_point": "矩阵对角化与可逆矩阵",
+   "problem_type": "由矩阵方程求过渡矩阵及其逆矩阵",
+   "search_text": "It is given that AP = PD. Find P and evaluate P^-1.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q11__b-i"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q11__b-i.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q11__b-i.pdf",
+     "bytes": 384130,
+     "sha256": "fb21b448266bb87b6d7328c48a5ec88635c329838b80a85e92b8d3357279f67d",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q11__b-i.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q11__b-ii",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "矩阵",
+   "knowledge_point": "矩阵的幂与奇异矩阵",
+   "problem_type": "利用对角化计算矩阵的幂并求矩阵多项式之和",
+   "search_text": "Let B = A^n - 10A - 12I, where n is a positive integer. Suppose that B is singular. Find n. Hence, evaluate B + B^2 + ... + B^10.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q11__b-ii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q11__b-ii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q11__b-ii.pdf",
+     "bytes": 384344,
+     "sha256": "459730688a376d527908e13e1ebcc847b9864b1883c1766779ebc7bedf77c15f",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q11__b-ii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q12__a",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "向量",
+   "knowledge_point": "向量与距离",
+   "problem_type": "用向量模长证明等腰三角形",
+   "search_text": "The position vectors of the points P, Q and R are ... Prove that Delta PQR is an isosceles triangle.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q12__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q12__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q12__a.pdf",
+     "bytes": 422615,
+     "sha256": "2b9a2866029d227d0eb55249604f6bf2bcfbab1bfaa22381ecb0efb09c44540b",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q12__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q12__b",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "向量",
+   "knowledge_point": "定比分点公式",
+   "problem_type": "用中点与分点公式求位置向量",
+   "search_text": "Let M be the mid-point of QR and X be a point lying on PM such that PX : XM = lambda : 1. Express OX in terms of lambda.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q12__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q12__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q12__b.pdf",
+     "bytes": 422614,
+     "sha256": "95a9a322408a765fe740fed9f39a8150a13f7431ba95e263c888678734adf1e3",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q12__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q12__c-i",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "向量",
+   "knowledge_point": "空间三角形外心",
+   "problem_type": "利用向量数量积与共面条件求外心位置向量",
+   "search_text": "Denote the circumcircle of Delta PQR by S ... Find the position vector of the centre of S.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q12__c-i"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q12__c-i.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q12__c-i.pdf",
+     "bytes": 423401,
+     "sha256": "2791e6603ede4e16d82af7231b8f5e5f3d0505b2947c3f685a93d6a671678ea8",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q12__c-i.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q12__c-ii",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "向量",
+   "knowledge_point": "点到平面的距离与圆锥体积",
+   "problem_type": "求平面法向量、点到平面距离及圆锥体积",
+   "search_text": "Find the volume of the circular cone with vertex V and base B.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q12__c-ii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q12__c-ii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q12__c-ii.pdf",
+     "bytes": 423401,
+     "sha256": "9161972e1c226599e549abd40acf6671aac4b37f852a25868cbdb221ec34ef8d",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q12__c-ii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m2-en-2026__m2-q12__c-iii",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "向量",
+   "knowledge_point": "点到平面的距离与体积不变性",
+   "problem_type": "利用向量共面与平行判断距离和体积的恒定性",
+   "search_text": "Let Z be a point with position vector OV + k OR, where k is a constant. Someone claims that the volume of the circular cone with vertex Z and base B is independent of k.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m2-en-2026__m2-q12__c-iii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q12__c-iii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m2-en-2026/questions/peter-dse-m2-en-2026__m2-q12__c-iii.pdf",
+     "bytes": 424486,
+     "sha256": "c338fd34c34eaae5cc3c660d41f5e00ad453a02151f9244c7f9e8505eca2f669",
+     "shard": "pdfs-2adc3aa59be4c0c4.zip",
+     "shard_bytes": 17711063,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2adc3aa59be4c0c4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/peter-dse-m2-en-2026__m2-q12__c-iii.md"
+  }
+ ]
+}

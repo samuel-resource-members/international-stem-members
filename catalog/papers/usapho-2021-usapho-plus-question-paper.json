@@ -1,0 +1,149 @@
+{
+ "group": "usapho-2021-usapho-plus-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 3,
+ "questions": [
+  {
+   "paper_id": "usapho-2021-usapho-plus-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "Plus",
+   "id": "usapho-2021-usapho-plus-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question 1\n\nThe Jet Stream\n\nThe jet stream is an eastward wind current that moves over the continental United States at an\naltitude of 23, 000 to 35, 000 feet (the range of typical cruising altitudes of commercial airlines).\nThis strong current aﬀects ﬂight times signiﬁcantly: ﬂights traveling eastward ﬂy signiﬁcantly faster\nthan ﬂights traveling westward.\n   This problem consists of two independent parts. In the ﬁrst part, you will consider a simple\nmodel for airplane ﬂight. In the second part, you will determine the jet stream speed on a ﬁctitious\nplanet called Orb.\n\n1. The power that a plane expends is used both to combat drag and to generate lift. Throughout\n   this part of the problem, you may assume that the plane travels with horizontal velocity vrel\n   relative to the air, the density of air is ρair, the mass of the plane is m, and the cross-sectional\n   area of the plane is Acs.\n\n  (a) The drag force on an airplane is given by\n\n                                     Fdrag = −1                                                     2cdρairAcs|vrel|vrel,\n\n     where cd is the drag coeﬃcient (which depends on the shape of the plane). Write an expression\n       for the power expended by the airplane to combat the drag force from the air.\n\n  (b) Airplanes generate lift by deﬂecting air downward.\n\n          i. Estimate the air mass per unit time which is deﬂected by the wings of the plain.\n         ii. Estimate the power expended by the plane for lift.\n\n  (c) Estimate the speed at which an airplane ﬂies relative to the air by minimizing the power\n     expended by the plane. To get a numeric answer, you may use the following parameters:\n\n                  mplane ∼8 × 104 kg,   ρair ∼1 kg/m3,   cd ∼10−2,   Acs ∼100 m2.\n\n   Next, we estimate the jet stream speed using ﬂight times. Because the jet stream speed on\nEarth varies greatly with location, time of year, and climate eﬀects (such as El Ni˜no and La Ni˜na),\nyou will instead consider the ﬁctitious planet Orb, where the jet stream is eastward and uniform\nin the region of interest. At the end of the problem is a map of the region, whose area is much\nsmaller than the surface area of Orb (i.e., you can neglect the curvature of Orb).\n\n2. At cruising altitude, we asume all airplanes travel at a ﬁxed speed vrel relative to the air. (This is\n   not necessarily the same as your answer to 1(c), which was just a rough estimate.) Additionally,\n  we assume that ﬂights occur in three stages – (1) taxi and takeoﬀ, (2) ﬂight at cruising altitude,\n   (3) landing and taxi – and that stages (1) and (3) take a ﬁxed total time t0 for every ﬂight.\n\n  (a) Suppose a plane, at cruising altitude, is traveling at an angle θ away from due east relative\n      to the ground. What is the speed of the plane relative to the ground? Give your answer in\n     terms of vrel, θ, and vw, the speed of the jet stream relative to the Earth’s surface.\n\n  (b) If the plane travels a distance D, what is the total travel time t, including taxi, takeoﬀ, and\n      landing?\n\n2021 USAPhO+                                                                      3\n\n\n\n\n  (c) Below, we present some data on airplane ﬂights on Planet Orb. Each of the ﬂight times shown\n     below has an independent uncertainty of ∆t = 5 min. From the data and the map, determine\n     vw and vrel, giving your answers in km per hour with uncertainties. Indicate clearly what\n     two quantities you are plotting against each other on each graph that you plot.\n\n                      Departure City   Arrival City    t (min)\n                               Noethersville      Rubinstead      185\n                            Rubinstead       Noethersville     286\n                              Curieton        Franklinport      107\n                              Franklinport        Curieton       244\n                            Planck Town     Maxwellbury     143\n                          Maxwellbury     Planck Town     256\n                            Rubinstead     Boltzmannburg     92\n                         Boltzmannburg     Rubinstead      190\n                               Einsteinopolis     Maxwellbury     160\n                          Maxwellbury      Einsteinopolis     384\n                            Planck Town      Franklinport      128\n                              Franklinport      Planck Town     266\n                               Einsteinopolis      Franklinport      188\n                              Franklinport      Einsteinopolis     431\n                         Boltzmannburg    Maxwellbury     135\n                          Maxwellbury    Boltzmannburg    150\n\n                       Departure City  Arrival City   t (min)\n                                Noethersville     Einsteinopolis     68\n                               Einsteinopolis     Noethersville     74\n                               Franklinport    Newton City     144\n                         Newton City     Franklinport     129\n                               Curieton       Rubinstead     186\n                             Rubinstead        Curieton       175\n                            Planck Town       Curieton       95\n                               Curieton       Planck Town     102\n                            Planck Town      Rubinstead     249\n                             Rubinstead      Planck Town     250\n\n2021 USAPhO+                                                                      4\n\n\n\n\n\n                                                       City\n                                                                                  Newton                                                                                                                                                                        Franklinport\n                                                                                                                                                                                                                                                          Maxwellbury                                                                                                    Boltzmannburg\n\n\n\n                                                                                                                                                       Town\n                                                                                                                                                                                                                                      Curieton                                                                              Rubinstead                                                                                                                                                                                                                                   Planck\n\n\n\n\n\n          E\n\n                                                                            km\n      N       S\n                                                                                                                 200                                                                                                                                                                                                                                                                                                                              Einsteinopolis                                                                  Noethersville\n\n          W\n\n2021 USAPhO+\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 USAPhO Plus Solutions",
+     "url": "https://www.aapt.org/Common2022/upload/2021-USAPhO_plus_Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2021-usapho-plus-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2021-usapho-plus-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2021-usapho-plus-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2021-usapho-plus-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2021-usapho-plus-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "Plus",
+   "id": "usapho-2021-usapho-plus-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "Question 2\n\nThe Dark Forest\n\nDark matter could be made of hypothetical, extremely light particles called axions. Because in-\ndividual axions are so light, experiments do not search for individual axions, but rather for the\nclassical axion ﬁeld formed by a large collection of axions, which oscillates as\n\n                                           a(t) = a0 sin(ωt).\n\nThis is analogous to how a large collection of photons can form a classical electromagnetic ﬁeld. In\nthe presence of a magnetic ﬁeld B and an axion ﬁeld a, the axion ﬁeld produces an eﬀective current\n\n                                 J = g ˙aB\n\nwhere we deﬁne ˙a = da/dt. The eﬀective current produces electromagnetic ﬁelds in exactly the same\nway as ordinary current, though it does not come from the motion of actual charges. Experiments\ncan search for axion dark matter using systems which are resonantly driven by this current.\n   You may use fundamental constants in your answers, such as\n\n       c = 3.00 × 108 m/s         ℏ= 1.055 × 10−34 J · s       e = 1.602 × 10−19 C\n   G = 6.67 × 10−11 N · m2/kg2     µ0 = 4π × 10−7 N/A2      kB = 1.38 × 10−23 J/K.\n\nYou do not have to provide numeric answers unless asked. When asked to “estimate”, you may drop\nconstants of order one. The numeric values provided below are from standard references where ℏ,\nc, µ0, and ϵ0 are set to one; to get correct numeric results, you must restore these factors yourself.\n\n1. First, we will describe some physical properties of the axion ﬁeld.\n\n  (a) Consider a single axion at rest, with mass m. Find its associated angular frequency ω. This\n       will be the angular frequency of the corresponding classical ﬁeld, when there are many axions.\n\n  (b) Suppose dark matter is distributed spherically symmetrically in the galaxy with uniform\n      density ρ. The solar system is a distance r from the center of the galaxy and orbits around\n        it with period T. Neglecting everything besides dark matter, ﬁnd the dark matter density ρ.\n  (c) The energy density of the axion ﬁeld is m2a20/(2ℏ3c). Find the axion ﬁeld amplitude a0.\n  (d) The radius and period of the Sun’s orbit, as well as a typical axion mass, are\n\n                      r = 2.5 × 1020 m,  T = 7.1 × 1015 s, m = 1.0 × 10−9 eV.\n\n     Numerically compute the axion ﬁeld amplitude a0.\n\n  (e) In this problem, we treat the axion ﬁeld as spatially uniform within a terrestrial laboratory.\n     To verify that this assumption is reasonable, numerically estimate the axion ﬁeld’s wavelength\n      λ, assuming the axions have the same galactic speed as the Sun.\n\n   (f) In part (a), you found ω by neglecting the axion’s speed. In reality, the axion’s ﬁnite speed\n     changes the frequency to ω + ∆ω, in a frame at rest with respect to the galactic center.\n     Numerically estimate ∆ω/ω to show that it is reasonable to neglect this eﬀect.\n\n2021 USAPhO+                                                                      6\n\n\n\n\n\n   The ABRACADABRA1 experiment, currently taking data at MIT, is a toroidal solenoid with\ninner and outer radius Rin and Rout and height h. You may assume h ≫Rout for simplicity. A\nsuperconducting wire carrying current I wraps N times around the toroid, where N is high enough\nto neglect the discreteness of the wires. A circular pickup loop with radius slightly less than Rin is\nplaced at the center of the toroid.\n\n2. Now, we will ﬁnd the axion signal generated in the ABRACADABRA apparatus.\n\n  (a) Find the magnetic ﬁeld B(r) inside the toroid due to the superconducting current.\n\n  (b) The superconducting wires lose their superconductivity when exposed to a magnetic ﬁeld\n      greater than Bmax. Find the maximum possible current Imax that can be used, and assume\n       this current is used in later parts.\n\n  (c) Assuming that ω is small, ﬁnd the magnetic ﬂux ΦB(t) through the pickup loop due to the\n      axion ﬁeld in terms of a0, g, ω, Bmax, and the dimensions of the apparatus. (You may ignore\n     any currents induced on the surfaces of the superconducting wires.  Accounting for them\n     makes the problem much harder, but does not substantially aﬀect the ﬁnal result.)\n\n  (d) If ω is too large, the result above breaks down due to radiation eﬀects. Estimate the frequency\n      ωc where this happens.\n\n  (e) Using the design values\n\n                             Rin = 0.5 m,  Rout = 1.0 m,  h = 2.0 m\n\n      estimate the numerical value of ω/ωc.\n   (f) Let Φ0 be the amplitude of the time-varying axion ﬂux. Using the typical values\n\n                          Bmax = 5.0 T,  g = 1.0 × 10−16 GeV−1\n\n     and your previous results, compute the numerical value of Φ0.\n\n   1aka, A Broadband/Resonant Approach to Cosmic Axion Detection with an Amplifying B-ﬁeld Ring Apparatus.\n\n2021 USAPhO+                                                                      7\n\n\n\n\n   The pickup loop has inductance L and is attached to a capacitor, forming a circuit with resonant\nfrequency equal to the axion frequency ω. The circuit also has a small internal resistance R in series,\nand is at temperature T. The axion signal can be detected by monitoring the current in the circuit.\nThe main source of noise is thermal noise, which causes ﬂuctuations in the current.\n\n3. We will now estimate the sensitivity of ABRACADABRA to axions.\n\n  (a) The axion produces a current which oscillates sinusoidally. Find the signal current amplitude\n       Is in terms of ω, Φ0, and the circuit parameters.\n  (b) Find the average value of the current squared ⟨I2⟩in the circuit due to thermal noise.\n\n  (c) At any moment in time, the noise current is oscillating sinusoidally with typical amplitude\n      In = p⟨I2⟩, which is much larger than Is.  However, the phase of the noise current also\n      ﬂuctuates randomly, so that after a typical time tc, its phase will be roughly independent of\n      the phase it had before. Find an estimate for tc in terms of ω and the circuit parameters.\n      (Hint: at any given moment, the thermal noise current is simultaneously being produced by\n      the random motion of electrons in the circuit, and damped by the resistor.)\n\n  (d) Suppose the experiment runs for a total time te ≫tc. Roughly estimate the average amplitude\n       of the noise current over this period of time.\n\n  (e) The axion is detectable  if the signal current amplitude is larger than the averaged noise\n      current amplitude, and the circuit parameters are\n\n                     L = 1 mH,  R = 10 mΩ,  T = 0.1 K.\n\n     Roughly numerically estimate the time needed to potentially detect the axion. (Hint: if your\n     answer seems strange, note that in reality, the axion’s phase also ﬂuctuates over time, because\n       of the eﬀect of part 1(f). In addition, we don’t know ω ahead of time, so the experiment\n      needs to be run many times. We ignored these eﬀects here to keep things simple.)\n\n2021 USAPhO+\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 USAPhO Plus Solutions",
+     "url": "https://www.aapt.org/Common2022/upload/2021-USAPhO_plus_Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2021-usapho-plus-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2021-usapho-plus-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2021-usapho-plus-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2021-usapho-plus-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2021-usapho-plus-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "Plus",
+   "id": "usapho-2021-usapho-plus-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "Question 3\n\nGreat Hall\n\nThe classical Hall eﬀect was ﬁrst measured by Edwin Hall in 1879, shortly after the publication of\nMaxwell’s equations. In all parts of this problem, materials contain nV electrons per unit volume,\nand each electron has charge qe < 0 and mass me. You may use these quantities in all of your\nanswers. We will begin by investigating the implications of the classical Hall eﬀect.\n\n1. An inﬁnite plate in the xy plane, with thickness d in the z direction, is placed in a uniform\n   magnetic ﬁeld B = Bˆz as shown. An electric ﬁeld E = Eˆx is applied in the plane of the plate\n  and the system is allowed to reach a steady state.\n\n\n\n                                                      y\n\n                                                  x\n                    B\n                            E\n\n\n\n\n  (a) If the electrons have velocity v at steady state, what is the current density J? Recall that J\n        is deﬁned as the total ﬂow of charge through a unit cross-section area per unit time.\n\n  (b) In the Drude model, electrons are subject to both the Lorentz force and a damping force\n     −γv, where γ is a constant that depends on the material. In the above system, what is the\n      current density in the steady state? Give both the magnitude and direction of J, e.g. in polar\n      coordinates.\n\n  (c) Compute the electrical resistivity,\n                                 E\n                                            ρ0 = lim\n                                     B→0 |Jx|\n     and the transverse Hall resistivity\n                                 E\n                                  ρH = lim                                         γ→0 |Jy|.\n\n  (d) A Hall eﬀect sensor detects the strength of magnetic ﬁelds. Consider the following circuit\n      consisting of a square plate of side length L and thickness d in a perpendicular uniform\n     magnetic ﬁeld B.\n\n                                         B\n\n                                   − − − − − − − −\n                    VH             I\n\n                 V        A\n                                + + + + + + + +\n                                   d                                               L\n\n                                     L\n\n                                 +  −\n\n\n                                                  E\n\n2021 USAPhO+                                                                      9\n\n\n\n    A longitudinal emf E is applied to the plate. At steady state, a Hall voltage VH is measured\n      across the plate due to the buildup of charge on either side of the plate.  If the electrical\n       resistivity of the plate at zero magnetic ﬁeld is ρ0, what is the Hall voltage VH and the\n      current I through the plate? Express your answer in terms of ρ0, E, B, and the dimensions\n       of the plate.\n\nExperiments in the 20th century revealed that in many materials, the Hall resistivity could only\ntake certain discrete values. We will now show how this follows from Bohr quantization. (These\nnext parts are independent of the ﬁrst part of the problem.)\n\n2. A zero-resistance loop of wire of radius R and cross-sectional area Aw carries a counterclockwise\n   current I. A solenoid through the middle of the loops carries magnetic ﬂux Φ out of the page,\n   which we deﬁne to be the positive ˆz direction.\n\n\n\n\n\n                                 Φ\n\n\n\n\n\n  (a) If the electrons all have the same speed, what is the angular momentum of each electron?\n\n  (b) If we allow the ﬂux in the solenoid to change, the usual, “mechanical” angular momentum L\n       of each electron is not conserved. Instead, a quantity called the canonical angular momentum,\n      Lcan = L + CqeΦ, for some constant C, is conserved. Find C.\n\n  (c) The Bohr quantization condition says that for a closed circular orbit, an integer number of\n     de Broglie wavelengths must ﬁt in its circumference. The de Broglie wavelength is\n\n                                        h\n                                    λ =        ,\n                                                       pcan\n\n     where h is Planck’s constant, and pcan = Lcan/R is the canonical momentum. For a given\n      solenoid ﬂux Φ, what is the set of allowed mechanical angular momenta L?\n\n  (d) What is the minimum possible change in the magnetic ﬂux for which the same set of me-\n      chanical angular momenta is allowed? This is known as the ﬂux quantum.\n\n3. Now, consider an annulus held perpendicular to a ﬁxed, uniform external magnetic ﬁeld B, and\n   suppose an additional, tunable magnetic ﬂux Φ threads the center of the annulus, with both\n   pointing out of the page. The annulus has a transverse Hall resistance RH (i.e., an EMF of E\n   around the annulus generates a perpendicular current E/RH via the Hall eﬀect) and you may\n   neglect its self-inductance.\n\n\n\n\n                                  Φ\n                         B\n\n2021 USAPhO+                                                                     10\n\n\n\n\n  (a) Suppose Φ begins to increase slowly and steadily in time. After a short time, the electrons\n       will begin ﬂowing steadily from one side of the annulus to the other. Do the electrons move\n     inward or outward? Justify your answer.\n\n  (b) If the threaded ﬂux increases by ∆Φ, how many electrons pass from one edge of the annulus\n      to the other? You may use RH, among other variables, in your answer.\n  (c) As we showed in 2(d), if the magnetic ﬂux changes by the ﬂux quantum Φq, the allowed orbits\n     from Bohr quantization are unchanged. Quantum mechanics thus tells us that in conventional\n      materials, if the magnetic ﬂux changes by Φq, an integer number k of electrons must pass\n     from one edge to another. What constraint does this place on the Hall resistance?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 USAPhO Plus Solutions",
+     "url": "https://www.aapt.org/Common2022/upload/2021-USAPhO_plus_Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2021-usapho-plus-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2021-usapho-plus-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2021-usapho-plus-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2021-usapho-plus-question-paper__q03.md"
+  }
+ ]
+}

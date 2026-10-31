@@ -1,0 +1,176 @@
+{
+ "group": "cemc-galois-2023-contest-english-question-paper",
+ "course_id": "CEMC-GALOIS",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-galois-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-galois-2023-contest-english-question-paper__q01",
+   "exam_id": "CEMC-GALOIS",
+   "course_id": "CEMC-GALOIS",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "1.    Jigsaw  puzzles  often  have  pieces  that  are  arranged  in  a\n      rectangular grid of rows and columns, where every cell in the\n       grid represents one piece. The grid has two types of pieces: edge\n       pieces which form the outer edge of the grid; and middle pieces\n      which form the inside of the grid. In the example shown, there\n      are 7 rows and 8 columns, and the middle pieces are shaded.\n\n          (a) How many pieces, in total, does a grid with 12 rows and 15 columns have?\n\n         (b) How many middle pieces does a grid with 6 rows and 4 columns have?\n\n          (c) If a grid has 14 middle pieces, then it either has s edge pieces or it has t edge\n              pieces. Determine the values of s and t.\n\n         (d) A grid with 5 rows and c columns has the same number of edge pieces as middle\n              pieces. Determine the value of c.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-galois-2023-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-galois-2023-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-galois-2023-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-GALOIS/cemc-galois-2023-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-galois-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-galois-2023-contest-english-question-paper__q02",
+   "exam_id": "CEMC-GALOIS",
+   "course_id": "CEMC-GALOIS",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. In an Ing sequence, the ﬁrst term is a positive integer and each term after the ﬁrst is\n   determined in the following way:\n     • if a term, x, is odd, the next term is x + 3, and\n\n     • if a term, x, is even, the next term is x + 4.\n   For example, if the ﬁrst term in an Ing sequence is 13, then the second term is 16, and\n   the third term is 20.\n\n          (a) If the ﬁrst term in an Ing sequence is 7, what is the ﬁfth term in the sequence?\n\n         (b) If the ﬁfth term in an Ing sequence is 62, what are the two possibilities for the\n             ﬁrst term?\n          (c) If the ﬁrst term in an Ing sequence is 49, determine the terms appearing in the\n            sequence whose values are greater than 318 and less than 330.\n\n         (d) The number 18 appears somewhere in an Ing sequence after the ﬁrst term. If the\n             ﬁrst term is the positive integer n, determine all possible values of n.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-galois-2023-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-galois-2023-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-galois-2023-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-GALOIS/cemc-galois-2023-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-galois-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-galois-2023-contest-english-question-paper__q03",
+   "exam_id": "CEMC-GALOIS",
+   "course_id": "CEMC-GALOIS",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "y\n3.        (a) The shaded triangle shown is bounded by the\n                                                                              y = x              x-axis, the line y = x, and the line x = a,\n           where a > 0. If the area of this triangle is 32,\n          what is the value of a?\n                                                                                 x\n                                                                            x = a\n         (b) A triangle is bounded by the x-axis, the line         y\n                                                                             y = 2x            y = 2x, and the line x = 10.  Diego draws\n            the vertical line x =  4.  This line divides\n            the original triangle into a trapezoid, which\n                 is shaded, and a new unshaded triangle, as\n           shown.  What  is the area  of the shaded\n            trapezoid?                                                     x\n                                                                    x = 4   x = 10\n\n          (c) A triangle is bounded by the x-axis, the line y = 3x, and the line x = 21. Alicia\n           draws the vertical line x = c, where 0 < c < 21. This line divides the original\n              triangle into a trapezoid and a new triangle. If the area of the trapezoid is 8 times\n            the area of the new triangle, determine the value of c.\n\n         (d) A triangle is bounded by the x-axis, the line y = 4x, and the line x = 1. Ahmed\n           draws his ﬁrst vertical line at x = p, where 0 < p < 1. This line divides the\n            area of the original triangle in half. Ahmed then draws a second vertical line at\n          x = q, where 0 < q < p. This line divides the area of the triangle bounded by the\n              x-axis, the line y = 4x, and the line x = p in half. Ahmed continues this process\n              of drawing vertical lines at decreasing values of x so that each such line divides\n            the area of the previous triangle in half. If the 12th vertical line that he draws is\n             at x = k, determine the value of k.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-galois-2023-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-galois-2023-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-galois-2023-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-GALOIS/cemc-galois-2023-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-galois-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-galois-2023-contest-english-question-paper__q04",
+   "exam_id": "CEMC-GALOIS",
+   "course_id": "CEMC-GALOIS",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.   When people gather for a meeting, each person shakes hands with all, some or none\n       of the other people, and never with the same person twice. When a handshake occurs\n      between two people, this is counted as one handshake.\n\n          (a) At a meeting of 5 people, Amrita shook hands with exactly 1 person, Bin and\n            Carlos each shook hands with exactly 2 people, Dennis shook hands with exactly\n           3 people, and Eloise did not shake hands with anyone. How many handshakes\n            took place?\n\n         (b) At a meeting of 9 people, each participant said that they shook hands with exactly\n           3 people. Explain why this is not possible.\n\n          (c) At a meeting of 7 people, at least one handshake occurred within each group\n              of 3 people. Determine the minimum possible number of handshakes, m, that\n            took place at this meeting. A complete solution must include the value of m, an\n            explanation of why the given conditions can be satisﬁed with some speciﬁc set\n              of m handshakes, and an explanation of why fewer than m handshakes does not\n              satisfy the given conditions.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-galois-2023-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-galois-2023-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-galois-2023-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-GALOIS/cemc-galois-2023-contest-english-question-paper__q04.md"
+  }
+ ]
+}

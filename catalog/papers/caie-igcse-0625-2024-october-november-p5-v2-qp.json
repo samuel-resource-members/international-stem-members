@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2024-october-november-p5-v2-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p5-v2-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2024-october-november-p5-v2-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1    In this experiment, you will take measurements of a stack of glass microscope slides to estimate\n    the number of slides in the stack.\n\n     Fig. 1.1 shows the stack of slides.\n\n                   masking tape\n                                                                                          l\n\n\n\n                                             w\n\n\n                                                      h\n\n\n                                               Fig. 1.1\n\n     (a)  Measure the length l, the width w and the height h of the stack of slides in centimetres to the\n         nearest millimetre.\n\n      Do not remove any slides from the stack.\n\n                                                                                           l =  ......................................................... cm\n\n                                   w =  ......................................................... cm\n\n                                              h =  ......................................................... cm\n                                                                                                                       [2]\n\n     (b)   (i)  Use the balance provided to measure the mass M of the stack of slides to the\n             nearest 0.1 g.\n\n                              M =  ...................................................... g [1]\n\n             (ii)  Calculate the density ρ of the glass. Use your results from (a) and (b)(i) and the equation\n            shown.\n\n                           M                         ρ =\n                                                                                l wh\n\n\n\n\n\n            Give the unit for your answer.\n\n                               ρ =  ...............................................................\n\n                                                             unit =  ...............................................................\n                                                                                                                       [2]\n\n(c) The mass m and the thickness t of a single microscope slide are written on the piece of card.\n\n    Write down the values of m and t that are on the card.\n\n                            m =  ............................................................ g\n\n                                                                                      t =  ......................................................... cm\n\n       (i)  Use your answer to (b)(i) and information from the card in (c) to estimate the number of\n        microscope slides N1 in the stack of slides.\n\n\n\n                                        N1 =  .........................................................  [2]\n\n      (ii)  Use your answer to (a) and information from the card in (c) to obtain another estimate of\n         the number of microscope slides N2 in the stack of slides.\n\n\n\n                                        N2 =  .........................................................  [1]\n\n(d) Two quantities can be considered to be equal within the limits of experimental accuracy  if\n     their values are within 10% of each other.\n\n    State whether your values of N1 and N2 from (c)(i) and (c)(ii) can be considered equal.\n\n    Support your statement with a calculation.\n\n     calculation\n\n\n\n\n\n    statement ............................................................................................................................  [2]\n\n(e)  Suggest one reason why the estimated values of N may be different.\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p5-v2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p5-v2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p5-v2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p5-v2-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p5-v2-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2024-october-november-p5-v2-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2    In this experiment, you will investigate the resistance of a light‑emitting diode (LED) when the\n     current in it changes.\n\n    The supervisor has set up the circuit as shown in Fig. 2.1.\n\n                              +    –\n\n\n\n\n\n                       P   220 Ω  Q          R\n\n\n\n\n                            V\n\n\n                                               Fig. 2.1\n\n     (a)  •   Close the switch.\n\n        Record the voltmeter reading VPQ across the 220 Ω resistor in the top row of Table 2.1.\n\n           •   Open the switch.                                                                                  [1]\n\n                                        Table 2.1\n\n               resistance        VPQ / .....      VQR / .....          I / .....       RLED / Ω\n          between P and Q\n                               / Ω\n\n               220\n\n               330\n\n     (b)  •   Disconnect the voltmeter from points P and Q.\n\n           •   Reconnect the voltmeter across the LED between points Q and R.\n\n           •   Ensure that the positive terminal of the voltmeter is connected to Q.\n\n           •   Close the switch.\n\n        Record the voltmeter reading VQR in the top row of Table 2.1.\n\n           •   Open the switch.                                                                                  [1]\n\n(c)  Calculate the current I in the circuit in part (a) using the equation\n\n                                   VPQ\n                                             I =\n                             R\n\n    where R = 220 Ω.\n\n\n\n\n    Record your answer in the top row of Table 2.1.                                                   [1]\n\n(d)   (i)  Calculate the resistance RLED of the LED using the equation\n\n                                    VQR\n                                 RLED =                                                    I\n\n\n\n\n        Record your answer to a suitable number of significant figures for this experiment in the\n         top row of Table 2.1.                                                                              [2]\n\n      (ii)  Complete the column headings in Table 2.1 by inserting the missing units.              [1]\n\n(e)  •   Remove the 220 Ω resistor from the circuit and replace it with the 330 Ω resistor.\n\n     •   Reconnect the voltmeter across the resistor between points P and Q. Ensure that the\n          positive terminal is connected to P.\n\n    Repeat parts (a) to (d) for the 330 Ω resistor.                                                       [2]\n\n(f)  As the resistance between terminals P and Q changes, the current in the circuit changes.\n\n   Use your results in Table 2.1 to write a conclusion, stating how the change in current affects\n    the voltmeter reading VQR across the LED and the resistance RLED of the LED.\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [2]\n\n(g) A student attempts to set up the circuit shown in Fig. 2.1. The student finds that when the\n    switch is closed, the LED does not light up.\n\n    Suggest what the student may have done incorrectly while setting up the circuit.\n\n        .............................................................................................................................................  [1]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p5-v2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p5-v2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p5-v2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p5-v2-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p5-v2-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2024-october-november-p5-v2-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Waves",
+   "knowledge_point": "Light",
+   "problem_type": "用折射、反射或透镜关系处理光路",
+   "search_text": "3    In this experiment, you will investigate the image formed by a converging lens.\n\n    Refer to Fig. 3.1.\n\n                                 illuminated\n                                object                                         converging lens                                                                        screen\n                                                    in holder\n\n\n\n\n\n                         u                    v\n\n\n                                               Fig. 3.1\n\n     (a)  •   Switch on the lamp.\n\n           •   Place the lens at a distance u = 20.0 cm from the illuminated object (the triangular hole\n                in the card).\n\n           •    Adjust the position of the screen until a sharp image of the illuminated object is formed\n           on the screen.\n\n        Measure, to the nearest 0.1 cm, the image distance v from the centre of the lens to the screen.\n\n        Record the image distance v in the top row of Table 3.1.\n\n                                        Table 3.1\n\n\n                        object distance u                image distance v\n                                                 / cm                                                   / cm\n\n                            20.0\n\n                            25.0\n\n                            35.0\n\n                            45.0\n\n                            55.0\n\n                            60.0\n                                                                                                                       [1]\n\n(b)   (i)  The diagram in Fig. 3.2 shows the illuminated object.\n\n\n\n\n\n                                      illuminated object\n\n\n\n\n\n                                          Fig. 3.2\n\n          In the space below the illuminated object, draw a diagram to show how the image that\n        you observe on the screen compares with the object.                                       [1]\n\n      (ii)  Calculate the magnification m of the image using the equation shown.\n\n                                          v\n                       m =                                      u\n\n\n\n\n\n                            m =  .........................................................  [1]\n\n(c)  Repeat the procedure in (a) for values of u = 25.0 cm, u = 35.0 cm, u = 45.0 cm, u = 55.0 cm\n    and u = 60.0 cm.                                                                                        [1]\n\n(d)  Plot a graph of v /cm (y‑axis) against u /cm (x‑axis).\n\n    Draw the best‑fit curve.\n\n\n\n      80\n\n\n\n\n      70\n\n\n\n\n      60\n\n\n\n\n      50\n\n\n\n\n      40\n\n\n\n\n      30\n\n\n\n\n      20\n\n\n\n\n      10\n\n\n\n\n       0\n        0        10       20       30       40       50       60\n                                                                                                                 [3]\n\n(e) Use your graph to find the value of v when u = 30.0 cm. Show clearly on the graph how you\n    obtained the necessary information\n\n                                               v =  ................................................... cm [2]\n\n                                                            uv\n(f)  The focal length f of the lens can be found using the equation f =                                                                     (u + v).\n\n   Use the values of u and v from (e) to calculate the focal length of the lens.\n\n\n\n                                                                                      f =  ................................................... cm [1]\n\n(g)  State one technique you use when doing the experiment to ensure that the image on the\n    screen is as clearly focussed as possible.\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p5-v2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p5-v2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p5-v2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p5-v2-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p5-v2-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2024-october-november-p5-v2-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4   Hot water is poured into a glass beaker and allowed to cool down.\n\n    Plan an experiment to investigate how the rate at which the water cools depends upon the\n    diameter of the water surface exposed to the air.\n\n    You are provided with:\n\n     •   a supply of hot water\n     •   a set of glass beakers of different sizes\n     •   a measuring cylinder.\n\n    You may use any other common laboratory apparatus.\n\n    You are not required to do this investigation.\n\n     In your plan, include:\n\n     •   any other apparatus needed\n\n     •   a brief description of the method, including what you will measure and how you will make\n        sure your measurements are accurate\n\n     •    the key variables you will control\n\n     •   a results table to record your measurements (you are not required to enter any readings in\n         the table)\n\n     •   how you will process your results to draw a conclusion.\n\n    You may include a labelled diagram if you wish.\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p5-v2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p5-v2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p5-v2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p5-v2-qp__q04.md"
+  }
+ ]
+}

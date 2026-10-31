@@ -1,0 +1,337 @@
+{
+ "group": "mat-2022-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2022-mat-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2022-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "1. For ALL APPLICANTS.\n\nFor each part of the question on pages 3-7 you will be given ﬁve possible answers, just\none of which is correct. Indicate for each part A-J which answer (a), (b), (c), (d), or\n(e) you think is correct with a tick (!) in the corresponding column in the table below.\nPlease show any rough working in the space provided between the parts.\n\n\n\n\n\n                       (a)          (b)           (c)          (d)           (e)\n\n\n\n     A\n\n\n\n     B\n\n\n\n     C\n\n\n\n     D\n\n\n\n      E\n\n\n\n      F\n\n\n\n     G\n\n\n\n     H\n\n\n\n           I\n\n\n\n        J\n\nA. How many real solutions x are there to the equation x|x| + 1 = 3|x|?\n\n                (a)   0,     (b)   1,      (c)   2,     (d)   3,      (e)   4.\n\n   [Note that |x| is equal to x if x ⩾0, and equal to −x otherwise.]\n\n\n\n\n\nB. One hundred circles all share the same centre, and they are named C1, C2, C3, and\nso on up to C100. For each whole number n between 1 and 99 inclusive, a tangent to\ncircle Cn crosses circle Cn+1 at two points that are separated by a distance of 2. Given\nthat C1 has radius 1, it follows that the radius of C100 is\n                      √\n             (a)   1,     (b)   2,      (c)    10,     (d)  10,      (e)  100.\n\nC. The equation x2 −4kx + y2 −4y + 8 = k3 −k is the equation of a circle\n\n(a) for all real values of k.\n\n(b)  if and only if either −4 < k < −1 or k > 1.\n\n(c)  if and only if k > 1.\n\n(d)  if and only if k < −1.\n\n(e)  if and only if either −1 < k < 0 or k > 1.\n\n\n\n\n\nD. A sequence has a0 = 3, and then for n ⩾1 the sequence satisﬁes an = 8 (an−1)4. The\nvalue of a10 is\n\n              2(220)              6(220)              3(220)             18(220)              6(220)\n      (a)            ,     (b)            ,     (c)            ,     (d)              ,     (e)            .\n            3             3             2             2             2\n\n1  4\nE. If the expression  x + 1 +        is fully expanded term-by-term and like terms are\n                        x\ncollected together, there is one term which is independent of x. The value of this term\nis\n\n               (a)  10,     (b)  14,     (c)  19,     (d)  51,     (e)  81.\n\n\n\n\n\nF. Given that\n                        sin(5θ) = 5 sin θ −20(sin θ)3 + 16(sin θ)5\n\nfor all real θ, it follows that the value of sin(72◦) is\n\n                √                √\n                       5 +  5                       5 +  5\n                   (a)                   ,     (b)   0,     (c) −                ,\n                          8                            8\n                   √          √\n                             5 −  5             5 −  5\n                        (d)                   ,     (e) −                .\n                               8                  8\n\n√       √\nG. For all real n, it is the case that n4 + 1 = (n2 +  2n + 1)(n2 −  2n + 1). From this\nwe may deduce that n4 + 4 is\n\n(a) never a prime number for any positive whole number n.\n\n(b) a prime number for exactly one positive whole number n.\n\n(c) a prime number for exactly two positive whole numbers n.\n\n(d) a prime number for exactly three positive whole numbers n.\n\n(e) a prime number for exactly four positive whole numbers n.\n\n\n\n\n\nH. How many real solutions x are there to the following equation?\n\n                      log2(2x3 + 7x2 + 2x + 3) = 3 log2(x + 1) + 1\n\n                (a)   0,     (b)   1,      (c)   2,     (d)   3,      (e)   4.\n\nI. Alice and Bob each toss ﬁve fair coins (each coin lands on either heads or tails,\nwith equal probability and with each outcome independent of each other). Alice wins if\nstrictly more of her coins land on heads than Bob’s coins do, and we call the probability\nof this event p1. The game is a draw if the same number of coins land on heads for each\nof Alice and Bob, and we call the probability of this event p2. Which of the following is\ncorrect?\n\n        193          63\n(a) p1 =    and p2 =        512          256.\n\n        201          55\n(b) p1 =    and p2 =        512          256.\n\n        243          13\n(c) p1 =    and p2 =        512          256.\n\n        247          9\n(d) p1 =    and p2 =        512          256.\n\n        1         1\n(e) p1 =  and p2 =        3           3.\n\n\n\n\n\nJ. The real numbers m and c are such that the equation\n\n                                x2 + (mx + c)2 = 1\n\nhas a repeated root x, and also the equation\n\n                           (x −3)2 + (mx + c −1)2 = 1\n\nhas a repeated root x (which is not necessarily the same value of x as the root of the\nﬁrst equation). How many possibilities are there for the line y = mx + c?\n\n                (a)   0,     (b)   1,      (c)   2,     (d)   3,      (e)   4.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2022-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. For ALL APPLICANTS.\n\n\n  (i) Suppose x, y, and z are whole numbers such that x2 −19y2 = z. Show that for\n     any such x, y and z, it is true that\n\n                                (x2 + Ny2)2 −19(2xy)2 = z2\n\n     where N is a particular whole number which you should determine.\n\n  (ii) Find z  if x = 13 and y = 3.  Hence ﬁnd a pair of whole numbers (x, y) with\n     x2 −19y2 = 4 and with x > 2.\n\n (iii) Hence ﬁnd a pair of positive whole numbers (x, y) with x2 −19y2 = 1 and with\n    x > 1.\n\n      Is your solution the only such pair of positive whole numbers (x, y)? Justify your\n     answer.\n\n (iv) Prove that there are no whole number solutions (x, y) to x2 −25y2 = 1 with x > 1.\n\n (v) Find a pair of positive whole numbers (x, y) with x2 −17y2 = 1 and with x > 1.\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2022-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "积分",
+   "knowledge_point": "不定积分",
+   "problem_type": "求原函数或使用积分结果",
+   "search_text": "3.           ⎧                          ⎫\n            ⎪ MATHEMATICS                ⎪            ⎪                          ⎪            ⎨                          ⎬\n                MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n            ⎪ MATHEMATICS & PHILOSOPHY      ⎪            ⎪                          ⎪            ⎩                          ⎭\n                MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science and Computer Science & Philosophy applicants should turn to\npage 20.\n\n\n  (i) Sketch y = (x2 −1)n for n = 2 and for n = 3 on the same axes, labelling any points\n     that lie on both curves, or that lie on either the x-axis or the y-axis.\n\n  (ii) Without calculating the integral explicitly, explain why there is no positive value\n                          a\n      of a such that    (x2 −1)n dx = 0 if n is even.\n                          0\n\nIf n > 0 is odd we will write n = 2m −1 and deﬁne am > 0 to be the positive real\nnumber that satisﬁes                               am\n                                    (x2 −1)2m−1 dx = 0,\n                                       0\nif such a number exists.\n\n (iii) Explain why such a number am exists for each whole number m ⩾1.\n\n (iv) Find a1.\n         √     √\n (v) Prove that  2 < a2 <   3.\n\n (vi) Without calculating further integrals, ﬁnd the approximate value of am when m\n       is a very large positive whole number. You may use without proof the fact that      √\n           2\n          (x2 −1)2m−1 dx < 0 for any suﬃciently large whole number m.\n        0\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2022-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "4.            ⎧                     ⎫\n             ⎨ MATHEMATICS           ⎬\nFor APPLICANTS IN  MATHEMATICS & STATISTICS             ⎩                        ⎭ONLY.\n                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 20.\n\n  (i) Sketch the graph of y = √x −x for x ⩾0, and ﬁnd the coordinates of the turning\n                                4\n      point.\n  (ii) Describe in words how the graph of y = √4x + 1 −x −1 for x ⩾−1 is related to                                                                                         4\n     the graph that you sketched in part (i). Write down the coordinates of the turning\n     point of this new graph.\n\nPoint A is at (−1, 0) and point B is at (1, 0). Curve C is deﬁned to be all points P that\nsatisfy the equation |AP| × |BP| = 1, that is; the distance from P to A, multiplied by\nthe distance from P to B, is 1.\n\n (iii) Find all points that lie on both the x-axis and also on the curve C.\n\n (iv) Find an equation in the form y = f(x) for the part of the curve C in the region\n     where x > 0 and y > 0. You should explicitly determine the function f(x).\n\n (v) Use part (ii) to determine the coordinates of any turning points of the curve C in\n     the region where x > 0 and y > 0.\n\n (vi) Sketch the curve C, including any parts of the curve with x < 0 or y < 0 or both.\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2022-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "5. For ALL APPLICANTS.\n\n Alice is participating in a TV game show where n distinct items are placed behind n\n closed doors. The game proceeds as follows. Alice picks a door i which is opened and\n the item behind it is revealed. Then the door is shut again and the host secretly swaps\n the item behind door i with the item behind one of the neighbouring doors, i−1 or i+1.\n If Alice picks door 1, the host has to then swap the item with the one behind door 2;\n similarly, if Alice picks door n, the host has to swap the item with the one behind door\nn −1. Alice then gets to pick any door again, and the process repeats for a certain ﬁxed\n number of rounds. At the end of the game, Alice wins all the items that were revealed\n to her.\n   As a concrete example, suppose n = 3, and if the original items behind the three\n doors were (a1, a2, a3), then if ﬁrst Alice picks door 2, the arrangement after the host\n has swapped items could be either (a2, a1, a3) or (a1, a3, a2). So if Alice was allowed to\n pick twice, had she chosen door 2 followed by door 1, in the former case she would only\n get the item a2, whereas in the latter she would get items a2 and a1. Alice’s aim is to\n ﬁnd a sequence of door choices that guarantee her winning a large number of items, no\n matter how the swaps were performed.\n\n   (i) For n = 13, give an increasing sequence of length 7 of distinct doors that Alice can\n      pick that guarantees she wins 7 items.\n\n  (ii) For any n of the form 2k+1, give a strategy to pick an increasing sequence of k+1\n       distinct doors that Alice can use to guarantee that she wins k + 1 items. Brieﬂy\n       justify your answer.\n\n  (iii) For n = 13, give a sequence of length 10 of doors that Alice can pick that guarantees\n      she wins 10 items.\n\n (iv) For any n of the form 3k + 1, give a strategy to pick a sequence of 2k + 2 doors\n      that Alice can use to guarantee that she wins 2k + 2 items. Brieﬂy justify your\n      answer.\n\n  (v) (a) For n = 3, give a sequence of length 3 of doors that Alice can pick that\n          guarantees she wins all 3 items.\n      (b) For n = 5, give a sequence of length 5 of doors that Alice can pick that\n          guarantees she wins all 5 items.\n\n (vi) For n = 13, give a sequence of length 11 of doors that Alice can pick that guarantees\n      she wins 11 items.\n\n (vii) For any n of the form 4k + 1, give a strategy to pick a sequence of 3k + 2 doors\n      that Alice can use to guarantee that she wins 3k + 2 items. Brieﬂy justify your\n      answer.\n\n(viii) For n = 6, is there a sequence of any length of doors that Alice can choose that\n       will guarantee that she wins all 6 items? Justify your answer.\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2022-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "代数",
+   "knowledge_point": "联立方程",
+   "problem_type": "联立条件求未知量",
+   "search_text": "6.           ⎧                          ⎫\n            ⎨ COMPUTER SCIENCE            ⎬\nFor APPLICANTS IN  MATHEMATICS & COMPUTER SCIENCE            ⎩                               ⎭ONLY.\n               COMPUTER SCIENCE & PHILOSOPHY\n\nThis question is about inﬂuencer networks. An inﬂuencer network consists of n inﬂu-\nencers denoted by circles, and arrows between them. Throughout this question, each\ninﬂuencer holds one of two opinions, represented by either a △or a □in the circle.\nWe say that an inﬂuencer A follows inﬂuencer B if there is an arrow from B to A; this\nindicates that B has ability to inﬂuence A.\n\n             A         C    A         C\n          △        □    □        □\n                   B               B\n                 □             □\n\n                         Figure 1                Figure 2\n\n\n   The example in Figure 1 above shows a network with A and B following each other,\nB and C following each other, and C also following A. In this example, initially B and C\nhave opinion □, while A has opinion △. An inﬂuencer will change their mind according\nto the strict majority rule, that is, they change their opinion if strictly more than half\nof the inﬂuencers they are following have an opinion diﬀerent from theirs. Opinions in\nan inﬂuence network change in rounds. In each round, each inﬂuencer will look at the\ninﬂuencers they are following and simultaneously change their opinion at the end of the\nround according to the strict majority rule. In the above network, after one round, A\nchanges their opinion because the only inﬂuencer they are following, B, has a diﬀering\nopinion, and the network becomes as shown in Figure 2 above.\n  An inﬂuencer network with an initial set of opinions is stable if no inﬂuencer changes\ntheir opinion, and a network (with initial opinions) is eventually stable  if after a ﬁnite\nnumber of rounds it becomes stable. The network in the above example is eventually\nstable as it becomes stable after one round.\n\n  (i) A network of three inﬂuencers (without opinions) is shown below. Is this inﬂuencer\n     network eventually stable regardless of the initial opinions of the inﬂuencers A, B\n    and C? Justify your answer.\n\n\n                      A         C\n\n                            B\n\n\n\n  (ii) Another network of inﬂuencers (without opinions) is shown below.  Is this inﬂu-\n     encer network eventually stable regardless of the initial opinions of the inﬂuencers?\n      Justify your answer.\n\nH\n\n                        F        G\n\n                C         D          E\n\n                     A         B\n\n\n(iii) A partial network of inﬂuencers (without opinions for B1, . . . , B8) is shown below.\n    You can add at most six additional inﬂuencers, assign any opinion of your choice\n     to the new inﬂuencers, and add any arrows to the network to describe follower rela-\n     tionships. Design a network that is eventually stable regardless of initial opinions,\n    and has the property that when it becomes stable A has opinion □if and only if\n    each of B1, B2, . . . , B8 had opinion □at the start. Justify your answer.\n\n\n                   △A\n\n\n\n\n                    B1  B2  B3  B4  B5  B6  B7  B8\n\n\n(iv) You are given two inﬂuencer networks, N1 and N2, with disjoint sets of inﬂuencers\n    shown below.  Both are eventually stable.  Suppose one of the inﬂuencers from\n    network N2 follows the inﬂuencer X from the network N1. Is the resulting network\n    guaranteed to be eventually stable? Justify your answer.\n\n\n               N1  X               N2  A         C\n            △            △        □\n                                      B\n                                  □\n\n\n (v) (a) Given a network with n inﬂuencers, where the arrows are ﬁxed, but you are\n        allowed to assign opinions (△or □) to each inﬂuencer, how many possible\n        assignments of opinions is possible?\n\n     (b) Given an inﬂuencer network and an initial assignment of opinions, explain how\n        you would determine whether the inﬂuencer network is eventually stable.\n         Justify your answer.\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2022-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-question-paper__q07.md"
+  }
+ ]
+}

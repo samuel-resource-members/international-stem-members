@@ -1,0 +1,1308 @@
+{
+ "group": "live-poshenloh-amc10-2021d-question_paper",
+ "course_id": "AMC10",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q01",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数位对称求和：逐位累计相同数字贡献 / 轮换数位求和：每位数字总和相同",
+   "search_text": "1.  What is the value of\n\n                        1234 + 2341 + 3412 + 4123?\n\n\n     A   10,000\n\n    B   10,010\n\n    C   10,110\n\n    D   11,000\n\n     E    11,110\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q01",
+    "live-poshenloh-amc10-2021d-question_paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q02",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平面交线围面积：设坐标求交点再算面积 / 坐标凹多边形面积：同底两三角相减",
+   "search_text": "2. What is the area of the shaded figure shown below?\n\n\n\n\n\n     A   4\n\n    B   6\n\n    C   8\n\n    D   10\n\n     E   12\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q02",
+    "live-poshenloh-amc10-2021d-question_paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q03",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相邻互倒分数相减：通分后平方差分解 / 相邻互倒分数差：平方差与互素性",
+   "search_text": "3. The expression\n\n                               2021   2020\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​                                                                                                                                                                                                                                                                           ​                       −\n                               2020   2021\n\n                             p\n     is equal to the fraction   in which p and q are positive integers whose greatest                                                  ​q\n  common divisor is 1. What is p?\n\n     A   1\n\n    B   9\n\n    C   2020\n\n    D   2021\n\n     E   4041\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q03",
+    "live-poshenloh-amc10-2021d-question_paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q04",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "含绝对值方程：按符号或转折点分段并验根 / 温差绝对值：差变化8后可能正负2",
+   "search_text": "4. At noon on a certain day, Minneapolis is N degrees warmer than St. Louis. At 4:00 the\n   temperature in Minneapolis has fallen by 5 degrees while the temperature in St. Louis\n   has risen by 3 degrees, at which time the temperatures in the two cities differ by 2\n   degrees. What is the product of all possible values of N?\n\n     A   10\n\n    B   30\n\n    C   60\n\n    D   100\n\n     E   120\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q04",
+    "live-poshenloh-amc10-2021d-question_paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q05",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整数幂运算：统一底数后合并指数 / 同底指数换算：统一为2的幂",
+   "search_text": "5. Let n = 8 2022 . Which of the following is equal to n ​?                                                          4\n\n     A           41010\n\n\n    B           22022\n\n\n    C           82018\n\n\n    D           43031\n\n\n     E           43032\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q05",
+    "live-poshenloh-amc10-2021d-question_paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q06",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "约数个数限定：质因数指数加一的乘积决定结构 / 给定约数个数最小整数：大指数配小素数",
+   "search_text": "6. The least positive integer with exactly 2021 distinct positive divisors can be written in\n                   k   the form m ⋅6  , where m and k are integers and 6 is not a divisor of m. What is m +\n   k?\n\n     A   47\n\n    B   58\n\n    C   59\n\n    D   88\n\n     E   90\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q06",
+    "live-poshenloh-amc10-2021d-question_paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q07",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分式须为整数：化简成整除关系再筛因数 / 固定分子分母和的分数：化15/b−1查整数和",
+   "search_text": "7.  Call a fraction a                  not necessarily in simplest form, special if a and b are positive                        b ​,\n    integers whose sum is 15. How many distinct integers can be written as the sum of\n   two, not necessarily different, special fractions?\n\n     A    9\n\n    B    10\n\n    C    11\n\n    D    12\n\n     E    13\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q07",
+    "live-poshenloh-amc10-2021d-question_paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q08",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "大整数非平凡分解：识别平方差或重复数结构 / 大数质因数：平方差先拆",
+   "search_text": "8. The greatest prime number that is a divisor of 16,384 is 2 because 16,384 = 2 14 . What\n     is the sum of the digits of the greatest prime number that is a divisor of 16,383?\n\n     A   3\n\n    B   7\n\n    C   10\n\n    D   16\n\n     E   22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q08",
+    "live-poshenloh-amc10-2021d-question_paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q09",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "两组加权总量已知：以组内未知值列总和方程 / 分组概率加权：组内概率二倍",
+   "search_text": "29. The knights in a certain kingdom come in two colors.  of them are red, and the rest are                                                                                                         ​7\n                         1    blue. Furthermore,  of the knights are magical, and the fraction of red knights who are                                           ​6\n   magical is 2 times the fraction of blue knights who are magical. What fraction of red\n    knights are magical?\n\n         2     A\n         9\n\n         3\n    B                                                                                                                                                                                                                       ​\n         13\n\n         7\n    C                                                                                                                                                                                                                     ​\n         27\n\n         2\n    D\n         7\n\n         1\n     E\n         3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q09",
+    "live-poshenloh-amc10-2021d-question_paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q10",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "概率",
+   "knowledge_point": "树状图与分类",
+   "problem_type": "对话知识排除：先排端点再用素数平方",
+   "search_text": "10. Forty slips of paper numbered 1 to 40 are placed in a hat. Alice and Bob each draw one\n   number from the hat without replacement, keeping their numbers hidden from each\n    other. Alice says, “I can’t tell who has the larger number.” Then Bob says, “I know who\n   has the larger number.” Alice says, “You do? Is your number prime?” Bob replies, “Yes.”\n    Alice says, “In that case, if I multiply your number by 100 and add my number, the result\n     is a perfect square.” What is the sum of the two numbers drawn from the hat?\n\n     A   27\n\n    B   37\n\n    C   47\n\n    D   57\n\n     E   67\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q10",
+    "live-poshenloh-amc10-2021d-question_paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q11",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "圆弓形面积：扇形减三角形后按图加减 / 正六边形圆弧内翻：减去六个弓形",
+   "search_text": "11. A regular hexagon of side length 1 is inscribed in a circle. Each minor arc of the circle\n   determined by a side of the hexagon is reflected over that side. What is the area of the\n   region bounded by these 6 reflected arcs?\n\n     A     5   ​3​ − π              2\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​    B         3  3        − π\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​    C        − 3π         4  3                      2\n\n    D                    ​3​        π −                   2\n\n     E    π+   ​3​\n               2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q11",
+    "live-poshenloh-amc10-2021d-question_paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q12",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "非负式的下界：每项不能为负，取等锁定变量 / 循环二次差：改写两两差平方和",
+   "search_text": "12. Which of the following conditions is sufficient to guarantee that integers x,y, and z\n    satisfy the equation\n\n                      x(x −y) + y(y −z) + z(z −x)\n\n                      = 1?\n\n\n     A    x > y and y = z\n\n    B   x = y −1 and y = z −1\n\n    C   x = z + 1 and y = x + 1\n\n    D   x = z and y −1 = x\n\n     E   x + y + z = 1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q12",
+    "live-poshenloh-amc10-2021d-question_paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q13",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "三角形内接正方形：相似截线宽等于方边 / 三角内叠两正方形：截宽随高度线性",
+   "search_text": "13. A square with side length 3 is inscribed in an isosceles triangle with one side of the\n   square along the base of the triangle. A square with side length 2 has two vertices on\n   the other square and the other two on sides of the triangle, as shown. What is the area\n   of the triangle?\n\n\n\n\n\n                1     A         19                          ​4\n\n                1    B   20                          ​4\n\n                3    C   21                          ​4\n\n                1    D         22                          ​2\n\n     E   23 3                          ​4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q13",
+    "live-poshenloh-amc10-2021d-question_paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q14",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "代数",
+   "knowledge_point": "联立方程",
+   "problem_type": "积被4整除：补集为零或一个因子2",
+   "search_text": "14. Una rolls 6 standard 6 -sided dice simultaneously and calculates the product of the 6\n   numbers obtained. What is the probability that the product is divisible by 4?\n\n         3\n     A\n         4\n\n         57\n    B                                                                                                                                                                                                                       ​\n         64\n\n         59\n    C                                                                                                                                                                                                                     ​\n         64\n\n         187    D                                                                                                                                                                                                                                                             ​\n         192\n\n         63\n     E                                                                                                                                                                                                                          ​\n         64\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q14",
+    "live-poshenloh-amc10-2021d-question_paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q15",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "垂直线段的坐标约束：斜率乘积或点积等于零 / 正方形两线垂直：投影长度结合勾股",
+   "search_text": "15. In square ABCD, points P and Q lie on AD and AB , respectively. Segments BP\n   and CQ                                                                                                                                                                                                                                                                                                                                                                    ​ intersect at right angles at R, with BR = 6 and PR = 7. What is the area of\n   the square?\n\n\n\n\n\n     A   85\n\n    B   93\n\n    C   100\n\n    D   117\n\n     E   125\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q15",
+    "live-poshenloh-amc10-2021d-question_paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q16",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "离散收益或数量期望：结果乘概率再相加 / 两次邻换期望：第二边与第一边关系",
+   "search_text": "16. Five balls are arranged around a circle. Chris chooses two adjacent balls at random\n\n   and interchanges them. Then Silva does the same, with her choice of adjacent balls to\n   interchange being independent of Chris’s. What is the expected number of balls that\n   occupy their original positions after these two successive transpositions?\n\n     A    1.6\n\n    B    1.8\n\n    C    2.0\n\n    D    2.2\n\n     E    2.4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q16",
+    "live-poshenloh-amc10-2021d-question_paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q17",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "旋转反射的复合：逐次写坐标映射并按顺序作用 / 两次轴反射：先算镜像再取角平分方向",
+   "search_text": "17. Distinct lines ℓ and m lie in the xy -plane. They intersect at the origin. Point P(−1, 4) is\n                                                                                                  ′                                                                       ′′    reflected about line ℓ to point P ,′ and then P  is reflected about line m to point P  .\n                                                                                                                                   ′′   The equation of line ℓ is 5x −y = 0, and the coordinates of P  are (4, 1). What is the\n   equation of line m?\n\n     A   5x + 2y = 0\n\n    B   3x + 2y = 0\n\n    C   x −3y = 0\n\n    D   2x −3y = 0\n\n     E   5x −3y = 0\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q17",
+    "live-poshenloh-amc10-2021d-question_paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q18",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多边形相交或并集：求交点分片并加减面积 / 三个旋转方形并集：十二个重复尖角分片",
+   "search_text": "18. Three identical square sheets of paper each with side length 6 are stacked on top of\n   each other. The middle sheet is rotated clockwise 30∘ about its center and the top\n   sheet is rotated clockwise 60∘ about its center, resulting in the 24 -sided polygon\n   shown in the figure below.\n\n   The area of this polygon can be expressed in the form a −b    ​,c where a,b, and c are\n    positive integers, and c is not divisible by the square of any prime. What is a + b + c?\n\n\n\n\n\n     A   75\n\n    B   93\n\n    C   96\n\n    D   129\n\n     E   147\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q18",
+    "live-poshenloh-amc10-2021d-question_paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q19",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "大整数或小数的位数：分离十的幂并夹住有效部分 / 大整数开根首位：数量级分离",
+   "search_text": "19. Let N be the positive integer 7777 … 777, a 313 -digit number where each digit is a 7.\n   Let f(r) be the leading digit of the r th root of N. What is\n\n                              f(2) + f(3) + f(4)\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ​\n                    + f(5) + f(6)?\n\n\n     A   8\n\n    B   9\n\n    C   11\n\n    D   22\n\n     E   29\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q19",
+    "live-poshenloh-amc10-2021d-question_paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q20",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "条件赢家首掷：对称消去玩家身份再求最大值 / 赢家首掷条件分布：利用玩家对称化最大值",
+   "search_text": "20. In a particular game, each of 4 players rolls a standard 6 -sided die. The winner is the\n    player who rolls the highest number. If there is a tie for the highest roll, those involved\n     in the tie will roll again and this process will continue until one player wins. Hugo is one\n    of the players in this game. What is the probability that Hugo’s first roll was a 5, given\n    that he won the game?\n\n          61     A                                                                                                                                                                                                                                                               ​\n         216\n\n          367\n     B                                                                                                                                                                                                                                                                                                     ​\n         1296\n\n          41\n    C                                                                                                                                                                                                                                                            ​\n         144\n\n         185\n    D                                                                                                                                                                                                                                                             ​\n         648\n\n         11\n      E                                                                                                                                                                                                                          ​\n         36\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q20",
+    "live-poshenloh-amc10-2021d-question_paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q21",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "曲线或线段交点上界：按对象对计数并检查可实现 / 不同正多边形边相交：每对按较少顶点计",
+   "search_text": "21. Regular polygons with 5,6,7, and 8 sides are inscribed in the same circle. No two of\n   the polygons share a vertex, and no three of their sides intersect at a common point. At\n   how many points inside the circle do two of their sides intersect?\n\n     A   52\n\n    B   56\n\n    C   60\n\n    D   64\n\n     E   68\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q21",
+    "live-poshenloh-amc10-2021d-question_paper__q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q22",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "递推数列余数：记录完整状态并找循环 / 两两乘积和模3：相邻递推找周期",
+   "search_text": "22. For each integer n ≥2, let S ​n be the sum of all products jk, where j and k are\n    integers and 1 ≤j < k ≤n. What is the sum of the 10 least values of n such that S ​n\n     is divisible by 3?\n\n     A    196\n\n     B    197\n\n    C    198\n\n    D    199\n\n     E    200\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q22",
+    "live-poshenloh-amc10-2021d-question_paper__q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q23",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "五点双色完全图单色三角：补集是两个五环",
+   "search_text": "23. Each of the 5 sides and the 5 diagonals of a regular pentagon are randomly and\n   independently colored red or blue with equal probability. What is the probability that\n    there will be a triangle whose vertices are among the vertices of the pentagon such\n    that all of its sides have the same color?\n\n         2     A\n                ​3\n\n         105     B                                                                                                                                                                                                                                                              ​\n         128\n\n         125\n    C                                                                                                                                                                                                                                                            ​\n         128\n\n         253\n    D                                                                                                                                                                                                                                                             ​\n         256\n\n     E   1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q23",
+    "live-poshenloh-amc10-2021d-question_paper__q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q24",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "旋转反射视同的计数：按对称固定配置数求轨道 / 立方体顶点四色配比的旋转等价：群作用轨道",
+   "search_text": "24. A cube is constructed from 4 white unit cubes and 4 blue unit cubes. How many\n    different ways are there to construct the 2 × 2 × 2 cube using these smaller cubes?\n   (Two constructions are considered the same if one can be rotated to match the other.)\n\n     A   7\n\n     B   8\n\n    C   9\n\n    D   10\n\n     E   11\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q24",
+    "live-poshenloh-amc10-2021d-question_paper__q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2021d-question_paper",
+   "year": 2021,
+   "session": "fall",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2021d-question_paper__q25",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "方形内相接旋转矩形：方向参数与边界约束",
+   "search_text": "25. A rectangle with side lengths 1 and 3, a square with side length 1, and a rectangle R\n     are inscribed inside a larger square as shown. The sum of all possible values for the\n                          m     area of R can be written in the form     ​, where m and n are relatively prime positive                                      n\n      integers. What is m + n?\n\n\n\n\n\n      A   14\n\n      B   23\n\n     C   46\n\n     D   59\n\n       E   67\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/amc10/2021D/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AMC 10B Fall — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-answers.pdf"
+    },
+    {
+     "title": "2021 AMC 10B Fall — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2021D-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2021-Fall-B-Q25",
+    "live-poshenloh-amc10-2021d-question_paper__q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2021d-question_paper__q25.md"
+  }
+ ]
+}

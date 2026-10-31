@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2023-may-june-p5-v3-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2023-may-june-p5-v3-qp",
+   "year": 2023,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "3",
+   "id": "caie-igcse-0625-2023-may-june-p5-v3-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "1    In this experiment, you will determine the mass MR of a metre ruler using a balancing method.\n\n    Carry out the following instructions, referring to Fig. 1.1.\n\n            load           a         b                                                                  metre ruler\n\n\n                                                                   bench\n\n               5.0 cm mark     pivot   50.0 cm mark\n\n                                               Fig. 1.1\n\n     (a)   (i)  Place a load of mass M = 20 g with its centre at the 5.0 cm mark of the metre ruler.\n\n             Explain briefly how you make sure that the centre of the load is at the 5.0 cm mark.\n           You may draw a diagram if it helps your explanation.\n\n\n\n\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  Place the metre ruler on the pivot. Adjust the position of the metre ruler on the pivot until\n             the metre ruler is as near as possible to being balanced. Check that the position of the\n             centre of the load remains at the 5.0 cm mark.\n\n            Record, in Table 1.1, the scale reading p on the ruler at the position of the pivot.\n\n              Calculate, and record in Table 1.1:\n\n                •   The distance a between the 5.0 cm mark and the pivot.\n              Use your value of p and the equation a = p – 5.0.\n                •   The distance b between the 50.0 cm mark and the pivot.\n              Use your value of p and the equation b = 50.0 – p.\n\n            Repeat this procedure for values of M = 40 g, 60 g, 80 g and 100 g.\n                                                                                                                       [2]\n\n\n\n\n\n© UCLES 2023                                          0625/53/M/J/23\n\nTable 1.1\n\n                                                           b              M / g     p / cm     a / cm     b / cm                                                           a\n                     20\n\n                     40\n\n                     60\n\n                     80\n\n                     100\n\n                                                          b\n     (b)  For each value of M, calculate and record in Table 1.1 the value a.                             [1]\n                                    b     (c)  Plot a graph of M / g (y-axis) against   (x-axis).                                    a\n       Draw the best-fit line.\n\n\n\n\n\n                                                                                                                       [4]\n\n     (d)   (i)  Determine the gradient G of the graph. Show clearly on the graph how you obtained the\n            necessary information.\n\n\n\n\n\n                                 G =  .........................................................  [1]\n\n© UCLES 2023                                          0625/53/M/J/23                               [Turn over\n\n(ii)  The mass MR of the metre ruler is numerically equal to G.\n             Write down the value of MR in this experiment. Include the unit.\n                                    MR =  .........................................................  [1]\n     (e) The determination of MR by this method assumes that the centre of mass of the metre ruler is\n          at the 50.0 cm mark.\n\n      A student finds that the centre of mass of his metre ruler is at the 48.7 cm mark.\n\n        Suggest how he changes the procedure in (a)(ii) to allow for this.\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2023                                          0625/53/M/J/23\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2023 — Paper 5 — 3 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s23_ms_53.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-may-june-p5-v3-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p5-v3-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p5-v3-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-may-june-p5-v3-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-may-june-p5-v3-qp",
+   "year": 2023,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "3",
+   "id": "caie-igcse-0625-2023-may-june-p5-v3-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2    In this experiment, you will investigate circuits containing different combinations of resistors.\n     Fig. 2.1 shows circuit A which has been set up for you.\n\n    Carry out the following instructions, referring to Fig. 2.1.\n\n\n\n\n\n                A\n\n\n                        U                 3 Ω\n\n                                   P          Q\n\n                          V\n\n                                               Fig. 2.1\n\n     (a)  Circuit A\n\n        Close the switch.\n\n        Measure, and record in Table 2.1, the potential difference (p.d.) V across resistor U.\n\n        Measure, and record in Table 2.1, the current I in the circuit.\n\n       Open the switch.\n\n                                        Table 2.1\n\n                                    circuit      V / V        I / A     R / Ω\n\n                    A\n\n                    B\n\n                    C\n\n                                                                                                                       [1]\n\n\n\n\n\n© UCLES 2023                                          0625/53/M/J/23                               [Turn over\n\n(b)  Circuit B\n\n        Connect a second 3 Ω resistor between terminals P and Q so that it is in parallel with the first\n       3 Ω resistor, as shown in Fig. 2.2. The rest of the circuit must remain as in Fig. 2.1.\n\n                                       3 Ω\n\n                             P   3 Ω   Q\n\n\n                                               Fig. 2.2\n\n        Close the switch.\n\n        Measure, and record in Table 2.1, the potential difference (p.d.) V across resistor U.\n\n        Measure, and record in Table 2.1, the current I in the circuit.\n\n       Open the switch.\n                                                                                                                       [1]\n\n     (c)  Circuit C\n\n        Connect a third 3 Ω resistor between terminals P and Q so that it is in parallel with the other\n       3 Ω resistors, as shown in Fig. 2.3. The rest of the circuit must remain as in Fig. 2.1.\n\n                                       3 Ω\n\n                                       3 Ω\n                             P       Q\n                                       3 Ω\n\n\n                                               Fig. 2.3\n\n        Close the switch.\n\n        Measure, and record in Table 2.1, the potential difference (p.d.) V across resistor U.\n\n        Measure, and record in Table 2.1, the current I in the circuit.\n\n       Open the switch.\n                                                                                                                       [1]\n\n     (d)   (i)  Calculate, and record in Table 2.1, the resistance R of resistor U for each combination of\n               resistors.                                              V\n          Use your readings from Table 2.1 and the equation R = I.\n\n\n\n\n                                                                                                                       [3]\n\n\n\n© UCLES 2023                                          0625/53/M/J/23\n\n(ii)  A student suggests that the values of R should be the same.\n\n             State whether your results support this suggestion. Justify your statement by reference\n               to values from your results.\n\n             statement  ..........................................................................................................................\n\n                justification  ........................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n                                                                                                                       [2]\n\n     (e) A student determines the resistance of resistor U using a variable resistor to control the\n         current in the circuit.\n\n             (i)   Briefly explain one advantage of using a variable resistor for this purpose rather than the\n            procedure carried out in (a), (b) and (c).\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  Draw the circuit symbol for a variable resistor.\n\n\n\n\n                                                                                                                       [1]\n\n      (f)  Another student suggests that potential difference and current for resistor U are proportional.\n\n         State how a graph of potential difference against current for resistor U can confirm this\n         suggestion.\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2023                                          0625/53/M/J/23                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2023 — Paper 5 — 3 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s23_ms_53.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-may-june-p5-v3-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p5-v3-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p5-v3-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-may-june-p5-v3-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-may-june-p5-v3-qp",
+   "year": 2023,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "3",
+   "id": "caie-igcse-0625-2023-may-june-p5-v3-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3    In this experiment, you will investigate the reflection of light by two mirrors.\n\n    Carry out the following instructions, using the separate ray-trace sheet provided.\n    You may refer to Fig. 3.1 for guidance.\n\n                                                                                     ray-trace sheet\n\n  hole\n\n\n\n\n\n                                   F\n                                            6 cm\n\n                                      50°   50°   N\n                     mirror                                              mirror\n                                V           i\n                 E                        G\n\n\n\n                                           A\n                                eye\n\n\n                                               Fig. 3.1\n\n     (a)  •   Mark and label a point F approximately in the centre of your ray-trace sheet.\n           •   Draw a 5 cm long line FV, from point F, as shown in Fig. 3.1.\n           •   Draw two lines, FG and FE, each 9 cm long and at 50° either side of FV, as shown in\n               Fig. 3.1.\n           •   Draw a normal to line FG, crossing FG at a point N, 6 cm from F.\n           •   Label the lower end of the normal with the letter L.\n           •   Draw a line NA, as shown in Fig. 3.1, 8 cm long and at an angle θ1 = 15° to NG.\n                                                                                                                       [2]\n\n     (b)  •   Place the plane mirrors on lines FG and FE, with their reflecting surfaces facing inwards,\n            as shown in Fig. 3.1.\n           •   Place two pins, P1 and P2, on line NA, a suitable distance apart for accurate ray tracing.\n           •   Label the positions of P1 and P2.\n           •   View the images of P1 and P2 from the direction indicated by the eye in Fig. 3.1.\n           •   Place two pins, P3 and P4, a suitable distance apart, so that pins P3 and P4, and the\n            images of P1 and P2, all appear one behind the other.\n           •   Label the positions of P3 and P4.\n           •   Remove the mirrors and pins from the ray-trace sheet.\n                                                                                                                       [1]\n© UCLES 2023                                          0625/53/M/J/23\n\n(c)  •   Draw a line joining P3 and P4. Extend this line 10 cm above FE.\n           •   Label the lower end of this line with the letter B. Label the upper end with the letter R.\n                                                                                                                       [1]\n\n     (d)   (i)   •   Draw a new line NA, 8 cm long and at an angle θ2 = 40°.\n                •   Repeat the steps in (b).\n                •   Draw a line joining the new positions of P3 and P4. Extend this line until it crosses\n              BR.\n                •   Label the lower end of this line with the letter C. Label the upper end with the letter T.\n                                                                                                                       [2]\n\n             (ii)  Measure the acute angle α between lines BR and CT. (An acute angle is less than 90°.)\n\n                           α =  ........................................................° [1]\n\n            (iii)  A student thinks that there is a relationship between angle α and the values of angle θ1\n            from (a) and angle θ2 from (d)(i).\n\n             State what your results suggest that relationship could be. Justify your answer by\n             reference to values from your results.\n\n             statement  ..........................................................................................................................\n\n                justification  ........................................................................................................................\n\n                       ...........................................................................................................................................\n                                                                                                                       [2]\n\n     (e)  Suggest one precaution to take in this type of experiment to ensure accurate results.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n      (f)  Suggest one reason why different students, all doing this experiment carefully, may not\n         obtain identical results.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n               Tie your ray-trace sheet into this booklet between pages 8 and 9.\n\n\n\n\n\n© UCLES 2023                                          0625/53/M/J/23                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2023 — Paper 5 — 3 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s23_ms_53.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-may-june-p5-v3-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p5-v3-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p5-v3-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-may-june-p5-v3-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-may-june-p5-v3-qp",
+   "year": 2023,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "3",
+   "id": "caie-igcse-0625-2023-may-june-p5-v3-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the rate of cooling of hot water in a container which has a lid.\n\n    Plan an experiment which will enable him to compare the effect of lids of different thicknesses on\n    the rate of cooling.\n\n    The apparatus available includes:\n\n     •   a beaker\n     •   a supply of hot water\n     •    insulating material from which lids can be cut.\n\n    You are not required to do the experiment.\n\n     In your plan, you should:\n\n     •     list any additional apparatus needed\n     •    explain briefly how to do the experiment, including the measurements to take so that the rate\n          of cooling can be determined\n     •    state the key variables to keep constant\n     •   draw a table, or tables, with column headings, to show how to display the readings (you are\n        not required to enter any readings in the table)\n     •    explain how to use the readings to reach a conclusion.\n\n    You may draw a diagram if it helps to explain your plan.\n\n\n\n\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n\n© UCLES 2023                                          0625/53/M/J/23\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2023 — Paper 5 — 3 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s23_ms_53.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-may-june-p5-v3-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p5-v3-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p5-v3-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-may-june-p5-v3-qp__q04.md"
+  }
+ ]
+}

@@ -1,0 +1,1183 @@
+{
+ "group": "fma-2020-f-ma-b-question-paper",
+ "course_id": "FMA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q01",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "1. A ball is bouncing vertically between a ﬂoor and ceiling, which are both horizontal and separated\n  by 4 m. All collisions are perfectly elastic, and when the ball hits the ﬂoor, it has a speed of 12 m/s.\n  How long does a complete up-down cycle take?\n\n   (A) 0.3 s\n\n   (B) 0.4 s\n\n   (C) 0.6 s\n\n   (D) 0.8 s\n\n   (E) 2.4 s\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q01.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q02",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "(E) 2.4 s\n\n2. A uniform rod of mass m and length ℓhas moment of inertia mℓ2/12 about an axis that is per-\n   pendicular to the rod and passes through its center. What is the moment of inertia of a uniform\n   square plate with mass M and side length L about the axis along its diagonal?\n\n   (A) ML2/12\n    √\n   (B)   2 ML2/12\n   (C) ML2/6\n   (D) ML2/4\n   (E) ML2/3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q02.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q03",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "3. A conical pendulum of length d swings in a horizontal circle of radius r, as shown.  If ω is the\n   angular frequency of this motion, what is ω2?\n\n\n\n\n\n                                                 d\n\n\n\n                                              r\n\n\n\n   (A) g/d\n\n   (B) g/r\n     √\n   (C) g/  d2 + r2\n     √\n   (D) g/  d2 −r2\n     √\n   (E) g/  dr\n\n2020 F = ma Exam B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q03.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q04",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "4. In “zero-g” airplane rides, passengers can ﬂoat around the cabin, as if they were weightless. A ﬂight\n   trajectory for such a ride is shown below, with a few points during the journey labelled. Which of\n   the following statements is correct? Take a to be the acceleration of the plane during the “zero-g”\n   part of the ﬂight.\n\n\n                                                                                              height\n\n\n\n\n                                  a       b  c d       e\n                                             time\n\n\n   (A) The “zero-g” ﬂight begins at a and ends at c, during which |a| = g and a points up.\n\n   (B) The “zero-g” ﬂight begins at a and ends at e, during which |a| = 0.\n\n   (C) The “zero-g” ﬂight begins at b and ends at d, during which |a| = g and a points down.\n\n   (D) The “zero-g” ﬂight begins at c and ends at e, during which |a| = g and a points down.\n\n   (E) The “zero-g” ﬂight begins at d and ends at e, during which |a| = 0.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q04.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q05",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "5",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "5. A mote of dust is initially located at distance R from the sun, which has mass M. At this point,\n   the mote has a small tangential velocity v. Which of the following is a good approximation for the\n   distance of closest subsequent approach between the mote and the sun?\n\n\n\n\n               M\n                                                                v\n                             R\n\n\n\n       R3v4\n   (A)\n     G2M2\n        R3v4\n   (B)\n      2G2M2\n       R2v2\n   (C)\n     2GM\n       R2v2\n   (D)\n    GM\n       2R2v2\n   (E)\n     GM\n\n2020 F = ma Exam B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q05.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q06",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6. A three-legged table is shaped like a uniform equilateral triangle, and has identical legs at each\n   corner. When the mass of an object placed on the center of the table exceeds mmax, the table’s legs\n   will all simultaneously break. Which of the following shaded regions shows the area within which\n  an object of 2mmax/3 can be placed without breaking any legs of the table?\n\n\n\n   (A)                                        (D)\n\n\n\n\n    (B)                                          (E)\n\n\n\n\n\n    (C)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q06.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q07",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "7",
+   "chapter": "Space physics",
+   "knowledge_point": "Earth and the Solar System",
+   "problem_type": "从天体运动和轨道条件解释现象",
+   "search_text": "7. Two satellites are initially in identical circular orbits around the Sun, with orbital speed v =\n   1 × 104 m/s. The ﬁrst satellite ﬁres its thrusters toward the Sun, and quickly obtains a radial\n   velocity of ∆vr = 1 m/s. The second satellite instead ﬁres its thrusters behind it, and quickly\n   increases its tangential velocity by ∆vt.  If the two satellites subsequently perform orbits with the\n  same period, approximately what was ∆vt?\n\n   (A) 0.000 05 m/s\n\n   (B) 0.005 m/s\n\n   (C) 0.5 m/s\n\n   (D) 1 m/s\n\n   (E) 50 m/s\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q07.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q08",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "8",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "8. A conveyor belt is moving with velocity v to the east. A block with velocity v to the south slides\n   from the ground onto the conveyor belt. The coeﬃcient of friction between the block and the belt\n    is µ. The block stops slipping after a time\n\n          v\n   (A) √\n         2 µg\n        v\n   (B)\n       µg\n    √\n         2 v\n   (C)\n       µg\n       2v\n   (D)\n       µg\n   (E) The block never stops slipping.\n\n2020 F = ma Exam B                                                                      5\n\n\n    The following information is relevant to problems 9 and 10.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q08.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q09",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "9",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "The following information is relevant to problems 9 and 10.\n\n9. Two equal masses m are connected by an elastic string that acts like an ideal spring with spring\n   constant k and unstretched length l. The two masses are hung over a frictionless pulley. What is\n   the total length of the string at equilibrium? (Diagram not necessarily to scale.)\n\n\n\n\n\n                         m\n                          m\n\n\n   (A) 2mg/k\n\n   (B)  l + mg/k\n\n   (C)  l + mg/2k\n\n   (D)  l + 2mg/k\n\n   (E) There is not enough information to decide.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q09.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q10",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "10. The two masses are both displaced downward by a small vertical distance x and simultaneously\n    released from rest. What is the period of oscillation?\n\n    (A) 2π p l/g\n    (B) π p2m/k\n    (C) 2π p m/k\n    (D) 2π p m/k + l/g\n\n    (E) There is not enough information to decide.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q10.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q11",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "11. An escalator can carry passengers up a vertical distance of 10 m in 30 s. A mischievous person of\n   mass 50 kg walks down the up-escalator so that they stay in place with respect to the building. If\n    the child does this for 30 s, the total work the child performs on the escalator, in the frame of the\n    building, is\n\n    (A) −104 J\n    (B) −5 × 103 J\n\n    (C) 0 J\n    (D) 5 × 103 J\n    (E) 104 J\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q11.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q12",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "12. A platform juts out horizontally from the edge of a building. If the platform is modeled as a uniform\n    metal rod, which one of the following statements about the tensile and compressive stress is correct?\n\n    (A) There is a horizontal compression throughout the rod.\n\n    (B) There is a horizontal tension throughout the rod.\n\n    (C) There is horizontal tension in the top of the rod and a compression in the bottom.\n\n    (D) There is a horizontal tension near the middle of the rod and a compression near the end.\n\n2020 F = ma Exam B                                                                      6\n\n\n      (E) There is a horizontal compression near the middle of the rod and a tension near the end.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q12.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q13",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "13",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "(E) There is a horizontal compression near the middle of the rod and a tension near the end.\n\n13. A uniform disk of mass m and radius r is attached at its edge to a ﬂexible pivot on the ceiling. It\n     is given a small displacement perpendicular to the plane of the disk, so that it begins to oscillate\n    perpendicular to the plane of the disk. What is the period of oscillation? The moment of inertia of\n    a disk about the axis going through its center and perpendicular to the plane it’s in is Idisk = 2mr21\n\n\n\n\n\n    (A) π p2r/5g\n    (B) π p5r/g\n    (C) π p6r/g\n    (D) 2π p r/g\n    (E) 2π p 2r/g\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q13.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q14",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "14",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "(E) 2π p 2r/g\n\n14. A large block of mass 5 kg is moving to the right at a velocity of 10 m/s. Spaced out every meter\n    are smaller, initially stationary blocks of mass 1 kg. All collisions are perfectly inelastic. Neglecting\n     friction, how far will the large block travel before its velocity has decreased to below 3 m/s?\n\n    (A) 5 m\n\n    (B) 8 m\n\n    (C) 12 m\n\n    (D) 17 m\n\n    (E) 50 m\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q14.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q15",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "(E) 50 m\n\n15. In the device shown, blocks of various masses are placed on pistons so that the device is in equi-\n    librium. (The ﬂuid in the drawing is to scale.) There are valves that are both initially open at\n    locations A and B. One of the valves is closed, and the system is allowed to come to equilibrium.\n   How will this aﬀect the height of the mass m2?\n\n                          m1      m2        m3\n\n\n\n\n\n                         A      B\n\n    (A) Closing either valve will have no eﬀect on the height of m2.\n    (B) Closing either valve causes m2 to rise.\n    (C) Closing either valve causes m2 to fall.\n    (D) Closing valve A causes m2 to rise, and closing valve B causes m2 to fall.\n    (E) Closing valve A causes m2 to fall, and closing valve B causes m2 to rise.\n\n2020 F = ma Exam B                                                                      7\n\n\n    The following information is relevant to problems 16 and 17.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q15.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q16",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "16",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "The following information is relevant to problems 16 and 17.\n\n16. A mass M sits on top of a vertical spring of spring constant k, in equilibrium. A mass m is held a\n    height h above it. The mass M is then pushed downward by a distance ∆x, and both masses are\n    released from rest simultaneously. For what value of h will the two masses ﬁrst collide when M\n    ﬁrst returns to its equilibrium position?\n\n       πM2g2\n    (A)\n       4k2∆x\n      8Mg\n    (B)\n        π2k\n     Mg\n    (C)\n         k\n      π2Mg\n    (D)\n          8k\n       πk∆x2\n    (E)\n       4Mg\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q16/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q16/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q16.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q17",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "17",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "(E)\n       4Mg\n\n17. Assume that h takes the value found in the previous question, and that the collision between the\n   two masses is perfectly elastic. For what value of ∆x will m rebound to a maximum height that is\n    exactly equal to its original height?\n\n        πg r m3\n    (A)\n        2k M\n        πg r m3\n    (B)\n        k  2M\n         2g r 2m3\n    (C)\n       πk  M\n       4mg\n    (D)\n        πk\n      πmg\n    (E)\n         2k\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q17/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q17/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q17.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q18",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "18",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "(E)\n         2k\n\n18. An extendable arm is made from rigid beams free to pivot around the dots shown. Spring 1, with\n    equilibrium length L1, is attached between points A and C while spring 2, with equilibrium length\n   L2 is attached between B and D. The system is allowed to come to equilibrium. In equilibrium,\n   what is the ratio of the tension in spring 1 to the tension in spring 2?\n\n\n                                                                         spring 2\n\n\n            A       B   C   D    A       B   C   D\n\n\n\n\n                                                               spring 1\n\n    (A) −2/3\n\n    (B) −3/4\n\n    (C) −1\n\n    (D) −3/2\n\n2020 F = ma Exam B                                                                      8\n\n\n      (E) There is not enough information to determine the ratio.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q18/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q18/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q18.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q19",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "19",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "(E) There is not enough information to determine the ratio.\n\n19. Consider an axially symmetric object that experiences no external forces and initially rotates about\n     its symmetry axis. The object then changes its shape while remaining axially symmetric. Afterward,\n     it is found that its moment of inertia about the symmetry axis has increased. How have its kinetic\n    energy T and angular velocity ω changed?\n\n    (A) T has decreased, and ω has decreased.\n\n    (B) T has decreased, and ω stays the same.\n\n    (C) T stays the same, and ω has decreased.\n\n    (D) T has increased, and ω has increased.\n\n    (E) T has increased, and ω stays the same.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q19/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q19/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q19.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q20",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "(E) T has increased, and ω stays the same.\n\n20. A well-calibrated scale reads zero when nothing is placed on it. When a deﬂated balloon is placed\n   on the scale, it reads mg. When a non-airtight box is placed on the scale, it reads Mg, where\n  M > m. The balloon is inﬂated with helium, so that it ﬂoats upward in air. The balloon is placed\n    in the box, and the box is placed on the scale. If the scale reads W, which of the following is true?\n\n    (A) W ≤(M −m)g\n\n    (B) (M −m)g < W < (M + m)g\n\n    (C) W = (M + m)g\n\n    (D) W > (M + m)g\n\n    (E) None of the above are necessarily true.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q20/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q20/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q20.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q21",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "21",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "(E) None of the above are necessarily true.\n\n21. A person stands on the seat of a swing and squats down, so that the distance between their center\n    of mass (CM) and the swing’s pivot is ℓ. As the swing gets to the lowest point, the speed of their\n  CM is v. At this moment, they quickly stand up, and thus decrease the distance from their CM to\n    the swing’s pivot to ℓ′. Immediately after they ﬁnish standing up, their CM speed is v′. Which of\n    the following statements is correct? You may neglect friction, the change in moment of inertia of\n    the person about their CM, and the time taken to stand up.\n\n    (A) v/ℓ= v′/ℓ′\n    (B) v = v′\n    (C) vℓ= v′ℓ′\n    (D)  12v2 = 12v′2 + g(ℓ−ℓ′)\n    (E) Multiple statements are correct.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q21/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q21/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q21.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q22",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "22",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "(E) Multiple statements are correct.\n\n22. A point mass m sits on a long block, also of mass m, which rests on the ﬂoor. The coeﬃcient of\n    static and kinetic friction between the mass and the block is µ, and the coeﬃcient of static and\n    kinetic friction between the block and the ﬂoor is µ/3. An impulse gives a horizontal momentum\n    p to the point mass. After a long time, how far has the point mass moved relative to the block?\n   Assume the mass does not fall oﬀthe block.\n          3p2\n    (A)\n       8m2µg\n          15p2\n    (B)\n       32m2µg\n           9p2\n    (C)\n       16m2µg\n\n2020 F = ma Exam B                                                                      9\n\n             3p2\n     (D)\n         10m2µg\n            3p2\n      (E)\n        4m2µg\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q22/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q22/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q22.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q23",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "23",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "(E)\n       4m2µg\n\n23. Assume that the drag force for a ﬁsh in water depends only on the typical length scale of the ﬁsh R,\n     its velocity v, and the density of water ρ. A puﬀerﬁsh is about 10 cm in length and swims at about\n    5 m/s. How fast does a clown ﬁsh, about 1 cm in length, need to swim such that it experiences the\n   same drag force as the puﬀerﬁsh?\n\n    (A) 5 m/s\n\n    (B) 16 m/s\n\n    (C) 50 m/s\n\n    (D) 500 m/s\n\n    (E) 2500 m/s\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q23/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q23/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q23.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q24",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "24",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "24. Three boxes A, B and C lie along a straight line on a horizontal frictionless surface, as shown. Box\n  A is initially moving to the right with speed v while the other two boxes are initially at rest.  If\n     all collisions are elastic, and the masses of the boxes can be chosen freely, which of the following is\n    closest to the maximum possible ﬁnal speed of box C?\n\n\n                          A   B     C\n\n\n\n    (A) v\n\n    (B) 2v\n\n    (C) 3v\n\n    (D) 4v\n\n    (E) 5v\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q24/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q24/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q24.md"
+  },
+  {
+   "paper_id": "fma-2020-f-ma-b-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "B",
+   "id": "fma-2020-f-ma-b-question-paper__q25",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "25. If a certain radioactive decay process happens n times per hour on average, then in any given hour,\n    one expects to observe n decays with an uncertainty of √n. Each hour can be assumed independent\n    of the previous one, and n can be assumed constant over time. How many hours do you need to\n    conduct the observation so that you can determine n within an uncertainty of 1%?\n\n    (A) n/102\n    (B) n/104\n    (C) 102/n\n    (D) 104/n\n    (E) 108/n2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 F=ma B Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020-Fma-Exam-B_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2020-f-ma-b-question-paper__q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q25/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2020-f-ma-b-question-paper__q25/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2020-f-ma-b-question-paper__q25.md"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "group": "mat-2020-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2020-mat-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2020-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "1. For ALL APPLICANTS.\n\nFor each part of the question on pages 3-7 you will be given ﬁve possible answers, just\none of which is correct. Indicate for each part A-J which answer (a), (b), (c), (d), or\n(e) you think is correct with a tick (!) in the corresponding column in the table below.\nPlease show any rough working in the space provided between the parts.\n\n\n\n\n                         (a)          (b)           (c)          (d)           (e)\n\n\n\n      A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n       E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n         J\n\nA. A square has centre (3, 4) and one corner at (1, 5). Another corner is at\n\n       (a)   (1, 3),    (b)   (5, 5),     (c)   (4, 2),    (d)   (2, 2),     (e)   (5, 2).\n\n\n\n\n\n                   Z 1\nB. What is the value of     (ex −x) (ex + x) dx?\n                               0\n\n      3e2 −2           3e2 + 2           2e2 −3            3e2 −5            e2 + 3\n(a)                 ,    (b)               ,     (c)                ,     (d)                 ,     (e)               .\n        6               6               6                6               6\n\nC. The sum\n                        1 −4 + 9 −16 + · · · + 992 −1002\n\nequals\n\n    (a)  −101     (b)  −1000      (c)  −1111    (d)  −4545      (e)   −5050.\n\n\n\n\n\nD. The largest value achieved by 3 cos2 x + 2 sin x + 1 equals\n\n               11          13          12          14          12\n           (a)         ,    (b)         ,     (c)         ,    (d)         ,     (e)         .\n                5           3           5           9           7\n\nE. A line is tangent to the parabola y = x2 at the point (a, a2) where a > 0. The area\nof the region bounded by the parabola, the tangent line, and the x-axis equals\n\n                a2           2a2            a3           5a3            a4\n          (a)         ,    (b)           ,     (c)           (d)           ,     (e)               3            3            12,          6            10.\n\n\n\n\n\nF. Which of the following expressions is equal to log10(10 × 9 × 8 × · · · × 2 × 1)?\n\n                          (a)  1 + 5 log10 2 + 4 log10 6,\n                         (b)  1 + 4 log10 2 + 2 log10 6 + log10 7,\n                           (c)  2 + 2 log10 2 + 4 log10 6 + log10 7,\n                         (d)  2 + 6 log10 2 + 4 log10 6 + log10 7,\n                           (e)  2 + 6 log10 2 + 4 log10 6.\n\nG. A cubic has equation y = x3 +ax2 +bx+c and has turning points at (1, 2) and (3, d)\nfor some d. What is the value of d?\n\n              (a)   −4,    (b)   −2,     (c)   0,    (d)   2,     (e)   4.\n\n\n\n\n\nH. The following ﬁve graphs are, in some order, plots of y = f(x), y = g(x), y = h(x),\n    df         dg\ny =    and y =     that is, three unknown functions and the derivatives of the ﬁrst    dx         dx;\ntwo of those functions. Which graph is a plot of h(x)?\n\n\n           (a)                            (b)                               (c)\n            y                            y                            y\n                                                               10\n                x                                    5\n  −2           2\n                                         x                 5\n     −2                        −2           2\n                                                                 x\n                           −5                −2           2\n\n                          (d)                               (e)\n                          y                                                  5  y\n\n                      5                                                     x\n                                  −2           2\n                            x\n             −2           2             −5\n\n                −5\n\nI. In the range −90◦< x < 90◦, how many values of x are there for which the sum to\ninﬁnity\n                           1       1       1\n                    +    +    + . . .\n                          tan x   tan2 x   tan3 x\nequals tan x?\n\n                 (a)  0     (b)   1      (c)   2   (d)  3      (e)   4.\n\n\n\n\n\nJ. Consider a square with side length 2 and centre (0, 0), and a circle with radius r and\ncentre (0, 0). Let A(r) be the area of the region that is inside the circle but outside the\nsquare, and let B(r) be the area of the region that is inside the square but outside the\ncircle. Which of the following is a sketch of A(r) + B(r)?\n\n\n            (a)                               (b)                                  (c)\n  4                             4                                                              15\n  3                             3\n                                                              10\n  2                             2\n                                                               5\n  1                             1\n                                                                                          r                      r                                r\n                                                                         1        2            1        2                    1        2\n\n                        (d)                                  (e)\n             8                             8\n\n             6                             6\n\n             4                             4\n\n             2                             2\n                                  r                                r\n\n                       1        2                    1        2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2020",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions20_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2020-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2020-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2020-mat-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2020-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "2. For ALL APPLICANTS.\n\nThe functions f(n) and g(n) are deﬁned for positive integers n as follows:\n\n                       f(n) = 2n + 1,         g(n) = 4n.\n\nThis question is about the set S of positive integers that can be achieved by applying,\nin some order, a combination of fs and gs to the number 1. For example as\n\n                           gfg(1) = gf(4) = g(9) = 36,\n\nand\n                     ffgg(1) = ffg(4) = ff(16) = f(33) = 67,\n\nthen both 36 and 67 are in S.\n\n\n   (i) Write out the binary expansion of 100 (one hundred).\n\n      [Recall that binary is base 2. Every positive integer n can be uniquely written as a\n    sum of powers of 2, where a given power of 2 can appear no more than once. So,\n      for example, 13 = 23 + 22 + 20 and the binary expansion of 13 is 1101.]\n\n  (ii) Show that 100 is in S by describing explicitly a combination of fs and gs that\n      achieves 100.\n\n (iii) Show that 200 is not in S.\n\n (iv) Show that, if n is in S, then there is only one combination of applying fs and gs in\n     order to achieve n. (So, for example, 67 can only be achieved by applying g then\n     g then f then f in that order.)\n\n  (v) Let uk be the number of elements n of S that lie in the range 2k ⩽n < 2k+1.\n    Show that\n                                   uk+2 = uk+1 + uk\n      for k ⩾0.\n\n (vi) Let sk be the number of elements n of S that lie in the range 1 ⩽n < 2k+1.\n    Show that\n                                   sk+2 = sk+1 + sk + 1\n      for k ⩾0.\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2020",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions20_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2020-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2020-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2020-mat-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2020-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3.\n             MATHEMATICS                \n                                                               MATHEMATICS & STATISTICS       For APPLICANTS IN                                     ONLY.\n                MATHEMATICS & PHILOSOPHY\n                                                               MATHEMATICS & COMPUTER SCIENCE \n\nComputer Science and Computer Science & Philosophy applicants should turn to\npage 20.\n\nBelow is a sketch of the curve S with equation y2 −y = x3 −x. The curve crosses the\nx-axis at the origin and at (a, 0) and at (b, 0) for some real numbers a < 0 and b > 0.\nThe curve only exists for α ⩽x ⩽β and for x ⩾γ. The three points with coordinates\n(α, δ), (β, δ), and (γ, δ) are all on the curve.\n\n                            y\n\n\n\n\n\n                 (α, δ)       (β, δ)       (γ, δ)\n\n\n                    (a, 0)                (b, 0)      x\n\n\n\n\n\n   (i) What are the values of a and b?\n\n  (ii) By completing the square, or otherwise, ﬁnd the value of δ.\n\n (iii) Explain why the curve is symmetric about the line y = δ.\n\n (iv) Find a cubic equation in x which has roots α, β, γ. (Your expression for the cubic\n     should not involve α, β, or γ). Justify your answer.\n\n  (v) By considering the factorization of this cubic, ﬁnd the value of α + β + γ.\n\n (vi) Let C denote the circle which has the points (α, δ) and (β, δ) as ends of a diameter.\n     Write down the equation of C. Show that C intersects S at two other points and\n    ﬁnd their common x-co-ordinate in terms of γ.\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2020",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions20_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2020-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2020-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2020-mat-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2020-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "4.\n              MATHEMATICS           \n                                  For APPLICANTS IN  MATHEMATICS & STATISTICS\n              MATHEMATICS & PHILOSOPHY ONLY.\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 20.\n\n\n   (i) A function f(x) is said to be even if f(−x) = f(x) for all x. A function is said to\n     be odd  if f(−x) = −f(x) for all x.\n\n       (a) What symmetry does the graph y = f(x) of an even function have?\n        What symmetry does the graph y = f(x) of an odd function have?\n\n      (b) Use these symmetries to show that the derivative of an even function is an\n         odd function, and that the derivative of an odd function is an even function.\n         [You should not use the chain rule.]\n\n  (ii) For −45◦< θ < 45◦, the line L makes an angle θ with the line y = x as drawn\n      in the ﬁgure below. Let A(θ) denote the area of the triangle which is bounded by\n     the x-axis, the line x + y = 1 and the line L.\n\n                           y\n\n                         1      L\n\n                                                 y = x\n\n\n\n\n\n                                     A(θ)      x + y = 1                               θ\n\n                                                 x\n                                                   1\n\n       (a) Let 0 < θ < 45◦. Arguing geometrically, explain why\n\n                                                 1\n                                  A(θ) + A(−θ) = 2.\n\n      (b) For 0 < θ < 45◦, determine a formula for A(θ).\n       (c) Sketch the graph of A(θ) against θ for −45◦< θ < 45◦.\n\n      (d) In light of the identity in part (ii)(a), what symmetry does the graph of A(θ)\n          have?\n                                             d2A\n       (e) Without explicitly diﬀerentiating, explain why   = 0 when θ = 0.\n                                                      dθ2\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2020",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions20_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2020-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2020-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2020-mat-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2020-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2020",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions20_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2020-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2020-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2020-mat-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2020-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6.\n             COMPUTER SCIENCE            \n                                      For APPLICANTS IN  MATHEMATICS & COMPUTER SCIENCE\n             COMPUTER SCIENCE & PHILOSOPHY  ONLY.\n\nThe cancellation of the Wimbledon tournament has led to a world surplus of tennis balls,\nand Santa has decided to use them as stocking ﬁllers. He comes down the chimney with n\nidentical tennis balls, and he ﬁnds k named stockings waiting for him.\n   Let g(n, k) be the number of ways that Santa can put the n balls into the k stockings;\nfor example, g(2, 2) = 3, because with two balls and two children, Miriam and Adam,\nhe can give both balls to Miriam, or both to Adam, or he can give them one ball each.\n\n   (i) What is the value of g(1, k) for k ⩾1?\n\n  (ii) What is the value of g(n, 1)?\n\n (iii)  If there are n ⩾2 balls and k ⩾2 children, then Santa can either give the ﬁrst\n      ball to the ﬁrst child, then distribute the remaining balls among all k children, or\n     he can give the ﬁrst child none, and distribute all the balls among the remaining\n      children. Use this observation to formulate an equation relating the value of g(n, k)\n      to other values taken by g.\n\n (iv) What is the value of g(7, 5)?\n\n  (v) After the ﬁrst house, Rudolf reminds Santa that he ought to give at least one ball\n      to each child. Let h(n, k) be the number of ways of distributing the balls according\n      to this restriction. What is the value of h(7, 5)?\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2020",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions20_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2020-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2020-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2020-mat-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2020-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "三角",
+   "knowledge_point": "解三角形",
+   "problem_type": "用正弦定理、余弦定理或三角比求边角",
+   "search_text": "",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2020",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions20_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2020-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2020-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2020-mat-question-paper__q07.md"
+  }
+ ]
+}

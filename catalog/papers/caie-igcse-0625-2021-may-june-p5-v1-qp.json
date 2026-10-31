@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2021-may-june-p5-v1-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2021-may-june-p5-v1-qp",
+   "year": 2021,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-may-june-p5-v1-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1    In  this experiment, you  will investigate the period of a pendulum. Carry out the following\n     instructions, referring to Fig. 1.1 and Fig. 1.2.\n\n                                             split cork                                                                                                 split cork\n\n\n\n\n\n                       d\n               bob\n\n\n                   x               floor\n                                                 one complete\n                                                                       oscillation\n\n                          Fig. 1.1                                    Fig. 1.2\n\n   A pendulum has been set up for you as shown in Fig. 1.1.\n\n     (a)  Measure the distance d between the bottom of the split cork and the floor.\n\n                                              d =  .................................................... cm [1]\n\n        This distance d must remain constant throughout the experiment.\n\n     (b)  •    Adjust the length of the pendulum until the distance x, measured from the centre of the\n           bob to the floor, is 50.0 cm.\n\n           •    Displace the bob slightly and release it so that it swings. Fig. 1.2 shows one complete\n               oscillation of the pendulum.\n\n           •   Measure, and record in Table 1.1, the time t for 10 complete oscillations.\n\n           •    Calculate, and record in Table 1.1, the period T of the pendulum. The period is the time\n                for one complete oscillation.\n\n           •    Calculate, and record in Table 1.1, T 2.                                                        [2]\n\n                                        Table 1.1\n\n                x / cm                              t / s              T / s             T 2 / s2\n\n                 50.0\n\n                 45.0\n\n                 40.0\n\n                 35.0\n\n                 30.0\n\n\n\n© UCLES 2021                                          0625/51/M/J/21\n\n(c)  Repeat the procedure in (b) using x = 45.0 cm, 40.0 cm, 35.0 cm and 30.0 cm.                [3]\n\n     (d)  Plot a graph of T 2 / s2 (y-axis) against x / cm (x-axis). You do not need to start your axes at the\n          origin (0,0).\n\n\n\n\n\n                                                                                                                       [4]\n\n     (e)  Explain why timing 10 oscillations gives a more accurate result for the period T than timing\n       one oscillation.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2021                                          0625/51/M/J/21                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2021 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s21_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-may-june-p5-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-may-june-p5-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-may-june-p5-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-may-june-p5-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-may-june-p5-v1-qp",
+   "year": 2021,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-may-june-p5-v1-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2    In this experiment, you will investigate resistance.\n\n    Carry out the following instructions, referring to Fig. 2.1. The circuit has been set up for you.\n\n                            power supply\n\n\n\n\n                                                   A\n\n\n\n\n\n                                  V\n\n                                               Fig. 2.1\n\n     (a)  Close the switch.\n\n             (i)  Record the current I1 in the circuit.\n                                                             I1 =  .........................................................  [1]\n             (ii)  Record the potential difference (p.d.) V1 across the resistor.\n                                              V1 =  .........................................................  [1]\n\n       Open the switch.\n                                                                  V1            (iii)  Calculate the resistance R1 of the resistor using the equation R1 =     .                                                                                     I1\n\n\n\n                                            R1 =  .........................................................  [1]\n\n\n\n\n\n© UCLES 2021                                          0625/51/M/J/21\n\n(b)  Disconnect the voltmeter.\n\n        Connect the second resistor provided in series with the first resistor.\n\n        Connect the voltmeter across both resistors.\n\n        Close the switch.\n\n           •   Record the current I2 in the circuit.\n\n                                                             I2 =  ...............................................................\n           •   Record the potential difference (p.d.) V2 across the resistors.\n\n                                              V2 =  ...............................................................\n\n       Open the switch.\n                                                                           V2           •    Calculate the resistance RS of the resistors in series using the equation RS =      .                                                                                                 I2\n\n\n\n                                         RS =  ...............................................................\n                                                                                                                       [2]\n\n     (c)  Disconnect the voltmeter. Connect the second resistor in parallel with the first resistor.\n\n        Connect the voltmeter across both resistors.\n\n        Close the switch.\n\n           •   Record the current I3 in the circuit.\n\n                                                             I3 =  ...............................................................\n           •   Record the potential difference (p.d.) V3 across the resistors.\n\n                                              V3 =  ...............................................................\n\n       Open the switch.\n                                                                            V3           •    Calculate the resistance RP of the resistors in parallel using the equation RP =      .                                                                                                  I3\n\n\n\n                                         RP =  ...............................................................\n                                                                                                                       [2]\n© UCLES 2021                                          0625/51/M/J/21                               [Turn over\n\n(d) Complete the circuit diagram to show the circuit you used in part (c).\n\n\n\n\n\n                                                                                                                       [2]\n\n     (e)  Describe how you would extend part (c) of this experiment to investigate the relationship\n        between the combined resistance of identical resistors connected in parallel and the number\n          of resistors. You are not required to do this investigation.\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2021                                          0625/51/M/J/21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2021 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s21_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-may-june-p5-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-may-june-p5-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-may-june-p5-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-may-june-p5-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-may-june-p5-v1-qp",
+   "year": 2021,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-may-june-p5-v1-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3    In this experiment, you will investigate the refraction of light in the material of a transparent block.\n\n    Carry out the following instructions, using the separate ray-trace sheet provided. You may refer to\n     Fig. 3.1 for guidance.\n\n                             P\n           hole\n                                  N\n\n                                                                                                           i\n\n                    A            Q            B\n\n\n\n\n\n                    D                           C\n                                             J                      E                               F\n\n\n\n                                  K                  G                           H\n                                        L\n\n\n\n                                                                      eye\n\n                                               Fig. 3.1\n     (a)  •   Place the transparent block, largest face down, on the ray-trace sheet supplied. The\n             block should be approximately in the middle of the paper.\n\n           •   Draw and label the outline of the block ABCD, as shown in Fig. 3.1.\n\n           •   Remove the block and draw a normal at the centre of side AB. Continue the normal so\n               that it passes through side CD of the block. Label the normal NL.\n           •   Label the point Q where NL crosses AB.\n           •   Draw a line EF parallel to CD and 2.0 cm below CD.\n           •   Label the point J where NL crosses EF.\n           •   Draw a line GH parallel to CD and 7.0 cm below CD.\n           •   Label the point K where NL crosses GH.\n                                                                                                                       [2]\n\n© UCLES 2021                                          0625/51/M/J/21\n\n(b)  •   Draw the line PQ at an angle i = 30° to the normal as shown in Fig. 3.1.\n\n           •   Place the paper on the pin board.\n\n           •   Place two pins, P1 and P2, on line PQ at a suitable distance apart for this experiment.\n           •   Replace the block and look from the position of the eye shown in Fig. 3.1 to observe\n             the images of P1 and P2 through side CD of the block. Adjust your line of sight until the\n            images of P1 and P2 appear one behind the other.\n           •   Place a pin P3 on line EF between your eye and the block so that the images of P1 and\n           P2 seen through the block appear behind P3.\n           •   Place a pin P4 on line GH between your eye and the block so that P3, and the images of\n           P1 and P2 seen through the block, appear behind P4.\n           •   Label the positions of P1, P2, P3 and P4.\n           •   Remove the pins.\n                                                                                                                       [2]\n\n     (c)   (i)  Measure and record the length a of the line from J to P3.\n\n                                              a =  .........................................................  [1]\n\n             (ii)  Measure and record the length b of the line from K to P4.\n\n                                              b =  .......................................................... [1]\n                    b            (iii)  Calculate     .                    a\n\n\n\n\n                                              b                                             =  .........................................................  [2]                                              a\n     (d)  State one precaution that you took in order to produce an accurate ray trace.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n                                                         b     (e) A student plans to test the suggestion that, in this experiment,     is a constant for all possible                                                         a         values of i. List suitable values of i that the student could use.\n\n               .............................................................................................................................................  [2]\n\n         Tie your ray-trace sheet into this booklet between pages 8 and 9.\n\n                                                                                                           [Total: 11]\n\n\n© UCLES 2021                                          0625/51/M/J/21                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2021 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s21_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-may-june-p5-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-may-june-p5-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-may-june-p5-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-may-june-p5-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-may-june-p5-v1-qp",
+   "year": 2021,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-may-june-p5-v1-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the rate of cooling, in air, of heated blocks made of different metals. The\n    temperature of each block is increased by placing it in hot water.\n\n    Plan an experiment to investigate how the rate of cooling depends on the metal from which each\n    block is made.\n\n    You are not required to carry out this experiment.\n\n    The following apparatus is available to the student:\n\n          cylindrical blocks of different metals, each with a hole for a thermometer, as shown in Fig. 4.1\n       a thermometer.\n\n    Other apparatus normally available in a school laboratory can also be used.\n\n     In your plan, you should:\n\n     •     list any additional apparatus required\n\n     •    explain briefly how you would carry out the investigation, including the measurements you\n        would take\n\n     •    state the key variables to be kept constant\n\n     •   draw a suitable table, with column headings, to show how you would display your readings\n        (you are not required to enter any readings in the table)\n\n     •    explain how you would use the results to reach a conclusion.\n\n                                                   hole for\n                                               thermometer\n\n\n\n\n\n                                               Fig. 4.1\n\n\n\n\n\n© UCLES 2021                                          0625/51/M/J/21\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2021 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s21_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-may-june-p5-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-may-june-p5-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-may-june-p5-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-may-june-p5-v1-qp__q04.md"
+  }
+ ]
+}

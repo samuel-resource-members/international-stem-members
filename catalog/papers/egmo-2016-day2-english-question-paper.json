@@ -1,0 +1,134 @@
+{
+ "group": "egmo-2016-day2-english-question-paper",
+ "course_id": "EGMO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 3,
+ "questions": [
+  {
+   "paper_id": "egmo-2016-day2-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "day2",
+   "variant": "English",
+   "id": "egmo-2016-day2-english-question-paper__q01",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "Problem 4.  Two circles, ω1 and ω2, of equal radius intersect at diﬀerent points X1 and X2. Consider\na circle ω externally tangent to ω1 at a point T1, and internally tangent to ω2 at a point T2. Prove\nthat lines X1T1 and X2T2 intersect at a point lying on ω.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2016-day2-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2016-day2-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2016-day2-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2016-day2-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "egmo-2016-day2-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "day2",
+   "variant": "English",
+   "id": "egmo-2016-day2-english-question-paper__q02",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "Problem 5.  Let k and n be integers such that k ≥2 and                                                   k ≤n ≤2k −1. Place rectangular tiles,each of size 1  k or k   1, on an n  n chessboard so that each tile covers exactly k cells, and no two        ×    ×      ×tiles overlap. Do this until no further tile can be placed in this way. For each such k and n, determine\nthe minimum number of tiles that such an arrangement may contain.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2016-day2-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2016-day2-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2016-day2-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2016-day2-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "egmo-2016-day2-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "day2",
+   "variant": "English",
+   "id": "egmo-2016-day2-english-question-paper__q03",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "Problem 6.  Let S be the set of all positive integers n such that n4 has a divisor in the range n2 +1,\nn2 + 2,  . . ., n2 + 2n. Prove that there are inﬁnitely many elements of S of each of the forms 7m,\n7m + 1, 7m + 2, 7m + 5, 7m + 6 and no elements of S of the form 7m + 3 or 7m + 4, where m is an\ninteger.\n\n\n\n\n\nLanguage: English                                             Time: 4 hours and 30 minutes\n                                                        Each problem is worth 7 points\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2016-day2-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2016-day2-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2016-day2-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2016-day2-english-question-paper__q03.md"
+  }
+ ]
+}

@@ -1,0 +1,525 @@
+{
+ "group": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+ "course_id": "CIE-9709",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 11,
+ "questions": [
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q01",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "不等式",
+   "problem_type": "求满足不等式的范围",
+   "search_text": "1    (a)  Sketch the graph of y = 2 x - 3 .                                                                [1]\n\n\n\n\n\n     (b)  Solve the inequality 3x - 1 1 2 x - 3 .                                                          [2]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q02",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "利用指数或对数关系求未知量",
+   "search_text": "2     It is given that 2 ln p + ln ( p - 1 ) - 1 ln ( q + 1) = 3 .                                             2\n\n    Find q in terms of p.                                                                                  [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q03",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "代数",
+   "knowledge_point": "复数",
+   "problem_type": "在代数形式或极坐标形式下处理复数",
+   "search_text": "z + 5i\n3   Find the complex numbers z for which         is real and  z =  17 . Give your answers in the form\n                                                z - 5\n     z = x + yi , where x and y are real.                                                                    [6]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q04",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "4   The parametric equations of a curve are\n\n                                      x = etant ,   y = 3 tan 2 t .\n\n    Find the equation of the tangent to the curve at the point (e, 3). Give your answer in the form y = mx + c ,\n    where m and c are exact.                                                                             [6]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q04.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q05",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "5   The polynomial 3 x 3 + pax 2 + 7a 2 x + qa 3 is denoted by f ( )x , where p, q and a are constants and a ! 0 .\n\n   When  f ( )x  is divided by  ( x + 2a ) the remainder is -22a 3 . When  f ( )x  is divided by  ( 3x - a ) the\n    remainder is -a3 .\n\n    Find the values of p and q.                                                                           [5]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q05.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q06",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "代数",
+   "knowledge_point": "复数",
+   "problem_type": "在代数形式或极坐标形式下处理复数",
+   "search_text": "4                                             1 ri         3   61 ri                  21 ri6     It is given that z = 3e     ,  z =  e   and ~ = 2e     .                        1             2    2\n\n     (a)  State the values of ~z1 and ~z2 . Give your answers in the form  reii, where r 2 0 and\n      - r 1 i G r .                                                                                    [2]\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n     (b) On a sketch of an Argand diagram with origin O, show the points A, B, C and D representing the\n        complex numbers z1, z2, ~z1 and ~z2 respectively.                                            [2]\n\n\n\n\n\n     (c)  State the geometric effects of multiplying z1 and z2 by ~.                                      [2]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q06.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q07",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "三角",
+   "knowledge_point": "三角方程",
+   "problem_type": "在给定区间解三角方程",
+   "search_text": "7    (a)  Express 5 sin b x + 1 rl - 4 cos x in the form R sin ( x - a) , where R 2 0 and 0 1 a 1 1 r . State the                                6                                                                            2\n         exact value of R and give the value of a correct to 3 decimal places.                            [4]\n\n(b) Hence solve the equation 5 sin b2i + 1 rl - 4 cos 2i =  7 for 0 G i G r . Give your answers correct                                               6\n     to 2 decimal places.                                                                             [4]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q07.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q08",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "向量",
+   "knowledge_point": "直线与平面",
+   "problem_type": "用向量方程求交点或夹角",
+   "search_text": "8   With respect to the origin O, the points A and B have position vectors 2i + 4k and 5i + j + 6k\n     respectively. The line l1 passes through the points A and B.\n\n     (a)  Find a vector equation for the line l1.                                                           [2]\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n    The line l2 has equation r = 2i + j + 5k + n ( i + 2j + 3k ) .\n\n     (b) Show that l1 and l2 do not intersect.                                                            [4]\n\n............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n(c)  Find the acute angle between the directions of l1 and l2.                                        [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q08.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q09",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "数值方法",
+   "knowledge_point": "方程的近似解",
+   "problem_type": "迭代或夹逼求方程近似根",
+   "search_text": "a\n9   The constant a is such that ; 6x ln x dx = 4 .\n                                      1\n\n                        1 5\n     (a) Show that a = exp f  e  2 + 3op, where exp(x) denotes ex.                                       [5]\n                        6 a\n\n(b)  Verify by calculation that a lies between 2 and 2.1.                                              [2]\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n(c)  Use an iterative formula based on the equation in part (a) to determine a correct to 2 decimal\n     places. Give the result of each iteration to 4 decimal places.                                    [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q09.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q10",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "微分方程",
+   "knowledge_point": "微分方程",
+   "problem_type": "解微分方程并代入初始条件",
+   "search_text": "10   (a)  Find the quotient and remainder when x 3 + 5x 2 - 2x - 15 is divided by x 2 - 3 .                  [3]\n\n                .....................................................................................................................................................\n\n                .....................................................................................................................................................\n\n                .....................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n     (b) The variables x and y satisfy the differential equation\n\n                                 d y   x 3 + 5 x 2 - 2 x - 15\n                          =                              .\n                                 dx      6y ( x 2 - 3 )\n\n\n             It is given that y = 2 when x = 2 .\n\n         Solve the differential equation to obtain an expression for y2 in terms of x.                     [5]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q10.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p3-v1-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "1",
+   "id": "caie-a-level-9709-2025-may-june-p3-v1-qp__q11",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "积分",
+   "knowledge_point": "旋转体体积",
+   "problem_type": "用积分求旋转体体积",
+   "search_text": "11\n                                  y\n\n                      M\n\n\n\n                                                               x                     O                                      a                1                                      r                                                                       2\n\n    The diagram shows the curve y = cos x  sin 2x for 0 G x G 1 r. The curve has a maximum point at M,                                                                           2\n    where x = a .\n\n     (a)  Find the exact value of a.                                                                        [6]\n\n(b) The region enclosed between the x-axis and the curve is rotated through 2r radians about the\n     x-axis.\n\n    Find the exact volume of the solid generated.                                                   [5]\n\nAdditional page\n\nIf you use the following page to complete the answer to any question, the question number must be clearly\nshown.\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every\nreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the\npublisher will be pleased to make amends at the earliest possible opportunity.\n\n\nTo avoid the issue of disclosure of answer-related information to candidates,  all copyright acknowledgements are reproduced online in the Cambridge\nAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download\nat www.cambridgeinternational.org after the live examination series.\n\n\nCambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge\nLocal Examinations Syndicate (UCLES), which is a department of the University of Cambridge.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 3 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_31.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p3-v1-qp__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p3-v1-qp__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p3-v1-qp__q11.md"
+  }
+ ]
+}

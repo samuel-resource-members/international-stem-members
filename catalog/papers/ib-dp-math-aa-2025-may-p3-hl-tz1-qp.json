@@ -1,0 +1,102 @@
+{
+ "group": "ib-dp-math-aa-2025-may-p3-hl-tz1-qp",
+ "course_id": "IB-AA-HL",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 2,
+ "questions": [
+  {
+   "paper_id": "ib-dp-math-aa-2025-may-p3-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "3",
+   "variant": "AA HL TZ1",
+   "id": "ib-dp-math-aa-2025-may-p3-hl-tz1-qp__q01",
+   "exam_id": "IB-AA-HL",
+   "course_id": "IB-AA-HL",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "1.   [Maximum mark: 23]\n\n     This question asks you to use polynomial functions to model some situations in probability.\n\n    Two unbiased tetrahedral (four-sided) dice with faces labelled  1 , 2 , 3  and  4  are thrown and\n      the scores recorded.\n\n    The random variable  M  denotes the maximum of these two scores.\n\n    The probability distribution of  M  is given in the following table.\n\n                     m          1          2          3          4\n\n                               1          3          5          7                   P (M = m)\n                               16         16         16         16\n\n      (a)   Find  E (M ) .                                                                                              [2]\n\n    An alternative way to represent the probability distribution of  M  is to use a polynomial\n                                                4\n      function,  G , where G  t     P M  m tm .\n                                m 1\n                                      1    3  2   5  3  7   4     Hence, for the distribution of  M , G  t         t        t         t         t  .\n                                     16   16    16    16\n      (b)   Find  G (1) .                                                                                               [1]\n\n       (c)     (i)   Find  G′ (t ) .                                                                                        [2]\n\n                   (ii)   Hence, show that  G′ (1) = E (M ) .                                                              [3]\n\n(This question continues on the following page)\n\n(Question 1 continued)\n\n    A bag contains two red balls and three yellow balls.\n\n    Two balls are selected at random without replacement from the bag.\n\n    The random variable  X  denotes the total number of red balls selected.\n\n    The probability distribution of  X  can be represented by the polynomial function,  GX , where\n\n                                                                      2\n                       G X  t     P X   x  t x .\n                                                                              x 0\n                          3  3   1   2      (d)  Show that G X  t               t        t  , making it clear how the coefficients of  GX (t )  have                         10  5   10\n         been determined.                                                                                       [5]\n\n    An unbiased coin and a biased coin are tossed.\n\n    The probability of obtaining a tail on the biased coin is  p .\n\n    The random variable  Y  denotes the total number of tails obtained from tossing both coins.\n\n    The probability distribution of  Y  can be represented by the polynomial function,  GY , where\n\n                                                                       2\n                       GY  t     P Y   y  t y .\n                                                                              y 0\n                                            1\n      (e)   Given that the coefficient of  t 2  in  GY (t )  is     , find                                            3\n                 (i)    the value of  p ;                                                                                    [2]\n\n                   (ii)   an expression for  GY (t ) .                                                                       [4]\n\n    The random variable  Z  denotes the sum of the total number of red balls selected,  X , and the\n       total number of tails obtained from tossing both coins,  Y .\n\n    The probability distribution of  Z  can be represented by the function,  GZ , where\n                                GZ (t ) = GX (t ) GY (t ) .\n        (f)   For random variable  Z , it can be shown that  GZ′ (1) = E (Z ) .\n\n         Use this result to find  E (Z ) .                                                                           [4]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 3 — AA HL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_analysis_and_approaches_paper_3_TZ1_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-aa-2025-may-p3-hl-tz1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-011.zip",
+     "member": "question-corpus/questions/ib-dp-math-aa-2025-may-p3-hl-tz1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-011.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-aa-2025-may-p3-hl-tz1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AA-HL/ib-dp-math-aa-2025-may-p3-hl-tz1-qp__q01.md"
+  },
+  {
+   "paper_id": "ib-dp-math-aa-2025-may-p3-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "3",
+   "variant": "AA HL TZ1",
+   "id": "ib-dp-math-aa-2025-may-p3-hl-tz1-qp__q02",
+   "exam_id": "IB-AA-HL",
+   "course_id": "IB-AA-HL",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "二次方程",
+   "problem_type": "解二次方程或判断根的情况",
+   "search_text": "2.   [Maximum mark: 32]\n\n      Informally, the curvature of a curve can be thought of as the amount by which the\n     curve deviates from being a straight line. In this question, you will investigate the\n     curvature of a variety of functions.\n\n     Consider any function  f that can be differentiated twice.\n\n                                                                                                   f   x\n    The curvature,  k , of any function  f  is defined by k x                         3 .\n                                                    1     f  x   2  2\n\n     Consider the family of linear functions  g (x) = mx + c , where  x ∈   and  m , c ∈  .\n\n      (a)  Show that  k (x) = 0  for this family of linear functions.                                              [2]\n\n     Consider the family of quadratic functions  h (x) = ax2 + bx + c  for  x ∈  , where  a ∈  , a ≠ 0 \n     and  b , c ∈  .\n\n     For this family of quadratic functions, it is given that\n\n                                           2 a\n                                    k x                          3 and\n                                       1  2 ax  b 2  2\n\n                                        12 a a 2 ax  b\n                                    k  x                             5 .\n                                        1  2 ax  b 2  2\n\n    The maximum value of  k (x)  is denoted by  kmax .\n      (b)     (i)   By solving  k′ (x) = 0 , find the value of  x  where  kmax  occurs.\n              You are not required to justify that this value of  x  leads to a maximum.                 [1]\n\n                   (ii)   Determine an expression for  kmax , in terms of  a  only.                                      [2]\n\n                   (iii)   State the value of lim k x  and explain briefly the significance of this result.           [2]\n                                                         x\n               (iv)  Consider the quadratic functions\n\n                           p (x) = −2x2 + 2x − 10  where  x ∈   and\n\n                           q (x) = 2x2 + 5x + 25  where  x ∈  .\n\n                 State which one of the following statements is true and justify your answer.\n                     A.    kmax  of  p > kmax  of  q \n                     B.    kmax  of  p < kmax  of  q \n                     C.    kmax  of  p = kmax  of  q                                                                [2]\n\n(This question continues on the following page)\n\n(Question 2 continued)\n\n     Consider the function  v (x) = ln x , where  x ∈  , x > 0 .\n\n     For  v , it is given that\n\n                                                   x\n                                        k x                3 and\n                                          1  x 2  2\n\n                                           1  2 x 2\n                                        k  x                5  .\n                                           1  x 2  2\n\n       (c)     (i)   Determine the exact value of  x  where  kmax  occurs.\n              You are not required to justify that this value of  x  leads to a maximum.                 [2]\n\n                            2 3\n                   (ii)  Show that kmax =         .                                                                          [4]                              9\n     Consider the function  w (x) = ex , where  x ∈  .\n\n     For  w , it is given that\n\n                                                 e x\n                                       k x                 3 and\n                                         1  e 2 x  2\n\n                                              e x 1  2 e 2 x\n                                       k  x                  5    .\n                                          1  e 2 x  2\n\n                            2 3\n      (d)     (i)   Show that kmax =         .                                                                          [5]                              9\n                   (ii)   Suggest a reason why  v  and  w  have the same  kmax .                                      [1]\n\n     Consider a family of curves y    r 2  x 2 , where  −r < x < r ,  y > 0  and  r  is a positive constant.\n\n                       d 2 y     r 2\n      (e)     (i)   Show that     2         3 .                                                                          [6]                       dx     y\n                   (ii)   Hence, show that the curvature,  k , is constant for this family of curves.                 [5]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 3 — AA HL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_analysis_and_approaches_paper_3_TZ1_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-aa-2025-may-p3-hl-tz1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-011.zip",
+     "member": "question-corpus/questions/ib-dp-math-aa-2025-may-p3-hl-tz1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-011.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-aa-2025-may-p3-hl-tz1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AA-HL/ib-dp-math-aa-2025-may-p3-hl-tz1-qp__q02.md"
+  }
+ ]
+}

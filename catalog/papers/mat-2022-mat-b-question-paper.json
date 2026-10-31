@@ -1,0 +1,478 @@
+{
+ "group": "mat-2022-mat-b-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 10,
+ "questions": [
+  {
+   "paper_id": "mat-2022-mat-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "b",
+   "id": "mat-2022-mat-b-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "A",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "A. Whenever I toss a particular coin, it lands on heads with probability cos2 α for some\nfixed real number α (and the outcome is independent of other tosses).  I toss the coin\nthree times. The probability that the coin lands on heads two or more times is equal to\n\n  (a) 1 + 3 sin4 α −2 sin6 α,\n\n (b) 1 −3 sin4 α −2 sin6 α,\n\n  (c) 1 + 3 sin4 α + 2 sin6 α,\n\n (d) 1 −3 sin4 α + 2 sin6 α,\n\n  (e) 1 + 8 sin6 α.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022b",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22b_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-b-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-b-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "b",
+   "id": "mat-2022-mat-b-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "B",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "B. Which of the following graphs is a sketch of e−x/2 −e−x for x > 0?\n\n             (a)                          (b)                            (c)\n     y                         y                         y\n\n\n               x                      x                      x\n\n       2  4  6  8  10            2  4  6  8  10            2  4  6  8  10\n\n\n\n\n\n                            (d)                           (e)\n                   y                         y\n\n\n                           x                      x\n\n                    2  4  6  8  10                0.5    1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022b",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22b_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-b-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-b-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "b",
+   "id": "mat-2022-mat-b-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "C",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "C. For precisely which non-zero real values of x is it true that\n\n                                    x −1\n                              x2 −3x + 2 <        ?\n                                     x\n       √       √\n  (a) x < 1 −  2 or x > 1 +   2,\n     √             √\n (b) 1 −  2 < x < 0 or 1 < x < 1 +   2,\n         √\n  (c) 1 < x < 1 +   2,\n     √      √\n (d) 1 −  2 < x < 1 +   2,\n     √\n  (e) 1 −  2 < x < 0.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022b",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22b_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-b-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-b-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "b",
+   "id": "mat-2022-mat-b-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "D",
+   "chapter": "代数",
+   "knowledge_point": "不等式",
+   "problem_type": "求满足不等式的范围",
+   "search_text": "D. Consider the two inequalities\n\n                        1 ≤x2 + y2 ≤4  and  x2 ≥3y2.\n\nThe total area of all regions of the (x, y)-plane where both inequalities hold is\n    √\n  (a) π  3,\n\n (b) π,\n\n  (c) 2π,\n\n     π\n (d)     ,\n     2\n\n     π2\n  (e)      .\n      6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022b",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22b_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-b-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-b-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "b",
+   "id": "mat-2022-mat-b-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "E",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "E. The points (0, 1) and (p, q) are on opposite ends of the diameter of circle C. The\nx-axis is a tangent to the circle C if and only if\n\n  (a) p = 1 + q,\n\n (b) pq = 1,\n\n  (c) p2 = 4q,\n\n (d) p2 + (q −1)2 = 1,\n\n  (e) p + q = 1.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022b",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22b_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-b-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-b-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "b",
+   "id": "mat-2022-mat-b-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "F",
+   "chapter": "函数",
+   "knowledge_point": "反函数",
+   "problem_type": "求反函数并确定适用定义域",
+   "search_text": "F. The series\n\n               1 + (1 + x −x2) + (1 + x −x2)2 + (1 + x −x2)3 + . . .\n\n               1\nconverges to           for precisely which real values of x?\n           x(x −1)\n\n  (a)  If and only if −1 < x < 1,\n\n (b)  If and only if we have both x ̸= 0 and x ̸= 1,\n\n  (c) If and only if either −1 < x < 0 or 1 < x < 2,\n\n (d)  If and only if either −2 < x < −1 or 0 < x < 1,\n\n  (e) For all real x.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022b",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22b_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-b-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-b-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "b",
+   "id": "mat-2022-mat-b-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "G",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "dy\nG. Given that y = f(x) is a solution to   = y1/4, it follows that one of the following\n                                dx\n                      dy\nfunctions is a solution to  = 2y1/4. Which one?\n                    dx\n\n  (a) y = (2)−4f(x),\n\n (b) y = (2)3f(x),\n\n  (c) y = (2)4/3f(x),\n\n (d) y = (2)−3f(x),\n\n  (e) y = (2)4f(x).\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022b",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22b_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-b-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-b-question-paper__q07.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "b",
+   "id": "mat-2022-mat-b-question-paper__q08",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "H",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "H. Suppose that a function f(n) on the positive integers is defined such that f(1) = 1\nand then for n ≥1\n\n                f(2n) = f(n)  and  f(2n + 1) = f(n) + f(n + 1).\n\nHow many values of n are there such that f(n) = 3 and also n is a multiple of 35?\n\n  (a) 0,\n\n (b) 1,\n\n  (c) 2,\n\n (d) 3,\n\n  (e) Infinitely many.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022b",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22b_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-b-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-b-question-paper__q08.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "b",
+   "id": "mat-2022-mat-b-question-paper__q09",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "I",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "I. The number of positive solutions x to the equation\n\n                                 log2 x = log2(x + a) + b,\n\nwhere a and b are non-zero real numbers, is\n\n  (a) zero if ab < 1, or one if ab > 1,\n\n (b) one if ab < 1, or two if ab > 1,\n\n  (c) one if ab < 0, or zero if ab > 0,\n\n (d) zero if ab < 0, or one if ab > 0,\n\n  (e) one if ab < 1, or zero if ab > 1.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022b",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22b_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-b-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-b-question-paper__q09.md"
+  },
+  {
+   "paper_id": "mat-2022-mat-b-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "b",
+   "id": "mat-2022-mat-b-question-paper__q10",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "J",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "Z 2   x2\nJ. Given that         dx = A where A is some positive real number (which you\n                    1  1 + x4\n                                                Z 2  x−2\nshould not attempt to determine), it follows that the value of         dx is equal to\n                                                                             1  1 + x4\n\n  (a) 1 −A,\n\n (b) −A,\n\n     1\n  (c) A,\n\n (d) A −1,\n\n     1\n  (e)  −A.\n     2\n\n\n\n\n\n                                                 End of last question\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2022b",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions22b_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2022-mat-b-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2022-mat-b-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2022-mat-b-question-paper__q10.md"
+  }
+ ]
+}

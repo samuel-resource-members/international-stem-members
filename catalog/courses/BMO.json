@@ -1,0 +1,287 @@
+{
+ "course_id": "BMO",
+ "subject": "math",
+ "exam_id": "BMO",
+ "question_count": 127,
+ "years": [
+  "1973",
+  "1974",
+  "1975",
+  "1976",
+  "1977",
+  "1978",
+  "1979",
+  "1980",
+  "1981",
+  "1982",
+  "1983",
+  "1984",
+  "1985",
+  "1986",
+  "1987",
+  "1988",
+  "1989",
+  "1990",
+  "1991"
+ ],
+ "questions_dir": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO/",
+ "papers": [
+  {
+   "group": "bmo-1973-bmo-question-paper",
+   "paper_id": "bmo-1973-bmo-question-paper",
+   "year": 1973,
+   "session": "1973",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 11,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数",
+    "微分方程",
+    "矩阵"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1973-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1974-bmo-question-paper",
+   "paper_id": "bmo-1974-bmo-question-paper",
+   "year": 1974,
+   "session": "1974",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 10,
+   "chapters": [
+    "代数",
+    "矩阵",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1974-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1975-bmo-question-paper",
+   "paper_id": "bmo-1975-bmo-question-paper",
+   "year": 1975,
+   "session": "24 March 1975",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 8,
+   "chapters": [
+    "代数",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1975-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1976-bmo-question-paper",
+   "paper_id": "bmo-1976-bmo-question-paper",
+   "year": 1976,
+   "session": "24 March 1976",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [
+    "代数",
+    "坐标几何"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1976-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1977-bmo-question-paper",
+   "paper_id": "bmo-1977-bmo-question-paper",
+   "year": 1977,
+   "session": "17 March 1977",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [
+    "代数",
+    "坐标几何"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1977-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1978-bmo-question-paper",
+   "paper_id": "bmo-1978-bmo-question-paper",
+   "year": 1978,
+   "session": "21 March 1978",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [
+    "代数"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1978-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1979-bmo-question-paper",
+   "paper_id": "bmo-1979-bmo-question-paper",
+   "year": 1979,
+   "session": "14 March 1979",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [
+    "排列组合"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1979-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1980-bmo-question-paper",
+   "paper_id": "bmo-1980-bmo-question-paper",
+   "year": 1980,
+   "session": "13 March 1980",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 5,
+   "chapters": [
+    "代数",
+    "微分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1980-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1981-bmo-question-paper",
+   "paper_id": "bmo-1981-bmo-question-paper",
+   "year": 1981,
+   "session": "19 March 1981",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1981-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1982-bmo-question-paper",
+   "paper_id": "bmo-1982-bmo-question-paper",
+   "year": 1982,
+   "session": "18 March 1982",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1982-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1983-bmo-question-paper",
+   "paper_id": "bmo-1983-bmo-question-paper",
+   "year": 1983,
+   "session": "10 March 1983",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [
+    "坐标几何"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1983-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1984-bmo-question-paper",
+   "paper_id": "bmo-1984-bmo-question-paper",
+   "year": 1984,
+   "session": "13 March 1984",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 7,
+   "chapters": [
+    "几何",
+    "坐标几何",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1984-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1985-bmo-question-paper",
+   "paper_id": "bmo-1985-bmo-question-paper",
+   "year": 1985,
+   "session": "5 March 1985",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [
+    "代数"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1985-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1986-bmo-question-paper",
+   "paper_id": "bmo-1986-bmo-question-paper",
+   "year": 1986,
+   "session": "4 March 1986",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [
+    "几何",
+    "排列组合",
+    "概率"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1986-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1987-bmo-question-paper",
+   "paper_id": "bmo-1987-bmo-question-paper",
+   "year": 1987,
+   "session": "20 March 1987",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 7,
+   "chapters": [
+    "代数"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1987-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1988-bmo-question-paper",
+   "paper_id": "bmo-1988-bmo-question-paper",
+   "year": 1988,
+   "session": "20 November 1987",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1988-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1989-bmo-question-paper",
+   "paper_id": "bmo-1989-bmo-question-paper",
+   "year": 1989,
+   "session": "13 December 1988",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1989-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1990-bmo-question-paper",
+   "paper_id": "bmo-1990-bmo-question-paper",
+   "year": 1990,
+   "session": "17 January 1990",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 6,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1990-bmo-question-paper.json"
+  },
+  {
+   "group": "bmo-1991-bmo-question-paper",
+   "paper_id": "bmo-1991-bmo-question-paper",
+   "year": 1991,
+   "session": "16 January 1991",
+   "paper": "BMO",
+   "variant": "",
+   "question_count": 7,
+   "chapters": [
+    "代数",
+    "几何",
+    "排列组合"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/bmo-1991-bmo-question-paper.json"
+  }
+ ]
+}

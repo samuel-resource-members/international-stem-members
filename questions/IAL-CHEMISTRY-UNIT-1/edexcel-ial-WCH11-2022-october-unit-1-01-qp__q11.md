@@ -1,0 +1,90 @@
+# IAL-CHEMISTRY-UNIT-1 · 2022 · October · Unit 1 · 01 · Q11
+
+- id: edexcel-ial-WCH11-2022-october-unit-1-01-qp__q11
+- course: IAL-CHEMISTRY-UNIT-1
+- exam: IAL-CHEMISTRY-UNIT-1
+- subject: chemistry
+- year: 2022
+- session: October
+- paper: Unit 1
+- variant: 01
+- question_number: 11
+- paper_id: edexcel-ial-WCH11-2022-october-unit-1-01-qp
+- chapter: Atoms, elements and compounds
+- knowledge_point: Atomic structure
+- problem_type: 从质子、电子和同位素信息判断结构
+- topic_tags: edexcel-ial-WCH11-2022-october-unit-1-01-qp__q11
+
+## Text (OCR)
+
+```text
+11 The graph shows the first ionisation energies of some consecutive elements from
+   Periods 2 and 3 of the Periodic Table.
+
+   The letters used to label the elements are not their chemical symbols.
+
+                                     X
+
+
+
+                        W                            First        U
+                     ionisation
+                               T
+                   energy           V
+                             S
+                                              Z
+
+
+                                          Y
+
+                                    Atomic number
+
+    (a) Which element has only one p orbital containing a pair of electrons?
+                                                                                              (1)
+         A  element U
+
+          B  element V
+
+          C  element W
+
+         D  element X
+
+
+    (b) Which element is the least reactive?
+                                                                                              (1)
+         A  element S
+
+          B  element X
+
+          C  element Y
+
+         D  element Z
+
+
+     (c) Which element has the greatest second ionisation energy?
+                                                                                              (1)
+         A  element S
+
+          B  element T
+
+          C  element X
+
+         D  element Y
+
+                                                         (Total for Question 11 = 3 marks)
+
+
+ 10
+
+                                                             *P71875A01028*
+```
+
+## Answer / mark scheme candidates
+
+- [Pearson Edexcel International Advanced Level Chemistry WCH11 — October 2022 — Unit 1 — 01 — Mark Scheme](https://pmt.physicsandmathstutor.com/download/Chemistry/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/October%202022%20%28IAL%29%20MS.pdf)
+
+## Source files
+
+- package `question-bank-chemistry-part-001.zip` (release `subject-resources`) · member `question-corpus/questions/edexcel-ial-WCH11-2022-october-unit-1-01-qp__q11/question.pdf`: https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-chemistry-part-001.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

@@ -1,0 +1,948 @@
+{
+ "group": "tmua-2023-paper-2-question-paper",
+ "course_id": "TMUA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 20,
+ "questions": [
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q01",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1    Given that\n\n                                   1        1      3\n                                        −       =\n                                        x − 6     x + 6   11\n\n     what is the value of x ?\n\n    A  2 15\n\n    B  4 5\n\n    C  5 2\n\n    D    58\n\n    E   50\n\n    F   58\n\n   G  60\n\n    H  80\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q01.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q02",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2    Evaluate\n\n                                           16 ⎛ 1        ⎞ 2       16 ⎛ 1        ⎞ 2\n                                                         d x                                          ⎜                                  +  x ⎟                                                                  ⎜                                                  −  x ⎟                                   ∫                                        d x − ∫                                          ⎝  x                                                       ⎠                                                                  ⎝  x                                                                               ⎠                                            9                                                                      9\n\n    A  0\n\n    B  2\n\n    C  4\n\n    D  7\n\n    E  14\n\n    F  28\n\n   G  75\n\n    H  175\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q02.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q03",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3    Consider the claim:\n\n            For all positive real numbers x and y,\n\n                                              x y = x  y\n\n     Which of the following is/are a counterexample to the claim?\n\n              I    x = 1, y = 16\n\n              II   x = 2, y = 8\n\n              III  x = 3, y = 4\n\n\n    A  none of them\n\n    B   I only\n\n    C   II only\n\n    D   III only\n\n    E   I and II only\n\n    F    I and III only\n\n   G   II and III only\n\n    H    I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q03.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q04",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4   A student attempts to answer the following question.\n\n          What is the largest number of consecutive odd integers that are all prime?\n\n    The student’s attempt is as follows:\n\n              I     There are two consecutive odd integers that are prime (for example: 17, 19).\n\n              II    Any three consecutive odd integers can be written in the form n – 2, n, n + 2 for\n             some n.\n              III      If n is one more than a multiple of 3, then n + 2 is a multiple of 3.\n\n         IV      If n is two more than a multiple of 3, then n – 2 is a multiple of 3.\n\n       V    The only other possibility is that n is a multiple of 3.\n\n         VI    In each case, one of the integers is a multiple of 3, so not prime.\n\n          VII   Therefore the largest number of consecutive odd integers that are all prime is two.\n\n     Which of the following best describes this attempt?\n\n\n    A    It is completely correct.\n\n    B    It is incorrect, and the first error is on line I.\n\n    C    It is incorrect, and the first error is on line II.\n\n    D    It is incorrect, and the first error is on line III.\n\n    E     It is incorrect, and the first error is on line IV.\n\n    F     It is incorrect, and the first error is on line V.\n\n   G    It is incorrect, and the first error is on line VI.\n\n    H    It is incorrect, and the first error is on line VII.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q04.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q05",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "5    Consider the two statements\n\n            R:   k is an integer multiple of π\n\n\n                                k\n            S:                   2 x dx = 0                      ∫0 sin\n\n     Which of the following statements is true?\n\n    A  R is necessary and sufficient for S.\n\n    B  R is necessary but not sufficient for S.\n\n    C  R is sufficient but not necessary for S.\n\n    D  R is not necessary and not sufficient for S.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q05.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q06",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6    Consider the following equation where a is a real number and a > 1:\n\n                                                       (∗)   ax = x\n\n     Which of the following equations must have the same number of real solutions as (∗)?\n\n              I    loga x = x\n\n              II   a 2x = x 2\n\n              III  a 2x = 2x\n\n\n    A  none of them\n\n    B   I only\n\n    C   II only\n\n    D   III only\n\n    E   I and II only\n\n    F    I and III only\n\n   G   II and III only\n\n    H    I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q06.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q07",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "函数",
+   "knowledge_point": "图像与方程",
+   "problem_type": "利用交点、截距或渐近线分析图像",
+   "search_text": "7    The graph of the line ax + by = c  is drawn, where a, b and c are real non-zero constants.\n\n     Which one of the following is a necessary but not sufficient condition for the line to have a\n      positive gradient and a positive y-intercept?\n\n          c         a\n    A    > 0 and   < 0\n         b         b\n          c         a\n    B    < 0 and   > 0\n         b         b\n\n    C  a > b > c\n\n    D  a < b < c\n\n    E   a and c have opposite signs\n\n    F   a and c have the same sign\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q07.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q08",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "8   A student draws a triangle that is acute-angled or obtuse-angled but not right-angled.\n\n    The student counts the number of straight lines that divide the triangle into two triangles, at\n      least one of which is right-angled.\n\n     Which of the following statements is/are true?\n\n              I   The student can draw a triangle for which there is exactly 1 such straight line.\n\n              II   The student can draw a triangle for which there are exactly 2 such straight lines.\n\n              III  The student can draw a triangle for which there are exactly 3 such straight lines.\n\n\n    A  none of them\n\n    B   I only\n\n    C   II only\n\n    D   III only\n\n    E   I and II only\n\n    F    I and III only\n\n   G   II and III only\n\n    H    I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q08.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q09",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "利用首项、公差和项数求项或和",
+   "search_text": "9    Consider the following statement about a pentagon P:\n\n               (∗)  If at least one of the interior angles in P is 108°, then all the interior angles in P\n               form an arithmetic sequence.\n\n     Which of the following is/are true?\n\n              I   The statement (∗)\n\n              II   The contrapositive of (∗)\n\n              III  The converse of (∗)\n\n\n    A  none of them\n\n    B   I only\n\n    C   II only\n\n    D   III only\n\n    E   I and II only\n\n    F    I and III only\n\n   G   II and III only\n\n    H    I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q09.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q10",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "代数",
+   "knowledge_point": "不等式",
+   "problem_type": "求满足不等式的范围",
+   "search_text": "10   Here is an attempt to solve the inequality x 4 – 2x 2 – 3 < 0 by completing the square:\n\n\n                             x 4 – 2x 2 – 3 < 0\n\n                                I         if and only if x 4 – 2x 2 + 1 < 4\n\n                                II       if and only if (x 2 – 1)2 < 4\n\n                                III      if and only if –2 < x 2 – 1 < 2\n\n                    IV     if and only if x 2 – 1 < 2\n\n               V       if and only if x 2 < 3\n\n                    VI     if and only if −3 < x <  3\n\n\n     Which of the following statements is true?\n\n    A  The argument is completely correct.\n\n    B  The first error occurs in line I.\n\n    C  The first error occurs in line II.\n\n    D  The first error occurs in line III.\n\n    E  The first error occurs in line IV.\n\n    F  The first error occurs in line V.\n\n   G  The first error occurs in line VI.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q10.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q11",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "11    In this question, k is a positive integer.\n\n     Consider the following theorem:\n\n                                           If 2k + 1 is a prime, then k is a power of 2.   (∗)\n\n     Which of the following statements, taken individually, is/are equivalent to (∗)?\n\n              I      If k is a power of 2, then 2k + 1 is prime.\n\n              II    2k + 1 is not prime only if k is not a power of 2.\n\n              III  A sufficient condition for k to be a power of 2 is that 2k + 1 is prime.\n\n\n             Statement I is           Statement II is          Statement III is\n              equivalent to (∗)          equivalent to (∗)          equivalent to (∗)\n\n    A          Yes                 Yes                 Yes\n\n    B          Yes                 Yes                No\n\n    C          Yes                No                  Yes\n\n    D          Yes                No                No\n\n    E         No                  Yes                 Yes\n\n    F         No                  Yes                No\n\n   G         No                No                  Yes\n\n    H         No                No                No\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q11.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q12",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "12    In this question, p is a real constant.\n\n    The equation sin x cos 2 x = p 2 sin x has n distinct solutions in the range 0 ≤ x ≤ 2π\n\n     Which of the following statements is/are true?\n\n              I   n = 3 is sufficient for p > 1\n\n              II  n = 7 only if –1 < p < 1\n\n\n    A  none of them\n\n    B   I only\n\n    C   II only\n\n    D   I and II\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q12.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q13",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "13   Let x be a real number.\n\n     Which one of the following statements is a sufficient condition for exactly three of the other\n      four statements?\n\n    A   x ≥ 0\n\n    B   x = 1\n\n    C   x = 0 or x = 1\n\n    D   x ≥ 0 or x ≤ 1\n\n    E   x ≥ 0 and x ≤ 1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q13.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q14",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "14   Three lines are given by the equations:\n\n                                        ax + by + c = 0\n\n                                        bx + cy + a = 0\n\n                                          cx + ay + b = 0\n\n     where a, b and c are non-zero real numbers.\n\n     Which one of the following is correct?\n\n    A    If two of the lines are parallel, then all three are parallel.\n\n    B    If two of the lines are parallel, then the third is perpendicular to the other two.\n\n    C    If two of the lines are parallel, then the third is parallel to y = x.\n\n    D    If two of the lines are parallel, then the third is perpendicular to y = x.\n\n    E    If two of the lines are perpendicular, then all three meet at a point.\n\n    F    If two of the lines are perpendicular, then the third is parallel to y = x.\n\n   G    If two of the lines are perpendicular, then the third is perpendicular to y = x.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q14.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q15",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "15   The base 10 number 0.03841 has the value\n\n                0 × 10–1 + 3 × 10–2 + 8 × 10–3 + 4 × 10–4 + 1 × 10–5 = 0.03841\n\n\n      Similarly, the base 2 number 0.01101 has the value\n\n                                                               13\n                    0 × 2–1 + 1 × 2–2 + 1 × 2–3 + 0 × 2–4 + 1 × 2–5 =\n                                                               32\n\n                                                                                 .    .\n    What is the value of the recurring base 2 number 0 . 0011 = 0 . 001100110011 … ?\n\n         1\n    A\n         3\n\n         1\n    B\n         5\n\n         1\n    C\n         15\n\n         2\n    D\n         15\n\n         4\n    E\n        15\n\n         3\n    F\n         16\n\n         5\n   G\n        16\n\n         6\n    H\n         31\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q15.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q16",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "16  A sequence is defined by:\n\n                                                  u1 = a\n\n                                                  u2 = b\n\n                                                     un+2 = un + un+1  for n ≥ 1\n\n     where a and b are positive integers. The highest common factor of a and b is 7.\n\n     Which of the following statements must be true?\n\n              I     u2023 is a multiple of 7\n\n              II      If u1 is not a factor of u2, then u1 is not a factor of un for any n > 1\n\n              III  The highest common factor of u1 and u5 is 7\n\n\n    A  none of them\n\n    B   I only\n\n    C   II only\n\n    D   III only\n\n    E   I and II only\n\n    F    I and III only\n\n   G   II and III only\n\n    H    I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q16/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q16/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q16.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q17",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "积分",
+   "knowledge_point": "不定积分",
+   "problem_type": "求原函数或使用积分结果",
+   "search_text": "17   The ceiling of x, written ⌈ x ⌉, is defined to be the value of x rounded up to the nearest integer.\n\n     For example:  ⌈ π ⌉ = 4,    ⌈ 2.1 ⌉ = 3,    ⌈ 8 ⌉ = 8\n\n    What is the value of the following integral?\n\n                                                              99  ⎡⎤⎢⎥x\n                                                ∫0 2  d x\n\n    A   299\n\n    B   299 – 1\n\n    C   299 – 2\n\n    D   2100\n\n    E   2100 – 1\n\n    F   2100 – 2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q17/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q17/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q17.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q18",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "18   The equation x 4 + bx 2 + c = 0 has four distinct real roots if and only if which of the following\n      conditions is satisfied?\n\n    A  b 2 > 4c\n\n    B  b 2 < 4c\n\n    C   c > 0 and b > 2  c\n\n    D   c > 0 and b < −2  c\n\n    E   c < 0 and b < 0\n\n    F   c < 0 and b > 0\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q18/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q18/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q18.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q19",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "19    In this question, f (x) is a non-constant polynomial, and g(x) = x f ′(x)\n\n         f (x) = 0 for exactly M real values of x.\n\n      g(x) = 0 for exactly N real values of x.\n\n     Which of the following statements is/are true?\n\n              I       It is possible that M < N\n\n              II      It is possible that M = N\n\n              III    It is possible that M > N\n\n\n    A  none of them\n\n    B   I only\n\n    C   II only\n\n    D   III only\n\n    E   I and II only\n\n    F    I and III only\n\n   G   II and III only\n\n    H    I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q19/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q19/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q19.md"
+  },
+  {
+   "paper_id": "tmua-2023-paper-2-question-paper",
+   "year": 2023,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2023-paper-2-question-paper__q20",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "20   Let f be a polynomial with real coefficients.\n\n    The integral Ip,q where p < q is defined by\n\n\n                                                                q\n                                                                ( f ( x ) ) − ( f ( | x| ) ) d x                                                           Ip,q = ∫         2            2\n                                                                p\n\n     Which of the following statements must be true?\n\n         1     Ip,q = 0 only if 0 < p\n\n         2     f ′(x) < 0 for all x only if  Ip,q < 0 for all p < q < 0\n\n         3     Ip,q > 0 only if p < 0\n\n\n    A  none of them\n\n    B  1 only\n\n    C  2 only\n\n    D  3 only\n\n    E  1 and 2 only\n\n    F  1 and 3 only\n\n   G  2 and 3 only\n\n    H   1, 2 and 3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105226/TMUA-2023-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2023-paper-2-question-paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q20/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2023-paper-2-question-paper__q20/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2023-paper-2-question-paper__q20.md"
+  }
+ ]
+}

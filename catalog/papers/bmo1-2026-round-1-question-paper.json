@@ -1,0 +1,260 @@
+{
+ "group": "bmo1-2026-round-1-question-paper",
+ "course_id": "BMO1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "bmo1-2026-round-1-question-paper",
+   "year": 2026,
+   "session": "19 November 2025",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2026-round-1-question-paper__q01",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "British Mathematical Olympiad Round 1                 Wednesday 19 November 2025\n\n                                                             𝑎, 𝑏,          𝑎1. A ramp is a sequence of three different positive integers    𝑐such that\n   is a factor of 𝑏and 𝑏is a factor of 𝑐. For every prime number 𝑝and every\n   positive integer 𝑛, determine with proof whether 𝑝𝑛can be expressed as the\n  sum of a ramp.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2026-round-1-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2026-round-1-question-paper__q01.md"
+  },
+  {
+   "paper_id": "bmo1-2026-round-1-question-paper",
+   "year": 2026,
+   "session": "19 November 2025",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2026-round-1-question-paper__q02",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. Find all triples (𝑥, 𝑦, 𝑧) of real numbers satisfying the equations\n\n                𝑥2 + 2𝑦𝑧= 4,   𝑦2 + 2𝑧𝑥= 4,   𝑧2 + 2𝑥𝑦= 1.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2026-round-1-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2026-round-1-question-paper__q02.md"
+  },
+  {
+   "paper_id": "bmo1-2026-round-1-question-paper",
+   "year": 2026,
+   "session": "19 November 2025",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2026-round-1-question-paper__q03",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "3. An 11 × 11 square grid is dissected into 11 pieces as follows. At each step,\n  remove the top row and the leftmost column of the remaining grid as a\n                                                                                                                   . . . ,   single piece. Thus, the pieces obtained are L-shaped with sizes 21, 19,     3,\n   together with a single square.\n  The pieces are rearranged to reassemble an 11 × 11 grid, with rotations\n   allowed (but the pieces may not be turned over) so that the single square\n   occupies the cell in the third row and third column (counting from the top\n    left).\n\n  How many ways can this be done?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2026-round-1-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2026-round-1-question-paper__q03.md"
+  },
+  {
+   "paper_id": "bmo1-2026-round-1-question-paper",
+   "year": 2026,
+   "session": "19 November 2025",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2026-round-1-question-paper__q04",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "𝐴𝐵>4. Let 𝐴𝐵𝐶be an acute-angled triangle with     𝐴𝐶. Let 𝑀be the midpoint\n   of 𝐵𝐶. The circle passing through 𝑀that is tangent to 𝐴𝐵at 𝐵and the\n   circle passing through 𝑀that is tangent to 𝐴𝐶at 𝐶intersect again at 𝐷.\n   Prove that 𝑀𝐴× 𝑀𝐷= 𝑀𝐵× 𝑀𝐶.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2026-round-1-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2026-round-1-question-paper__q04.md"
+  },
+  {
+   "paper_id": "bmo1-2026-round-1-question-paper",
+   "year": 2026,
+   "session": "19 November 2025",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2026-round-1-question-paper__q05",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": ". . .5. George defines a sequence of positive integers 𝑡1, 𝑡2, 𝑡3,    as follows.\n  He first sets 𝑡1 = 1. Then, for 𝑛≥1:\n      • If 𝑡𝑛is even, then 𝑡𝑛+1 = 𝑡𝑛/2.\n      • If 𝑡𝑛is odd and greater than 1, then 𝑡𝑛+1 is 𝑡𝑛/3 rounded to the nearest\n        integer.\n      • If 𝑡𝑛= 1, then 𝑡𝑛+1 = 2025𝑘where 𝑘is the number of terms equal to 1\n                                   . . . ,      amongst 𝑡1, 𝑡2,      𝑡𝑛.\n  Does this sequence contain every positive integer?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2026-round-1-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2026-round-1-question-paper__q05.md"
+  },
+  {
+   "paper_id": "bmo1-2026-round-1-question-paper",
+   "year": 2026,
+   "session": "19 November 2025",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2026-round-1-question-paper__q06",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6. There are 1000 lily pads on a pond arranged in a circle and labelled\n   1, 2, . . . , 1000 in order. (The first four lily pads may also be described using\n   the labels 1001, 1002, 1003 and 1004, respectively.) The first 𝑛lily pads are\n  each occupied by a frog with the remaining lily pads not occupied.\n\n  Each minute, exactly one of the frogs makes a move. Suppose the frog is on\n   lily pad 𝑘. That frog may either:\n    (i) Swim to lily pad 𝑘+ 4 or 𝑘−4, provided that it is not occupied; or\n    (ii) Jump to lily pad 𝑘+ 3 or 𝑘−3 provided that this lily pad is not occupied\n  and the two lily pads jumped over are both occupied. When this happens,\n   the two frogs that were jumped over dive into the pond and don’t participate\n   in any further moves.\n  For which values of 𝑛is it possible, by a sequence of moves, to end with\n   exactly one frog remaining on the lily pads?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2026-round-1-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2026-round-1-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2026-round-1-question-paper__q06.md"
+  }
+ ]
+}

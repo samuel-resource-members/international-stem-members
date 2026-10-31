@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2022-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2022-usapho-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2022-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "Question A1\n\nMoment of Clarity\n\nHold your pencil horizontally by its tip. To keep it still, you will have to exert a combination of\nforces on its bottom and top. These forces can be viewed as a superposition of a net upward force,\nand a pair of opposite forces. The former ensures the forces on the pencil are balanced, while the\nlatter provides a torque, called the bending moment, which ensures the torques on the pencil are\nbalanced. Since the bending moment arises from a pair of opposite forces, it doesn’t depend on the\nchoice of origin.\n\na. Consider a rod of length ℓand mass per length λ. What is the bending moment you must exert\n   to hold the rod horizontally at its end?\n\nJust as each piece of a string exerts a tension on neighboring pieces in equilibrium, each piece of\na solid rod also exerts a bending moment on its neighbors. For thin rods under heavy loads, this\nbending moment can be the limiting factor that causes them to break.\n\n\n                                  ℓ                                  ℓ\n\n\n                                                    d\n\n\nSuppose a rod is supported at both ends, so that it forms a bridge, as shown at left above. Assume\nthe supports are simple, so that they only provide an upward force, and no bending moment. In\nequilibrium, a bending moment will appear throughout the rod. The magnitude of the maximum\nbending moment the rod can exert at any point without breaking is M0, and the length of the rod\nis ℓ. The bridge is loaded uniformly, with a mass per length of λ (including its own mass).\n\nb. Find the maximum possible value of λ before the bridge collapses.\n\nc. Now suppose that one support remains at the left end, while the other is a distance d > ℓ/2\n   away from the left end, as shown at right above. In static equilibrium, find the bending moment\n  M(x0) at a distance x0 < d from the left end.\n\nd. Find the value of d that maximizes the load λ that the bridge can take before collapsing.\n\n2022 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2022-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2022-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2022-usapho-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2022-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical charge",
+   "problem_type": "判断电荷相互作用与充放电",
+   "search_text": "Question A2\n\nDeath Metal\n\nA droplet of liquid metal has constant mass density and constant surface tension σ, which causes it\nto form into a sphere of radius R. (Throughout this problem, you may neglect gravity.) A thin wire\nis inserted into the droplet and connected to an electric current source which slowly charges the\ndroplet. There is a critical value of the charge, Q0, that causes the droplet to split in half. Each\nhalf takes half the total charge, Q0/2, and half the mass of the original droplet. The “ejected half”\nis repelled far away from the other half, which remains in contact with the wire.\n\na. For simplicity, assume the droplet splits as soon as the final state (after the droplet has split in\n   half and the two halves are well separated) has a lower total energy than that of the initial, single\n   droplet. What is the value of Q0? Give your answer in terms of a dimensionless constant A\n   multiplied by a product of powers of σ, R, and the vacuum permittivity ϵ0, and give the numeric\n   value of A to three significant figures.\n\nb. As more charge is added to the droplet by the current source, it continues to split in half\n   repeatedly. What is the charge qn on the nth ejected droplet? Give your answer in terms of Q0.\n\nc. In the limit where all of the initial mass of the droplet has been ejected, what is the total work\n   done by the current source? Give your answer in terms of a dimensionless constant B multiplied\n   by a product of powers of σ, R, and ϵ0, and give the numeric value of B to three significant\n   figures.\n\n2022 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2022-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2022-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2022-usapho-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2022-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Waves",
+   "knowledge_point": "Light",
+   "problem_type": "用折射、反射或透镜关系处理光路",
+   "search_text": "Question A3\n\nRainbow Road\n\nIn geometric optics, a caustic is a bright curve of light that appears when many incoming light rays\nare focused in the same outgoing direction. The most famous example of a caustic is a rainbow,\nwhich occurs when light interacts with spherical water droplets. Consider a spherical liquid droplet\nof radius r with index of refraction 1 < n < 2, suspended in air with index of refraction n = 1.\n\na. Consider a light ray that enters the droplet with impact parameter b, reflects once off the inside\n   surface of the droplet, then exits, as shown at left below. Give your answers in terms of the\n   dimensionless impact parameter x = b/r. (Hint: the four marked angles are congruent.)\n\n\n\n\n\n            b\n                                                                  I0      R\n\n                                                             ϕ0\n                            r\n\n\n\n\n\n      i. Find the angle by which the light ray is deflected at the first refraction.\n     ii. Find the angle by which the light ray is deflected at the reflection.\n    iii. Find the angle by which the light ray is deflected at the second refraction.\n\n  The sum of these three quantities is the net deflection angle ϕ(x). (The light can also reflect\n   inside more than once, or never enter at all, but for simplicity we will ignore these other paths.)\n\nb. Next, we consider when caustics form in general. Suppose the droplet is uniformly illuminated\n   by parallel light rays of intensity I0, and sits at the center of a spherical screen of radius R ≫r,\n   as shown at right above. Consider the light that enters near dimensionless impact parameter x0,\n   and exits near angle ϕ0 = ϕ(x0).\n\n      i. What is the power incident on the droplet at x0 ≤x ≤x0 + dx?\n     ii. What is the area on the screen illuminated by the outgoing rays, at ϕ0 ≤ϕ ≤ϕ0 + dϕ?\n    iii. A caustic occurs when the intensity of light on the screen diverges. Assume that ϕ0 ̸= 0 and\n     ϕ0 ̸= π. Under what conditions does light incident at x0 lead to a caustic at ϕ0? Express your\n     answer as a condition on the function ϕ(x).\n                                               √\nc. Find the angle ϕ0 of the rainbow in terms of n. (Hint: the derivative of arcsin(x) is 1/  1 −x2.)\n\nd. For water, the index of refraction of red light is 1.331, and the index of refraction of blue light is\n   1.340. Find the angular width of the rainbow on the screen and give your answer in degrees.\n\ne. A glory is an optical phenomenon which involves light scattered directly backward, at ϕ = π,\n   leading to an apparent halo around the shadow of an observer’s head. For what values of n is\n   there a caustic at ϕ = π? Can glories from water droplets be explained in terms of caustics?\n\n2022 USAPhO                            Part A                                       7\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\n If there is still time remaining for Part A, you should review your work for\n   Part A, but do not continue to Part B until instructed by your exam\n                                 supervisor.\n\n\n\n\n\n     Once you start Part B, you will not be able to return to Part A.\n\n2022 USAPhO Part B\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2022-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2022-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2022-usapho-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2022-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "Question B1\n\nVirial Reality\n\nThe ideal gas law states that PVm = RT, where Vm = V/n is the volume per mole of gas. However,\nany real gas will exhibit deviations from the ideal gas law, described by the virial expansion,\n\n                                   B(T)   C(T)\n                   PVm = RT  1 +    +    2 + . . .   .                                 Vm    V m\n\nFor gases with low density, the higher-order terms are negligible, so in this problem we will neglect\nall of the temperature-dependent terms in parentheses except for B(T)/Vm. The table below shows\nmeasurements of B for nitrogen gas (N2) at atmospheric pressure, P = 1.01 × 105 Pa.\n\n                             T (K) B (cm3/mol)\n                                   100      −160\n                                   200      −35\n                                   300      −4.2\n                                   400         9.0\n                                   500        16.9\n                                   600        21.3\n\na. According to the ideal gas law, what is the value of Vm at temperatures 100 K, 300 K, and 600\n  K? Give your answers in SI units.\n\nb. What is the percentage change in Vm at these temperatures if one accounts for B(T)?\n\nc. In 1910, van der Waals was awarded the Nobel Prize for formulating the equation\n\n                                     a\n                          P +                                                   2  (Vm −b) = RT                                 V m\n\n   which accurately describes many real gases. According to this equation, what is the form of\n  B(T)? You may assume that b ≪Vm.\n\nd. Using the data above, extract the values of a and b. Give your answers in SI units.\n\ne. In this problem, we have neglected terms in the virial expansion beyond B(T), which is a good\n   approximation as long as the volume correction due to B(T) itself is small. Assuming the van\n   der Waals equation holds, numerically estimate the temperature range within which the volume\n   correction due to B(T) is at most 10%, for nitrogen gas at atmospheric pressure.\n\n2022 USAPhO Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2022-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2022-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2022-usapho-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2022-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical charge",
+   "problem_type": "判断电荷相互作用与充放电",
+   "search_text": "Question B2\n\nBroken Vase\n\nA uniformly charged ring of radius d has total charge Q and is fixed in place. A point charge −q of\nmass m is placed at its center. Both Q and q are positive. As a result, if the point charge is given a\nsmall velocity along the ring’s axis of symmetry, it will oscillate about the ring’s center.\n\na. Find the period T of the oscillations.\n\nFor the rest of the problem, we will consider this situation in a reference frame where the ring is\nmoving along its axis of symmetry with a constant speed v, which may be comparable to the speed\nof light c. In this frame, the ring and point charge have charge Q′ and q′, and the point charge still\noscillates about the ring’s center.\n\nb. What is the period T ′ of oscillation of the point charge in this frame?\n\nc. When the charge is a small distance ∆x from the center of the ring, find the restoring force in\n   terms of q′, Q′, v, d, ∆x, and fundamental constants.\n\nd. Suppose the restoring force has the form F = −k ∆x. Find the period of the resulting oscillations\n   in terms of k, m, v, and fundamental constants.\n\ne. Suppose the electric charge transforms between reference frames as Q′ = γnQ and q′ = γnq. By\n   combining your answers to parts (c) and (d), and comparing to part (b), find the value of n.\n\nTo solve this problem, you will need the following results from relativity:\n\n   • The Lorentz factor is defined as γ = 1/p1 −v2/c2.\n\n   • The momentum of a particle is p = γmv, and m is the same in all frames.\n\n   • The electromagnetic force on a charge q is F = dp/dt = q(E + v × B).\n\n   • The electric field of a charge q at the origin with constant velocity v is radial, with magnitude\n\n                                          q        1 −v2/c2\n                     E =\n                                      4πϵ0r2 (1 −(v2/c2) sin2 θ)3/2\n\n     where θ is the angle of r to v.\n\n2022 USAPhO\nPart B\n10\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2022-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2022-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2022-usapho-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2022-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "Question B3\n\nTime Crystal\n\nThe kinetic energy E, momentum p, and velocity v of a particle moving in one dimension satisfy\n\n                                    dp  dE      dE\n                         F =  =       ,  v =\n                                         dt   dx       dp\n\nwhere F  is the external force.  For a free particle, the momentum and energy are related by\nE = p2/2m. However, when an electron moves inside a metal, its interactions with the crystal\nlattice of positively charged ions lead to a different relationship between momentum and energy. All\nof the above identities still apply, but now suppose that\n\n                                E(p) = V (1 −cos(pb))\n\nwhere V and b are constants that depend on the metal. This result is inherently quantum mechanical\nin origin, and as we will see, it leads to some rather strange behavior.\n\na. First, we investigate the motion of the electron in general.\n\n      i. Find the velocity as a function of p.\n\n     ii. The effective mass m∗of the electron is defined so that it satisfies F = m∗a. Find the effective\n     mass as a function of p.\n\nb. Now suppose a metal rod of infinite length, aligned with the x-axis, contains conducting electrons\n   of charge −e, initially with zero momentum. At time t = 0, an electric field E = E0ˆx is turned\n   on, and is experienced by every electron in the rod. Ignore the interactions of the electrons with\n   each other.\n\n      i. For an electron that starts at x = 0 at time t = 0, find its position x(t).\n\n     ii.  If the number of conducting electrons per unit volume is n, and the cross-sectional area of the\n     rod is A, find the average current in the rod over a long time.\n\n    iii. Now suppose that every time τ, each electron suffers a collision with the crystal lattice, causing\n        its momentum to reset to zero. In the limit of frequent collisions, eE0bτ ≪1, find the average\n      current in the rod over a long time.\n\n   iv.  If τ can be freely adjusted, estimate the maximum possible average current in the rod, up to\n     a dimensionless constant.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2022-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2022-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2022-usapho-question-paper__q06.md"
+  }
+ ]
+}

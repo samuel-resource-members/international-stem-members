@@ -1,0 +1,176 @@
+{
+ "group": "cemc-hypatia-2025-contest-english-question-paper",
+ "course_id": "CEMC-HYPATIA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-hypatia-2025-contest-english-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2025-contest-english-question-paper__q01",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.    To begin, tokens are distributed unequally between two people. Every minute following\n       this, each person receives 2 more tokens.\n\n          (a) Tokens are distributed between Abi and Brody with Abi receiving 30 tokens\n           and Brody receiving 10 tokens. How many tokens does Abi have in total after\n           7 minutes?\n         (b) A total of 80 tokens are distributed between Carl and Desiree. After 12 minutes,\n             Desiree has 37 tokens. How many tokens did Carl start with?\n\n          (c) A total of 100 tokens are distributed between Essi and Francis, with Essi receiving\n           12 tokens. After t minutes, Francis has 3 times as many tokens as Essi. Determine\n            the value of t.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2025-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2025-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2025-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2025-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2025-contest-english-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2025-contest-english-question-paper__q02",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "百分比与增长",
+   "problem_type": "求百分比变化或复利结果",
+   "search_text": "2.        (a) A rectangle, R1, has length 5 cm and width 4 cm. The length of the rectangle\n                 is increased by 10% and its width remains unchanged. What is the area of the\n             resulting rectangle?\n         (b) The area of a square is 100 cm2. When its length is increased by 30% and its\n           width is decreased by 30%, the area of the resulting rectangle is less than 100 cm2.\n           Determine the percentage by which the area decreased.\n\n          (c) The length of a rectangle, R2, is increased by x% and its width is decreased\n           by 20%. If the area of the resulting rectangle is equal to the area of the original\n             rectangle, determine the value of x.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2025-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2025-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2025-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2025-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2025-contest-english-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2025-contest-english-question-paper__q03",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "y\n3.   A parabola with equation y = ax2+bx+c, where a = 1 or\n     a = −1, and a line intersect at points P(p, q) and R(r, s)\n       for some real numbers p, q, r, and s. In this case, the area        R\n      enclosed by the parabola and the line, as shaded in the               P\n                           (p −r)3                                                x      diagram, is equal to              , where p > r.\n                           6\n\n          (a) What is the area enclosed by the parabola with equation y = x2 + 3x −12 and\n            the line with equation y = 2x?\n\n         (b) For some values of m, the line with equation y = mx −6 intersects the parabola\n            with equation y = −x2 +7x−90 at distinct points V and W whose x-coordinates\n             are integers. There are two such values of m for which the area enclosed by the\n               line and the parabola is as small as possible. Determine these two values of m.\n                                                            y          (c) Suppose    that    g   and   h    are    real\n           numbers      for    which     the     parabolas\n                                             U            y = x2 + (g + h)x + 9 and y = −x2 + gx + h\n              intersect at distinct points T and U, as shown.                T\n           Determine all possible values of h so that the area\n             enclosed by the parabolas is 3087 .                                     x                                                 8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2025-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2025-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2025-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2025-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2025-contest-english-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2025-contest-english-question-paper__q04",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "代数",
+   "knowledge_point": "等比数列",
+   "problem_type": "利用公比求项、有限和或无穷和",
+   "search_text": "4.   A geometric sequence is a sequence in which each term after the ﬁrst is obtained from\n      the previous term by multiplying it by a non-zero constant, called the common ratio.\n      For example, 5, 10, 20 is a geometric sequence with three terms and a common ratio of 2.\n\n          (a) What is the sum of the ﬁrst three terms of a geometric sequence with a common\n              ratio of 3 and whose second term is 45?                        5\n         (b) Determine  all pairs of positive integers (x, y) so that x, 12, y  is a geometric\n            sequence and x + y = 25.\n\n          (c) Determine all quadruples of integers (a, b, c, d) so that a, b, c, d is a geometric\n            sequence and a + b + c + d = 65.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2025-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2025-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2025-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2025-contest-english-question-paper__q04.md"
+  }
+ ]
+}

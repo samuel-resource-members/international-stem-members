@@ -1,0 +1,290 @@
+{
+ "group": "ap-calculus-ab-2026-frq",
+ "course_id": "AP-CALCULUS-AB",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-calculus-ab-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2026-frq__q01",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "1. Male birds of a certain species arrive at a nesting area over a thirty-day period. The rate at\n  which the male birds arrive at the nesting area at time t days is modeled by a differentiable\n  function M, where M     is measured in number of birds per day. Selected values of M    are                           t^ h                                                                     t^ h  shown in the table.\n\n\n                          t (days)               0   5   10  15  20  25  30\n          M    (birds per day)    2   7   16   6   5   2   0                         t^ h\n\n  (Note: Your calculator should be in radian mode.)\n\n  Part A\n  Approximate M  7.5 using the average rate of change of M over the interval 5 # t # 10 . Show                        l^   h  the work that leads to your answer, and indicate units of measure.\n\n  Part B\n            i. Use a midpoint Riemann sum with the three subintervals  ,0 10  10, 20  and 20, 30 to                             30                                              6     @, 6       @,      6      @\n              M                                               t                                    dt . Show the work that leads to your answer.        approximate y0                                ^                                  h                                           30\n                    M                                                                 t                                                 dt in the context of the problem.          ii. Interpret the meaning of y0                                             ^                                                h\n  Part C\n  The rate at which female birds of the same species arrive at the same nesting area, in birds per\n  day, is modeled by the function F defined as follows.\n\n                             0                           for 0 # t < 15\n                   =                              r                  F                                            t                             18 + 16 sin                                                                             t + 15    for 15 # t # 45                              ^                                h                                        20                                *                                                  `   ^      hj\n\n  How many female birds of this species arrive at the nesting area from t = 15 to t = 45 ? Show the\n  setup for your calculations, and round your answer to the nearest integer.\n\n  Part D\n  On the interval 15 < t < 30 , the difference in the rates at which male and female birds\n  of this species arrive at the nesting area can be modeled by the differentiable function\n  D  t = M  t - F  t  where F is the function defined in part C. Is there a time t in the interval                h     ^                             h,         20^  15^<ht <            D          when                                     t = 0 ? Justify your answer.                         ^ h\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus AB ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2026-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2026-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2026-frq__q02",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "积分",
+   "knowledge_point": "定积分",
+   "problem_type": "用定积分求累积量或区间积分",
+   "search_text": "2. The function f is defined by  f x = 1.43 x + 0.57 , and the function g is defined by                                   ^                                      h        14              12         +            x                                                                          ,1 2     =  g     x                                                                                      ,a b                                   . The graphs of                                                  f                           and g intersect at the points                                                      and                                                                          as shown in             12        +           x     ^       h                                                                       ^                                                                           h                                                                                  ^                                                                                                       h,\n  Figure 1.\n\n                                       Figure 1\n\n\n\n\n\n                                                          12y - 12\n                                         =                                                             y                                x  For x $ 0 , the equation y = g                              can be rewritten as x = h                                                                                                                                               , where h is a function                                                           14 - y                                                                    ^                                                                      h                                   ^                                      h\n  of y. The graph of x = h y and the horizontal line y = 3 .5 are shown in Figure 2.                             ^ h\n\n                                       Figure 2\n\nPart A\nLet R be the region bounded by the graph of g, the x-axis, the y-axis, and the vertical line x = 1,\nas shown in Figure 1. Find the area of region R. Show the setup for your calculations.\n\nPart B\nRegion R, described in part A, is the base of a solid. For this solid, each cross section\n                                                  1\nperpendicular to the x-axis is a rectangle whose height is 3 times the length of its base in\nregion R. Write, but do not evaluate, an integral expression that gives the volume of the solid.\n\nPart C\nThe shaded region in Figure 1 is bounded by the graphs of f and g on the interval from x = 0 to\nx = a . Find the area of the shaded region. Show the setup for your calculations.\n\nPart D\nLet T be the region bounded by the graph of x = h y  the y-axis, and the horizontal line y = 3 .5 ,                                                        ^  h,as shown in Figure 2. Write, but do not evaluate, an integral expression that gives the volume of\nthe solid generated when region T is revolved about the y-axis.\n\n\n\n                        END OF PART A\n\nCALCULUS AB\n                            SECTION II PART B\n                               TIME – 1 HOUR\n\n\n\n\nDirections:\nSection II, Part B has 4 free-response questions and lasts 1 hour.\nA calculator is not allowed for this part of the exam.\nYou may use the available paper for scratch work and planning, but only work written in the free-\nresponse booklet will be scored. Any work done on scratch paper will not be scored. In the free-\nresponse booklet, write your solution to each part of each question in the space provided for that\npart. For questions that have sub-parts, be sure to label those clearly in your solution. Use a pencil\nor a pen with black or dark blue ink.\nShow all of your work, even though a question may not explicitly remind you to do so. Clearly label\nany functions, graphs, tables, or other objects that you use. Justifications require that you give\nmathematical reasons and that you verify the needed conditions under which relevant theorems,\nproperties, definitions, or tests are applied. Your work will be scored on the correctness and\ncompleteness of your methods as well as your answers. Answers without supporting work will\nusually not receive credit.\nYour work must be expressed in standard mathematical notation rather than calculator syntax. For\n                            X 2,X, ,1 5             x 2 dx may not be written as fnIntexample, 5y1                                                  ^                                                                         h.\nUnless otherwise specified, answers (numeric or algebraic) need not be simplified. If you use\ndecimal approximations in calculations, your work will be scored on accuracy. Unless otherwise\nspecified, your final answers should be accurate to three places after the decimal point.\nUnless otherwise specified, the domain of a function f is assumed to be the set of all real numbers x\nfor which  f x  is a real number.             ^ h\nYou can go back and forth between questions in this part until time expires. The clock will turn red\nwhen 5 minutes remain—the proctor will not give you any time updates or warnings.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus AB ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2026-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2026-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2026-frq__q03",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分方程",
+   "knowledge_point": "微分方程",
+   "problem_type": "解微分方程并代入初始条件",
+   "search_text": "3. A pie is taken from a hot oven and put on a table. The internal temperature of the pie at\n  time t minutes can be modeled by the function H that satisfies the differential equation\n          1  dH    = -         H - 20  where H     is measured in degrees Celsius and H 0 = 75 . For t > 0 , it is         15    dt         ^         h,           t^ h                                           ^ h\n  known that 20 < H  t < 75 .                        ^ h\n\n  Part A\n  Explain why the following could not be a slope field for the differential equation\n          1  dH    = -         H - 20         15    dt         ^         h.\n\n\n\n\n\n  Part B\n  Find the slope of the line tangent to the graph of H at time t = 0 . Show the work that leads to\n  your answer.\n\n  Part C\n                     d                              2 H                      H - 20   It can be shown that                                    The line tangent to the graph of H at time t = 0 is used                               2 = 225                            1  ^                                                         h.                           dt\n  to approximate H 5  the internal temperature of the pie at time t = 5 . Is this approximation an                       ^  h,  overestimate or an underestimate for the actual value of H 5  Give a reason for your answer.                                                                     ^ h?\n\n  Part D\n  Use separation of variables to find an expression for H    the particular solution to the given                                                                t^ h,   differential equation with initial condition H 0 = 75 .                                                     ^ h\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus AB ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2026-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2026-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2026-frq__q04",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "4. Let f be a twice-differentiable function on the closed interval - ,4 4 with  f 2 = 3 . The graph of                                                                       6     @        ^ h     f l, the derivative of f, is shown.\n\n\n\n\n\n  Part A\n  For x > 0 , the function g is defined by g x = f x - ln x . Find g 2  Show the work that leads to                                               ^ h    ^ h                  l^  h.  your answer.\n\n  Part B\n  Find all values of x on the open interval 0 < x < 3 at which the graph of f has a point of\n   inflection. Give a reason for your answer.\n\n  Part C\n  For - 4 # x # 4 , on what open intervals, if any, is the graph of f both increasing and concave\n  down? Give a reason for your answer.\n\n  Part D\n  For - 4 # x # 4 , find the value of x at which f has an absolute minimum and the value of x at\n  which f has an absolute maximum. Give reasons for your answers.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus AB ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2026-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2026-frq__q04.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2026-frq__q05",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "力学",
+   "knowledge_point": "运动学",
+   "problem_type": "连接位移、速度、加速度和时间",
+   "search_text": "5. A remote-controlled toy car moves back and forth along a straight path so that its velocity at\n  time t is given by the function v, where v     is measured in feet per second and t is measured in                                                t^ h  seconds.\n\n                                    Z 4     3       2\n                                                          t - 8 t + 16t      for 0 # t # 4                                                                                                                                                                                    ]]]]]                             v  t =                                 0                   for 4 < t < 6                                    [                                  ^ h                             r                                10 cos                               - 10  for 6 # t # 12                                       3 t                                                                                                                                                                                    ]]]]]                                                 `                                                     j                                    \\\n  The graph of v     is shown.                   t^ h\n\n\n\n\n\n  Part A\n  Find the acceleration of the car at time t = 1 second. Show the work that leads to your answer.\n\n  Part B\n   Is the car speeding up or slowing down at time t = 1 second? Give a reason for your answer.\n\n  Part C\n  Find the distance, in feet, that the car traveled over the time interval 0 # t # 4 seconds. Show\n  the work that leads to your answer.\n\n  Part D\n  Find the average velocity of the car over the time interval 6 # t # 12 seconds. Show the work\n  that leads to your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus AB ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2026-frq__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2026-frq__q05.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2026-frq__q06",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "6. The function f is twice differentiable. The table gives values of f and its derivative  f l at selected\n  values of x.\n\n                                  x    0   2   3   6\n                                                           f x  -1  3   8   5                                           ^ h\n                                                          f  x  -5  4   9  - 2                                                 l^ h\n\n  Part A\n                   f x  Find lim  ^ h, or state that the limit does not exist.          x \" 2  x\n\n  Part B\n  Let g x = f   f x   Find g 2  Show the work that leads to your answer.         ^ h    ^ ^  hh.         l^  h.\n\n  Part C\n  Let h be a differentiable function such that h 0 = 10 and hl x = f l 3x  Find h 2  Show the                                                     ^ h             ^ h     ^   h.        ^  h.  work that leads to your answer.\n\n  Part D\n                                                           x\n                         =                                     x                                                                      t  f                                                                            t  Let k be the function defined by k           2                                                         dt .                                         y0                                        ^                                           h                                                     ^                                                        h\n            i. Find k  x                    l^  h.\n          ii. Find k  3  Show the work that leads to your answer.                       ll^  h.\n\n\n\n                              STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus AB ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2026-frq__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2026-frq__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2026-frq__q06.md"
+  }
+ ]
+}

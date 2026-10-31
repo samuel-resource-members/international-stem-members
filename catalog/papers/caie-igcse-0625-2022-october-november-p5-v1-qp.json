@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2022-october-november-p5-v1-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p5-v1-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-october-november-p5-v1-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1    In  this experiment, you  will investigate the period of a pendulum. Carry out the following\n     instructions, referring to Fig. 1.1 and Fig. 1.2.\n\n                               clamp                            clamp\n\n\n\n\n                                                 l\n\n\n               bob\n\n\n\n                                                one complete\n                                                                     oscillation\n\n                           Fig. 1.1                                 Fig. 1.2\n\n   A pendulum has been set up for you as shown in Fig. 1.1.\n\n     (a)   (i)  Measure the distance l between the bottom of the clamp supporting the pendulum and\n             the centre of the pendulum bob.\n\n                                                                                             l =  ................................................... cm [1]\n\n             (ii)  Explain briefly how you measured to the centre of the pendulum bob as accurately as\n              possible.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n     (b)  Adjust the length of the pendulum until the distance l = 50.0 cm.\n\n         Displace the bob slightly and release  it so that  it swings. Fig. 1.2 shows one complete\n          oscillation of the pendulum.\n\n        Measure, and record in Table 1.1, the time t for 20 complete oscillations.\n\n         Calculate, and record in Table 1.1, the period T of the pendulum. The period is the time for\n       one complete oscillation.\n\n         Calculate, and record in Table 1.1, the value of T 2.\n\n        Repeat the procedure using l values of 60.0 cm, 70.0 cm, 80.0 cm and 90.0 cm.\n\n\n\n\n\n© UCLES 2022                                         0625/51/O/N/22\n\nTable 1.1\n\n                             l / cm                              t / s              T / s             T 2 / s2\n\n                 50.0\n\n                 60.0\n\n                 70.0\n\n                 80.0\n\n                 90.0\n                                                                                                                       [4]\n\n     (c)  Plot a graph of T 2 / s2 (y-axis) against l / cm (x-axis). Start the T 2 axis at a convenient value\n         close to the minimum value of T 2.\n\n\n\n\n\n                                                                                                                       [4]\n\n     (d)  Explain briefly why timing 20 oscillations gives a more accurate result for the period T than\n         timing 1 oscillation.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n\n\n\n© UCLES 2022                                         0625/51/O/N/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p5-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p5-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p5-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p5-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p5-v1-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-october-november-p5-v1-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2    In this experiment, you will investigate the resistance of a lamp.\n\n    Carry out the following instructions, referring to Fig. 2.1.\n\n\n\n                                                 A\n                             S\n                    L\n\n                     C           D             E\n\n                                                                    resistance wire\n\n\n                 V\n\n                                               Fig. 2.1\n\n     (a)  Place the sliding contact S on the resistance wire as close as possible to point C.\n\n        Close the switch.\n\n             (i)  Measure the current I1 in the circuit.\n                                                             I1 =  ...................................................... A [1]\n             (ii)  Measure the potential difference (p.d.) V1 across lamp L. Open the switch.\n                                              V1 =  ...................................................... V [1]\n\n                                                              V1\n            (iii)  Calculate the resistance R1 of lamp L. Use the equation R1 =     . Include the unit.                                                                                I1\n\n\n                                            R1 =  .........................................................  [1]\n     (b)  Place the sliding contact S on the resistance wire as close as possible to point D. Point D is at\n         the mid-point of the resistance wire.\n\n        Close the switch.\n\n           •   Measure the current I2 in the circuit.\n                                                             I2 =  ............................................................ A\n           •   Measure the potential difference V2 across lamp L.\n                                              V2 =  ........................................................... V\n\n\n\n\n\n© UCLES 2022                                         0625/51/O/N/22\n\n•   Open the switch.\n                                                              V2\n           •    Calculate the resistance R2 of lamp L. Use the equation R2 =     . Include the unit.                                                                                I2\n\n\n                                            R2 =  .........................................................  [2]\n     (c)  Place the sliding contact S on the resistance wire as close as possible to point E.\n\n        Close the switch.\n\n           •   Measure the current I3 in the circuit.\n                                                             I3 =  ............................................................ A\n           •   Measure the potential difference V3 across lamp L.\n                                              V3 =  ........................................................... V\n           •   Open the switch.\n                                                              V3\n           •    Calculate the resistance R3 of lamp L. Use the equation R3 =     . Include the unit.                                                                                I3\n            Give your answer to a suitable number of significant figures for this experiment.\n\n\n                                            R3 =  .........................................................  [2]\n     (d) Complete the following statements, referring to your observations and results.\n\n          1.  As the length of resistance wire included in the circuit is increased, the brightness of the\n\n           lamp ..................................................................................... .\n\n          2.  As the length of resistance wire included in the circuit is increased, the resistance of the\n\n           lamp ..................................................................................... .\n                                                                                                                       [2]\n\n     (e) A variable resistor can be used in this type of experiment in place of the resistance wire.\n\n       Draw a circuit diagram to show a variable resistor in place of the resistance wire. Include the\n       ammeter and the voltmeter in your diagram.\n\n\n\n\n\n                                                                                                                       [2]\n\n                                                                                                           [Total: 11]\n© UCLES 2022                                         0625/51/O/N/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p5-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p5-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p5-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p5-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p5-v1-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-october-november-p5-v1-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Physical quantities and measurement",
+   "problem_type": "读仪器、换单位或求测量量",
+   "search_text": "3    In this experiment, you will investigate the effect of the starting temperature on the cooling rate of\n     water.\n\n    Carry out the following instructions, referring to Fig. 3.1.\n\n\n\n                    thermometer\n\n\n\n\n\n         beaker\n                                                                     bench\n\n\n                                               Fig. 3.1\n\n     (a) Use the thermometer to measure the room temperature θR.\n                                            θR =  .................................................. °C   [1]\n     (b) Pour 200 cm3 of hot water into the beaker. Place the thermometer in the hot water.\n\n        Record in Table 3.1 the temperature θ of the hot water at time t = 0. Immediately start the\n         stop-watch.\n\n        Measure, and record in Table 3.1, the water temperature every 30 s until you have seven sets\n          of readings.                                                                                             [2]\n\n                                        Table 3.1\n\n                                                               t / s         θ/ °C\n\n                                0\n\n                               30\n\n                               60\n\n                               90\n\n                               120\n\n                               150\n\n                               180\n\n\n\n\n\n© UCLES 2022                                         0625/51/O/N/22\n\n(c)  Calculate the decrease in temperature Δθ1 between t = 0 and t = 180 s.\n                                                Δθ1 =  ...............................................................\n                                                                          Δθ1\n         Calculate the average rate of cooling C1 of the water using the equation C1 =       ,                                                                                       Δt\n        where Δt = 180 s.\n\n                                            C1 =  .........................................................  [1]\n     (d) Empty the beaker.\n\n             (i)  Using Table 3.1, write down the temperature θ90 of the water at time t = 90 s.\n                                                    θ90 =  ...............................................................\n            Pour 150 cm3 of hot water into the beaker. Place the thermometer in the water. Slowly\n           add cold water, stirring continuously, until the temperature of the water in the beaker is\n            as close as possible to θ90. Record this temperature in Table 3.2 at time t = 0.\n\n             Immediately start the stop-watch.\n\n            Measure, and record in Table 3.2, the water temperature every 30 s until you have four\n             sets of readings.\n\n                                        Table 3.2\n\n                                                               t / s         θ/ °C\n\n                                0\n\n                               30\n\n                               60\n\n                               90\n                                                                                                                       [2]\n\n             (ii)  Using Table 3.2, calculate the decrease in temperature Δθ2 between t = 0 and t = 90 s.\n                                                Δθ2 =  ...............................................................\n                                                                              Δθ2\n             Calculate the average rate of cooling C2 of the water using the equation C2 =       ,                                                                                            Δt\n           where Δt = 90 s.\n\n                                            C2 =  .........................................................  [1]\n\n\n\n\n\n© UCLES 2022                                         0625/51/O/N/22                              [Turn over\n\n(e) A student suggests that the rate of cooling of water depends on the initial temperature of the\n         water.\n\n         Write a conclusion about the effect of the initial temperature of water on the rate of cooling\n          of the water, based on your results. Justify your conclusion by reference to values from your\n          results.\n\n         conclusion .................................................................................................................................\n\n               ...................................................................................................................................................\n\n           justification ................................................................................................................................\n\n               ...................................................................................................................................................\n                                                                                                                       [2]\n\n      (f)  State two requirements when reading the volume of water in the measuring cylinder in order\n          to obtain an accurate result.\n\n          1. ...............................................................................................................................................\n\n          2. ...............................................................................................................................................\n                                                                                                                       [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2022                                         0625/51/O/N/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p5-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p5-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p5-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p5-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p5-v1-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-october-november-p5-v1-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the horizontal distance travelled by a metal ball after it rolls off the end of a\n     plastic track. Fig. 4.1 shows the set-up.\n\n    The ball rolls down a plastic track. The left-hand side of the track is fixed. The right-hand side can\n    be adjusted so that the ball comes off the track at different angles.\n\n    The student measures the horizontal distance that the ball travels from the right-hand end of the\n     track to the point that it hits the floor.\n\n    Plan an experiment to investigate how the horizontal distance travelled by the metal ball depends\n    on the angle that the right-hand end of the track makes with the bench.\n\n    You are not required to do this experiment.\n\n\n                                track\n   clamp\n bench\n\n\n\n\n\n                                                                                                             floor\n\n\n                                               Fig. 4.1\n\n    The following apparatus is available to the student:\n\n     •    track with stand, boss and clamp\n     •    selection of metal balls.\n\n    Other apparatus normally available in a school laboratory can also be used.\n\n     In your plan, you should:\n\n     •     list any additional apparatus required\n     •    explain briefly how you would do the investigation, including the measurements you would\n         take\n     •    state the key variables to be kept constant\n     •   draw a suitable table, with column headings, to show how you would display your readings\n        (you are not required to enter any readings in the table)\n     •    explain how you would use the results to reach a conclusion.\n\n\n\n\n\n© UCLES 2022                                         0625/51/O/N/22\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p5-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p5-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p5-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p5-v1-qp__q04.md"
+  }
+ ]
+}

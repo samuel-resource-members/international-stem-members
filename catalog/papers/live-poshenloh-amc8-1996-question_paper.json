@@ -1,0 +1,1251 @@
+{
+ "group": "live-poshenloh-amc8-1996-question_paper",
+ "course_id": "AMC8",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q01",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "质因数与因数对：分解后按限制筛选 / 同时是因数与倍数：列固定数因数后筛选",
+   "search_text": "How many positive factors of \\(36\\) are also multiples of \\(4?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q01",
+    "live-poshenloh-amc8-1996-question_paper__q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "How many positive factors of \\(36\\) are also multiples of \\(4?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q02",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "四则指令与运算顺序：括号优先逐步求值 / 比较不同指令顺序：分别沿步骤算值",
+   "search_text": "José, Thuy, and Kareem each start with the number \\(10.\\) José subtracts \\(1\\) from the number \\(10,\\) doubles his answer, and then adds \\(2.\\) Thuy doubles the number \\(10,\\) subtracts \\(1\\) from her answer, and then adds \\(2.\\) Kareem subtracts \\(1\\) from the number \\(10,\\) adds \\(2\\) to his answer, and then doubles the result. Who gets the largest final answer?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q02",
+    "live-poshenloh-amc8-1996-question_paper__q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "José, Thuy, and Kareem each start with the number \\(10.\\) José subtracts \\(1\\) from the number \\(10,\\) doubles his answer, and then adds \\(2.\\) Thuy doubles the number \\(10,\\) subtracts \\(1\\) from her answer, and then adds \\(2.\\) Kareem subtracts \\(1\\) from the number \\(10,\\) adds \\(2\\) to his answer, and then doubles the result. Who gets the largest final answer?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q03",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等差项与等距定位：数间隔再乘公差 / 矩形数表四角和：用每行长度定位",
+   "search_text": "The \\(64\\) whole numbers from \\(1\\) through \\(64\\) are written, one per square, on a checkerboard (an \\(8\\) by \\(8\\) array of \\(64\\) squares). The first \\(8\\) numbers are written in order across the first row, the next \\(8\\) across the second row, and so on. After all \\(64\\) numbers are written, the sum of the numbers in the four corners will be",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q03",
+    "live-poshenloh-amc8-1996-question_paper__q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The \\(64\\) whole numbers from \\(1\\) through \\(64\\) are written, one per square, on a checkerboard (an \\(8\\) by \\(8\\) array of \\(64\\) squares). The first \\(8\\) numbers are written in order across the first row, the next \\(8\\) across the second row, and so on. After all \\(64\\) numbers are written, the sum of the numbers in the four corners will be"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q04",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "规律和简算：配对、凑整或提取共同因子 / 成比例数列和的商：提取共同求和因子",
+   "search_text": "What is the value of the following expression?\n\n\\[\\frac{2 + 4 + 6 + \\cdots + 34}{3 + 6 + 9 + \\cdots + 51}\\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q04",
+    "live-poshenloh-amc8-1996-question_paper__q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the value of the following expression?\n\n\\[\\frac{2 + 4 + 6 + \\cdots + 34}{3 + 6 + 9 + \\cdots + 51}\\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q05",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "有限集合符号判断：用数轴次序与奇偶规则 / 数轴上有理式符号：判各因子与差的正负",
+   "search_text": "The letters \\(P,\\) \\(Q,\\) \\(R,\\) \\(S,\\) and \\(T\\) represent numbers located on the number line as shown.\n\n\n\nWhich of the following expressions represents a negative number?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q05",
+    "live-poshenloh-amc8-1996-question_paper__q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The letters \\(P,\\) \\(Q,\\) \\(R,\\) \\(S,\\) and \\(T\\) represent numbers located on the number line as shown.\n\n\n\nWhich of the following expressions represents a negative number?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q06",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "有限数集中取数求乘除最值：按符号分类 / 三正数和乘积最小：选最小三数并比较乘数位置",
+   "search_text": "What is the smallest result that can be obtained by the following process?\n\n• Choose three different numbers from the set \\(\\{3, 5, 7, 11, 13, 17\\}.\\)\n\n• Add two of these numbers.\n\n• Multiply their sum by the third number.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q06",
+    "live-poshenloh-amc8-1996-question_paper__q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the smallest result that can be obtained by the following process?\n\n• Choose three different numbers from the set \\(\\{3, 5, 7, 11, 13, 17\\}.\\)\n\n• Add two of these numbers.\n\n• Multiply their sum by the third number."
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q07",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等比增长与迭代：逐阶段乘倍率并反查期数 / 两群体不同倍率增长：比较数量比的周期变化",
+   "search_text": "Brent has goldfish that quadruple (become four times as many) every month, and Gretel has goldfish that double every month. If Brent has \\(4\\) goldfish at the same time that Gretel has \\(128\\) goldfish, then in how many months from that time will they have the same number of goldfish?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q07",
+    "live-poshenloh-amc8-1996-question_paper__q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Brent has goldfish that quadruple (become four times as many) every month, and Gretel has goldfish that double every month. If Brent has \\(4\\) goldfish at the same time that Gretel has \\(128\\) goldfish, then in how many months from that time will they have the same number of goldfish?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q08",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整数三角形边长：周长关系配合三角不等式 / 链式距离最小：沿同一直线折回并用三角不等式",
+   "search_text": "Points \\(A\\) and \\(B\\) are \\(10\\) units apart. Points \\(B\\) and \\(C\\) are \\(4\\) units apart. Points \\(C\\) and \\(D\\) are \\(3\\) units apart. If \\(A\\) and \\(D\\) are as close as possible, then the number of units between them is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q08",
+    "live-poshenloh-amc8-1996-question_paper__q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Points \\(A\\) and \\(B\\) are \\(10\\) units apart. Points \\(B\\) and \\(C\\) are \\(4\\) units apart. Points \\(C\\) and \\(D\\) are \\(3\\) units apart. If \\(A\\) and \\(D\\) are as close as possible, then the number of units between them is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q09",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "复合分数与倒数：内层先算再乘倒数 / 先由倍数求原数再取倒数",
+   "search_text": "If \\(5\\) times a number is \\(2,\\) then \\(100\\) times the reciprocal of the number is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q09",
+    "live-poshenloh-amc8-1996-question_paper__q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "If \\(5\\) times a number is \\(2,\\) then \\(100\\) times the reciprocal of the number is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q10",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "两种充满比例差：新增数量对应差份 / 容器新增量对应比例差：与价格无关",
+   "search_text": "When Walter drove up to the gasoline pump, he noticed that his gasoline tank was \\(\\dfrac18\\) full. He purchased \\(7.5\\) gallons of gasoline for \\(\\$10.\\) With this additional gasoline, his gasoline tank was then \\(\\dfrac58\\) full. The number of gallons of gasoline his tank holds when it is full is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q10",
+    "live-poshenloh-amc8-1996-question_paper__q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "When Walter drove up to the gasoline pump, he noticed that his gasoline tank was \\(\\dfrac18\\) full. He purchased \\(7.5\\) gallons of gasoline for \\(\\$10.\\) With this additional gasoline, his gasoline tank was then \\(\\dfrac58\\) full. The number of gallons of gasoline his tank holds when it is full is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q11",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分数与倒数比较：统一分母或确定相对基准 / 极小正数的乘除大小：除以小数会放大",
+   "search_text": "Let \\(x\\) be the number\n\n\\[0.\\underbrace{0000\\ldots00001}_{1996 \\text{ zeros}},\\]\n\nwhere there are \\(1996\\) zeros after the decimal point. Which of the following expressions represents the largest number?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q11",
+    "live-poshenloh-amc8-1996-question_paper__q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(x\\) be the number\n\n\\[0.\\underbrace{0000\\ldots00001}_{1996 \\text{ zeros}},\\]\n\nwhere there are \\(1996\\) zeros after the decimal point. Which of the following expressions represents the largest number?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q12",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平均数还原总和：补缺项或删项后相减 / 移除一项改变平均：旧总和减新总和",
+   "search_text": "What number should be removed from the list\n\n\\[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11\\]\n\nso that the average of the remaining numbers is \\(6.1?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q12",
+    "live-poshenloh-amc8-1996-question_paper__q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What number should be removed from the list\n\n\\[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11\\]\n\nso that the average of the remaining numbers is \\(6.1?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q13",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续百分比变化：每一步改用当前量作基数 / 连续增长：按年重复乘1.5",
+   "search_text": "In the fall of \\(1996,\\) a total of \\(800\\) students participated in an annual school clean-up day. The organizers of the event expect that in each of the years \\(1997,\\) \\(1998,\\) and \\(1999,\\) participation will increase by \\(50\\%\\) over the previous year. The number of participants the organizers expect in the fall of \\(1999\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q13",
+    "live-poshenloh-amc8-1996-question_paper__q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In the fall of \\(1996,\\) a total of \\(800\\) students participated in an annual school clean-up day. The organizers of the event expect that in each of the years \\(1997,\\) \\(1998,\\) and \\(1999,\\) participation will increase by \\(50\\%\\) over the previous year. The number of participants the organizers expect in the fall of \\(1999\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q14",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等量代换与共同部分：消去重复项求未知 / 交叉数列和：扣去被重复计的公共格",
+   "search_text": "Six different digits from the set \\(\\{1, 2, 3, 4, 5, 6, 7, 8, 9\\}\\) are placed in the squares in the figure shown so that the sum of the entries in the vertical column is \\(23\\) and the sum of the entries in the horizontal row is \\(12.\\) The sum of the six digits used is\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q14",
+    "live-poshenloh-amc8-1996-question_paper__q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Six different digits from the set \\(\\{1, 2, 3, 4, 5, 6, 7, 8, 9\\}\\) are placed in the squares in the figure shown so that the sum of the entries in the vertical column is \\(23\\) and the sum of the entries in the horizontal row is \\(12.\\) The sum of the six digits used is\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q15",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "个位与余数：先压缩因子再利用幂周期 / 乘积除五余数：各因子先取余再相乘",
+   "search_text": "The remainder when the product \\(1492 \\cdot 1776 \\cdot 1812 \\cdot 1996\\) is divided by \\(5\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q15",
+    "live-poshenloh-amc8-1996-question_paper__q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The remainder when the product \\(1492 \\cdot 1776 \\cdot 1812 \\cdot 1996\\) is divided by \\(5\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q16",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "规律和简算：配对、凑整或提取共同因子 / 周期符号求和：每四项整体为零",
+   "search_text": "What is the value of the following expression?\n\n\\[ \\begin{aligned} &1 - 2 - 3 + 4 + 5 - 6 - 7 \\\\ &\\quad {}+ 8 + 9 - 10 - 11 + 12 \\\\ &\\quad {}+ 13 - \\cdots + 1992 \\\\ &\\quad {}+ 1993 - 1994 \\\\ &\\quad {}- 1995 + 1996 \\end{aligned} \\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q16",
+    "live-poshenloh-amc8-1996-question_paper__q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the value of the following expression?\n\n\\[ \\begin{aligned} &1 - 2 - 3 + 4 + 5 - 6 - 7 \\\\ &\\quad {}+ 8 + 9 - 10 - 11 + 12 \\\\ &\\quad {}+ 13 - \\cdots + 1992 \\\\ &\\quad {}+ 1993 - 1994 \\\\ &\\quad {}- 1995 + 1996 \\end{aligned} \\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q17",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "矩形内由分点构造三角形：整图扣外侧小三角 / 坐标三角形等面积：固定底用二倍高",
+   "search_text": "Figure \\(OPQR\\) is a square. Point \\(O\\) is the origin, and point \\(Q\\) has coordinates \\((2, 2).\\) What are the coordinates for \\(T\\) so that the area of triangle \\(PQT\\) equals the area of square \\(OPQR?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q17",
+    "live-poshenloh-amc8-1996-question_paper__q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Figure \\(OPQR\\) is a square. Point \\(O\\) is the origin, and point \\(Q\\) has coordinates \\((2, 2).\\) What are the coordinates for \\(T\\) so that the area of triangle \\(PQT\\) equals the area of square \\(OPQR?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q18",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续百分比变化：每一步改用当前量作基数 / 先涨后跌同百分率：基数改变不抵消",
+   "search_text": "Ana’s monthly salary was \\(\\$2000\\) in May. In June she received a \\(20\\%\\) raise. In July she received a \\(20\\%\\) pay cut. After the two changes in June and July, Ana’s monthly salary was",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q18",
+    "live-poshenloh-amc8-1996-question_paper__q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Ana’s monthly salary was \\(\\$2000\\) in May. In June she received a \\(20\\%\\) raise. In July she received a \\(20\\%\\) pay cut. After the two changes in June and July, Ana’s monthly salary was"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q19",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多个不同总体的合并比例：先还原各部分人数 / 不同学校饼图合并比例：先求目标人数",
+   "search_text": "The pie charts below indicate the percent of students who prefer golf, bowling, or tennis at East Junior High School and West Middle School. The total number of students at East is \\(2000\\) and at West, \\(2500.\\) In the two schools combined, the percent of students who prefer tennis is\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q19",
+    "live-poshenloh-amc8-1996-question_paper__q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The pie charts below indicate the percent of students who prefer golf, bowling, or tennis at East Junior High School and West Middle School. The total number of students at East is \\(2000\\) and at West, \\(2500.\\) In the two schools combined, the percent of students who prefer tennis is\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q20",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "循环状态定位：找周期与起点后取余 / 重复分式变换：算出最短循环再取余",
+   "search_text": "Suppose there is a special key on a calculator that replaces the number \\(x\\) currently displayed with the number given by the formula \\(\\frac{1}{1 - x}.\\) For example, if the calculator is displaying \\(2\\) and the special key is pressed, then the calculator will display \\(-1\\) since \\(\\frac{1}{1 - 2} = -1.\\) Now suppose that the calculator is displaying \\(5.\\) After the special key is pressed \\(100\\) times in a row, the calculator will display",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q20",
+    "live-poshenloh-amc8-1996-question_paper__q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose there is a special key on a calculator that replaces the number \\(x\\) currently displayed with the number given by the formula \\(\\frac{1}{1 - x}.\\) For example, if the calculator is displaying \\(2\\) and the special key is pressed, then the calculator will display \\(-1\\) since \\(\\frac{1}{1 - 2} = -1.\\) Now suppose that the calculator is displaying \\(5.\\) After the special key is pressed \\(100\\) times in a row, the calculator will display"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q21",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "选三数和为偶数：按奇偶个数分类",
+   "search_text": "How many subsets containing three different numbers can be selected from the set \\(\\{89, 95, 99, 132, 166, 173\\}\\) so that the sum of the three numbers is even?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q21",
+    "live-poshenloh-amc8-1996-question_paper__q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "How many subsets containing three different numbers can be selected from the set \\(\\{89, 95, 99, 132, 166, 173\\}\\) so that the sum of the three numbers is even?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q22",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "格点斜三角面积：外接矩形减三角或行列式",
+   "search_text": "The horizontal and vertical distances between adjacent points equal \\(1\\) unit. The area of triangle \\(ABC\\) is\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q22",
+    "live-poshenloh-amc8-1996-question_paper__q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The horizontal and vertical distances between adjacent points equal \\(1\\) unit. The area of triangle \\(ABC\\) is\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q23",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "同币值或固定和整数解：按一种数量分类 / 两种奖金方案：同一总款列等量方程",
+   "search_text": "The manager of a company planned to distribute a \\(\\$50\\) bonus to each employee from the company fund, but the fund contained \\(\\$5\\) less than what was needed. Instead the manager gave each employee a \\(\\$45\\) bonus and kept the remaining \\(\\$95\\) in the company fund. The amount of money in the company fund before any bonuses were paid was",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q23",
+    "live-poshenloh-amc8-1996-question_paper__q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The manager of a company planned to distribute a \\(\\$50\\) bonus to each employee from the company fund, but the fund contained \\(\\$5\\) less than what was needed. Instead the manager gave each employee a \\(\\$45\\) bonus and kept the remaining \\(\\$95\\) in the company fund. The amount of money in the company fund before any bonuses were paid was"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q24",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角角度追踪：内角和、平角、等角与角平分线 / 两内角平分线夹角：先求原两角和再减半",
+   "search_text": "The measure of angle \\(ABC\\) is \\(50^\\circ.\\) \\(\\overline{AD}\\) bisects angle \\(BAC,\\) and \\(\\overline{DC}\\) bisects angle \\(BCA.\\) The measure of angle \\(ADC\\) is\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q24",
+    "live-poshenloh-amc8-1996-question_paper__q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The measure of angle \\(ABC\\) is \\(50^\\circ.\\) \\(\\overline{AD}\\) bisects angle \\(BAC,\\) and \\(\\overline{DC}\\) bisects angle \\(BCA.\\) The measure of angle \\(ADC\\) is\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 1996,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc8-1996-question_paper__q25",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "时长或面积概率：有利测度除总体测度 / 圆内随机点距离比较：半径减到边界距离",
+   "search_text": "A point is chosen at random from within a circular region. What is the probability that the point is closer to the center of the region than it is to the boundary of the region?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC8-1996-Q25",
+    "live-poshenloh-amc8-1996-question_paper__q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-1996-question_paper__q25.md"
+  }
+ ]
+}

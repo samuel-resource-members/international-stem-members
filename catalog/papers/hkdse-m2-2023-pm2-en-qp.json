@@ -1,0 +1,548 @@
+{
+ "group": "hkdse-m2-2023-pm2-en-qp",
+ "course_id": "DSE-M2",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 12,
+ "questions": [
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q01",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "二项式展开",
+   "problem_type": "求展开式的系数或指定项",
+   "search_text": "1. Let a be a constant. If the coefficient of x in the expansion of (2-3x)^5 (x+a/x)^2 is 160/3, find a and the coefficient of x^2 in the expansion. (5 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q01"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q01/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q01/question.pdf",
+     "bytes": 70565,
+     "sha256": "9cf4f4e75709871faeb2351c0e4b535089f4ce05b69c6547308e9a8d78daa479",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q01.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q02",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "Let f(x)=—xsinx .\n2.\n(a) Prove that i{Z+4)-1(2) nin’) cosh\n2 2 2\n(b) Using (a), find (5) from first principles.\n(5 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q02"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q02/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q02/question.pdf",
+     "bytes": 70573,
+     "sha256": "adc80225e130dbb4e146411b364f12e4f1283e574a5192e67a7acd8a2b16e273",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q02.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q03",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "积分",
+   "knowledge_point": "换元积分",
+   "problem_type": "选择代换并处理积分与边界",
+   "search_text": "3. (a) Finda pair of constants p and qg such that 11sinx+7cosx\n= p(sinx+cosx)+qBcosx—sinx) .\nSIs\n(b) Evaluate | isin x+ 708% ay\n3sin x +cosx\n0\n(6 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q03"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q03/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q03/question.pdf",
+     "bytes": 74794,
+     "sha256": "52f9e84257005a114b28a517ebe3bf77f8933818d9de0496d105842e68236a18",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q03.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q04",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "三角",
+   "knowledge_point": "三角恒等式",
+   "problem_type": "变换三角式并证明或求值",
+   "search_text": "4, (a) Prove that cos3x =4cos*? x~—3cosx .\n. . 3\n(b) — Using (a), solve the equation sec? x-6sec”x+8=0 , where S <x< = .\n(5 marks)\n\nsm,\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q04"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q04/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q04/question.pdf",
+     "bytes": 151543,
+     "sha256": "4f59729e260d24fd4331f9d011f48a7a1f40a9237ebd31f4b67c24639c46c30f",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q04.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q05",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "矩阵",
+   "knowledge_point": "矩阵与行列式",
+   "problem_type": "用矩阵运算或行列式处理线性关系",
+   "search_text": "5. Let A bea 2x2 real matrix such that 4?+4+/=0 , where / is the 2x2 identity matrix.\nProve that 4? =/ .\n(a)\n(b)\nProve that 4 is non-singular.\nSomeone claims that {4100 (420) can be expressed in the form of a/+ Ad , where a@\n=\nand are real numbers. Is the claim correct? Explain your answer.\n(7 marks)\n\n“PoYARU 9q JOU [JIM SUISIEW 9] UT WOM sIaMsUy\n“POxIVUT OQ JOU [ITM SUISIEUT Of] UT USWLIM SIaMSUy\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q05"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q05/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q05/question.pdf",
+     "bytes": 77869,
+     "sha256": "fbae54ed928a6836a7b6d67598dc637bc66743ffd4a7deaace61d13a9c1521f6",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q05.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q06",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "6. (a) Let r be a positive constant. Figure 1 shows the shaded region which is inside the\ncircle x? +(y—r)? =r? and below the horizontal line y= h, where 0<h<2r. Prove that the\nvolume of the solid of revolution generated by revolving the shaded region about the y-axis\nis =W?Gr~h) .\n2\noO x\nFigure |\n(b) — Asolid metal sphere of radius 10cm is put into an empty right cylindrical container of radius 11cm\nand height 20cm , with longitudinal section as shown in Figure 2. Starting from time f= 0, water\nis added to the container at a constant rate of lem? per second. Let Acm_ be the depth of water\n. dh. dh\nafter ¢ seconds. By expressing —— in terms of /, find the greatest value of a\nore:\nFigure 2\n(7 marks)\n\n“poYTUT OQ JOU [IM SUIZILUI OY} Ul UsUM SIOMSUY\n“Po3xJLUT aq JOU TEM SUIZILUT OY] UT UOTIM sIomsuy\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q06"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q06/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q06/question.pdf",
+     "bytes": 71531,
+     "sha256": "6b2269d6b083c8ba8909798d6e91d9051873f34166ded428ec6ce5d307e423a4",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q06.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q07",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "微分方程",
+   "knowledge_point": "微分方程",
+   "problem_type": "解微分方程并代入初始条件",
+   "search_text": "7. Let f(x) be a function defined on the interval (-2,2) . Denote the curve y=f(x) by 7. At any\nk-3x\npoint (x, y) on J’, the slope of the tangent to 7” is , where & is a constant. It is given that ”\n4~x?\npasses through the origin.\n(a) Find the equation of J” in terms of k.\n(b) | Suppose that 7” has a turning point.\n(i) Find the range of values of k .\n(ii) Does 7 have a point of inflexion? Explain your answer.\n(7 marks)\n\n|\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q07"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q07/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q07/question.pdf",
+     "bytes": 74948,
+     "sha256": "c1cae8b001a7442842e60393e9eb96df88daffb7d6c8acd27d45b3603c1ccf67",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q07.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q08",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "证明",
+   "knowledge_point": "数学归纳法",
+   "problem_type": "建立起步情形并完成归纳步骤",
+   "search_text": "n\n8. (a) Let @€R. Using mathematical induction, prove that sin oy sin 2k =sinn@sin(n+1)@ for all\nkel\npositive integers 7.\nWik ’\n(b) Using (a), find a pair of rational numbers a and 5 such that Dsin cos AE = asinda 5\nkel\nwhere 0<b< Ll\n2\n(8 marks)\n\n“paxIeUl oq JOU [IM SUIS IeU Oy) UT UOWLIM siomsuy\n“poyIRUT 9q JOU TIM SUTSIEUT OT] UE UOLIM SIOMSUY\n\nSECTION B (50 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q08"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q08/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q08/question.pdf",
+     "bytes": 148322,
+     "sha256": "4224167880638a5b1ed4303a394e92b91978d27f75a3272763c0864074cf80f7",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q08.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q09",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "9. Define f(x) = xe forall x @R. Denote the graph of y=f(x) by G.\n(a) Find f'(x) and f\"(x) .\n’ (3 marks)\n(b) Find the maximum point(s) and the minimum point(s) of G.\nG marks)\n(c) Let Z be the tangent to G at the point (2) :\ne\n(i) Find the equation of L .\n(ii) Byconsidering f(x) , explain why G lies below ZL inthe interval (0,1) .\n(iii) Find the area of the region bounded by G, ZL and the y-axis.\n(6 marks)\n\n\"PaxJEUI 9q JOU [IM SUIBZIEU OU] Ul UOULIM sIomsuy\n“poxJeUl oq JOU [[IA SUTSICU OY UE UdIILIM SIOMSUY\n\n“poyreW oq 1OU J[IM SUTB.reW ay) UI UeNTIM sIOMsIy\n“PpayeUI oq 10U [EM SUIDIEUT Ot} Ul Us SIOMSTY\n\n“pasIeUr 3q OU [JIM SUITIBUE Sy] Ul USLIM sIOMSUY\n“poyIRUL oq JOU [LM SUIBIeUT oY} UT USILIM SIOMSITY\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q09"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q09/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q09/question.pdf",
+     "bytes": 153370,
+     "sha256": "7cf912dea8d7d2bcc1ea87385ea27b1756dbe6b98e61c0f18fe74a0561e0fd9b",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q09.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q10",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "向量",
+   "knowledge_point": "直线与平面",
+   "problem_type": "用向量方程求交点或夹角",
+   "search_text": "10. Let O be the origin. The position vectors of P and Q are -2i~k and 2i-—j+k respectively. Denote\nthe circle passing through O, P and Q by C. Let R beapoint lying on PQ such that OR is perpendicular\nto OO.\n(a) By considering the ratio of PR to RQ, find OR . (3 marks)\n(b) OR produced meets C at another point S. Find OS. * (3 marks)\n(c) Let /7 be the plane which contains C .\n(i) Find a non-zero vector which is perpendicular to /7.\n(ii) Let G be the centre of C . Denote the projection of point A (-6, —22, 2) on / by B.\nDescribe the geometric relationship between O, B and G. Explain your answer.\n(6 marks)\n\n“poyseUl 9q JOU [[IM SUIZIeUT OY} UT UoyLIM sIOMsSUY\n“payseUl oq JOU []IA SUTZIVU OU} UT UOTLIM SIOMSU\n\n“paxTeUT 9q JOU | [IM SUTSIVUT OU] UE UOLIM sIOMsUY\n“paxIeUT oq JOU [IM SUTSILUL OY) Ul UdYIIM SIOMSUTY\n\n“PoYILUI 9q JOU [[IM SUTSILUT OY) Ui UeyLIM sIaMsUy\n“Pox{VUT oq JOU [TIM SUISIEUT OY) UT UOWLIM sIamsuy\nAnswers written in the margins will not be marked.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q10"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q10/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q10/question.pdf",
+     "bytes": 156911,
+     "sha256": "ba43ec715c51b00b81cd380feff1927bd2b19bb4f9ddb4c984f53ab13b1915b0",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q10.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q11",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "矩阵",
+   "knowledge_point": "矩阵与行列式",
+   "problem_type": "用矩阵运算或行列式处理线性关系",
+   "search_text": "Consider the system of linear equations in real variables x, y, z\nll.\n{a)\nx o+ ay + (a+lz = 2\n(FE): <x + (at+4)y + (2a+4)z = b+1, where a,beER.\n2x + 3y + 5z = 6b\n@ Assume that (£) has a unique solution. Find the range of values of a.\n(ii) Assume that a=1. If (£) is consistent, find 4.\n(iii) Assume that a#1 and (£) is inconsistent. Find the range of values of 5.\n(7 marks)\n(b)\nConsider the system of linear equations in real variables x, y, z\nx + 2y + 32\n2\n(FY: 4x + 6y + 8z = stl, whereseR.\n2x + 3y + Sz\ns\nDoes there exist a pair of real constants m and n (independent of s ) such that for every s¢ R,\n(F) bas areal solution (x,y,z) satisfying mx +ny-+z=-2? Explain your answer. (6 marks)\n\nc\n“poyleUr 9q JOU {ILA SUTSIEU Ot} UI WoL siomsuy\n“paxreUr oq JOU [ITM suTSJeW OYJ UI UOWLIM sIoMsSUy\n\n“poyleUr oq JOU JJM SUTSIEW Oyj UT WoyIM SIOMSUy\n“PoyLRU dq JOU [[LM SUTBIeUT OY) UT UONLIM sIaMsUy\n\n“poxAVU 9q JOU [TfL SUIZIeUL BY} UT USM SIaMsUy\n“POYIVUL Oq JOU [LM SUISIEUT OY) UI UdyILIM slomsuy\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q11"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q11/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q11/question.pdf",
+     "bytes": 151551,
+     "sha256": "4303de5efa119e325a76eeb7ce8793692bf2c531c7bfb2976f05b559fcdb527b",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q11.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2023-pm2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2023-pm2-en-qp__q12",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "积分",
+   "knowledge_point": "换元积分",
+   "problem_type": "选择代换并处理积分与边界",
+   "search_text": "1 2 a\n2p dy = {a° —2a+2)e* -2 :\nLet a be anon-zero constant. Prove that I x\n(3 marks)\n12. (a)\ni] a\ned\nUsing (a) and integration by substitution, evaluate i x(In(1 + Po) dx.\n(4 marks)\n(b)\nn)\nx\nEvaluate f 2 (Ind +(e-l) cosx))” sin2xdx .\n(G marks)\n(c)\n0\nx\nEvaluate { (ina +(e-])sin xy sin2xdx .\n(3 marks)\n(d)\n2\n\n“payiew oq JOU |[IM SUTZIRU 3Y] WI UOYLIM SIOMSUY\n“PpayARWW 9q JOU | [iM SUTSIeU ay) UT UONTIM sIoMsUy\n\n“poyIeUr 0q JOU [IIA SUISIBUT oY} UT UOyIIM SIOMSUy\n“POYABU Oq JOU [[IA\\ SUTSIeUU OY) UI LONLUM sIOMsUy\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2023 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2023/2023ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2023-pm2-en-qp__q12"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q12/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2023-pm2-en-qp__q12/question.pdf",
+     "bytes": 113495,
+     "sha256": "4beceaaa86b94d56afea0f24cefc31a1fe6ba7095a6cb3be0fea7b0eadc1570d",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2023-pm2-en-qp__q12.md"
+  }
+ ]
+}

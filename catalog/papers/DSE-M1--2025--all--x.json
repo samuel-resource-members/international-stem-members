@@ -1,0 +1,1488 @@
+{
+ "group": "DSE-M1--2025--all--x",
+ "course_id": "DSE-M1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 37,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q01__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "利用概率之和等于1求参数k的值。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q01__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q01__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q01__a.pdf",
+     "bytes": 69161,
+     "sha256": "989df46ac685ac7c337465b3c97e99f91772c62e62e36b512d2b61d20ddf64f6",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q01__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q01__b",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "由样本均值性质求E(X̄)与Var(X̄)。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q01__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q01__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q01__b.pdf",
+     "bytes": 69468,
+     "sha256": "db1e6c4089d5e38fa573947df503dafa54d3db22f1a9a486d1bad4faad13ef9d",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q01__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q02__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "概率分布",
+   "knowledge_point": "二项分布",
+   "problem_type": "用固定次数独立试验模型求概率",
+   "search_text": "由P(Y=0)=(1-p)^3=0.027求成功率p。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q02__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q02__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q02__a.pdf",
+     "bytes": 67516,
+     "sha256": "18c1ee1be1f692a497fc21d50dd9927b4b6337d2a7b3bdbe95097fab4ee50b2e",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q02__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q02__b",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "概率分布",
+   "knowledge_point": "二项分布",
+   "problem_type": "用固定次数独立试验模型求概率",
+   "search_text": "利用二项分布方差及线性变换性质求Var(3Y-1)。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q02__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q02__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q02__b.pdf",
+     "bytes": 67820,
+     "sha256": "e81c5b57d10d92522c6cecac6451c397ad86cee1081e1284061cfb28bb652129",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q02__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q03__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "统计推断",
+   "knowledge_point": "参数估计",
+   "problem_type": "求或解释置信区间与估计",
+   "search_text": "由正态95%置信区间宽度反求样本标准差。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q03__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q03__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q03__a.pdf",
+     "bytes": 82747,
+     "sha256": "81426b9f8187f2373ec25fde78ac19888225b76c988d5ef1462a3e77d9430df2",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q03__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q03__b",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "统计推断",
+   "knowledge_point": "参数估计",
+   "problem_type": "求或解释置信区间与估计",
+   "search_text": "合并两个样本并构造总体均值的90%置信区间。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q03__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q03__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q03__b.pdf",
+     "bytes": 83048,
+     "sha256": "ceb52f7788bb84880237f21e17fc72c179dffbfca0387caf455e0cfe29faf4b5",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q03__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q04__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "利用条件概率定义化简不等式求P(A)的取值范围。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q04__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q04__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q04__a.pdf",
+     "bytes": 70291,
+     "sha256": "b9c50b90a1a00a78e246025218db37b80924fafdb0b865f9e374fa9555512273",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q04__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q04__b",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "根据P(A)的范围及互斥事件条件判断A与B是否互斥。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q04__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q04__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q04__b.pdf",
+     "bytes": 71139,
+     "sha256": "31966f72bd0902894a7c470c764978b8bb899de1626af6a0b85483aa7b7b3078",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q04__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q04__c",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "在独立事件条件下结合给定关系求并集概率P(A∪B)。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q04__c"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q04__c.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q04__c.pdf",
+     "bytes": 71537,
+     "sha256": "27f0c67797e14c15b7c5a9c06211a37c11b4e8029e3bbdb583e059fd3a904954",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q04__c.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q05__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "微分",
+   "knowledge_point": "乘积与复合函数求导",
+   "problem_type": "求指数复合函数导数",
+   "search_text": "用乘积法则和链式法则求含指数分式函数的导数f'(x)。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q05__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q05__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q05__a.pdf",
+     "bytes": 65613,
+     "sha256": "dd838fc9a34921a9dbec8c47552785dad718d2cc499dde3fbfb2c587f8068029",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q05__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q05__b",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "微分",
+   "knowledge_point": "导数零点与水平切线",
+   "problem_type": "由导数零点判定水平切线数量",
+   "search_text": "解方程f'(x)=0并判断水平切线的条数。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q05__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q05__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q05__b.pdf",
+     "bytes": 66859,
+     "sha256": "dce096c516e26d78443f78a7af5c293929c371c77618ee1085b0846df883bf56",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q05__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q06__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "代数",
+   "knowledge_point": "二项式展开",
+   "problem_type": "求展开式的系数或指定项",
+   "search_text": "将指数函数展开至x^2项。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q06__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q06__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q06__a.pdf",
+     "bytes": 69170,
+     "sha256": "f71dab0f4bf8dad2db41cdb35f85ac18f35013036bfa670fd912a390032de65d",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q06__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q06__b-i",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "代数",
+   "knowledge_point": "二项式展开",
+   "problem_type": "求展开式的系数或指定项",
+   "search_text": "结合二项式展开与(a)结果由x^2系数求参数k。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q06__b-i"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q06__b-i.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q06__b-i.pdf",
+     "bytes": 70018,
+     "sha256": "b33c59f5ca0bc1b9365ae071e2a89c133c7c7f7e0a28ac9d67db0020f9017b6b",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q06__b-i.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q06__b-ii",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "利用指数或对数关系求未知量",
+   "search_text": "将ln y化为x的线性函数并求水平截距。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q06__b-ii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q06__b-ii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q06__b-ii.pdf",
+     "bytes": 71265,
+     "sha256": "3aa3bedae53edb66fde6e74900736244c5cd801259dd06132b18cdf4a138e95f",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q06__b-ii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q07__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "积分",
+   "knowledge_point": "分部积分",
+   "problem_type": "选择分部积分并求积分",
+   "search_text": "通过导数恒等式推导含x^m ln x的积分表达式。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q07__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q07__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q07__a.pdf",
+     "bytes": 68611,
+     "sha256": "30726c5971f257b522c9ed4e0ca597d148c3dc72523ea5d07114e649de602f5b",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q07__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q07__b",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "利用(a)的积分结果建立面积方程并求参数m的值。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q07__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q07__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q07__b.pdf",
+     "bytes": 69851,
+     "sha256": "3e125205813f06287e31b4599e491462ef53c66bccad906c9ff125fdbf6fbbeb",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q07__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q08__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "由x=1为极大值点利用导数等于0求常数c。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q08__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q08__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q08__a.pdf",
+     "bytes": 71748,
+     "sha256": "61f7ee5b0582435f1a96d535997bf1fab80abead69e190a6438ba51d874cb622",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q08__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q08__b-i",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "由截距与二阶导数极大值条件筛选常数a的可能值。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q08__b-i"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q08__b-i.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q08__b-i.pdf",
+     "bytes": 72596,
+     "sha256": "afb6124a19c4d29cc67ecd13cf83c64c016a6311c197aa1fbc2e302cea5b641f",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q08__b-i.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q08__b-ii",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "求曲线的其它极值点坐标。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q08__b-ii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q08__b-ii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q08__b-ii.pdf",
+     "bytes": 73842,
+     "sha256": "d2a6e99c546a26fe0ec2f7ebb7539166abec06111eeaeea2d0b5f091b110e32a",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q08__b-ii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q09__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "概率分布",
+   "knowledge_point": "泊松分布",
+   "problem_type": "用单位区间事件数模型求概率",
+   "search_text": "由两泊松概率之比列方程求参数lambda。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q09__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q09__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q09__a.pdf",
+     "bytes": 87430,
+     "sha256": "690af59b42f9b2ecc21e456d9affa882198dd5f74fd473e973da09767d5c7e9c",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q09__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q09__b",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "概率分布",
+   "knowledge_point": "泊松分布",
+   "problem_type": "用单位区间事件数模型求概率",
+   "search_text": "用求出的参数计算泊松概率P(X>2)。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q09__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q09__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q09__b.pdf",
+     "bytes": 88416,
+     "sha256": "57731484e05dae26248baf090ff6ccc8df728fe7ec486dbe628c7fcb92a622cb",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q09__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q09__c-i",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "概率分布",
+   "knowledge_point": "泊松分布",
+   "problem_type": "用单位区间事件数模型求概率",
+   "search_text": "由两独立泊松变量和的分布求P(总交易数=1)。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q09__c-i"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q09__c-i.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q09__c-i.pdf",
+     "bytes": 88018,
+     "sha256": "e83349606c400decc794174a33c5f10e26a350223889dfe7b48388ad2d3e5b86",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q09__c-i.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q09__c-ii",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "概率分布",
+   "knowledge_point": "泊松分布",
+   "problem_type": "用单位区间事件数模型求概率",
+   "search_text": "由两独立泊松变量和的分布求P(总交易数>=3)。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q09__c-ii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q09__c-ii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q09__c-ii.pdf",
+     "bytes": 88868,
+     "sha256": "ff0c9c7cbd79d980a20fee3c9859c0300079eedf107e314b4f135ed3fc867b1e",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q09__c-ii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q09__c-iii",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "在总交易数至少为3的条件下计算B公司交易数至多为2的条件概率。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q09__c-iii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q09__c-iii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q09__c-iii.pdf",
+     "bytes": 89268,
+     "sha256": "e06911ca20569cb8d915917c2364881a4beeef9d11bdf36cc632608373ab403b",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q09__c-iii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q10__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "由两个正态分布概率查表建立联立方程求均值与标准差。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q10__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q10__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q10__a.pdf",
+     "bytes": 90198,
+     "sha256": "d3f7fd58662602df7e3824f0ba8391fffcf732a25a53e9a4fef6d95cb776156b",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q10__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q10__b",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "由正态参数计算落在指定区间的概率。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q10__b"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q10__b.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q10__b.pdf",
+     "bytes": 91202,
+     "sha256": "e7e08a8353f6da17713e2e2ca6f7d75e9d036aa09df7af89ef2a3e0f5759287c",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q10__b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q10__c-i",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "概率分布",
+   "knowledge_point": "二项分布",
+   "problem_type": "用固定次数独立试验模型求概率",
+   "search_text": "结合二项分布模型计算7天中特定访问天数的概率。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q10__c-i"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q10__c-i.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q10__c-i.pdf",
+     "bytes": 91108,
+     "sha256": "0b7a344394bfa6a62ba6fcfc6ae7d0a1239e8540ca0bd21b2c0311e0e7e8db19",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q10__c-i.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q10__c-ii-1",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "用全概率公式和逆条件概率求未访问条件下为普通天的概率。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q10__c-ii-1"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q10__c-ii-1.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q10__c-ii-1.pdf",
+     "bytes": 91958,
+     "sha256": "4c4e3d87ae4789b38027f68b36cd8bf91b570e9ec728ced6858dd79491d92dea",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q10__c-ii-1.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q10__c-ii-2",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "利用概率取值界限检验参数p=0.7是否可能。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q10__c-ii-2"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q10__c-ii-2.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q10__c-ii-2.pdf",
+     "bytes": 93042,
+     "sha256": "ea6cfbe1b4ce3e71a79c0a31ef34a8a4030225a8dfdda55ab5f567600b18f0ef",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q10__c-ii-2.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q11__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "用4个子区间的梯形法估计定积分值。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q11__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q11__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q11__a.pdf",
+     "bytes": 76078,
+     "sha256": "e0029fbfdbb67d36243c872a783c9574db3c7cea6e0cd3fa1ca912480c982e6d",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q11__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q11__b-i",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "积分",
+   "knowledge_point": "换元积分",
+   "problem_type": "选择代换并处理积分与边界",
+   "search_text": "用换元积分和部分分式由二阶导数求一阶导数P'(t)。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q11__b-i"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q11__b-i.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q11__b-i.pdf",
+     "bytes": 75763,
+     "sha256": "216d82a017ee3aee9d61e6af899ca8223c4f439ce059a9b11d2d83be3024dd04",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q11__b-i.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q11__b-ii",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "积分",
+   "knowledge_point": "定积分",
+   "problem_type": "用定积分求累积量或区间积分",
+   "search_text": "结合定积分与(a)中梯形法估计人口变化量。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q11__b-ii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q11__b-ii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q11__b-ii.pdf",
+     "bytes": 78722,
+     "sha256": "687c93fbd3296bc8848bf326700eb735cffde2992f03d547530bf7c7d63c895a",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q11__b-ii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q11__b-iii",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "由梯形法高估/低估性质判断人口变化量是否超过1.7百万。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q11__b-iii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q11__b-iii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q11__b-iii.pdf",
+     "bytes": 77169,
+     "sha256": "1d880478d1aa83e8b948ab096b8bc7d42b2d48b4ff4d9c8a5391ddc0a280b402",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q11__b-iii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q12__a",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "由ds/dv符号分析矩形周长随长度增加的单调性变化。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q12__a"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q12__a.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q12__a.pdf",
+     "bytes": 73641,
+     "sha256": "fe10fef122e65ad109bbd212e483901159a86775cc15c7c7ade5cb9994ecf450",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q12__a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q12__b-i",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "求含指数函数的根式函数的极小值点T及最小值。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q12__b-i"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q12__b-i.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q12__b-i.pdf",
+     "bytes": 73379,
+     "sha256": "bc6b8d56d11128cd8030f9968960b58250fdfc50dd23c12ff1f51a5575797c3f",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q12__b-i.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q12__b-ii",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "结合周长单调性与v的最小值判断s是否在t=T时取到最小值。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q12__b-ii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q12__b-ii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q12__b-ii.pdf",
+     "bytes": 75073,
+     "sha256": "b5b2df4e21e3227cc6cfde12c7a8fabe10bf11bfcc8a8abb2348223fd5ca7b4b",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q12__b-ii.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "peter-dse-m1-en-2025__m1-q12__b-iii",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "利用链式法则ds/dt = (ds/dv)*(dv/dt)计算相关变化率。",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "peter-dse-m1-en-2025__m1-q12__b-iii"
+   ],
+   "paths": [
+    "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q12__b-iii.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/dse-source-supplement/peter-dse-m1-en-2025/questions/peter-dse-m1-en-2025__m1-q12__b-iii.pdf",
+     "bytes": 75472,
+     "sha256": "942fc7a0fbae666ad001815f4fb753b7788dad4a9f639707a7c10d7a4ed0cb4a",
+     "shard": "pdfs-2d5adbd2cfccb347.zip",
+     "shard_bytes": 10620272,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2d5adbd2cfccb347.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/peter-dse-m1-en-2025__m1-q12__b-iii.md"
+  }
+ ]
+}

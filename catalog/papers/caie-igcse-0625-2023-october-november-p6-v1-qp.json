@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2023-october-november-p6-v1-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2023-october-november-p6-v1-qp",
+   "year": 2023,
+   "session": "October/November",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2023-october-november-p6-v1-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "1  A student determines the weight of a metre ruler using a balancing method.\n\n     Fig. 1.1 shows the set-up.\n\n            P                                                          metre ruler                    a                      b\n\n             90.0 cm\n\n                                          pivot                                                                      bench\n\n                                               Fig. 1.1\n\n     (a) The student places the metre ruler on the pivot. She places a load P on the metre ruler at the\n        90.0 cm mark. She adjusts the position of the metre ruler on the pivot so that the metre ruler\n           is as near as possible to being balanced.\n\n       The ruler balances with the pivot at the 75.0 cm mark.\n\n         Calculate the distance a from the 90.0 cm mark to the pivot.\n\n\n        Record the value of a in the first row of Table 1.1.                                                 [1]\n\n     (b) She records, in Table 1.1, the distance b from the pivot to the 0.0 cm end of the metre ruler.\n\n       She repeats the procedure placing the load P at the 85.0 cm mark, 80.0 cm mark, 75.0 cm\n       mark and 70.0 cm mark. She records the values of a and b in Table 1.1.\n\n                                        Table 1.1\n\n                                a / cm         b / cm\n                                                    75.0\n                                     13.1           71.9\n                                      11.3           68.8\n                                        9.4           65.6\n                                        7.5           62.5\n\n\n\n\n\n© UCLES 2023                                         0625/61/O/N/23\n\nPlot a graph of a / cm (y-axis) against b / cm (x-axis). Start the y-axis at a = 0.0 cm. Start the x-axis\n     at a suitable value for the results.\n\n    Draw the best-fit line.\n\n\n\n\n\n                                                                                                                       [4]\n\n     (c)  Determine the gradient G of the graph. Show clearly on the graph how you obtained the\n        necessary information.\n\n                                 G =  .........................................................  [2]\n\n     (d) The weight W of the metre ruler is numerically equal to 2G.\n\n         Calculate the weight W of the metre ruler.\n\n                           W =  .........................................................  [2]\n\n\n\n© UCLES 2023                                         0625/61/O/N/23                              [Turn over\n\n(e)  Suggest one practical reason why it is difficult to obtain accurate readings for a and b.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n      (f)  Using only the apparatus provided for the experiment, explain briefly how you would determine\n         the position of the centre of mass of the metre ruler.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2023                                         0625/61/O/N/23\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2023 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w23_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-october-november-p6-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p6-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p6-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-october-november-p6-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-october-november-p6-v1-qp",
+   "year": 2023,
+   "session": "October/November",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2023-october-november-p6-v1-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2  A student investigates the resistance of a resistance wire.\n\n     Fig. 2.1 shows the circuit that he uses.\n\n\n                                                A\n\n\n\n                                    l\n        B\n                                                        sliding                                                                        resistance wire                                                  contact C               V\n\n                                               Fig. 2.1\n\n     (a) The student places a sliding contact C at a distance l = 20.0 cm from B.\n\n      He measures the potential difference (p.d.) V across length l of the resistance wire.\n      He measures the current I in the circuit.\n\n       The meters are shown in Fig. 2.2 and Fig. 2.3.\n\n\n                      0.4  0.6                               2   3\n                 0.2            0.8                       1           4\n            0                     1.0                 0                  5\n                  A                              V\n\n\n\n                        Fig. 2.2                                       Fig. 2.3\n\n\n\n\n\n© UCLES 2023                                         0625/61/O/N/23\n\nTable 2.1\n\n                                                 R                              l /            V /           R /                                                                                                                                   /                                                                                                                                l\n                 20.0\n                 60.0               1.6                 2.1              0.035\n               100.0               2.5                 3.3              0.033\n\n             (i)  Write down the current I shown on the student’s ammeter.\n\n                                                             I =  .........................................................  [1]\n\n             (ii)  Record the potential difference V shown on the student’s voltmeter in the first row of\n             Table 2.1.                                                                                          [1]\n\n            (iii)  Calculate, and record in Table 2.1, the resistance R of 20.0 cm of the resistance wire.\n                        V          Use the equation R =    .                                                                         [1]                                      I\n                                       R          (iv)  Calculate, and record in the first row of Table 2.1,    for l = 20.0 cm.                      [1]                                                                                                      l\n          (v)  Complete the column headings in Table 2.1.                                                  [2]\n\n     (b) The student repeats the procedure using l = 60.0 cm and l = 100.0 cm. The readings and\n          results are shown in Table 2.1.\n                         R        Look carefully at the values of    in Table 2.1.                                                                l\n             (i)  Write a conclusion about the relationship between R and l.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n             (ii)   Justify your conclusion by reference to the results.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n     (c) Use the values in Table 2.1 to estimate the resistance R2 of 2.000 m of the resistance wire.\n\n       Show your working.\n\n                                            R2 =  .........................................................  [3]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2023                                         0625/61/O/N/23                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2023 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w23_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-october-november-p6-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p6-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p6-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-october-november-p6-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-october-november-p6-v1-qp",
+   "year": 2023,
+   "session": "October/November",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2023-october-november-p6-v1-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Physical quantities and measurement",
+   "problem_type": "读仪器、换单位或求测量量",
+   "search_text": "3  A student investigates the magnification of the image produced by a lens.\n\n     Fig. 3.1 shows the set-up.\n           illuminated\n             object      u                         v                                                                           screen\n                                       lens\n\n\n\n                                                                bench\n                                               Fig. 3.1\n\n\n\n\n\n                                                        hO\n\n\n\n                                               Fig. 3.2\n\n     (a) On Fig. 3.2, measure the height hO of the illuminated object.\n                                            hO =  .........................................................  [2]\n     (b)  Fig. 3.1 is drawn to 1/10th scale.\n\n             (i)  On Fig. 3.1 measure the distance u.\n\n                                              u =  .........................................................  [1]\n\n             (ii)  The actual object distance U is 20.0 cm.\n\n                •   The student places the lens at the distance U = 20.0 cm from the illuminated object.\n                •   He moves the screen slowly until a clearly focused image is formed on the screen.\n                •   He measures the distance V between the centre of the lens and the screen. On\n                    Fig. 3.1, this distance is represented to scale by the distance v.\n\n          Use Fig. 3.1 to determine the actual distance V between the centre of the lens and the\n             screen. Show your working.\n\n                                      V =  .........................................................  [2]\n\n\n\n\n\n© UCLES 2023                                         0625/61/O/N/23\n\nV\n            (iii)  Calculate, and record in Table 3.1, the magnification m using the equation m = U.     [1]\n          (iv)  The student measures the height of the image hI that is formed on the screen. The\n             reading is shown in Table 3.1.\n                                                           hI              Calculate, and record in Table 3.1, the ratio      .\n                                             hO\n                                        Table 3.1\n\n                                                                               hI\n             U / cm      V / cm      m         hI / cm                                                             hO\n                    20.0                                     5.9\n                    30.0          34.8         1.16         1.8         1.2\n                                                                                                                       [1]\n\n     (c) The student repeats the procedure using U = 30.0 cm. The readings and results are shown in\n         Table 3.1.\n                                                                                  hI        Another student suggests that the magnification m is equal to the ratio      .\n                                                              hO\n             (i)  State whether the results agree with the suggestion. Justify your statement by reference\n               to the results.\n\n             statement  ..........................................................................................................................\n\n                justification  ........................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n                                                                                                                       [2]\n\n             (ii)  Suggest how you would continue to use the same apparatus to test the suggestion that\n                                                       hI             the magnification m is equal to the ratio      .\n                                          hO\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2023                                         0625/61/O/N/23                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2023 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w23_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-october-november-p6-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p6-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p6-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-october-november-p6-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-october-november-p6-v1-qp",
+   "year": 2023,
+   "session": "October/November",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2023-october-november-p6-v1-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the time taken for water to evaporate to dryness when heated from above.\n\n     Fig. 4.1 shows the set-up. The power of the heater is constant.\n\n    The following is also available:\n\n     •   supply of water at room temperature\n     •   metre ruler.\n\n               infrared heater\n\n                                                                        lead to power\n                                                                       supply\n           shallow dish\n                                                                      water\n\n                                               Fig. 4.1\n\n    Plan an experiment to investigate how one factor affects the time taken for the water to evaporate.\n\n    You do not need to write about safety precautions.\n\n    You should:\n\n     •    state any additional apparatus required\n     •    explain briefly how you would do the investigation\n     •    state the key variables that you would keep constant\n     •   draw a table, or tables, with column headings, to show how you would display your readings\n        (you are not required to enter any readings in the table)\n     •    explain how you would use your readings to reach a conclusion.\n\n\n\n\n\n© UCLES 2023                                         0625/61/O/N/23\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2023 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w23_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-october-november-p6-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p6-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p6-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-october-november-p6-v1-qp__q04.md"
+  }
+ ]
+}

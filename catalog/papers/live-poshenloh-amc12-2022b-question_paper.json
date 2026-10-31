@@ -1,0 +1,1333 @@
+{
+ "group": "live-poshenloh-amc12-2022b-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "代入定义验证恒等式或找反例 / 非结合自定义绝对差：按括号逐层计算",
+   "search_text": "1.  Define x ⋄y to be ∣x −y∣ for all real numbers x and y. What is the value of\n\n                            (1 ⋄(2 ⋄3)) −((1 ⋄2) ⋄3)?\n\n\n     A   −2\n\n    B   −1\n\n    C   0\n\n    D   1\n\n     E   2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q01",
+    "live-poshenloh-amc12-2022b-question_paper__q01",
+    "AMC12-2022B-Q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "勾股求高后底乘高求面积 / 菱形边上垂足给两段：勾股求高再底乘高",
+   "search_text": "2.  In rhombus ABCD, point P lies on segment AD so that BP ⊥ AD , AP = 3, and\n  PD = 2. What is the area of ABCD? (Note: the figure is not drawn to scale.)\n\n\n\n\n\n     A   3   ​5\n\n    B   10\n\n\n    C         6   ​5\n\n    D   20\n\n     E   25\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q02",
+    "live-poshenloh-amc12-2022b-question_paper__q02",
+    "AMC12-2022B-Q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "重复数字公式比较多项式系数 / 中间数字二两侧全一：识别两个大整数乘积",
+   "search_text": "3. How many of the first ten numbers of the sequence 121,11211,1112111,… are\n   prime numbers?\n\n     A   0\n\n    B   1\n\n    C   2\n\n    D   3\n\n     E   4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q03",
+    "live-poshenloh-amc12-2022b-question_paper__q03",
+    "AMC12-2022B-Q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "固定整数乘积枚举因数分配并检范围 / 二次式有两异整根：固定积的正负因数对",
+   "search_text": "4. For how many values of the constant k will the polynomial x 2 + kx + 36 have two\n    distinct integer roots?\n\n     A   6\n\n    B   8\n\n    C   9\n\n    D   14\n\n     E   16\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q04",
+    "live-poshenloh-amc12-2022b-question_paper__q04",
+    "AMC12-2022B-Q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "坐标旋转反射及其复合 / 绕非原点转270度：平移旋转再平移回",
+   "search_text": "5. The point (−1, −2) is rotated 270∘ counterclockwise about the point (3, 1). What are\n   the coordinates of its new position?\n\n     A   (−3, −4)\n\n    B    (0, 5)\n\n    C    (2, −1)\n\n    D    (4, 3)\n\n     E    (6, −3)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q05",
+    "live-poshenloh-amc12-2022b-question_paper__q05",
+    "AMC12-2022B-Q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "完整周期加不足一周期的余量 / 等长整数块含一或二倍数：总倍数减每块基数",
+   "search_text": "6. Consider the following 100 sets of 10 elements each:\n\n                                  {1, 2, 3, … , 10},\n\n                               {11, 12, 13, … , 20},\n\n                               {21, 22, 23, … , 30},\n\n                                                                 ⋮\n\n                            {991, 992, 993, … , 1000}.\n\n  How many of these sets contain exactly two multiples of 7?\n\n     A   40\n\n    B   42\n\n    C   43\n\n    D   49\n\n     E   50\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q06",
+    "live-poshenloh-amc12-2022b-question_paper__q06",
+    "AMC12-2022B-Q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "统计量约束配合整数界筛选 / 五数众数中位均值逐级差：排序确定重复位置再下界",
+   "search_text": "7.  Camila writes down five positive integers. The unique mode of these integers is 2\n    greater than their median, and the median is 2 greater than their arithmetic mean. What\n     is the least possible value for the mode?\n\n     A   5\n\n    B   7\n\n    C   9\n\n    D   11\n\n     E   13\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q07",
+    "live-poshenloh-amc12-2022b-question_paper__q07",
+    "AMC12-2022B-Q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "配方分支辨认隐式曲线 / 四次隐式曲线：配完全平方再分正负支",
+   "search_text": "8. What is the graph of y 4 + 1 = x 4 + 2y2 in the coordinate plane?\n\n     A   two intersecting parabolas\n\n\n    B   two nonintersecting parabolas\n\n\n    C   two intersecting circles\n\n\n    D   a circle and a hyperbola\n\n\n     E   a circle and two parabolas\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q08",
+    "live-poshenloh-amc12-2022b-question_paper__q08",
+    "AMC12-2022B-Q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "等差数列通项与中项关系 / 等差整列含指数约束：先唯一确定末项再最大公差",
+   "search_text": "9. The sequence a 0 ​, a 1 ​, a 2 ​, ⋯ is a strictly increasing arithmetic sequence of positive\n    integers such that\n\n                              2 a ​7 = 2 27 ⋅ a 7 ​.\n\n   What is the minimum possible value of a 2 ​?\n\n     A   8\n\n    B   12\n\n    C   16\n\n    D   17\n\n     E   22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q09",
+    "live-poshenloh-amc12-2022b-question_paper__q09",
+    "AMC12-2022B-Q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "利用对称轴求图形长度面积 / 正六边形边中点四边形周长：坐标求一条并用对称",
+   "search_text": "10. Regular hexagon ABCDEF has side length 2. Let G be the midpoint of AB , and let\n  H be the midpoint of DE . What is the perimeter of GCHF?\n\n     A   4   ​3\n\n    B   8\n\n\n    C         4   ​5\n\n    D   4   ​7\n\n     E   12\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q10",
+    "live-poshenloh-amc12-2022b-question_paper__q10",
+    "AMC12-2022B-Q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "单位根共轭配对求和 / 共轭三次单位根幂和：模三周期",
+   "search_text": "11. Let\n\n                                                    n\n                          −1 + i\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                         f(n) =\n                                     2                    (        ​3)\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​                   n                                      ​\n                            −1 −i\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ​                    +                         ,\n                                       2                     (        ​3)\n\n   where i =  −1 ​. What is f(2022)?\n\n     A   −2\n\n    B   −1\n\n    C   0\n\n    D         ​3\n\n     E   2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q11",
+    "live-poshenloh-amc12-2022b-question_paper__q11",
+    "AMC12-2022B-Q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "补集计至少一个事件 / 骰子两阈值同时达标：先数有高值再扣仅一个中高值",
+   "search_text": "12. Kayla rolls four fair 6 -sided dice. What is the probability that at least one of the\n   numbers Kayla rolls is greater than 4 and at least two of the numbers she rolls are\n    greater than 2?\n\n         2\n     A\n         3\n\n         19\n    B                                                                                                                                                                                                                       ​\n         27\n\n         59\n    C                                                                                                                                                                                                                     ​\n         81\n\n         61\n    D                                                                                                                                                                                                                      ​\n         81\n\n         7     E\n         9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q12",
+    "live-poshenloh-amc12-2022b-question_paper__q12",
+    "AMC12-2022B-Q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "旋转全等接勾股求边长 / 旋转正方形与矩形交面积：勾股定顶点再减外三角",
+   "search_text": "13. The diagram below shows a rectangle with side lengths 4 and 8 and a square with side\n   length 5. Three vertices of the square lie on three different sides of the rectangle, as\n   shown. What is the area of the region inside both the square and the rectangle?\n\n\n\n\n\n           1\n     A         15\n                   ​8\n\n           3\n    B   15\n                   ​8\n\n           1\n    C   15\n                   ​2\n\n           5\n    D   15\n                   ​8\n\n           7\n     E   15\n                   ​8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q13",
+    "live-poshenloh-amc12-2022b-question_paper__q13",
+    "AMC12-2022B-Q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平面向量点积叉积求角 / 抛物线三截点夹角正切：两向量叉积除点积",
+   "search_text": "14. The graph of y = x 2 + 2x −15 intersects the x -axis at points A and C and the y -axis\n    at point B. What is tan(∠ABC)?\n\n         1\n     A\n         7\n\n         1    B\n         4\n\n         3    C\n         7\n\n         1    D\n         2\n\n         4\n     E\n         7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q14",
+    "live-poshenloh-amc12-2022b-question_paper__q14",
+    "AMC12-2022B-Q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "模周期计算大指数 / 指数大数排除小素因子：模2/3/5/7周期检验",
+   "search_text": "15. One of the following numbers is not divisible by any prime number less than 10. Which\n     is it?\n\n     A   2 606 − 1\n\n    B   2 606 + 1\n\n    C   2 607 − 1\n\n    D   2 607 + 1\n\n     E   2 607 + 3607\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q15",
+    "live-poshenloh-amc12-2022b-question_paper__q15",
+    "AMC12-2022B-Q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "取共同对数变量化为代数方程 / 指数与对数幂联立：两层对数化定和定积",
+   "search_text": "16. Suppose x and y are positive real numbers such that\n\n                             x y = 264\n\n   and\n\n\n                                                                          2\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                                   x) log                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​ y = 2 7 .                                  (log 2\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​                                    y?   What is the greatest possible value of log 2\n\n     A   3\n\n    B   4\n\n    C   3 +    ​2\n\n    D   4 +    ​3\n\n     E   7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q16",
+    "live-poshenloh-amc12-2022b-question_paper__q16",
+    "AMC12-2022B-Q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "行列和极值逐层强制矩阵 / 零一矩阵行列和各一至四：排序后剥全一行全零余列",
+   "search_text": "17. How many 4 × 4 arrays whose entries are 0 s and 1 s are there such that the row sums\n    (the sum of the entries in each row) are 1,2,3, and 4, in some order, and the column\n   sums (the sum of the entries in each column) are also 1,2,3, and 4, in some order? For\n   example, the array\n\n                               1  1  1  0\n                               0  1  1  0\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                                      ​                                                                                                                   ​                                                                                                                   ​                                                                                                                   ​                                                   ​\n                               1  1  1  1\n                               0  1  0  0\n\n    satisfies the condition.\n\n     A   144\n\n    B   240\n\n    C   336\n\n    D   576\n\n     E   624\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q17",
+    "live-poshenloh-amc12-2022b-question_paper__q17",
+    "AMC12-2022B-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "局部更新规则穷尽前态 / 邻域同步更新逆像计数：枚举九初格并检查全部二十五输出",
+   "search_text": "18. Each square in a 5 × 5 grid is either filled or empty, and has up to eight adjacent\n   neighboring squares, where neighboring squares share either a side or a corner. The\n    grid is transformed by the following rules:\n\n   Any filled square with two or three filled neighbors remains filled. Any empty square\n    with exactly three filled neighbors becomes a filled square. All other squares remain\n   empty or become empty.\n\n\n   A sample transformation is shown in the figure below.\n\n\n\n\n\n   Suppose the 5 × 5 grid has a border of empty squares surrounding a 3 × 3 subgrid.\n  How many initial configurations will lead to a transformed grid consisting of a single\n     filled square in the center after a single transformation? (Rotations and reflections of\n   the same configuration are considered different.)\n\n\n\n\n\n     A   14\n\n    B   18\n\n    C   22\n\n    D   26\n\n30\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q18",
+    "live-poshenloh-amc12-2022b-question_paper__q18",
+    "AMC12-2022B-Q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "重心中点向量相减消公共点 / 中线重心形成等边：重心坐标反推第三顶点",
+   "search_text": "19. In △ABC medians AD and BE intersect at G and △AGE is equilateral. Then\n             m   ​p\n   cos(C) can be written as               ​, where m and n are relatively prime positive integers\n                    n\n   and p is a positive integer not divisible by the square of any prime. What is m + n + p?\n\n     A   44\n\n    B   48\n\n    C   52\n\n    D   56\n\n     E   60\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q19",
+    "live-poshenloh-amc12-2022b-question_paper__q19",
+    "AMC12-2022B-Q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "多项式余式待定系数 / 两个二次除式指定余式：三次待定系数取余联立",
+   "search_text": "20. Let P(x) be a polynomial with rational coefficients such that when P(x) is divided by\n                       2    the polynomial x + x + 1, the remainder is x + 2, and when P(x) is divided by the\n                   2    polynomial x + 1, the remainder is 2x + 1. There is a unique polynomial of least\n   degree with these two properties. What is the sum of the squares of the coefficients\n    of that polynomial?\n\n     A   10\n\n     B   13\n\n    C   19\n\n    D   20\n\n      E   23\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q20",
+    "live-poshenloh-amc12-2022b-question_paper__q20",
+    "AMC12-2022B-Q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "圆心距离等于半径和或差 / 同时切两同心圆和第三圆：先分类半径再数圆心交点",
+   "search_text": "21. Let S be the set of circles in the coordinate plane that are tangent to each of the three\n                              2     2        2     2                     2     2    circles with equations x + y = 4,x + y = 64, and (x −5) + y = 3. What is\n   the sum of the areas of all circles in S?\n\n     A   48π\n\n    B   68π\n\n    C   96π\n\n\n    D        102π\n\n     E   136π\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q21",
+    "live-poshenloh-amc12-2022b-question_paper__q21",
+    "AMC12-2022B-Q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分支加权求全概率或条件概率 / 随机时间决定停止步数且独立位移：按两步三步全概率",
+   "search_text": "22. Ant Amelia starts on the number line at 0 and crawls in the following manner. For n = 1,\n    2,3, Amelia chooses a time duration t ​n and an increment x ​n independently and\n    uniformly at random from the interval (0, 1). During the n th step of the process,\n   Amelia moves xn units in the positive direction, using up t ​n minutes. If the total\n   elapsed time has exceeded 1 minute during the n th step, she stops at the end of that\n    step; otherwise, she continues with the next step, taking at most 3 steps in all. What is\n   the probability that Amelia’s position when she stops will be greater than 1?\n\n         1     A\n                ​3\n\n         1     B\n                ​2\n\n         2    C\n                ​3\n\n         3\n    D\n                ​4\n\n         5\n     E\n                ​6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q22",
+    "live-poshenloh-amc12-2022b-question_paper__q22",
+    "AMC12-2022B-Q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "模二幂逆元逐位提升 / 模二幂逆元的无限二进制：三位循环由几何级数确定",
+   "search_text": "23. Let x 0 ​, x 1 ​, x 2 ​, … be a sequence of numbers, where each x ​k is either 0 or 1. For each\n    positive integer n, define\n\n                                        n−1\n                                                        k\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ​                        S n =     ​x k ​2  .            ∑\n                                         k=0\n\n                             n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​   Suppose 7S n ≡ 1 (mod 2 ) for all n ≥1. What is the value of the sum\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​                                                                                                                                                                                                                                                                                                 ​                                                                                                                                                                                                                                                                                                 ​                    x 2019 + 2x 2020 + 4x 2021 + 8x 2022 ​?\n\n\n     A   6\n\n     B   7\n\n    C   12\n\n    D   14\n\n     E   15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q23",
+    "live-poshenloh-amc12-2022b-question_paper__q23",
+    "AMC12-2022B-Q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "三角降频配单位根和 / 正七边形全弦四次和：余弦平方降频配单位根和",
+   "search_text": "24. The figure below depicts a regular 7 -gon inscribed in a unit circle.\n\n\n\n\n\n   What is the sum of the 4 th powers of the lengths of all 21 of its edges and diagonals?\n\n     A   49\n\n     B   98\n\n    C   147\n\n    D   168\n\n     E   196\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q24",
+    "live-poshenloh-amc12-2022b-question_paper__q24",
+    "AMC12-2022B-Q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2022b-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多边形顶点坐标用鞋带求面积 / 四正六边形围方的非凸并集：求十二顶点后鞋带面积",
+   "search_text": "25. Four regular hexagons surround a square with a side length 1, each one sharing an\n    edge with the square, as shown in the figure below. The area of the resulting 12 -sided\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​     outer nonconvex polygon can be written as m n                            + p, where m,n, and p are integers\n    and n is not divisible by the square of any prime. What is m + n + p?\n\n\n\n\n\n      A   −12\n\n      B   −4\n\n     C   4\n\n     D   24\n\n       E   32\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/amc12/2022B/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2022-B-Q25",
+    "live-poshenloh-amc12-2022b-question_paper__q25",
+    "AMC12-2022B-Q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2022b-question_paper__q25.md"
+  }
+ ]
+}

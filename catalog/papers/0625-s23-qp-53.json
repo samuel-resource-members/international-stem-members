@@ -1,0 +1,51 @@
+{
+ "group": "0625-s23-qp-53",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 1,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:practical:0625-s23-qp-53-Q4",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "专题P 实验技能",
+   "knowledge_point": "实验规划",
+   "problem_type": "规划热学实验 / 改散热条件测冷却率",
+   "search_text": "A student investigates the rate of cooling of hot water in a container which has a lid.\nPlan an experiment which will enable him to compare the effect of lids of different thicknesses on \nthe rate of cooling.\nThe apparatus available includes:\n• \na beaker\n• \na supply of hot water\n• \ninsulating material from which lids can be cut.\nYou are not required to do the experiment.\nIn your plan, you should:\n• \nlist any additional apparatus needed\n• \nexplain briefly how to do the experiment, including the measurements to take so that the rate \nof cooling can be determined\n• \nstate the key variables to keep constant\n• \ndraw a table, or tables, with column headings, to show how to display the readings (you are \nnot required to enter any readings in the table)\n• \nexplain how to use the readings to reach a conclusion.\nYou may draw a diagram if it helps to explain your plan.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s23-qp-53-Q4",
+    "caie-0625:practical:0625-s23-qp-53-Q4"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_practical_0625-s23-qp-53-Q4.md"
+  }
+ ]
+}

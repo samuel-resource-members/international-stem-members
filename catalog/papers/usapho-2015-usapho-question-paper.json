@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2015-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2015-usapho-question-paper",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2015-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "Question A1\n\nConsider a particle of mass m that elastically bounces oﬀof an inﬁnitely hard horizontal surface\nunder the inﬂuence of gravity. The total mechanical energy of the particle is E and the acceleration\nof free fall is g. Treat the particle as a point mass and assume the motion is non-relativistic.\n\n   a. An estimate for the regime where quantum eﬀects become important can be found by simply\n      considering when the deBroglie wavelength of the particle is on the same order as the height\n      of a bounce. Assuming that the deBroglie wavelength is deﬁned by the maximum momentum\n      of the bouncing particle, determine the value of the energy Eq where quantum eﬀects become\n     important. Write your answer in terms of some or all of g, m, and Planck’s constant h.\n\n   b. A second approach allows us to develop an estimate for the actual allowed energy levels of a\n     bouncing particle. Assuming that the particle rises to a height H, we can write\n\n                                 Z H            1\n                                   2    p dx =  n +   h\n                                                0              2\n\n     where p is the momentum as a function of height x above the ground, n is a non-negative\n      integer, and h is Planck’s constant.\n\n             i. Determine the allowed energies En as a function of the integer n, and some or all of g,\n        m, and Planck’s constant h.\n\n            ii. Numerically determine the minimum energy of a bouncing neutron.  The mass of a\n          neutron is mn = 1.675×10−27 kg = 940 MeV/c2; you may express your answer in either\n          Joules or eV.\n\n           iii. Determine the bounce height of one of these minimum energy neutrons.\n\n    c. Let E0 be the minimum energy of the bouncing neutron and f be the frequency of the bounce.\n     Determine an order of magnitude estimate for the ratio E/f. It only needs to be accurate to\n     within an order of magnitude or so, but you do need to show work!\n\n2015 USA Physics Olympiad Exam         Part A                                       4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2015 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2015-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2015-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2015-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2015-usapho-question-paper",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2015-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "Question A2\n\nConsider the circuit shown below. Is is a constant current source, meaning that no matter what\ndevice is connected between points A and B, the current provided by the constant current source\nis the same.\n\n\n\n                          4R                    2R\n                                4R        2R\n                              Is\n                              A  B\n                          2R                    4R\n\n\n\n   a. Connect an ideal voltmeter between A and B. Determine the voltage reading in terms of any\n      or all of R and Is.\n\n   b. Connect instead an ideal ammeter between A and B. Determine the current in terms of any\n      or all of R and Is.\n\n    c. It turns out that it is possible to replace the above circuit with a new circuit as follows:\n\n\n\n\n\n                                         It        Rt\n                                  A  B\n\n\n\n\n    From the point of view of any passive resistance that is connected between A and B the\n      circuits are identical. You don’t need to prove this statement, but you do need to ﬁnd It and\n     Rt in terms of any or all of R and Is.\n\n2015 USA Physics Olympiad Exam         Part A                                       5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2015 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2015-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2015-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2015-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2015-usapho-question-paper",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2015-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "Question A3\n\nA large block of mass mb is located on a horizontal frictionless surface. A second block of mass\nmt is located on top of the ﬁrst block; the coeﬃcient of friction (both static and kinetic) between\nthe two blocks is given by µ. All surfaces are horizontal; all motion is eﬀectively one dimensional.\nA spring with spring constant k is connected to the top block only; the spring obeys Hooke’s Law\nequally in both extension and compression. Assume that the top block never falls oﬀof the bottom\nblock; you may assume that the bottom block is very, very long. The top block is moved a distance\nA away from the equilibrium position and then released from rest.\n\n\n                                  mt\n\n                                  mb\n\n\n   a. Depending on the value of A, the motion can be divided into two types: motion that expe-\n      riences no frictional energy losses and motion that does. Find the value Ac that divides the\n     two motion types. Write your answer in terms of any or all of µ, the acceleration of gravity\n      g, the masses mt and mb, and the spring constant k.\n\n   b. Consider now the scenario A ≫Ac. In this scenario the amplitude of the oscillation of the top\n     block as measured against the original equilibrium position will change with time. Determine\n     the magnitude of the change in amplitude, ∆A, after one complete oscillation, as a function\n      of any or all of A, µ, g, and the angular frequency of oscillation of the top block ωt.\n\n    c. Assume still that A ≫Ac. What is the maximum speed of the bottom block during the ﬁrst\n     complete oscillation cycle of the upper block?\n\n2015 USA Physics Olympiad Exam         Part A                                       6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2015 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2015-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2015-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2015-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2015-usapho-question-paper",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2015-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A4",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Pressure",
+   "problem_type": "从力、面积或液柱高度求压强",
+   "search_text": "Question A4\n\nA heat engine consists of a moveable piston in a vertical cylinder. The piston is held in place by\na removable weight placed on top of the piston, but piston stops prevent the piston from sinking\nbelow a certain point. The mass of the piston is m = 40.0 kg, the cross sectional area of the piston\nis A = 100 cm2, and the weight placed on the piston has a mass of m = 120.0 kg.\n   Assume that the region around the cylinder and piston is a vacuum, so you don’t need to worry\nabout external atmospheric pressure.\n\n   • At point A the cylinder volume V0 is completely ﬁlled with liquid water at a temperature\n     T0 = 320 K and a pressure Pmin that would be just suﬃcient to lift the piston alone, except\n     the piston has the additional weight placed on top.\n\n   • Heat energy is added to the water by placing the entire cylinder in a hot bath.\n\n   • At point B the piston and weight begins to rise.\n\n   • At point C the volume of the cylinder reaches Vmax and the temperature reaches Tmax. The\n     heat source is removed; the piston stops rising and is locked in place.\n\n   • Heat energy is now removed from the water by placing the entire cylinder in a cold bath.\n\n   • At point D the pressure in the cylinder returns to Pmin. The added weight is removed; the\n      piston is unlocked and begins to move down.\n\n   • The cylinder volume returns to V0. The cylinder is removed from the cold bath, the weight\n       is placed back on top of the piston, and the cycle repeats.\n\n   Because the liquid water can change to gas, there are several important events that take place\n\n   • At point W the liquid begins changing to gas.\n\n   • At point X all of the liquid has changed to gas. This occurs at the same point as point C\n     described above.\n\n   • At point Y the gas begins to change back into liquid.\n\n   • At point Z all of the gas has changed back into liquid.\n\n  When in the liquid state you need to know that for water kept at constant volume, a change in\ntemperature ∆T is related to a change in pressure ∆P according to\n\n                       ∆P ≈(106 Pa/K)∆T\n\n  When in the gas state you should assume that water behaves like an ideal gas.\n\n2015 USA Physics Olympiad Exam         Part A                                       7\n\n\n\n\n   Of relevance to this question is the pressure/temperature phase plot for water, showing the re-\ngions where water exists in liquid form or gaseous form. The curve shows the coexistence condition,\nwhere water can exist simultaneously as gas or liquid.\n\n                     240\n\n\n                     200\n\n\n                     160\n                                              (kPa)\n                     120\n                                      Liquid Region                                                                          Pressure\n                      80\n\n\n                      40\n                                              Gas Region\n\n                       0\n                         280   300    320    340    360   380    400\n                                     Temperature (K)\n\n   The following graphs should be drawn on the answer sheet provided.\n\n   a. Sketch a PT diagram for this cycle on the answer sheet.  The coexistence curve for the\n      liquid/gas state is shown. Clearly and accurately label the locations of points B through D\n     and W through Z on this cycle.\n\n   b. Sketch a PV diagram for this cycle on the answer sheet. You should estimate a reasonable\n      value for Vmax, note the scale is logarithmic. Clearly and accurately label the locations of\n      points B through D on this cycle. Provide reasonable approximate locations for points W\n     through Z on this cycle.\n\n2015 USA Physics Olympiad Exam         Part A                                       8\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\n If there is still time remaining for Part A, you should review your work for\n   Part A, but do not continue to Part B until instructed by your exam\n                                 supervisor.\n\n2015 USA Physics Olympiad Exam         Part B                                       9\n\n\n\nPart B\n\n2015 USA Physics Olympiad Exam     Answer Sheets                                   13\n\n\n\n                     240\n\n\n                     200\n\n\n                     160\n                                              (kPa)\n                                                                          Pressure 120\n                      80\n\n\n                      40\n\n\n                       0\n                         280   300    320    340    360   380    400\n                                     Temperature (K)\n\n\n\n                    240\n\n\n                    200\n\n\n                    160\n                                            (kPa)\n                                                                       Pressure 120\n                     80\n\n\n                     40\n\n\n                      0\n                         0     1     10    102    103    104    105\n                                Volume (in terms of V0)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2015 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2015-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2015-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2015-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2015-usapho-question-paper",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2015-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question B1\n\nThis problem is divided into three parts.  It is possible to solve these three parts independently,\nbut they are not equally weighted.\n\n   a. An ideal rocket when empty of fuel has a mass mr and will carry a mass of fuel mf. The\n      fuel burns and is ejected with an exhaust speed of ve relative to the rocket. The fuel burns\n      at a constant mass rate for a total time Tb. Ignore gravity; assume the rocket is far from any\n     other body.\n\n             i. Determine an equation for the acceleration of the rocket as a function of time t in terms\n            of any or all of t, mf, mr, ve, Tb, and any relevant fundamental constants.\n            ii. Assuming that the rocket starts from rest, determine the ﬁnal speed of the rocket in\n          terms of any or all of mr, mf, ve, Tb, and any relevant fundamental constants.\n\n   b. The ship starts out in a circular orbit around the sun very near the Earth and has a goal of\n     moving to a circular orbit around the Sun that is very close to Mars. It will make this transfer\n      in an elliptical orbit as shown in bold in the diagram below. This is accomplished with an\n       initial velocity boost near the Earth ∆v1 and then a second velocity boost near Mars ∆v2.\n    Assume that both of these boosts are from instantaneous impulses, and ignore mass changes\n      in the rocket as well as gravitational attraction to either Earth or Mars. Don’t ignore the\n     Sun! Assume that the Earth and Mars are both in circular orbits around the Sun of radii RE\n     and RM = RE/α respectively. The orbital speeds are vE and vM respectively.\n\n\n\n\n\n                          RM\n\n                                   RE\n\n\n\n\n\n             i. Derive an expression for the velocity boost ∆v1 to change the orbit from circular to\n             elliptical. Express your answer in terms of vE and α.\n            ii. Derive an expression for the velocity boost ∆v2 to change the orbit from elliptical to\n            circular. Express your answer in terms of vE and α.\n           iii. What is the angular separation between Earth and Mars, as measured from the Sun, at\n          the time of launch so that the rocket will start from Earth and arrive at Mars when it\n          reaches the orbit of Mars? Express your answer in terms of α.\n\n2015 USA Physics Olympiad Exam         Part B                                      10\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2015 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2015-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2015-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2015-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2015-usapho-question-paper",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2015-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "Question B2\n\nThe nature of magnetic dipoles.\n\n   a. A “Gilbert” dipole consists of a pair of magnetic monopoles each with a magnitude qm but\n     opposite magnetic charges separated by a distance d, where d is small. In this case, assume\n     that −qm is located at z = 0 and +qm is located at z = d.\n\n                             −qm   qm\n                                                               z\n\n                                       z = 0  z = d\n\n\n    Assume that magnetic monopoles behave like electric monopoles according to a coulomb-like\n      force\n                                            µ0 qm1qm2\n                              F =\n                                        4π   r2\n     and the magnetic ﬁeld obeys\n                           B = F/qm.\n\n             i. What are the dimensions of the quantity qm?\n            ii. Write an exact expression for the magnetic ﬁeld strength B(z) along the z axis as a\n          function of z for z > d.  Write your answer in terms of qm, d, z, and any necessary\n         fundamental constants.\n           iii. Evaluate this expression in the limit as d →0, assuming that the product qmd = pm\n              is kept constant, keeping only the lowest non-zero term. Write your answer in terms of\n         pm, z, and any necessary fundamental constants.\n\n   b. An “Amp`ere” dipole is a magnetic dipole produced by a current loop I around a circle of\n      radius r, where r is small. Assume the that the z axis is the axis of rotational symmetry for\n     the circular loop, and the loop lies in the xy plane at z = 0.\n\n                                                    I\n\n\n                                                               z\n\n\n\n\n\n             i. Write an exact expression for the magnetic ﬁeld strength B(z) along the z axis as a\n          function of z for z > 0.  Write your answer in terms of I, r, z, and any necessary\n         fundamental constants.\n            ii. Let kIrγ have dimensions equal to that of the quantity pm deﬁned above in Part aiii,\n         where k and γ are dimensionless constants. Determine the value of γ.\n\n           iii. Evaluate the expression in Part bi in the limit as r →0, assuming that the product\n          kIrγ = p′m is kept constant, keeping only the lowest non-zero term. Write your answer\n           in terms of k, p′m, z, and any necessary fundamental constants.\n         iv. Assuming that the two approaches are equivalent, pm = p′m. Determine the constant k\n           in Part bii.\n\n2015 USA Physics Olympiad Exam         Part B                                      11\n\n\n\n\n    c. Now we try to compare the two approaches if we model a physical magnet as being composed\n      of densely packed microscopic dipoles.\n\n\n                                 L\n\n\n\n\n                                   R                                                               z\n\n\n\n\n\n   A cylinder of this uniform magnetic material has a radius R and a length L. It is composed\n      of N magnetic dipoles that could be either all Amp`ere type or all Gilbert type. N is a very\n      large number. The axis of rotation of the cylinder and all of the dipoles are all aligned with\n     the z axis and all point in the same direction as deﬁned above so that the magnetic ﬁeld\n      outside the cylinder is the same in either dipole case as you previously determined. Below is\n     a picture of the two dipole models; they are cubes of side d << R and d << L with volume\n    vm = d3.\n\n                             d\n                                                          current sheet I                  d\n\n                                     d\n                                                                                  z\n\n            −qm\n\n                          +qm\n\n                        Gilbert Dipole                 Amp`ere Dipole\n\n             i. Assume that R ≫L and only Gilbert type dipoles, determine the magnitude and direc-\n           tion of B at the center of the cylinder in terms of any or all of pm, R, L, vm, and any\n          necessary fundamental constants.\n\n            ii. Assume that R ≪L and only Amp`ere type dipoles, determine the magnitude and\n           direction of B at the center of the cylinder in terms of any or all of pm, R, L, vm, and\n         any necessary fundamental constants.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2015 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2015-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2015-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2015-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2015-usapho-question-paper__q06.md"
+  }
+ ]
+}

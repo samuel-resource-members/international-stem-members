@@ -1,0 +1,1888 @@
+{
+ "group": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 40,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Physical quantities and measurement",
+   "problem_type": "读仪器、换单位或求测量量",
+   "search_text": "1  Which measuring devices are most suitable for determining the length of a swimming pool and\n    the thickness of aluminium foil?\n\n            length of a swimming pool   thickness of aluminium foil\n\n    A                ruler               measuring cylinder\n\n    B         tape measure         micrometer screw gauge\n\n    C         tape measure                      ruler\n\n    D                ruler             micrometer screw gauge\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2  A man stands next to a railway track.\n\n\n\n\n\n   A train travelling at 40 m / s takes 2.0 s to pass the man.\n\n   What is the length of the train?\n\n   A  20 m       B  38 m       C  40 m       D  80 m\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "3  A speed–time graph is used to describe the motion of an object.\n\n   Which quantities are calculated from the gradient of the graph and from the area under the\n    graph?\n\n             gradient of the graph     area under the graph\n\n    A         acceleration           distance travelled\n\n    B         acceleration              total journey time\n\n    C      distance travelled            acceleration\n\n    D        total journey time         distance travelled\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Mass and weight",
+   "problem_type": "区分质量和重力并计算",
+   "search_text": "4  On the Moon, all objects fall with the same acceleration.\n\n   Which statement explains this?\n\n   A  On the Moon, all objects have the same weight.\n\n   B  The Moon has a smaller gravitational field strength than the Earth.\n\n   C  The weight of an object is directly proportional to its mass.\n\n   D  The weight of an object is inversely proportional to its mass.\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q04.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q05",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "5",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Density",
+   "problem_type": "用质量和体积求密度或未知量",
+   "search_text": "5  A measuring cylinder contains 30 cm3 of a liquid.\n\n\n                                                   cm3\n\n                                              50\n\n                                              40\n\n                                              30\n\n                                              20\n\n                                              10\n\n\n\n\n\n                                                    balance\n\n\n\n   Some more of the liquid is added until the liquid level reaches the 50 cm3 mark.\n\n   The reading on the balance increases by 30 g.\n\n   What is the density of the liquid?\n\n   A  0.60 g / cm3   B  0.67 g / cm3   C   1.5 g / cm3    D   1.7 g / cm3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q05.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q06",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "6",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "6  An object on the end of a string moves in a clockwise circular path at constant speed. The\n    diagram shows the object as viewed from above.\n\n   What is the direction of the resultant force on the object when it is in the position shown?\n\n\n\n\n\n                                                string\n\n                                 A\n\n                               B          object\n\n                                         D\n\n                                  C\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q06.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q07",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "7",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "7  A beam is pivoted at one end, as shown.\n\n                                                  beam                                 40 cm                                    X\n                           pivot\n\n\n\n\n                                                6.0 N\n\n   The beam weighs 6.0 N and its weight acts at a point X 40 cm from the pivot.\n\n   A force of 4.0 N is applied to the beam causing it to balance horizontally.\n\n     In which direction and where is the 4.0 N force applied?\n\n   A   vertically downwards at 20 cm to the left of X\n\n   B   vertically downwards at 20 cm to the right of X\n\n   C   vertically upwards at 20 cm to the left of X\n\n   D   vertically upwards at 20 cm to the right of X\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q07.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q08",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "8",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "8  On the diagram shown, what is the magnitude of the resultant force of the two vectors?\n\n\n\n\n                                                                scale\n                                                                 2.0 N\n\n\n\n\n                            6.0 N\n\n\n\n                                          8.0 N\n\n\n   A   2.0 N       B   7.0 N       C  10 N       D  14 N\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q08.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q09",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "9",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "9   Three situations are listed.\n\n          1  An object has a resultant force acting on it.\n\n          2  A moving object experiences an impulse.\n\n          3  An object is decelerating.\n\n     In which situations is the momentum of the object changing?\n\n   A  1 and 2 only  B  1 and 3 only  C  2 and 3 only  D   1, 2 and 3\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q09.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q10",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "10",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "10 A ball of mass 0.16 kg is moving forwards at a speed of 0.50 m / s. A second ball of mass 0.10 kg\n     is stationary. The first ball strikes the second ball. The second ball moves forwards at a speed of\n    0.50 m / s.\n\n   What is the speed of the first ball after the collision?\n\n   A   0.0 m / s     B  0.19 m / s    C  0.31 m / s    D  0.50 m / s\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q10.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q11",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "11",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "11 A mass hangs vertically from a spring.\n\n   The mass is raised to a point P and is then released.\n\n   The mass oscillates repeatedly between point P and a lower point Q.\n\n   Which energies alternately increase and decrease throughout the oscillations?\n\n   A   gravitational potential energy, kinetic energy and elastic energy\n\n   B   gravitational potential energy and kinetic energy only\n\n   C   gravitational potential energy, kinetic energy and internal energy\n\n   D   internal energy and elastic energy\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q11.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q12",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "12",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "12 A car has 620 kJ of kinetic energy. The car brakes and stops in a distance of 91 m.\n\n   What is the average braking force acting on the car?\n\n   A  0.15 N      B   6.8 N       C  6800 N      D  56 000 N\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q12.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q13",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "13",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Pressure",
+   "problem_type": "从力、面积或液柱高度求压强",
+   "search_text": "13 The diagram shows a deep reservoir formed by a dam.\n\n\n\n\n\n                                         water\n\n                                              dam\n                                         X\n\n\n\n   On what does the pressure at X depend?\n\n   A   the depth of the water at X\n\n   B   the length of the reservoir\n\n   C   the surface area of the water\n\n   D   the thickness of the dam wall\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q13.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q14",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "14",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "14 A sealed rigid container has a fixed volume. The container is filled with air.\n\n   The container is placed in a freezer cabinet and the temperature of the air in the container\n    decreases.\n\n   Which row correctly describes what happens to the air in the container?\n\n            average distance       average speed\n          between air particles       of air particles\n\n    A        decreases             increases\n\n    B        decreases           decreases\n\n    C       no change             increases\n\n    D       no change           decreases\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q14.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q15",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "15 Two open containers are filled with water at room temperature. The containers have different\n    shapes.\n\n\n\n\n\n                               container 1                    container 2\n\n   From which container does the water evaporate at the greater rate and how can the rate of\n    evaporation be increased?\n\n            container with the greater          how the rate of\n                rate of evaporation         evaporation can be increased\n\n    A             1               decrease the water temperature\n\n    B             1                 increase the water temperature\n\n    C             2               decrease the water temperature\n\n    D             2                 increase the water temperature\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q15.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q16",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "16 The diagram shows a liquid-in-glass thermometer.\n\n                                                               °C\n                   –10 0  10 20 30 40 50 60 70 80 90 100 110\n\n   A student wishes to check the marking of the upper fixed point on this thermometer.\n\n   What should she do?\n\n   A  Put the bulb in a beaker of boiling sea water.\n\n   B  Put the bulb in a beaker of boiling pure water.\n\n   C  Put the bulb in a beaker of ice and salt.\n\n   D  Put the bulb in a beaker of pure melting ice.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q16/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q16/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q16.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q17",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "17",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Thermal properties",
+   "problem_type": "从加热条件求热量或比热容",
+   "search_text": "17  Water in a beaker gains thermal energy at a rate of 3000 W. The water is at its boiling point.\n\n   The specific latent heat of vaporisation of water is 2260 J / g.\n\n   How long does it take for 250 g of the water to vaporise?\n\n   A  12 s       B  188 s       C  332 s       D  750 s\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q17/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q17/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q17.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q18",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "18",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Thermal transfer",
+   "problem_type": "判断并解释热传递过程",
+   "search_text": "18 A glass contains an iced drink on a warm and humid day. Water starts to form on the outside of\n    the glass.\n\n\n\n\n\n   What is the name of the effect by which the water forms?\n\n   A  condensation\n\n   B  conduction\n\n   C   convection\n\n   D   evaporation\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q18/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q18/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q18.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q19",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "19 One end of a copper bar is heated to a high temperature.\n\n   Which mechanism is responsible for the transfer of thermal energy to the other end of the copper\n    bar?\n\n   A   the lattice vibrations of copper ions only\n\n   B   the lattice vibrations of copper ions and the movement of high energy electrons along the bar\n\n   C   the movement of high energy copper ions along the bar\n\n   D   the movement of high energy electrons along the bar only\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q19/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q19/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q19.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q20",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "20",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Thermal transfer",
+   "problem_type": "判断并解释热传递过程",
+   "search_text": "20 The diagram shows a convection current caused by a piece of ice placed in a beaker of water at\n   room temperature.\n\n\n                                        ice\n\n                                  Q\n\n\n\n\n                              P\n\n   Which row correctly compares the temperatures and densities at water points P and Q?\n\n            temperature at P        density at P\n\n    A     higher than at Q      higher than at Q\n\n    B     higher than at Q      lower than at Q\n\n    C     lower than at Q      higher than at Q\n\n    D     lower than at Q      lower than at Q\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q20/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q20/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q20.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q21",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "21",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "21 The diagram shows a wave.\n\n                          2.0\n       displacement / cm\n                          1.0\n\n\n                       0\n                         0      4.0     8.0    12.0    16.0    20.0    24.0    28.0\n\n                        –1.0                                                distance / cm\n\n\n                        –2.0\n\n   Which row is correct?\n\n            amplitude of     wavelength of\n            the wave / cm     the wave / cm\n\n    A          1.0               4.0\n\n    B          1.0               8.0\n\n    C          2.0               4.0\n\n    D          2.0               8.0\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q21/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q21/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q21.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q22",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "22",
+   "chapter": "Waves",
+   "knowledge_point": "Sound",
+   "problem_type": "从声音传播或回声条件求量",
+   "search_text": "22 A sound wave is created by a loudspeaker that vibrates backwards and forwards 96 000 times\n    per minute.\n\n   The speed of sound is 320 m / s.\n\n   What is the wavelength of the sound wave?\n\n   A  0.20 m      B   5.0 m       C  300 m      D  18 000 m\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q22/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q22/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q22.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q23",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "23 A card is placed in front of a plane mirror so that its label is facing the mirror, as shown.\n\n                                                          plane mirror\n\n\n\n                                                               label\n\n\n                                               card\n                            observer\n\n   The label is shown.\n\n\n\n\n\n   How does the image of the label formed by the mirror appear to the observer?\n\n          A             B             C             D\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q23/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q23/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q23.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q24",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "24",
+   "chapter": "Waves",
+   "knowledge_point": "Light",
+   "problem_type": "用折射、反射或透镜关系处理光路",
+   "search_text": "24 A thin converging lens can produce both real and virtual images.\n\n   Which row describes a real and a virtual image?\n\n                          real image                                   virtual image\n\n    A     rays converge to form the image      image can be projected onto a screen\n\n    B     rays converge to form the image     image cannot be projected onto a screen\n\n    C      rays diverge to form the image       image can be projected onto a screen\n\n    D      rays diverge to form the image     image cannot be projected onto a screen\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q24/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q24/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q24.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q25",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "25",
+   "chapter": "Waves",
+   "knowledge_point": "Light",
+   "problem_type": "用折射、反射或透镜关系处理光路",
+   "search_text": "25 The speed of light in air is 3.0 x 10°m/s.\nThe critical angle for light in a transparent plastic material placed in air is 37°.\nWhat is the speed of light in the plastic material?\nA 18x 10°m/s\nB 2.4x10°m/s\nC 3.8x10%m/s\nD 5.0x10®m/s\n© UCLES 2022 0625/21/M/J/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q25/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q25/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q25.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q26",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "26",
+   "chapter": "Waves",
+   "knowledge_point": "Electromagnetic spectrum",
+   "problem_type": "辨认电磁波并解释用途",
+   "search_text": "26 Which part of the electromagnetic spectrum is used by a remote controller for a television?\n\n   A   infrared waves\n\n   B  microwaves\n\n   C   radio waves\n\n   D   visible light\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q26"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q26/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q26/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q26.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q27",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "27",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "27 Which statement correctly compares radio waves and X-rays?\n\n   A  Radio waves have a longer wavelength and a greater speed in a vacuum.\n\n   B  Radio waves have a longer wavelength and the same speed in a vacuum.\n\n   C  Radio waves have a shorter wavelength and a greater speed in a vacuum.\n\n   D  Radio waves have a shorter wavelength and the same speed in a vacuum.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q27"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q27/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q27/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q27.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q28",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "28",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "28 A student counts how many iron pins an electromagnet picks up when  its power supply is\n    switched on. Then, she counts how many pins are picked up when the power supply is switched\n      off.\n\n                                     core\n\n\n\n\n\n              d.c. power                                          d.c. power\n            supply on                                    supply off\n\n\n\n\n                                             iron pins\n\n\n   She repeats the experiment using cores made of different materials. The results are shown.\n\n   Which core is made out of soft iron?\n\n             pins picked up with      pins picked up with\n            the power supply on     the power supply off\n\n    A            0                   0\n\n    B            2                   7\n\n    C            8                   5\n\n    D           12                   0\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q28"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q28/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q28/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q28.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q29",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "29",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical charge",
+   "problem_type": "判断电荷相互作用与充放电",
+   "search_text": "29 A plastic rod is brought near to a small plastic sphere suspended from a stand. The sphere is\n    repelled by the rod.\n\n   Why is this?\n\n   A  The rod and the sphere have like charges.\n\n   B  The rod and the sphere have unlike charges.\n\n   C  The rod is charged and the sphere is uncharged.\n\n   D  The rod is uncharged and the sphere is charged.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q29"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q29/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q29/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q29.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q30",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "30",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "30 Which unit is equivalent to a volt (V)?\nA A/Q B J/C Cc J/s D W/C\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q30"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q30/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q30/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q30.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q31",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "31",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "31 A resistor converts 360 J of energy when there is a current of 3.0 A in it. The potential difference\n    across the resistor is 6.0 V.\n\n    For how long is there this current in the resistor?\n\n   A  0.05 s      B  20 s       C  180 s       D  720 s\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q31"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q31/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q31/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q31.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q32",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "32",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "32 The four circuits shown each contain four diodes.\n\n     In which circuit is the direction of the current in the resistor always from the red terminal to the\n    black terminal?\n\n              A                                B\n\n\n\n\n\n  12 V                                       12 V\n\n\n\n\n\n                  red                black                          red                black\n                 terminal             terminal                        terminal             terminal\n\n\n\n              C                                D\n\n\n\n\n\n  12 V                                       12 V\n\n\n\n\n\n                  red                black                          red                black\n                 terminal             terminal                        terminal             terminal\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q32"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q32/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q32/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q32.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q33",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "33",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "33 The diagram shows a circuit of six identical lamps connected to a battery.\n\n\n\n\n\n                                         S\n                          Q\n\n                       P                    T\n\n\n\n\n\n                            R\n                                      U\n\n   Which lamps are brightest?\n\n   A  P only\n\n   B  Q and R only\n\n   C   S, T and U only\n\n   D   P, Q, R, S, T and U are equally bright\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q33"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q33/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q33/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q33.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q34",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "34",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "34 A digital circuit is made of two logic gates.\n\n             W             Y\n                                                    Z\n                   X\n\n   Which row is correct for this digital circuit?\n\n       W      X      Y       Z\n\n    A     0       0       1       0\n\n    B     0       1       0       1\n\n    C     1       0       1       0\n\n    D     1       1       0       1\n\n\n\n\n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every\nreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the\npublisher will be pleased to make amends at the earliest possible opportunity.\n\nTo avoid the issue of disclosure of answer-related information to candidates,  all copyright acknowledgements are reproduced online in the Cambridge\nAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download\nat www.cambridgeinternational.org after the live examination series.\n\nCambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge\nLocal Examinations Syndicate (UCLES), which is a department of the University of Cambridge.\n\n© UCLES 2022                                          0625/21/M/J/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q34"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q34/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q34/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q34.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q35",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "35",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "35 A magnet is dropped vertically through a solenoid. This induces magnetic poles at both ends of\n    the solenoid.\n\n\n                N\n\n\n\n            X                                    X\n                  S\n\n                                 N\n\n\n\n\n                                    S\n\n                                                  N\n\n\n\n\n                                                       S\n\n                diagram 1               diagram 2               diagram 3\n\n   Which magnetic poles are induced at position X in diagram 1 and diagram 3?\n\n           diagram 1     diagram 3\n\n    A    N pole      N pole\n\n    B    N pole      S pole\n\n    C     S pole      N pole\n\n    D     S pole      S pole\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q35"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q35/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q35/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q35.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q36",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "36",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electromagnetic induction",
+   "problem_type": "判断感应或变压器关系",
+   "search_text": "36 Which transformer can change a 240 V a.c. input into a 15 V a.c. output?\n\n              A                               B\n\n\n\n\n 800 turns                       40 turns    1000 turns                      25 turns\n\n\n\n\n\n              C                               D\n\n\n\n\n 2400 turns                      15 turns    1200 turns                      75 turns\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q36"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q36/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q36/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q36.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q37",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "37",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "37 What is the purpose of the split-ring commutator in an electric motor?\n\n   A   to ensure that the magnetic field in the motor changes direction every half rotation\n\n   B   to ensure that the magnetic field in the motor stays in the same direction at all times\n\n   C   to ensure that the turning effect on the motor changes direction every half rotation\n\n   D   to ensure that the turning effect on the motor stays in the same direction at all times\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q37"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q37/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q37/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q37.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q38",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "38",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "38 How do the sizes of the two nuclei produced in a nuclear fission reaction compare to the size of\n    the original nucleus?\n\n   A   both larger than the original nucleus\n\n   B  one larger and one smaller than the original nucleus\n\n   C   both smaller than the original nucleus\n\n   D  one smaller and one the same size as the original nucleus\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q38"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q38/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q38/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q38.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q39",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "39",
+   "chapter": "Nuclear physics",
+   "knowledge_point": "Radioactivity",
+   "problem_type": "判断辐射、衰变或半衰期",
+   "search_text": "39 Which statement about the radioactive decay of a substance is correct?\n\n   A    It cannot be predicted when a particular nucleus will decay.\n\n   B   Placing a radioactive substance inside a lead-lined box prevents it from decaying.\n\n   C  The decay always produces poisonous gases.\n\n   D  The rate of decay increases if the substance is dissolved in water.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q39"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q39/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q39/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q39.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p2-v1-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "2",
+   "variant": "1",
+   "id": "caie-igcse-0625-2022-may-june-p2-v1-qp__q40",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "40",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "40 The diagram shows a stream of -particles travelling in a line that passes between the poles of a\n    magnet.\n\n\n                        N\n\n\n\n                                             -particles\n\n                          S\n\n\n\n     In which direction will the -particles be deflected by the magnet?\n\n   A  towards the N pole\n\n   B  towards the S pole\n\n   C   into the page\n\n   D   out of the page\n\n\n\n\n\n© UCLES 2022                                          0625/21/M/J/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 2 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_21.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p2-v1-qp__q40"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q40/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p2-v1-qp__q40/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p2-v1-qp__q40.md"
+  }
+ ]
+}

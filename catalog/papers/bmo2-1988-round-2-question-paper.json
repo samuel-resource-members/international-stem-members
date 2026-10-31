@@ -1,0 +1,260 @@
+{
+ "group": "bmo2-1988-round-2-question-paper",
+ "course_id": "BMO2",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "bmo2-1988-round-2-question-paper",
+   "year": 1988,
+   "session": "5 February 1988",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-1988-round-2-question-paper__q01",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "从圆的方程或几何条件求圆与直线关系",
+   "search_text": "1. ABC is an equilateral triangle. The circle Tf, has centre A and\nradius AB. I3 is the circle on AB as diameter. A circle with centre\nP on AC touches I, internally at C and Fz externally at Q.\nShow that AP/AC = 4/5 and calculate the ratio AQ/AC.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-1988-round-2-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-1988-round-2-question-paper__q01.md"
+  },
+  {
+   "paper_id": "bmo2-1988-round-2-question-paper",
+   "year": 1988,
+   "session": "5 February 1988",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-1988-round-2-question-paper__q02",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "2. Prove that the number of ways of arranging 2n distinguishable objects\nin n pairs is\n1.3.65. ... . (2n-1)\nif the order of the pairs and the order of the objects within each pair\nare immaterial. Eg for 4 objects a, b, c, d the 3 pairings are\nab, cd; ac, bd; ad, be.\nA party of 10 people consisting of 5 married couples is to be split into\n5 pairs. A pair may consist of two men, two women or a man and a woman ,\nbut must not be a married couple. In how many ways can this arrangement\nbe made if order, as above, is immaterial? Explain your reasoning\ncarefully.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-1988-round-2-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-1988-round-2-question-paper__q02.md"
+  },
+  {
+   "paper_id": "bmo2-1988-round-2-question-paper",
+   "year": 1988,
+   "session": "5 February 1988",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-1988-round-2-question-paper__q03",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "The numbers a, b, c, x, y, Zz satisfy the equations\nx? -— y? - z? = 2ayz\n-x? + y? - 2? = 2bzx\n-x? - y? + z? = 2cxy\nand also xyz # 0.\nBy using the first two equations express z in terms of a, b, x, y.\nProve that\nx?(1-b?) = y?(1-a?) = xy(abc)\nand hence find the value of a? + b? + c* - 2abc (independently of\nX,Y, 2).\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-1988-round-2-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-1988-round-2-question-paper__q03.md"
+  },
+  {
+   "paper_id": "bmo2-1988-round-2-question-paper",
+   "year": 1988,
+   "session": "5 February 1988",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-1988-round-2-question-paper__q04",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "Find, with proof, all solutions of\n1,2 .23 2,\nx y Z\nwhere x, y, Z are positive integers.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-1988-round-2-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-1988-round-2-question-paper__q04.md"
+  },
+  {
+   "paper_id": "bmo2-1988-round-2-question-paper",
+   "year": 1988,
+   "session": "5 February 1988",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-1988-round-2-question-paper__q05",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "L and M are two skew lines in space, ie they neither meet nor are\nparallel. A, B are the points on L, M respectively such that AB is\nperpendicular to both L and M. Points P on L, Q on M vary so\nthat\nP#A, Q#B, FQ is of constant length.\nShow that the centre of the sphere through A, B, P, Q lies on a fixed\ncircle with centre the midpoint of AB.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-1988-round-2-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-1988-round-2-question-paper__q05.md"
+  },
+  {
+   "paper_id": "bmo2-1988-round-2-question-paper",
+   "year": 1988,
+   "session": "5 February 1988",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-1988-round-2-question-paper__q06",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "Prove that if a,, bj, c, and az, bz, Cg are the lengths of the sides\nof two triangles (in some unit of measurement) then\nare also the lengths of the sides of some triangle.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-1988-round-2-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-1988-round-2-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-1988-round-2-question-paper__q06.md"
+  }
+ ]
+}

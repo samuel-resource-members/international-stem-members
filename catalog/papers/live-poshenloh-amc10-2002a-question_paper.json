@@ -1,0 +1,1276 @@
+{
+ "group": "live-poshenloh-amc10-2002a-question_paper",
+ "course_id": "AMC10",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q01",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "大幂分式：提出共同幂并整块约去 / 大指数分式：提取共同幂后估值",
+   "search_text": "The ratio \\[\\dfrac{10^{2000}+10^{2002}}{10^{2001}+10^{2001}}\\] is closest to which of the following numbers?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q01",
+    "live-poshenloh-amc10-2002a-question_paper__q01",
+    "AMC10-2002A-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The ratio \\[\\dfrac{10^{2000}+10^{2002}}{10^{2001}+10^{2001}}\\] is closest to which of the following numbers?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q02",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "自定义二元运算：对照定义直接代入 / 自定义运算：按定义逐项代入",
+   "search_text": "For the nonzero numbers \\(a,\\) \\(b,\\) and \\(c,\\) define \\[(a,b,c)=\\dfrac{a}{b}+\\dfrac{b}{c}+\\dfrac{c}{a}.\\] Find \\((2,12,9).\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q02",
+    "live-poshenloh-amc10-2002a-question_paper__q02",
+    "AMC10-2002A-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For the nonzero numbers \\(a,\\) \\(b,\\) and \\(c,\\) define \\[(a,b,c)=\\dfrac{a}{b}+\\dfrac{b}{c}+\\dfrac{c}{a}.\\] Find \\((2,12,9).\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q03",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "只改括号不改顺序：枚举合法运算树并去重 / 多重乘方改括号：枚举运算树并去重",
+   "search_text": "According to the standard convention for exponentiation, \\[2^{2^{2^{2}}}=2^{\\left(2^{\\left(2^{2}\\right)}\\right)}=2^{16}=65{,}536.\\] If the order in which the exponentiations are performed is changed, how many other values are possible?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q03",
+    "live-poshenloh-amc10-2002a-question_paper__q03",
+    "AMC10-2002A-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "According to the standard convention for exponentiation, \\[2^{2^{2^{2}}}=2^{\\left(2^{\\left(2^{2}\\right)}\\right)}=2^{16}=65{,}536.\\] If the order in which the exponentiations are performed is changed, how many ",
+     {
+      "tag": "i",
+      "children": [
+       "other"
+      ]
+     },
+     " values are possible?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q04",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "存在正整数搭配：构造统一可行值",
+   "search_text": "For how many positive integers \\(m\\) does there exist at least one positive integer \\(n\\) such that \\(m\\cdot n\\le m+n?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q04",
+    "live-poshenloh-amc10-2002a-question_paper__q04",
+    "AMC10-2002A-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For how many positive integers \\(m\\) does there exist at least one positive integer \\(n\\) such that \\(m\\cdot n\\le m+n?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q05",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆直径相接或等圆排列：先累计直径求半径再算面积 / 相切等圆围中心：先求大圆半径再作面积差",
+   "search_text": "Each of the small circles in the figure has radius one. The innermost circle is tangent to the six circles that surround it, and each of those circles is tangent to the large circle and to its small-circle neighbors. Find the area of the shaded region.\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q05",
+    "live-poshenloh-amc10-2002a-question_paper__q05",
+    "AMC10-2002A-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Each of the small circles in the figure has radius one. The innermost circle is tangent to the six circles that surround it, and each of those circles is tangent to the large circle and to its small-circle neighbors. Find the area of the shaded region.\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q06",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续乘除与加减：从最终结果逆序还原 / 错误运算的结果已知：倒推原数再正确运算",
+   "search_text": "Cindy was asked by her teacher to subtract \\(3\\) from a certain number and then divide the result by \\(9.\\) Instead, she subtracted \\(9\\) and then divided the result by \\(3,\\) giving an answer of \\(43.\\) What would her answer have been had she worked the problem correctly?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q06",
+    "live-poshenloh-amc10-2002a-question_paper__q06",
+    "AMC10-2002A-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Cindy was asked by her teacher to subtract \\(3\\) from a certain number and then divide the result by \\(9.\\) Instead, she subtracted \\(9\\) and then divided the result by \\(3,\\) giving an answer of \\(43.\\) What would her answer have been had she worked the problem correctly?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q07",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆面积比：先求半径比再平方并扣圆环 / 两圆弧长相等：半径比平方成面积比",
+   "search_text": "If an arc of \\(45^\\circ\\) on circle \\(A\\) has the same length as an arc of \\(30^\\circ\\) on circle \\(B,\\) then the ratio of the area of circle \\(A\\) to the area of circle \\(B\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q07",
+    "live-poshenloh-amc10-2002a-question_paper__q07",
+    "AMC10-2002A-Q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "If an arc of \\(45^\\circ\\) on circle \\(A\\) has the same length as an arc of \\(30^\\circ\\) on circle \\(B,\\) then the ratio of the area of circle \\(A\\) to the area of circle \\(B\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q08",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "图形拼补：分割或移动小块以保持总面积 / 拼图颜色面积：统一小面积单位再比较",
+   "search_text": "Betsy designed a flag using blue triangles, small white squares, and a red center square, as shown. Let \\(B\\) be the total area of the blue triangles, \\(W\\) the total area of the white squares, and \\(R\\) the area of the red square. Which of the following is correct?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q08",
+    "live-poshenloh-amc10-2002a-question_paper__q08",
+    "AMC10-2002A-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Betsy designed a flag using blue triangles, small white squares, and a red center square, as shown. Let \\(B\\) be the total area of the blue triangles, \\(W\\) the total area of the white squares, and \\(R\\) the area of the red square. Which of the following is correct?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q09",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "两项线性条件：倍乘相减消去一个未知量 / 线性条件求总和：约公因子后直接相加",
+   "search_text": "Suppose \\(A,\\) \\(B,\\) and \\(C\\) are three numbers for which \\(1001C-2002A=4004\\) and \\(1001B+3003A=5005.\\) The average of the three numbers \\(A,\\) \\(B,\\) and \\(C\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q09",
+    "live-poshenloh-amc10-2002a-question_paper__q09",
+    "AMC10-2002A-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose \\(A,\\) \\(B,\\) and \\(C\\) are three numbers for which \\(1001C-2002A=4004\\) and \\(1001B+3003A=5005.\\) The average of the three numbers \\(A,\\) \\(B,\\) and \\(C\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q10",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多项式方程：移项提因式后分零因子讨论 / 方程有公共因式：提取后分别令零",
+   "search_text": "Compute the sum of all the roots of \\((2x+3)(x-4)\\) \\(+(2x+3)(x-6)=0.\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q10",
+    "live-poshenloh-amc10-2002a-question_paper__q10",
+    "AMC10-2002A-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Compute the sum of all the roots of \\((2x+3)(x-4)\\) \\(+(2x+3)(x-6)=0.\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q11",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "不可拆分物体装箱：证明数量界并给达到界的摆法 / 不可拆分装箱：证明下界并给可行装法",
+   "search_text": "Jamal wants to store \\(30\\) computer files on floppy disks, each of which has a capacity of \\(1.44\\) megabytes (mb). Three of his files require \\(0.8\\) mb of memory each, \\(12\\) more require \\(0.7\\) mb each, and the remaining \\(15\\) require \\(0.4\\) mb each. No file can be split between floppy disks. What is the minimal number of floppy disks that will hold all the files?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q11",
+    "live-poshenloh-amc10-2002a-question_paper__q11",
+    "AMC10-2002A-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Jamal wants to store \\(30\\) computer files on floppy disks, each of which has a capacity of \\(1.44\\) megabytes (mb). Three of his files require \\(0.8\\) mb of memory each, \\(12\\) more require \\(0.7\\) mb each, and the remaining \\(15\\) require \\(0.4\\) mb each. No file can be split between floppy disks. What is the minimal number of floppy disks that will hold all the files?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q12",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等路程或等时间：用路程除速度列时间等式 / 同路程早晚等时：由时间倒数求准点速度",
+   "search_text": "Mr. Earl E. Bird leaves his house for work at exactly \\(8{:}00\\) A.M. every morning. When he averages \\(40\\) miles per hour, he arrives at his workplace three minutes late. When he averages \\(60\\) miles per hour, he arrives three minutes early. At what average speed, in miles per hour, should Mr. Bird drive to arrive at his workplace precisely on time?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q12",
+    "live-poshenloh-amc10-2002a-question_paper__q12",
+    "AMC10-2002A-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Mr. Earl E. Bird leaves his house for work at exactly \\(8{:}00\\) A.M. every morning. When he averages \\(40\\) miles per hour, he arrives at his workplace three minutes late. When he averages \\(60\\) miles per hour, he arrives three minutes early. At what average speed, in miles per hour, should Mr. Bird drive to arrive at his workplace precisely on time?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q13",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "同一或分割三角形面积：底乘高保持总面积一致 / 同三角形不同高：最长边对应最短高",
+   "search_text": "The sides of a triangle have lengths of \\(15,\\) \\(20,\\) and \\(25.\\) Find the length of the shortest altitude.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q13",
+    "live-poshenloh-amc10-2002a-question_paper__q13",
+    "AMC10-2002A-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The sides of a triangle have lengths of \\(15,\\) \\(20,\\) and \\(25.\\) Find the length of the shortest altitude."
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q14",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "含质数的和差或根：先用奇偶排除除2外的偶数 / 二次方程根为质数：根和奇偶限制",
+   "search_text": "Both roots of the quadratic equation \\(x^2-63x+k=0\\) are prime numbers. The number of possible values of \\(k\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q14",
+    "live-poshenloh-amc10-2002a-question_paper__q14",
+    "AMC10-2002A-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Both roots of the quadratic equation \\(x^2-63x+k=0\\) are prime numbers. The number of possible values of \\(k\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q15",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数位组成质数：先限制末位及整除条件再枚举 / 互异数字组成质数：个位限制确定总和",
+   "search_text": "The digits \\(1,\\) \\(2,\\) \\(3,\\) \\(4,\\) \\(5,\\) \\(6,\\) \\(7,\\) and \\(9\\) are used to form four two-digit prime numbers, with each digit used exactly once. What is the sum of these four primes?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q15",
+    "live-poshenloh-amc10-2002a-question_paper__q15",
+    "AMC10-2002A-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The digits \\(1,\\) \\(2,\\) \\(3,\\) \\(4,\\) \\(5,\\) \\(6,\\) \\(7,\\) and \\(9\\) are used to form four two-digit prime numbers, with each digit used exactly once. What is the sum of these four primes?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q16",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "求指定线性组合：加减或倍乘已有等式 / 多个表达式相等：设公共值整体求和",
+   "search_text": "If \\(a+1\\) \\(=b+2\\) \\(=c+3\\) \\(=d+4\\) \\(=a+b+c+d+5,\\) then \\(a+b+c+d\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q16",
+    "live-poshenloh-amc10-2002a-question_paper__q16",
+    "AMC10-2002A-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "If \\(a+1\\) \\(=b+2\\) \\(=c+3\\) \\(=d+4\\) \\(=a+b+c+d+5,\\) then \\(a+b+c+d\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q17",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "混合后取出再转移：按当前浓度追踪各成分 / 混合后往返转移：追踪两种成分体积",
+   "search_text": "Sarah pours four ounces of coffee into an eight-ounce cup and four ounces of cream into a second cup of the same size. She then transfers half the coffee from the first cup to the second and, after stirring thoroughly, transfers half the liquid in the second cup back to the first. What fraction of the liquid in the first cup is now cream?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q17",
+    "live-poshenloh-amc10-2002a-question_paper__q17",
+    "AMC10-2002A-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q18",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "拼成立方体的外露面：按角、棱、面内位置分类 / 骰子拼大立方体：按外露面数分类最小化",
+   "search_text": "A \\(3\\times 3\\times 3\\) cube is formed by gluing together \\(27\\) standard cubical dice. (On a standard die, the sum of the numbers on any pair of opposite faces is \\(7.\\)) The smallest possible sum of all the numbers showing on the surface of the \\(3\\times 3\\times 3\\) cube is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q18",
+    "live-poshenloh-amc10-2002a-question_paper__q18",
+    "AMC10-2002A-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A \\(3\\times 3\\times 3\\) cube is formed by gluing together \\(27\\) standard cubical dice. (On a standard die, the sum of the numbers on any pair of opposite faces is \\(7.\\)) The smallest possible sum of all the numbers showing on the surface of the \\(3\\times 3\\times 3\\) cube is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q19",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "绳绕障碍可达面积：按拐角扣绳长并分扇形 / 绳绕凸多边形顶点：分段剩余半径的扇形",
+   "search_text": "Spot’s doghouse has a regular hexagonal base that measures one yard on each side. He is tethered to a vertex with a two-yard rope. What is the area, in square yards, of the region outside the doghouse that Spot can reach?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q19",
+    "live-poshenloh-amc10-2002a-question_paper__q19",
+    "AMC10-2002A-Q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q20",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平行截线分割三角形：相似边比建立长度关系 / 多条平行截线：分别相似后消去共同边",
+   "search_text": "Points \\(A,\\) \\(B,\\) \\(C,\\) \\(D,\\) \\(E,\\) and \\(F\\) lie, in that order, on \\(\\overline{AF},\\) dividing it into five segments, each of length \\(1.\\) Point \\(G\\) is not on line \\(AF.\\) Point \\(H\\) lies on \\(\\overline{GD},\\) and point \\(J\\) lies on \\(\\overline{GF}.\\) The line segments \\(\\overline{HC},\\) \\(\\overline{JE},\\) and \\(\\overline{AG}\\) are parallel. Find \\(\\frac{HC}{JE}.\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q20",
+    "live-poshenloh-amc10-2002a-question_paper__q20",
+    "AMC10-2002A-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Points \\(A,\\) \\(B,\\) \\(C,\\) \\(D,\\) \\(E,\\) and \\(F\\) lie, in that order, on \\(\\overline{AF},\\) dividing it into five segments, each of length \\(1.\\) Point \\(G\\) is not on line \\(AF.\\) Point \\(H\\) lies on \\(\\overline{GD},\\) and point \\(J\\) lies on \\(\\overline{GF}.\\) The line segments \\(\\overline{HC},\\) \\(\\overline{JE},\\) and \\(\\overline{AG}\\) are parallel. Find \\(\\frac{HC}{JE}.\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q21",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多种统计量同时约束：排序、频数界与构造 / 均值中位数众数极差同时限定：界估计加构造",
+   "search_text": "The mean, median, unique mode, and range of a collection of eight integers are all equal to \\(8.\\) The largest integer that can be an element of this collection is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q21",
+    "live-poshenloh-amc10-2002a-question_paper__q21",
+    "AMC10-2002A-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The mean, median, unique mode, and range of a collection of eight integers are all equal to \\(8.\\) The largest integer that can be an element of this collection is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q22",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "删除后重新编号：追踪位置递推或逆向恢复编号 / 反复删平方编号重排：用数量递推",
+   "search_text": "A set of tiles numbered \\(1\\) through \\(100\\) is modified repeatedly by the following operation: remove all tiles numbered with a perfect square, and renumber the remaining tiles consecutively starting with \\(1.\\) How many times must the operation be performed to reduce the number of tiles in the set to one?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q22",
+    "live-poshenloh-amc10-2002a-question_paper__q22",
+    "AMC10-2002A-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A set of tiles numbered \\(1\\) through \\(100\\) is modified repeatedly by the following operation: remove all tiles numbered with a perfect square, and renumber the remaining tiles consecutively starting with \\(1.\\) How many times must the operation be performed to reduce the number of tiles in the set to one?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q23",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "共轴等腰三角形周长关系：求高后列根式方程",
+   "search_text": "Points \\(A,\\) \\(B,\\) \\(C,\\) and \\(D\\) lie on a line, in that order, with \\(AB=CD\\) and \\(BC=12.\\) Point \\(E\\) is not on the line, and \\(BE=CE=10.\\) The perimeter of \\(\\triangle AED\\) is twice the perimeter of \\(\\triangle BEC.\\) Find \\(AB.\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q23",
+    "live-poshenloh-amc10-2002a-question_paper__q23",
+    "AMC10-2002A-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Points \\(A,\\) \\(B,\\) \\(C,\\) and \\(D\\) lie on a line, in that order, with \\(AB=CD\\) and \\(BC=12.\\) Point \\(E\\) is not on the line, and \\(BE=CE=10.\\) The perimeter of \\(\\triangle AED\\) is twice the perimeter of \\(\\triangle BEC.\\) Find \\(AB.\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q24",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "两人独立取数比较：按第一人的和累计有利数",
+   "search_text": "Tina randomly selects two distinct numbers from the set \\(\\{1,2,3,4,5\\},\\) and Sergio randomly selects a number from the set \\(\\{1,2,\\ldots,10\\}.\\) The probability that Sergio’s number is larger than the sum of the two numbers chosen by Tina is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q24",
+    "live-poshenloh-amc10-2002a-question_paper__q24",
+    "AMC10-2002A-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Tina randomly selects two distinct numbers from the set \\(\\{1,2,3,4,5\\},\\) and Sergio randomly selects a number from the set \\(\\{1,2,\\ldots,10\\}.\\) The probability that Sergio’s number is larger than the sum of the two numbers chosen by Tina is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002a-question_paper__q25",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "已知梯形边长求高：平移腰并用水平投影建立直角三角形 / 已知梯形四边：平移腰构造三角形求高",
+   "search_text": "In trapezoid \\(ABCD\\) with bases \\(\\overline{AB}\\) and \\(\\overline{CD},\\) we have \\(AB=52,\\) \\(BC=12,\\) \\(CD=39,\\) and \\(DA=5.\\) The area of \\(ABCD\\) is\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-A-Q25",
+    "live-poshenloh-amc10-2002a-question_paper__q25",
+    "AMC10-2002A-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In trapezoid \\(ABCD\\) with bases \\(\\overline{AB}\\) and \\(\\overline{CD},\\) we have \\(AB=52,\\) \\(BC=12,\\) \\(CD=39,\\) and \\(DA=5.\\) The area of \\(ABCD\\) is\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002a-question_paper__q25.md"
+  }
+ ]
+}

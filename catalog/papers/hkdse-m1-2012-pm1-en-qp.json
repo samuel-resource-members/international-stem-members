@@ -1,0 +1,619 @@
+{
+ "group": "hkdse-m1-2012-pm1-en-qp",
+ "course_id": "DSE-M1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 13,
+ "questions": [
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q01",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "二项式展开",
+   "problem_type": "求展开式的系数或指定项",
+   "search_text": "1. Let n bea positive integer.\n(a) Expand (1+3x)”\" in ascending powers of x up tothe term x? .\n(b) It is given that the coefficient of x? in the expansion of e~**(1+3x)\" is 62. Find the value of n.\n2\n(4 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q01.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q02",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "er woe dv t\n2. The rate of change of the value V (in million dollars) of a flat is given by —- =————\n, where ¢ is the number\n¥ dt J4t+1\nof years since the beginning of 2012. The value of the flat is 3 million dollars at the beginning of 2012. Find the\npercentage change in the value of the flat from the beginning of 2012 to the beginning of 2014.\n(5 marks)\nProvided by dse.life\n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q02.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q03",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "kt\n3. The population P (in millions) of a city can be modelled by P= ae#” —5 , where a and k are constants and ¢\nis the number of years since the beginning of a certain year. The population of the city is recorded as follows.\n2\n4\n6\n8\n10\nt\n2.36\n2.81\n3.23\n3.55\n4.01\n(a) Express In(P+5) asa linear function of ¢.\n(b) Using the graph paper below, estimate the values of a and k. Correct your answers to the nearest integers.\n(5 marks)\nIn(P +5)\n2.20\n2.15\n2.10\n2.05\n2.00\n1.95\n10\nProvided by dse.life\n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q03.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q04",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "=1 , where x>2.\nx\n4. Let y=\ny x-2\n(a) Use logarithmic differentiation to express a 2 in terms of x.\n2\n(b) Using the result of (a), find when x=3.\n(6 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q04.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q05",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "5. The slope of the tangent to a curve S at any point (x, y) on S is given by 2 =e\"* . Let L be the tangent to\nS atthe point A(0,1) on S.\n(a) Find the equation of S.\n(b) Find the equation of L.\n(c) Find the area of the region bounded by S, L andthe line x=1.\n(7 marks)\nProvided by dse.life\n\n10\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q05.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q06",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "6. The weights (in kg) of the students in a school can be modelled by the normal distribution with mean 67 and\nstandard deviation 15. Arandom sample of 36 students is taken.\n(a) Find the probability that the mean weight of the 36 students is over 70 kg.\n(b) Itis found that 9 students in the sample like French fries. Find an approximate 95% confidence interval for\nthe proportion of students in the school who like French fries.\n(5 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q06.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q07",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "7. The number of goals scored in a randomly selected match by a football team follows a Poisson distribution with\nmean 2 . The probability that the team scores no goals in a match is 0.1653 .\n(a) Find the value of 2 correct to 1 decimal place.\n(b) Find the probability that the team scores less than 3 goals in a match.\n(c) It is known that the numbers of goals scored by the team in any two matches are independent. Find the\nprobability that the team totally scores less than 3 goals in two randomly selected matches.\n(5 marks)\nProvided by dse.life\n\n“poyeUl oq JOU [JIM SUISIeUI OY} UI UONIM sIOMsSUy\n“poxIRUI 9q JOU |]IM SUISIeUI oY} Ul US}LIM SIoMsSUy\n12\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q07.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q08",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "8. Let X bea discrete random variable with probability function shown below:\nx 1 3 4 6 9 13\nP(X = x) 0.1 a 0.25 0.15 b 0.05\nwhere a and 6 are constants. It is known that E(X)=5.5 .\n(a) Find the values of a and b.\n(b) Let F be the event that X24 and G be the event that <8.\n(i) Find P(FAG).\n(ii) Are F and G independent events? Justify your answer.\n(6 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q08.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q09",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "9. Among the students sitting for a Mathematics test, 73% of them had revised before the test. For those who had\nrevised, their scores are real numbers which can be modelled by N(59, 107) ; and for those who had not revised,\ntheir scores are real numbers which can be modelled by N(35.2, 12?) . Students who scored at least 43 passed\nthe test.\n(a) Find the probability that a randomly selected student passed the test.\n(b) Given that a randomly selected student passed the test, find the probability that he had not revised before the\ntest.\n(c) Ten students are randomly selected among those who passed the test. Find the probability that exactly four of\nthem had not revised before the test.\n(7 marks)\nProvided by dse.life\n\n“poyseU 9q JOU [JIM SUTSIeUI OY} UT UO}LIM SIOMSUY\n“poyxseUL 9g JOU [JIM SUIZIEW oY) UT UOyLIM sIoMsSUY\n14\nProvided by dse.life\n\nSection B (50 marks)\nIn this section, write your answers in the DSE(B) answer book.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q09.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q10",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "I=10.  Let   f-}e T dt  .\n\n\n                                        6                          I.      (a)   (i)  Use the trapezoidal rule with    sub-intervals to estimate\n             (ii)  Is the estimate in (a)(i) an over-estimate or under-estimate? Justify your answer.\n                                                                                                                  (7 marks)\n\n                     2二2\n                                 I=     (b)  Using a suitable substitution, show that                                                                           2  d.x  .                                            2 J e\n                                                                                                            (3 marks)\n\n     (c)  Using the above results and the Standard Normal Distribution Table on page 14, show that冗< 3.25   .\n                                                                                                             (3 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q10.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q11",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "11.  In a research of the radiation intensity of a city, an expert modelled the rate of change of the radiation intensity R (in\n     suitable units) by\n        dR  a(30-t)+10\n           dt   (t-35)2 +b\n    where  t (0{t{T)  is the number of days elapsed since the start of the research,  a  , b  and T are positive\n     constants.\n       It is known that the intensity increased to the greatest value of 6 units at  t = 35  , and then decreased to the level as\n                                        —61                            =                                        =       =      at the start of the research at  t T  . Moreover, the decrease of the intensity from  t  40  to  t  41  is  ln                                                                                            50      units.\n\n      (a)  Find the value of a .\n                                                                                                             (2 marks)\n\n      (b)  Find the value of T.\n                                                                                                             (4 marks)\n\n      (c)  Express R  in terms of t .\n                                                                                                           (4 marks)\n\n     (d)  For Ost s 35   , when would the rate of change of the radiation intensity attain its greatest value?\n                                                                                                           (4 marks)\n\n\n2012-DSE-MATH-EP(M I)-12                         15\n                                              Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q11.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q12",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "统计推断",
+   "knowledge_point": "参数估计",
+   "problem_type": "求或解释置信区间与估计",
+   "search_text": "12. A company provides cable-car service for tourists. Tourists complain that the waiting time for the cable-car is too\n     long.  From past experience, the waiting time (in minutes) of a randomly selected tourist follows a normal      distribution with meanµ and standard deviation 9 .\n\n      (a)  The customer service manager of the company conducts a survey on the waiting time to estimateµ.\n              (i)  A random sample of 16 tourists is taken and their waiting times are recorded as below:\n                         36       48       63       57       41   O     43       56                         55       62       46      55      69   385     50       56\n              Construct a 90% confidence interval forµ.\n              (ii)  Find the least sample size to be taken such that the width of the 90% confidence interval forµ is less\n               than 6 minutes.\n                                                                                                                  (7 marks)\n\n     (b)  Suppose thatµ= 51.5  . The customer service manager of the company interviews tourists and will give a\n        coupon to a tourist whose waiting time is more than 65 minutes.\n              (i)   Find the probability that he gives less than 2 coupons to the first IO tourists interviewed.\n              (ii)  Find the probability that the 5th coupon is given to the 20th tourist interviewed.\n                                                                                                             (6 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q12.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2012-pm1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2012-pm1-en-qp__q13",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "13.  Drunk driving is against the law in a city. The police set up an inspection block at the entrance of a certain highway\n      at night in order to arrest drunk drivers. From past experience, the number of drunk drivers arrested follows a\n     Poisson distribution with mean 2.3 per hour.\n\n      (a)  Find the probability that at least 2 drunk drivers are arrested in a certain hour.\n                                                                                                             (2 marks)\n\n      (b)  Given that at least 2 drunk drivers are arrested in a certain hour, find the probability that not more than 4         drunk drivers are arrested.\n                                                                                                           (3 marks)\n\n      (c)   In a certain week, the police sets up an inspection block for three nights, all at the same period from 1:00 am to          2:00 am.  It is known that the numbers of drunk drivers arrested in different nights are independent.\n              (i)   Find the probability that the third night is the first night to have at least 2 drunk drivers arrested.\n               (ii)  Find the probability that at least 2 drunk drivers are arrested in each of the 3 nights and there are totally             10 drunk drivers arrested.\n                                                                                                           (5 marks)\n\n                            ENDOFPAPER\n\n\n2012-DSE-MATH-EP(Ml)-13                        16\n                                             Provided by dse.life\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n            0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n            0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n            0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n            0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n            0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n           0.5    .1915   .1950   .1985   .2019   .2054   .2088   .2123   .2157   .2190   .2224\n           0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n            0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n            0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n            0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n           1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n            1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n            1.2    .3849   .3869   .3888   .3907   .3925   .3944   .3962   .3980   .3997   .4015\n              1.3    .4032   .4049   .4066   .4082   .4099   .4115   .4131   .4147   .4162   .4177\n            1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n           1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n           1.6    .4452   .4463   .4474   .4484   .4495   .4505   .4515   .4525   .4535   .4545\n            1.7    .4554   .4564   .4573   .4582   .4591   .4599   .4608   .4616   .4625   .4633\n            1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n           1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n            2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n            2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n            2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n            2.3    .4893   .4896   .4898   .4901   .4904   .4906   .4909   .4911   .4913   .4916\n            2.4    .4918   .4920    .492.2   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n            2.5    .4938   .4940   .4941   .4943   .4945   .4946   .4948   .4949   .4951   .4952\n            2.6    .4953   .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n            2.7    .4965   .4966   .4967   .4968   .4969   .4970   .4971   .4972   .4973   .4974\n            2.8    .4974   .4975   .4976   .4977   .4977   .4978   .4979   .4979   .4980   .4981\n            2.9    .4981   .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n            3.0    .4987   .4987   .4987   .4988   .4988   .4989   .4989   .4989   .4990   .4990\n            3.1    .4990   .4991   .4991   .4991   .4992   .4992   .4992   .4992   .4993   .4993\n            3.2    .4993   .4993   .4994   .4994   .4994   .4994   .4994   .4995   .4995   .4995\n            3.3    .4995   .4995   .4995   .4996   .4996   .4996   .4996   .4996   .4996   .4997\n            3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n            3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n         Note  :   An entry in the table is the area under the standard normal curve between  x = 0 and\n                 x = z  (zH0)  . Areas for negative values of z can be obtained by symmetry.\n\n                                            －－－－ __ A(z)\n\n                          —-x2                                                                                            z  1                                                       A(z)= J -e 2 dx                         。乙\n      。\n\n\n2012-DSE-MATH-EP(Ml)-14                         17\n                                             Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2012 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2012/2012ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2012-pm1-en-qp__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2012-pm1-en-qp__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2012-pm1-en-qp__q13.md"
+  }
+ ]
+}

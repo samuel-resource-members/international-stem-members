@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2020-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2020-usapho-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2020-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "Question A1\n\nBraking up\n\nAn inﬁnitely long wire with linear charge density −λ lies along the z-axis. An inﬁnitely long\ninsulating cylindrical shell of radius a is concentric with the wire and can rotate freely about the\nz-axis. The shell has moment of inertia per unit length I. Charge is uniformly distributed on the\n                          λ\nshell, with surface charge density 2πa.\n   The system is immersed in an external magnetic ﬁeld B0ˆz, and is initially at rest. Starting at\nt = 0, the external magnetic ﬁeld is slowly reduced to zero over a time T ≫a/c, where c is the\nspeed of light.\n\n\n\n\n\na. Find an expression of the ﬁnal angular velocity ω of the cylinder in terms of the symbols given\n  and other constants.\n\nb. You may be surprised that the expression you ﬁnd above is not zero! However, the electric and\n   magnetic ﬁelds can have angular momentum. Analogous to the “regular” angular momentum\n   deﬁnition, the EM ﬁeld angular momentum per unit volume at a displacement r from the axis\n   of rotation is:\n                                      L(r) = r × P(r).\n\n   P(r) is a vector analogous to momentum, given by\n\n                                P(r) = α · E(r) × B(r)  .\n\n\n   where α is some proportionality constant. Find an expression for α in terms of given variables\n  and fundamental constants.\n\n2020 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020_USAPhO_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2020-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2020-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2020-usapho-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2020-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question A2\n\nSwoosh!\n\nIn 1851, L´eon Foucault built a pendulum 67 metres tall with a 28-kg weight. He connected it to the\ntop of the Panth´eon in Paris with a bearing that enabled it to freely change its plane of oscillation.\nBecause of the Earth’s rotation, the plane of oscillation slowly moved over time:  if we imagine\na large horizontal clock under the pendulum,  if initially the oscillations went from “12” to “6”,\nlater on they would move to the “3-9” plane, for example, as shown in the ﬁgure below. Perhaps\nsurprisingly, the time it took the oscillations to go back to their original plane is longer than 12\nhours. In this problem we will investigate why this is the case, and what the shape the pendulum\ntraces out.\n\n\n\n\n\nFigure 1: Left: A schematic of Foucault’s pendulum. Right: The pendulum motion projected on a\nhorizontal plane in the rotating lab frame.\n\n\n    First, consider the case of a Foucault pendulum installed precisely at the North Pole, with\nlength l. We denote pg/l = ω. The angular velocity of the Earth is Ω.\n   John is an observer looking at the pendulum from a ﬁxed point in space. At t = 0, he sees the\npendulum at position (A, 0) and with velocity (0, V ) in the x-y (horizontal) plane.\n\na. For John, what are the approximate equations describing the motion of the pendulum in the\n   x-y plane? You may assume that the amplitude of the oscillations is small. We deﬁne the\n   coordinates of the pendulum at rest as (0, 0).\n\nb. What will the coordinates x, y in Jonh’s frame be at a later time t?\n\nc. Ella, an observer resides at the North Pole, is also looking at the pendulum. What are the\n   coordinates, ˜x(t) and ˜y(t), as observed by Ella? Assume that at time t = 0, the coordinate\n   systems of John’s and Ella’s overlap.\n\nd. What is the speed of the pendulum bob observed by Ella at t = 0?\n\ne. Find the initial conditions for A, V , such that as measured in Ella’s frame:\n\n      i. the pendulum passes precisely through its resting position.\n\n     ii. it has a “spike” at the points of maximal amplitude (see ﬁgure below) instead of a “rounded”\n      trajectory.\n\n2020 USAPhO                            Part A                                       4\n\n\n\n\n\n       Figure 2: Two possible trajectories with “spike”(left) and more “rounded” (right).\n\n\n   In a rotating frame, a ﬁctitious force known as the Coriolis force acts on the particles.  For\n   Foucault’s pendulum, the Coriolis force acts primarily in the horizontal plane, in a direction\n   perpendicular to the velocity of the mass in the Earth’s frame with magnitude:\n\n\n                            F = 2mΩv · sin θ,                              (A2-1)\n\n   where m and v are the pendulum’s mass and its velocity, and θ the latitude (90◦for the North\n   Pole). Note that when the velocity changes sign, so does the Coriolis force.\n\n f. How long would it take for the plane of oscillation of Foucault’s pendulum to return to its initial\n   value in Paris, which has a latitude of about 49◦.\n\n2020 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020_USAPhO_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2020-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2020-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2020-usapho-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2020-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Physical quantities and measurement",
+   "problem_type": "读仪器、换单位或求测量量",
+   "search_text": "Question A3\n\nSpin Cycle\n\nCosmonaut Carla is preparing for the Intergalactic 5000 race. She practices for her race on her\nhandy race track of radius R, carrying a stopwatch with her. Her racecar maintains a constant\nspeed v during her practices. For this problem, you can assume that v > 0.1c, where c is the speed\nof light.\n\na. How much time elapses on Carla’s stopwatch with each revolution?\n\n   Carla decides to do a fun experiment during her training. She places two stationary clocks\ndown: Clock A at the center of the race track, i.e. the origin; and Clock B at a point on the race\ntrack denoted as (R, 0). She then begins her training.\n   For parts (b) through (d), we deﬁne Carla’s inertial reference frame (CIRF) as an inertial\nreference frame in which Carla is momentarily at rest, and which has the same origin of coordinates\nas the lab frame. Thus, CIRF is a new inertial frame each moment. The times on the clocks and\nstopwatch are all calibrated such that they all read 0 in CIRF when she passes by Clock B for the\nﬁrst time.\n\nb. In the lab frame (the reference frame of the clocks, which are at rest), what is the oﬀset between\n   Clock A and Clock B?\n\nc. If Carla’s stopwatch measures an elapsed time τ, what does Clock A measure in CIRF?\n\nd. If Carla’s stopwatch measures an elapsed time τ, what does Clock B measure in CIRF?\n\n2020 USAPhO Part B\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020_USAPhO_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2020-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2020-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2020-usapho-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2020-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question B1\n\nString Cheese\n\na. When a faucet is turned on, a stream of water ﬂows down with initial speed v0 at the spout.\n   For this problem, we deﬁne y to be the vertical coordinate with its positive direction pointing\n   up.\n\n   Assuming the water speed is only aﬀected by gravity as the water falls, ﬁnd the speed of water\n   v(y) at height y. Deﬁne the zero of y such that the equation for v2 has only one term and ﬁnd\n   y0, the height of the spout.\n\nb. Assume that the stream of water falling from the faucet is cylindrically symmetric about a\n   vertical axis through the center of the stream. Also assume that the volume of water per unit\n   time exiting the spout is constant, and that the shape of the stream of water is constant over\n   time.\n\n   In this case, the radius r of the stream of water is a function of vertical position y. Let the\n   radius at the faucet be r0. Using your result from part (a), ﬁnd r(y).\n\n    If r(y) is not constant, it implies that the water has some radial velocity during its fall, in\n   contradiction to our assumptions in part (a) that the motion is purely vertical. You may assume\n   throughout the problem that any such radial velocity is negligibly small.\n\nc. The water-air interface has some surface tension, σ. The eﬀect of surface tension is to change\n   the pressure in the stream according to the Young-Laplace equation,\n\n                                             1   1\n                        ∆P = σ  +        ,\n                                                  r  R\n\n   where ∆P  is the diﬀerence in pressure between the stream and the atmosphere and R is the\n   radius of curvature of the vertical proﬁle of the stream, visualized below. (R < 0 for the stream\n   of water; the radius of curvature would be positive only if the stream proﬁle curved inwards.)\n\n\n                                                     |R|\n\n\n\n\n\n   For this part of the problem, we assume that |R| ≫|r|, so that the curvature of the vertical\n   proﬁle of the stream can be ignored. Also assume that water is incompressible.\n\n   Accounting for the pressure in the stream, ﬁnd a new equation relating for r(y) in terms of\n   σ, r0, v0, and ρ, the density of water. You do not need to solve the equation for r.\n\nd. After falling for some distance, the water stream usually breaks into smaller droplets.  This\n   occurs because small random perturbations to the shape of the stream grow over time, eventually\n   breaking the stream into apart.\n\n2020 USAPhO                            Part B                                       7\n\n\n\n\n   For the rest of this problem we ignore the change in the radius of the stream due to changing\n   speed of the water, as considered earlier. Instead, we examine small random variations in the\n   radius of the stream.\n\n  Random variations can be broken down into a sum of sinusoidal variations in stream radius,\n   each with a diﬀerent wavenumber k. We can analyze these diﬀerent sinusoidal variations inde-\n   pendently.\n\n   Consider a stream of water whose radius obeys\n\n                                       r(y) = r0 + A cos(ky),\n\n   where A ≪r0 is the perturbation amplitude. To analyze such a stream, it is suﬃcient to consider\n   only the thickest and thinnest parts of the stream.\n\n   Accounting for both sources of curvature, ﬁnd a condition on r0 and k such that the size of\n   perturbations increases with time.\n\n\n                                            r(y)  |R(y)|\n\n2020 USAPhO Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020_USAPhO_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2020-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2020-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2020-usapho-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2020-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Waves",
+   "knowledge_point": "Light",
+   "problem_type": "用折射、反射或透镜关系处理光路",
+   "search_text": "Question B2\n\nMirror Mirror on the Wall\n\nConsider a square room with side length L. The bottom wall of the room is a perfect mirror.* A\nperfect monochromatic point source with wavelength λ is placed a distance d above the center of\nthe mirror, where λ ≪d ≪L.\n\n                                L\n\n\n\n\n\n                                           L\n\n\n\n                                           point source\n                                         d                            mirror\n\n                                               L\n                                                                2\n\n   *Remember that the phase of light reﬂected by a mirror changes by 180◦.\n\na. On the right wall, an interference pattern emerges. What is the distance y between the bottom\n   corner and the closest bright fringe above it? Hint: you may assume λ ≪y ≪L as well.\n\nb. You plan on running an experiment to determine λ in a room with L = 40 m, and you know\n   that λ is between 550 and 750 nm. You will measure d and y10 (the distance of the tenth fringe\n   from the corner) with the same ruler (with markings of 1 mm). At what d should you place the\n   point source to minimize your error in your λ measurement? Roughly what is that minimum\n   error?\n\nc. Now suppose we place a transparent hemispherical shell of thickness s and index of refraction\n  n over the source such that all light from the source that directly strikes the right wall passes\n   through the shell, and all light from the source that strikes the mirror ﬁrst does not pass through\n   the shell.\n\n\n\n\n                                      hemispherical shell\n\n                                       d\n\n\n                                             L\n                                                              2\n\n\n  At what y is the fringe closest to the bottom-most corner now? (You may ﬁnd it convenient to\n   use ⌊x⌋, the largest integer below x.) What is the spacing between the fringes now? Ignore any\n   reﬂections or diﬀraction from the hemispherical shell.\n\n2020 USAPhO                            Part B                                       9\n\n\n\n\nd. Now, suppose the hemispherical shell is removed, and we instead observe the interference pattern\n   on the top wall. To the nearest integer, what is the total number of fringes that appear on the\n   top wall? You may assume that d ≪L.\n\n2020 USAPhO\nPart B\n10\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020_USAPhO_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2020-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2020-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2020-usapho-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2020-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "Question B3\n\nReal Expansion\n\nConsider a “real” monatomic gas consisting of N atoms of negligible volume and mass m in equilib-\nrium inside a closed cubical container of volume V . In this “real” gas, the attractive forces between\natoms is small but not negligible. Because these atoms have negligible volume, you can assume\nthat the atoms do not collide with each other for the entirety of the problem.\n\na. Consider an atom in the interior of this container of volume V . Suppose the potential energy of\n   the interaction is given by\n                                                               0         r < d\n                                                          u(r) =           6\n                                   −ϵ  d     r ≥d\n                            r\n\n   where d ≪V 1/3  is the minimum allowed distance between two atoms.  Assume the gas is\n   uniformly distributed within the container, what is the average potential energy of this atom?\n                                   2πd3ϵ\n   Write your answer in terms of a′ =           , N, and V .\n                                    3\n\nb. What is the average potential energy of an atom near the boundary of the box? Assume that\n   there is no interaction between atoms near the boundary and the box itself.\n\nc. Using Bernoulli’s law P + U + ρv2/2 = constant, with pressure P, potential energy density U,\n   mass density ρ and ﬂuid velocity v, what is the pressure at the boundary of the box? Assume\n   the interior pressure is given by the ideal gas law.\n\nd. Assuming most atoms are in the interior of the box, what is the total energy of the atoms in\n   the box?\n\n  Now consider an insulated partitioned container with two sections, each of volume V . We ﬁll\none side of the container with N atoms of this “real” gas at temperature T, which the other side\nbeing a vacuum. We then quickly remove the partition and let the gas expand to ﬁll the entirety\nof the partitioned container. During this expansion, the energy of the gas remains unchanged.\n\ne. What is the ﬁnal temperature of the gas after the expansion?\n\n f. What is the increase in the entropy of the universe as a result of the free expansion? Give your\n                             a′N   answer to ﬁrst order in          .                          V kBT\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/2020_USAPhO_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2020-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2020-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2020-usapho-question-paper__q06.md"
+  }
+ ]
+}

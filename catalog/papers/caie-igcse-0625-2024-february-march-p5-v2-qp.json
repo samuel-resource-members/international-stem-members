@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2024-february-march-p5-v2-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2024-february-march-p5-v2-qp",
+   "year": 2024,
+   "session": "February/March",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2024-february-march-p5-v2-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "1    In this experiment, you will use a balancing method to determine the mass of a metre ruler.\n\n    Refer to Fig. 1.1.\n\n                           a       load U\n                       b                         50.0 cm mark\n0.0 cm mark                                                           metre ruler\n\n                                                                              bench\n                             pivot\n\n                                               Fig. 1.1\n\n     (a)  Place the metre ruler on the pivot. Place load U on the metre ruler with its centre at the 5.0 cm\n        mark. Keep load U at the 5.0 cm mark and adjust the position of the metre ruler on the pivot\n           until the metre ruler is as near to being balanced as possible.\n\n       The distance a between the centre of load U and the 50.0 cm mark on the metre ruler is\n        recorded in Table 1.1.\n\n          In Table 1.1, record the position of the pivot.\n\n         Calculate and record in Table 1.1, the distance b between the centre of load U and the pivot.\n       Use the formula b = (position of pivot – position of load U).\n\n        Repeat the procedure  for  positions  of load U  at the 10.0 cm, 15.0 cm, 20.0 cm and\n        25.0 cm marks.\n\n                                        Table 1.1\n\n                           position of                  position of                                  a / cm                 b / cm                        load U / cm                  pivot / cm\n                             5.0         45.0\n                          10.0         40.0\n                          15.0         35.0\n                          20.0         30.0\n                          25.0         25.0\n                                                                                                                       [2]\n\n\n\n\n\n© UCLES 2024                                         0625/52/F/M/24\n\n(b)   (i)  Plot a graph of a / cm (y-axis) against b / cm (x-axis).\n           You do not need to start your axes at the origin (0,0).\n\n           Draw the best-fit, straight line.\n\n\n\n\n\n                                                                                                                       [4]\n\n             (ii)  Determine the gradient G of the graph. Show clearly on the graph how you obtained the\n            necessary information.\n\n\n\n                                 G =  .........................................................  [1]\n                                                                  k\n     (c)  Calculate the mass M of the metre ruler. Use the equation M =          , where k = 25 g.                                         G – 1\n        Give an appropriate unit.\n\n\n\n                              M =  .........................................................  [1]\n\n\n\n\n\n© UCLES 2024                                         0625/52/F/M/24                              [Turn over\n\n(d)  Explain how you accurately place the centre of load U on the correct mark of the metre ruler\n        each time. You may draw a diagram.\n\n\n\n\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n     (e) The accuracy of the result obtained by this procedure depends on the metre ruler, without a\n          load, balancing with the pivot at the 50.0 cm mark.\n      A student finds that this does not happen. He adds a small piece of modelling clay to one end\n          of the metre ruler to correct it.\n        Suggest if this is a suitable change for this experiment. Explain your answer.\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2024                                         0625/52/F/M/24\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — February/March 2024 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_m24_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-february-march-p5-v2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-february-march-p5-v2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-february-march-p5-v2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-february-march-p5-v2-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-february-march-p5-v2-qp",
+   "year": 2024,
+   "session": "February/March",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2024-february-march-p5-v2-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2    In this experiment, you will investigate circuits containing different combinations of three resistors\n    connected between terminals P and Q.\n\n     Circuit A has been set up for you. It is shown in Fig. 2.1.\n    The protective resistor must remain in place throughout the experiment.\n\n                 protective resistor\n\n\n\n\n                    A\n\n                                      V\n\n\n\n                         P                     Q\n\n                                               Fig. 2.1\n\n     Circuit A\n\n     (a)   (i)  Close the switch.\n\n           Measure and record in Table 2.1:\n                •    the potential difference (p.d.) V across terminals P and Q\n                •    the current I in the circuit.\n                                                                                                                       [3]\n\n          Open the switch.\n\n                                        Table 2.1\n\n                                V /          I /      R /\n                                Circuit A\n                                Circuit B\n                                Circuit C\n\n             (ii)  Calculate and record in Table 2.1 a resistance R. Use your values of V and I and\n                     V\n             the equation R =     .\n                                  I\n                                                                                                                       [1]\n\n\n            (iii)  Add units to the column headings in Table 2.1.                                               [1]\n\n\n\n\n\n© UCLES 2024                                         0625/52/F/M/24                              [Turn over\n\nCircuit B\n\n     (b) Connect the resistors between terminals P and Q as shown in Fig. 2.2.\n\n\n\n                P                            Q\n\n                                               Fig. 2.2\n\n        Repeat the procedures in (a)(i) and (a)(ii).                                                         [1]\n\n     Circuit C\n\n     (c)  Connect the resistors between terminals P and Q as shown in Fig. 2.3.\n\n\n\n\n                    P                     Q\n\n\n                                               Fig. 2.3\n\n        Repeat the procedures in (a)(i) and (a)(ii).                                                         [1]\n\n     (d)   (i)  Calculate a resistance RA. Use the value of R from Circuit A and the equation\n                                R\n                                  RA =                                          3\n\n                                         RA =  ...............................................................\n             Calculate a resistance RB. Use the value of R from Circuit B and the equation\n                                R\n                                  RB =                                                  1.5\n\n                                         RB =  ...............................................................\n             Calculate a resistance RC. Use the value of R from Circuit C and the equation\n                                 RC = 3R\n\n                                       RC =  ...............................................................\n                                                                                                                       [2]\n\n\n\n\n\n© UCLES 2024                                         0625/52/F/M/24\n\n(ii)  A student suggests that RA, RB and RC should all be equal.\n             State whether your results support this suggestion. Justify your statement with reference\n               to values from your results.\n\n             statement  ..........................................................................................................................\n\n                justification  ........................................................................................................................\n\n                       ...........................................................................................................................................\n                                                                                                                       [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2024                                         0625/52/F/M/24                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — February/March 2024 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_m24_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-february-march-p5-v2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-february-march-p5-v2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-february-march-p5-v2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-february-march-p5-v2-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-february-march-p5-v2-qp",
+   "year": 2024,
+   "session": "February/March",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2024-february-march-p5-v2-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Waves",
+   "knowledge_point": "Light",
+   "problem_type": "用折射、反射或透镜关系处理光路",
+   "search_text": "3    In this experiment, you will determine the focal length of a converging lens by two methods.\n\n    Refer to Fig. 3.1.\n\n illuminated object\n                        u                           v                                                                                screen\n  lamp                                             lens\n                  hO                                                        bench\n\n\n                                               Fig. 3.1\n\n     (a)  Set up the apparatus as shown in Fig. 3.1.\n\n        Set the distance u between the illuminated object and the lens to 20.0 cm.\n        Switch on the lamp.\n\n        Place the screen near the lens. Move the screen until a sharp image of the illuminated object\n           is seen on the screen.\n\n             (i)  Describe a technique for obtaining an image that is as sharp as possible.\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  Measure v, the distance from the lens to the screen as indicated in Fig. 3.1.\n\n                                                   v =  ..........................................................cm\n\n           Measure hO, the height of the illuminated object, indicated in Fig. 3.1.\n                                            hO =  ..........................................................cm\n           Measure hI, the height of the image on the screen.\n                                                          hI =  ..........................................................cm\n                                                                                                                       [2]\n             Switch off the lamp.\n\n\n\n\n\n© UCLES 2024                                         0625/52/F/M/24\n\nhI\n            (iii)  Calculate a value M for the magnification, using the equation M =      .                                                              hO\n\n                              M =  .........................................................  [1]\n\n     (b)  Calculate a value f1 for the focal length of the lens. Use your values from (a)(ii) and (a)(iii)\n                              v\n       and the equation f1 =              .                        (M + 1)\n\n        Give an appropriate unit.\n\n                                                                         f1 =  .........................................................  [2]\n\n     (c)  Describe one  difficulty that  is experienced when using a ruler to measure the height\n          of the image. Suggest an improvement to the apparatus to overcome this.\n       You are not required to do an experiment with this improved apparatus.\n\n           difficulty .....................................................................................................................................\n\n               ...................................................................................................................................................\n\n        improvement .............................................................................................................................\n\n               ...................................................................................................................................................\n                                                                                                                       [2]\n\n     (d)  Adjust the position of the lens so that u = 40.0 cm.\n        Switch on the lamp.\n\n        Place the screen near the lens. Move the screen until a sharp image of the illuminated object\n           is seen on the screen.\n\n       Measure the distance v between the lens and the screen as indicated in Fig. 3.1.\n\n                                                   v =  .................................................... cm [1]\n\n        Switch off the lamp.\n\n     (e)  Calculate a second value f2 for the focal length of the lens. Use your values from (d) and\n                        uv\n         the equation f2 =                           (u + v).\n\n\n                                                                         f2 =  .........................................................  [1]\n      (f)  Suggest which value of focal length, f1 or f2 , might be more accurate. Explain your answer.\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n© UCLES 2024                                         0625/52/F/M/24                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — February/March 2024 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_m24_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-february-march-p5-v2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-february-march-p5-v2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-february-march-p5-v2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-february-march-p5-v2-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-february-march-p5-v2-qp",
+   "year": 2024,
+   "session": "February/March",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2024-february-march-p5-v2-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the effect of insulation on the cooling of a liquid.\n\n    Plan an experiment which will enable her to investigate how changing the thickness of insulation\n    surrounding a beaker affects the rate of cooling of hot water in the beaker.\n\n    You are not required to do the experiment.\n\n    The apparatus available includes:\n\n     •   a glass beaker\n     •   a supply of hot water\n     •   a lid to fit the beaker\n     •    strips of insulation which can be cut to size.\n\n     In your plan:\n\n     •     list any additional apparatus needed\n\n     •    explain briefly how to do the experiment, including the measurements to take so that the rate\n          of cooling can be determined\n\n     •    state the key variables to keep constant\n\n     •   draw a table, or tables, with column headings, to show how to display the readings (you are\n        not required to enter any readings in the table)\n\n     •    explain how to use the readings to reach a conclusion.\n\n    You may draw a diagram if it helps to explain your plan.\n\n\n\n\n\n© UCLES 2024                                         0625/52/F/M/24\n\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n..................................................................................................................................................................\n............................................................................................................................................................ [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — February/March 2024 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_m24_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-february-march-p5-v2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-february-march-p5-v2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-february-march-p5-v2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-february-march-p5-v2-qp__q04.md"
+  }
+ ]
+}

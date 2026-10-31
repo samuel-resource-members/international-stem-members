@@ -1,0 +1,337 @@
+{
+ "group": "mat-2014-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2014-mat-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2014-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "描述变换或画变换后的图像",
+   "search_text": "1. For ALL APPLICANTS.\n\n   For each part of the question on pages 3-7 you will be given ﬁve possible answers,\njust one of which is correct. Indicate for each part A-J which answer (a), (b), (c), (d),\nor (e) you think is correct with a tick (!)  in the corresponding column in the table\nbelow. Please show any rough working in the space provided between the parts.\n\n\n\n\n                         (a)          (b)           (c)          (d)           (e)\n\n\n\n      A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n       E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n         J\n\n\n\n\n\n                                      2\n\nA. The inequality\n                                   x4 < 8x2 + 9\n\nis satisﬁed precisely when\n\n(a)  −3 < x < 3;   (b)  0 < x < 4;   (c)  1 < x < 3;   (d)  −1 < x < 9;   (e)  −3 < x < −1.\n\n\n\n\n\nB. The graph of the function y = log10(x2 −2x + 2) is sketched in\n\n             y                                    y\n                                                                                      y\n                                                                           1\n           1                                           1\n                                                                                                           x\n                                                          -2            2      4\n                                                              -1\n\n                                  x                                   x         -2   -2             2      4        -2            2      4\n               (a)                             (b)                                (c)\n                                                 y\n             y\n                                           1           1\n\n                                  x\n   -2            2      4\n        -1\n        -2                                                                      x\n                               -2            2      4\n               (d)                                (e)\n\n                                                               Turn over\n\n\n\n                                      3\n\nC. The cubic\n                       y = kx3 −(k + 1)x2 + (2 −k)x −k\n\nhas a turning point, that is a minimum, when x = 1 precisely for\n\n                                        1\n   (a)  k > 0,   (b)  0 < k < 1,   (c)  k > 2,   (d)  k < 3,   (e)   all values of k.\n\n\n\n\n\nD. The reﬂection of the point (1, 0) in the line y = mx has coordinates\n\n             m2 + 1  m\n         (a)                                       ,     (b)      (1, m) ,     (c)     (1 −m, m) ,             m2 −1, m2 −1\n                 1 −m2  2m\n         (d)                                       ,     (e)     1 −m2, m  .                 1 + m2, 1 + m2\n\n\n\n\n\n                                      4\n\nE. As x varies over the real numbers, the largest value taken by the function\n\n                                                                  2\n                             4 sin2 x + 4 cos x + 1\n\nequals\n       √                √           √\n(a)    17+12  2,     (b)     36,     (c)    48  2,     (d)    64−12  3,     (e)     81.\n\n\n\n\n\nF. The functions S and T are deﬁned for real numbers by\n\n                     S(x) = x + 1,    and    T(x) = −x.\n\nThe function S is applied s times and the function T is applied t times, in some order,\nto produce the function\n                              F(x) = 8 −x.\n\nIt is possible to deduce that:\n    (a) s = 8 and  t = 1.\n   (b) s is odd and t is even.\n    (c) s is even and t is odd.\n   (d) s and t are powers of 2.\n    (e) none of the above.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      5\n\nG. Let n be a positive integer. The coeﬃcient of x3y5 in the expansion of\n\n                                    (1 + xy + y2)n\n\nequals\n\n                             n   n           n          n\n       (a)  n,     (b)  2n,     (c)                   ,     (d)  4        ,     (e)           .\n                                  3   5              4             8\n\n\n\n\n\nH. The function F(n) is deﬁned for all positive integers as follows: F(1) = 0 and for all\nn ⩾2,\n\n        F(n) = F(n −1) + 2             if 2 divides n but 3 does not divide n;\n        F(n) = F(n −1) + 3             if 3 divides n but 2 does not divide n;\n        F(n) = F(n −1) + 4             if 2 and 3 both divide n;\n           F(n) = F(n −1)             if neither 2 nor 3 divides n.\n\nThe value of F(6000) equals\n\n     (a)  9827,     (b)  10121,     (c)  11000,     (d)  12300,     (e)  12352.\n\n\n\n\n\n                                      6\n\nI. The graph of the function\n                                  y = 2x2−4x+3\ncan be obtained from the graph of y = 2x2 by\n    (a) a stretch parallel to the y-axis followed by a translation parallel to the y-axis.\n   (b) a translation parallel to the x-axis followed by a stretch parallel to the y-axis.\n    (c) a translation parallel to the x-axis followed by a stretch parallel to the x-axis.\n   (d) a translation parallel to the x-axis followed by reﬂection in the y-axis.\n    (e) reﬂection in the y-axis followed by translation parallel to the y-axis.\n\n\n\n\n\nJ. For all real numbers x, the function f(x) satisﬁes\n\n                                       Z 1\n                    6 + f(x) = 2f(−x) + 3x2      f(t) dt   .\n                                                 −1\n\nIt follows that R 1 f(x) dx equals               −1\n\n                                                  27\n               (a)   4,     (b)   6,     (c)  11,     (d)        ,     (e)  23.\n                                                  2\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2014",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions14_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2014-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2014-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2014-mat-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2014-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. For ALL APPLICANTS.\n\nLet a and b be real numbers. Consider the cubic equation\n\n                             x3 + 2bx2 −a2x −b2 = 0.                             (∗)\n\n(i) Show that if x = 1 is a solution of (∗) then\n                   √      √\n                             1 −  2 ⩽b ⩽1 +   2.\n\n(ii) Show that there is no value of b for which x = 1 is a repeated root of (∗).\n\n(iii) Given that x = 1 is a solution, ﬁnd the value of b for which (∗) has a repeated root.\n\nFor this value of b, does the cubic\n\n                            y = x3 + 2bx2 −a2x −b2\n\nhave a maximum or minimum at its repeated root?\n\n\n\n\n\n                                      8\n\nTurn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2014",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions14_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2014-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2014-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2014-mat-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2014-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "3.\n             MATHEMATICS                \n                                                               MATHEMATICS & STATISTICS       For APPLICANTS IN                                     ONLY.\n                MATHEMATICS & PHILOSOPHY\n                                                               MATHEMATICS & COMPUTER SCIENCE \n\nComputer Science and Computer Science & Philosophy applicants should turn to\npage 14.\n\nThe function f(x) is deﬁned for all real numbers and has the following properties, valid\nfor all x and y:\n\n   (A)    f(x + y) = f(x) f(y).\n   (B)    df/dx = f(x).\n   (C)    f(x) > 0.\n\nThroughout this question, these should be the only properties of f that you use; no\nmarks will be awarded for any use of the exponential function.\n\nLet a = f(1).\n\n(i) Show that f(0) = 1.\n\n(ii) Let\n                               Z 1\n                                   I =    f(x) dx.\n                                                  0\nShow that I = a −1.\n\n(iii) The trapezium rule with n steps is used to produce an estimate In for the integral\nI. Show that\n                                 1   b + 1\n                               In =             (a −1)\n                             2n   b −1\n\nwhere b = f(1/n).\n\n(iv) Given that In ⩾I for all n, show that\n\n                                        2     n\n                            a ⩽  1 +                 .\n                                   2n −1\n\n\n\n\n\n                                     10\n\n11\nTurn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2014",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions14_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2014-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2014-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2014-mat-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2014-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.\n              MATHEMATICS           \n                                  For APPLICANTS IN  MATHEMATICS & STATISTICS\n              MATHEMATICS & PHILOSOPHY ONLY.\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 14.\n\nIn the diagram below is sketched a semicircle with centre B and radius 1. Three points\nA, C, D lie on the semicircle as shown with α denoting angle CAB and β denoting angle\nDAB. The triangles ABC and ABD intersect in a triangle ABX.\n\nThroughout the question we shall consider the value of α ﬁxed. Assume for now that\n0 < α ⩽β ⩽π/2.\n                       D\n\n                               C\n\n                         X\n\n\n                   Β Α\n             A           B\n\n(i) Show that the area of the triangle ABC equals\n\n                                  1\n                                          sin(2α).\n                                  2\n\n(ii) Let\n                                 area of triangle ABX\n                    F =                                    .\n                                 area of triangle ABC\nWithout calculation, explain why, for every k in the range 0 ⩽k ⩽1, there is a unique\nvalue of β such that F = k.\n\n(iii) Find the value of β such that F = 1/2.\n\n(iv) Show that\n                                       sin(2β) sin α\n                     F =                                   sin(2β −α) sin(2α).\n(v) Suppose now that 0 < β < α ⩽π/2. Write down, without further calculation, an\nexpression for the area of ABX and hence a formula for F.\n\n\n\n\n\n                                     12\n\n13\nTurn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2014",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions14_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2014-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2014-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2014-mat-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2014-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For ALL APPLICANTS.\n\n   Poets use rhyme schemes to describe which lines of a poem rhyme. Each line is\ndenoted by a letter of the alphabet, with the same letter given to two lines that rhyme.\nTo say that a poem has the rhyming scheme ABABCDED, indicates that the ﬁrst and\nthird lines rhyme, the second and fourth lines rhyme, and the sixth and eighth lines\nrhyme, but no others.\n   More precisely, the ﬁrst line of the poem is given the letter A. If a subsequent line\nrhymes with an earlier line, it is given the same letter; otherwise, it is given the ﬁrst\nunused letter.  (For the purposes of this question, you can assume that we have an\ninﬁnite supply of “letters”, not just the 26 letters of the alphabet.)\n   The purpose of this question is to investigate how many diﬀerent rhyme schemes\nthere are for poems of n lines. We write rn for this number.\n\n  (i) There are ﬁve diﬀerent rhyming schemes for poems of three lines (so r3 = 5). List\n     them.\n\n   Let cn,k denote the number of rhyme schemes for poems with lines n that use exactly\nk diﬀerent letters. For example c3,2 = 3 corresponding to the rhyming schemes AAB,\nABA and ABB.\n\n  (ii) What is cn,1 for n ⩾1?\n\n    What is cn,n?\n\n     Explain your answers.\n\n (iii) Suppose that 1 < k < n. By considering the ﬁnal letter of a rhyming scheme,\n     explain why\n\n                                      cn,k = kcn−1,k + cn−1,k−1 .\n\n (iv) Write down an equation showing how to calculate rn in terms of the cn,k. Hence\n      calculate r4.\n\n (v) Give a formula for cn,2 in terms of n (for n ⩾2). Justify your answer.\n\n\n\n\n\n                                     14\n\n15\nTurn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2014",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions14_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2014-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2014-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2014-mat-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2014-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6.\n             COMPUTER SCIENCE            \n                                      For APPLICANTS IN  MATHEMATICS & COMPUTER SCIENCE\n             COMPUTER SCIENCE & PHILOSOPHY  ONLY.\n\n   Alice plays a game 5 times with her friends Sam and Pam.  In each game Alice\nchooses two integers x and y with 1 ⩽x ⩽y. She whispers the sum x + y to Sam, and\nthe product x × y to Pam, so that neither knows what the other was told. Sam and\nPam then have to try to work out what the numbers x and y are. Sam and Pam are\nwell known expert logicians.\n\n  (i) In the ﬁrst game, Pam says “I know x and y.”\n\n    What can we deduce about the values of x and y? Explain your answer.\n\n  (ii) In the second game, Pam says “I don’t know what x and y are.”\n\n    Sam then says “I know x and y.”\n\n     Suppose the sum is 4. What are x and y? Explain your answer.\n\n (iii) In the third game, Pam says “I don’t know what x and y are.”\n\n    Sam then says “I don’t know what x and y are.”\n\n    Pam then says “I now know x and y.”\n\n     Suppose the product is 4. What are x and y? Explain your answer.\n\n (iv) In the fourth game, Pam says “I don’t know what x and y are.”\n\n    Sam then says “I already knew that.”\n\n    Pam then says “I now know x and y.”\n\n     Suppose the product is 8. What are x and y? Explain your answer.\n\n (v) Finally, in the ﬁfth game, Pam says “I don’t know what x and y are.”\n\n    Sam then says “I don’t know what x and y are.”\n\n    Pam then says “I don’t know what x and y are.”\n\n    Sam then says “I now know x and y.”\n\n     Suppose the sum is 5. What are x and y? Explain your answer.\n\n\n\n\n\n                                     16\n\n17\nTurn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2014",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions14_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2014-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2014-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2014-mat-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2014-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7.\n              COMPUTER SCIENCE\nFor APPLICANTS IN                                   ONLY.\n              COMPUTER SCIENCE & PHILOSOPHY\n\n  A ﬁnite automaton is a mathematical model of a simple computing device. A small\nﬁnite automaton is illustrated below.\n\n                                      a\n\n                                       s0               s1\n                                               b\n\n                                         a                                           b\n                                               s2\n\n\n                                 a                                                     b\n\n\n\nA ﬁnite automaton has some ﬁnite number of states; the above automaton has three\nstates, labelled s0, s1 and s2. The initial state, s0, is indicated with an incoming arrow.\nThe automaton receives inputs (e.g. via button presses), which might cause it to change\nstate.  In the example, the inputs are a and b. The state changes are illustrated by\narrows; for example, if the automaton is in state s1 and it receives input b, it changes\nto state s0; if it is in state s2 and receives either input, it remains in state s2. (For each\nstate, there is precisely one out-going arrow for each input.)\n   Some of the states are deﬁned to be accepting states; in the example, just s1 is deﬁned\nto be an accepting state, represented by the double circle. A word is a sequence of inputs.\nThe automaton accepts a word w if that sequence of inputs leads to an accepting state\nfrom the initial state. For example, the above automaton accepts the word aba.\n\n  (i) Write down a description of the set of words accepted by the above automaton. A\n      clear but informal description will suﬃce.\n\n  (ii) Suppose we alter the above automaton by swapping accepting and non-accepting\n      states; i.e. we make s0 and s2 accepting, and make s1 non-accepting. Write down\n     a description of the set of words accepted by this new automaton. Again, a clear\n     but informal description will suﬃce.\n\n (iii) Draw an automaton that accepts all words containing an even number (possibly\n     zero) of a’s and any number of b’s (and no other words).\n\n (iv) Now draw an automaton that accepts all words containing an even number of a’s\n     or an odd number of b’s (and no other words).\n\n   Let an represent n consecutive a’s. Let L be the set of all words of the form anbn\nwhere n = 0, 1, 2, . . .; i.e. all words composed of some number of a’s followed by the\nsame number of b’s. We will show that no ﬁnite automaton accepts precisely this set of\nwords.\n\n\n                                     18\n\n(v) Suppose a particular ﬁnite automaton A does accept precisely the words in L.\n   Show that if i ̸= j then the words ai and aj must lead to diﬀerent states of A.\n\n   Hence show that this leads to a contradiction.\n\n\n\n\n\n                                                End of last question\n\n\n\n                                    19\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2014",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions14_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2014-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2014-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2014-mat-question-paper__q07.md"
+  }
+ ]
+}

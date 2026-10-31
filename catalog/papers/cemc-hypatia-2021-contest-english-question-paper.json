@@ -1,0 +1,176 @@
+{
+ "group": "cemc-hypatia-2021-contest-english-question-paper",
+ "course_id": "CEMC-HYPATIA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-hypatia-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2021-contest-english-question-paper__q01",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1. A company rents out various sized passenger vehicles according to the following table. For\n    example, a group of 5, 6, 7, or 8 people would need to rent a sports utility vehicle (SUV),\n    which has a total cost of $200.00. Unfortunately, the total cost to rent a van is missing\n    from the table. In each case, the members of the group equally share the total cost to rent\n    the vehicle.\n\n                     Vehicle  Number of Passengers Required  Total Cost\n                   Car               1 to 4                $180.00\n              SUV               5 to 8                $200.00\n                 Van               9 to 12\n\n          (a) If 4 people rent a car, what is the cost per person?\n\n         (b) If a group rents an SUV, what is the maximum possible cost per person?\n\n          (c) When a van is rented, the diﬀerence between the maximum cost per person and\n            the minimum cost per person is $6.00. Determine the total cost to rent a van.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2021-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2021-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2021-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2021-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2021-contest-english-question-paper__q02",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2.  Trapezoid ABCD has vertices A(0, 0), B(12, 0), C(11, 5), D(2, 5).\n\n          (a) What is the area of trapezoid ABCD?\n\n         (b) The line passing through B and D intersects the y-axis at the point E. What\n             are the coordinates of E?\n          (c) The sides AD and BC are extended to intersect at the point F. Determine the\n             coordinates of F.\n         (d) Determine all possible points P that lie on the line passing through B and D, so\n            that the area of △PAB is 42.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2021-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2021-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2021-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2021-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2021-contest-english-question-paper__q03",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "代数",
+   "knowledge_point": "等比数列",
+   "problem_type": "利用公比求项、有限和或无穷和",
+   "search_text": "3.  The sequence A, with terms a1, a2, a3, . . ., is deﬁned by\n                                  an = 2n, for n ≥1.\n\n   The sequence B, with terms b1, b2, b3, . . ., is deﬁned by\n                          b1 = 1, b2 = 1, and bn = bn−1 + 2bn−2, for n ≥3.\n\n    For example, b3 = b2 + 2b1 = 1 + 2(1) = 3.\n\n    In this question, the following facts may be helpful:\n\n       • A geometric sequence is a sequence in which each term after the ﬁrst is obtained\n        from the previous term by multiplying it by a non-zero constant called the common\n           ratio. For example, 3, 6, 12 is a geometric sequence with three terms and common\n          ratio 2.\n\n       • The sum of the ﬁrst n terms of a geometric sequence with ﬁrst term a, and common\n                             1 −rn\n          ratio r ̸= 1, equals a                .\n                             1 −r\n          (a) What are the 5th terms for each sequence? That is, what are the values of a5\n           and b5?\n         (b) For some real numbers p and q, bn = p · (an) + q · (−1)n for all n ≥1. (You do\n            not need to show this.) What are the values of p and q?\n\n          (c) Let  Sn  be  the sum  of  the  ﬁrst n  terms  in  sequence B.   That   is,\n          Sn = b1 + b2 + b3 + · · · + bn.  Determine the smallest positive integer n that\n              satisﬁes Sn ≥162021.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2021-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2021-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2021-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2021-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2021-contest-english-question-paper__q04",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.  In △XY Z, the measure of ∠XZY  is 90◦. Also, Y Z = x cm, XZ = y cm, and hypotenuse\n  XY has length z cm. Further, the perimeter of △XY Z is P cm and the area of △XY Z\n     is A cm2.\n          (a) If x = 20 and y = 21, what are the values of A and P?\n\n         (b) If z = 50 and A = 336, what is the value of P?\n\n          (c) Determine all possible integer values of x, y and z for which A = 3P.\n\n         (d) Suppose that x, y and z are integers, that P = 510, and that A = kP for some\n           prime number k. Determine all possible values of k.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2021-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2021-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2021-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2021-contest-english-question-paper__q04.md"
+  }
+ ]
+}

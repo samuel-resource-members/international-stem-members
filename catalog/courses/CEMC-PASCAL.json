@@ -1,0 +1,192 @@
+{
+ "course_id": "CEMC-PASCAL",
+ "subject": "math",
+ "exam_id": "CEMC-PASCAL",
+ "question_count": 275,
+ "years": [
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ],
+ "questions_dir": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-PASCAL/",
+ "papers": [
+  {
+   "group": "cemc-pascal-2016-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2016-contest-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数",
+    "力学",
+    "排列组合",
+    "统计推断"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2016-contest-english-question-paper.json"
+  },
+  {
+   "group": "cemc-pascal-2017-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2017-contest-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "代数",
+    "坐标几何",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2017-contest-english-question-paper.json"
+  },
+  {
+   "group": "cemc-pascal-2018-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2018-contest-english-question-paper",
+   "year": 2018,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "代数",
+    "坐标几何",
+    "微分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2018-contest-english-question-paper.json"
+  },
+  {
+   "group": "cemc-pascal-2019-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2019-contest-english-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "代数",
+    "微分",
+    "排列组合",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2019-contest-english-question-paper.json"
+  },
+  {
+   "group": "cemc-pascal-2020-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2020-contest-english-question-paper",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "代数",
+    "几何",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2020-contest-english-question-paper.json"
+  },
+  {
+   "group": "cemc-pascal-2021-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "坐标几何",
+    "微分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2021-contest-english-question-paper.json"
+  },
+  {
+   "group": "cemc-pascal-2022-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2022-contest-english-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "代数",
+    "函数",
+    "坐标几何"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2022-contest-english-question-paper.json"
+  },
+  {
+   "group": "cemc-pascal-2023-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "几何",
+    "排列组合",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2023-contest-english-question-paper.json"
+  },
+  {
+   "group": "cemc-pascal-2024-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2024-contest-english-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "几何",
+    "函数",
+    "排列组合",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2024-contest-english-question-paper.json"
+  },
+  {
+   "group": "cemc-pascal-2025-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2025-contest-english-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "几何",
+    "函数",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2025-contest-english-question-paper.json"
+  },
+  {
+   "group": "cemc-pascal-2026-contest-english-question-paper",
+   "paper_id": "cemc-pascal-2026-contest-english-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "question_count": 25,
+   "chapters": [
+    "代数",
+    "排列组合",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/cemc-pascal-2026-contest-english-question-paper.json"
+  }
+ ]
+}

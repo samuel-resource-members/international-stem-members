@@ -1,0 +1,176 @@
+{
+ "group": "cemc-fryer-2017-contest-english-question-paper",
+ "course_id": "CEMC-FRYER",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-fryer-2017-contest-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2017-contest-english-question-paper__q01",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1. A store sells packages of red pens and packages of blue pens. Red pens are sold only in\n    packages of 6 pens. Blue pens are sold only in packages of 9 pens.\n\n\n          (a) Igor bought 5 packages of red pens and 3 packages of blue pens. How many pens\n            did he buy altogether?\n\n         (b) Robin bought 369 pens. She bought 21 packages of red pens. How many packages\n              of blue pens did she buy?\n\n          (c) Explain why it is not possible for Susan to buy exactly 31 pens.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2017-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2017-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2017-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2017-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2017-contest-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2017-contest-english-question-paper__q02",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "比例与变化",
+   "problem_type": "按比例或正反比关系求量",
+   "search_text": "1               1         7    3\n2.  By ﬁnding a common denominator, we see that    is greater than   because  >                                              3               7         21   21.\n                       1           1         2   3\n    Similarly, we see that    is less than   because  <                       3           2         6   6.\n                                  n               1             1\n          (a) Determine the integer n so that      is greater than   and less than                                        40               5               4.\n                           m               1   m + 1\n         (b) Determine all possible integers m so that     is greater than   and          is less\n                                                 8               3       8\n                2\n           than 3.\n          (c) Fiona calculates her win ratio by dividing the number of games that she has won\n           by the total number of games that she has played. At the start of a weekend,\n           Fiona has played 30 games, has w wins, and her win ratio is greater than 0.5.\n           During the weekend, she plays ﬁve games and wins three of these games. At the\n           end of the weekend, Fiona’s win ratio is less than 0.7. Determine all possible\n             values of w.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2017-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2017-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2017-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2017-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2017-contest-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2017-contest-english-question-paper__q03",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "P                                                                          S                                                                                  3   2\n3.  When two chords intersect each other inside a circle,\n                                                                                         4                                                                              6   X    the products of the lengths of their segments are equal.\n                                                     Q\n   That  is, when chords PQ and RS  intersect at X,    R\n   (PX)(QX) = (RX)(SX).\n\n\n          (a) In Figure A below, chords DE and FG intersect at X so that EX = 8, FX = 6,\n           and GX = 4. What is the length of DX?\n\n         (b) In Figure B, chords JK and LM intersect at X so that JX = 8y, KX = 10,\n        LX = 16, and MX = y + 9. Determine the value of y.\n\n          (c) In Figure C, chord ST intersects chords PQ and PR at U and V, respectively,\n             so that PU = m, QU = 5, RV = 8, SU = 3, UV = PV = n, and TV = 6.\n           Determine the values of m and n.\n             G                                         P\n         D                           J\n                       4                                                         m      n            X                                8y      M                                                                                3                                                                                      n                                                                                             6                          8                   X  y + 9           S                                                                       T                   6                                              U                                                                               5                                                           V                                                                                             8\n                                                  16    10                                 L                  Q         F          E                  K                     R\n                  Figure A                     Figure B                       Figure C\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2017-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2017-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2017-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2017-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2017-contest-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2017-contest-english-question-paper__q04",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.  Three students sit around a table. Each student has some number of candies. They share\n    their candies using the following procedure:\n      • Step 1: Each student with an odd number of candies discards one candy. Students\n         with an even number of candies do nothing.\n\n      • Step 2: Each student passes half of the candies that they had after Step 1 clockwise\n          to the person beside them.\n      • Step 1 and Step 2 are repeated until each of the three students has an equal number\n           of candies. The procedure then ends.\n   On Monday, Dave, Yona and Tam start with 3, 7 and 10 candies, respectively.  After\n    Step 1 and Step 2, the number of candies that each student has is given in the following\n    table:\n                Dave  Yona  Tam            Dave\n     Start          3      7     10\n     After Step 1    2      6     10\n                                     Tam     Yona     After Step 2    6      4     8\n\n\n          (a) When the procedure in the example above is completed, how many candies does\n            each student have when the procedure ends?\n\n         (b) On Tuesday, Dave starts with 16 candies. Each of Yona and Tam starts with zero\n             candies. How many candies does each student have when the procedure ends?\n\n          (c) On Wednesday, Dave starts with 2n candies. Each of Yona and Tam starts with\n         2n+3 candies. Determine, with justiﬁcation, the number of candies in terms of n\n            that each student has when the procedure ends.\n         (d) On Thursday, Dave starts with 22017 candies.  Each of Yona and Tam starts\n            with zero candies. Determine, with justiﬁcation, the number of candies that each\n            student has when the procedure ends.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2017-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2017-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2017-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2017-contest-english-question-paper__q04.md"
+  }
+ ]
+}

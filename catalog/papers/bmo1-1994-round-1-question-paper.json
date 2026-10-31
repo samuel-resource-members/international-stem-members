@@ -1,0 +1,218 @@
+{
+ "group": "bmo1-1994-round-1-question-paper",
+ "course_id": "BMO1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 5,
+ "questions": [
+  {
+   "paper_id": "bmo1-1994-round-1-question-paper",
+   "year": 1994,
+   "session": "19 January 1994",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-1994-round-1-question-paper__q01",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "比例与变化",
+   "problem_type": "按比例或正反比关系求量",
+   "search_text": "1.  Starting with any three digit number n (such as n = 625) we\n   obtain a new number f(n) which is equal to the sum of the\n   three digits of n, their three products in pairs, and the product\n    of all three digits.\n    (i) Find the value of n/f(n) when n = 625. (The answer is\n      an integer!)\n   (ii)Find all three digit numbers such that the ratio n/f(n)=1.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-1994-round-1-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-1994-round-1-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-1994-round-1-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-1994-round-1-question-paper__q01.md"
+  },
+  {
+   "paper_id": "bmo1-1994-round-1-question-paper",
+   "year": 1994,
+   "session": "19 January 1994",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-1994-round-1-question-paper__q02",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "2. In triangle ABC the point X lies on BC.\n    (i) Suppose that BAC = 90◦, that X is the midpoint of BC,\n      and that BAX is one third of BAC. What can you say\n      (and prove!) about triangle ACX?\n   (ii)Suppose that BAC = 60◦, that X lies one third of the\n     way from B to C, and that AX bisects BAC. What can\n      you say (and prove!) about triangle ACX?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-1994-round-1-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-1994-round-1-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-1994-round-1-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-1994-round-1-question-paper__q02.md"
+  },
+  {
+   "paper_id": "bmo1-1994-round-1-question-paper",
+   "year": 1994,
+   "session": "19 January 1994",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-1994-round-1-question-paper__q03",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "y                     ,\n      you say (and prove!) about triangle ACX?\n\n3. The sequence of integers u0, u1, u2, u3, . . . satisﬁes u0 = 1 and\n             un+1un−1 = kun   for each  n ≥1,\n   where k  is some ﬁxed positive integer.   If u2000 = 2000,\n   determine all possible values of k.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-1994-round-1-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-1994-round-1-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-1994-round-1-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-1994-round-1-question-paper__q03.md"
+  },
+  {
+   "paper_id": "bmo1-1994-round-1-question-paper",
+   "year": 1994,
+   "session": "19 January 1994",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-1994-round-1-question-paper__q04",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "4. The points Q, R lie on the circle γ, and P  is a point such\n   that PQ, PR are tangents to γ. A is a point on the extension\n    of PQ, and γ′ is the circumcircle of triangle PAR. The circle\n    γ′ cuts γ again at B, and AR cuts γ at the point C. Prove\n   that PAR = ABC.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-1994-round-1-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-1994-round-1-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-1994-round-1-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-1994-round-1-question-paper__q04.md"
+  },
+  {
+   "paper_id": "bmo1-1994-round-1-question-paper",
+   "year": 1994,
+   "session": "19 January 1994",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-1994-round-1-question-paper__q05",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "5. An increasing sequence of integers is said to be alternating\n     if it starts with an odd term, the second term is even, the\n   third term is odd, the fourth is even, and so on. The empty\n   sequence (with no term at all!) is considered to be alternating.\n   Let A(n) denote the number of alternating sequences which\n   only involve integers from the set {1, 2, . . . , n}. Show that\n   A(1) = 2 and A(2) = 3. Find the value of A(20), and prove\n   that your value is correct.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-1994-round-1-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-1994-round-1-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-1994-round-1-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-1994-round-1-question-paper__q05.md"
+  }
+ ]
+}

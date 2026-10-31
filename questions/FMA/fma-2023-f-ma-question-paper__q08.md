@@ -1,0 +1,36 @@
+# FMA · 2023 · Annual · F=ma · Q8
+
+- id: fma-2023-f-ma-question-paper__q08
+- course: FMA
+- exam: FMA
+- subject: physics
+- year: 2023
+- session: Annual
+- paper: F=ma
+- question_number: 8
+- paper_id: fma-2023-f-ma-question-paper
+- chapter: Motion, forces and energy
+- knowledge_point: Motion
+- problem_type: 从运动条件或图像求速度和加速度
+- topic_tags: fma-2023-f-ma-question-paper__q08
+
+## Text (OCR)
+
+```text
+8. Two stars α and β, with masses satisfying mα/mβ = 10, are in circular orbits around each other. In the
+   rest frame of this system, find the ratio of the speeds vα/vβ.
+
+        1                 1                 1
+   (A)               (B)               (C)               (D) 9              (E) 10
+       11                10                9
+```
+
+## Answer / mark scheme candidates
+
+- [2023 F=ma  Solutions](https://www.aapt.org/physicsteam/upload/F-ma-2023-Solutions.pdf)
+
+## Source files
+
+- package `question-bank-physics-part-007.zip` (release `subject-resources`) · member `question-corpus/questions/fma-2023-f-ma-question-paper__q08/question.pdf`: https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

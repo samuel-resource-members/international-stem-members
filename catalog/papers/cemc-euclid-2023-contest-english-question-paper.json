@@ -1,0 +1,428 @@
+{
+ "group": "cemc-euclid-2023-contest-english-question-paper",
+ "course_id": "CEMC-EUCLID",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 10,
+ "questions": [
+  {
+   "paper_id": "cemc-euclid-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2023-contest-english-question-paper__q01",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.        (a) The average of n, 2n, 3n, 4n, 5n is 18. What is the value of n?\n\n\n         (b) Suppose that 2x + y = 5 and x + 2y = 7. What is the average of x and y?\n\n          (c) The average of t2, 2t and 3 is 9. If t < 0, determine the value of t.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2023-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2023-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2023-contest-english-question-paper__q02",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "函数",
+   "knowledge_point": "图像与方程",
+   "problem_type": "利用交点、截距或渐近线分析图像",
+   "search_text": "2.        (a) If Q(5, 3) is the midpoint of the line segment with endpoints P(1, p) and R(r, 5),\n          what are the values of p and r?\n\n         (b) A line with slope 3 and another line with slope −1 intersect at P(3, 6). What is\n            the distance between the x-intercepts of the two lines?\n\n          (c) For some value of t, the line with equation y = tx + t is perpendicular to the line\n            with equation y = 2x + 7. Determine the point of intersection of these two lines.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2023-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2023-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2023-contest-english-question-paper__q03",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "利用首项、公差和项数求项或和",
+   "search_text": "3.        (a) The positive divisors of 6 are 1, 2, 3, and 6. What is the sum of the positive\n              divisors of 64?\n\n         (b) Fionn wrote 4 consecutive integers on a whiteboard. Lexi came along and erased\n           one of the integers. Fionn noticed that the sum of the remaining integers was\n             847. What integer did Lexi erase?\n\n          (c) An arithmetic sequence with 7 terms has ﬁrst term d2 and common diﬀerence d.\n          The sum of the 7 terms in the sequence is 756. Determine all possible values of d.\n\n          (An arithmetic sequence is a sequence in which each term after the ﬁrst is obtained\n           from the previous term by adding a constant, called the common diﬀerence. For\n            example, 3, 5, 7, 9 are the ﬁrst four terms of an arithmetic sequence.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2023-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2023-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2023-contest-english-question-paper__q04",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.        (a) Liang and Edmundo paint at diﬀerent but constant rates. Liang can paint a room\n              in 3 hours if she works alone. Edmundo can paint the same room in 4 hours if\n           he works alone. Liang works alone for 2 hours and then stops. Edmundo ﬁnishes\n             painting the room. How many minutes will Edmundo need to ﬁnish painting the\n          room?\n\n         (b) On January 1, 2021, an investment had a value of $400.\n          From January 1, 2021 to January 1, 2022, the value of the investment increased\n           by A% from its value on January 1, 2021 for some A > 0.\n          From January 1, 2022 to January 1, 2023, the value of the investment decreased\n           by A% from its value on January 1, 2022.\n         On January 1, 2023, the value of the investment was $391.\n           Determine all possible values of A.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2023-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2023-contest-english-question-paper__q04.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2023-contest-english-question-paper__q05",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5.        (a) Suppose that f(x) = x2 + (2n −1)x + (n2 −22) for some integer n. What is the\n             smallest positive integer n for which f(x) has no real roots?\n\n         (b) In the diagram, △PQR has PQ = a, QR = b, PR = 21, and ∠PQR = 60◦.\n             Also, △STU has ST =  a, TU =  b, ∠TSU = 30◦, and sin(∠TUS) =  45.\n           Determine the values of a and b.\n                          Q                                                      T\n                               a     60˚ b             a        b\n                                                                30˚                     P           R     S            U\n                                    21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2023-contest-english-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2023-contest-english-question-paper__q05.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2023-contest-english-question-paper__q06",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "6.        (a) A triangle of area 770 cm2  is divided into\n           11 regions of equal height by 10 lines that\n             are all parallel to the base of the triangle.\n             Starting from the top of the triangle, every\n            other region is shaded, as shown. What is\n            the total area of the shaded regions?\n\n\n         (b) A square lattice of 16 points is constructed\n            such  that  the  horizontal  and   vertical     D      A\n             distances between adjacent points are  all\n             exactly 1 unit. Each of four pairs of points\n                                          C\n             are connected by a line segment, as shown.\n                                                    B          The intersections of these line segments are\n            the vertices of square ABCD. Determine the\n            area of square ABCD.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2023-contest-english-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2023-contest-english-question-paper__q06.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2023-contest-english-question-paper__q07",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "代数",
+   "knowledge_point": "联立方程",
+   "problem_type": "联立条件求未知量",
+   "search_text": "7.        (a) A bag contains 3 red marbles and 6 blue marbles. Akshan removes one marble at\n           a time until the bag is empty. Each marble that they remove is chosen randomly\n           from the remaining marbles. Given that the ﬁrst marble that Akshan removes is\n            red and the third marble that they remove is blue, what is the probability that\n            the last two marbles that Akshan removes are both blue?\n\n         (b) Determine  the number  of  quadruples  of  positive  integers  (a, b, c, d)  with\n           a < b < c < d that satisfy both of the following system of equations:\n\n                                     ac + ad + bc + bd = 2023\n\n                                     a + b + c + d = 296\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2023-contest-english-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2023-contest-english-question-paper__q07.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2023-contest-english-question-paper__q08",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "8.        (a) Suppose that △ABC  is right-angled at B and has AB = n(n + 1) and\n        AC = (n + 1)(n + 4), where n is a positive integer. Determine the number of\n             positive integers n < 100 000 for which the length of side BC is also an integer.\n\n         (b) Determine all real values of x for which\n\n                       r          x\n            plog2 x · log2(4x) + 1 +   log2 x · log2    + 9 = 4\n                                                           64\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2023-contest-english-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2023-contest-english-question-paper__q08.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2023-contest-english-question-paper__q09",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "9.      At the Canadian Eatery with Multiple Conﬁgurations, there          1\n         are round tables, around which chairs are placed.  When\n        a table has n chairs around it for some integer n ≥3, the  6              2\n          chairs are labelled 1, 2, 3,  . . ., n −1, n in order around the\n          table. A table  is considered full  if no more people can be\n         seated without having two people sit in neighbouring chairs.                                                                5              3\n         For example, when n = 6, full tables occur when people are\n         seated in chairs labelled {1, 4} or {2, 5} or {3, 6} or {1, 3, 5} or          4\n          {2, 4, 6}. Thus, there are 5 diﬀerent full tables when n = 6.\n\n          (a) Determine all ways in which people can be seated around a table with 8 chairs so\n            that the table is full, in each case giving the labels on the chairs in which people\n             are sitting.\n\n         (b) A full table with 6k + 5 chairs, for some positive integer k, has t people seated in\n                its chairs. Determine, in terms of k, the number of possible values of t.\n\n          (c) Determine the number of diﬀerent full tables when n = 19.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2023-contest-english-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2023-contest-english-question-paper__q09.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2023-contest-english-question-paper__q10",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "10.      For every real number x, deﬁne ⌊x⌋to be equal to the greatest integer less than\n         or equal to x. (We call this the “ﬂoor” of x.) For example, ⌊4.2⌋= 4, ⌊5.7⌋= 5,\n       ⌊−3.4⌋= −4, ⌊0.4⌋= 0, and ⌊2⌋= 2.\n\n                                        1     2     3          59     60\n          (a) Determine the integer equal to   +   +   + . . . +    +         .\n                                        3     3     3          3      3\n           (The sum has 60 terms.)\n\n         (b) Determine a polynomial p(x) so that for every positive integer m > 4,\n\n                               1     2     3      m −2   m −1\n                  ⌊p(m)⌋=   +   +   + . . . +      +\n                               3     3     3            3         3\n\n           (The sum has m −1 terms.)\n\n        A   polynomial   f(x)    is   an   algebraic   expression    of   the   form\n            f(x) = anxn + an−1xn−1 + · · · + a1x + a0 for some integer n ≥0 and for\n          some real numbers an, an−1, . . . , a1, a0.\n\n          (c) For each integer n ≥1, deﬁne f(n) to be equal to an inﬁnite sum:\n\n                     n        2n        3n        4n        5n\n                f(n) =      +      +      +      +      + · · ·\n                           12 + 1      22 + 1      32 + 1      42 + 1      52 + 1\n\n                                   kn\n           (The sum contains the terms            for all positive integers k, and no other\n                                          k2 + 1\n             terms.)\n\n           Suppose f(t + 1) −f(t) = 2 for some odd positive integer t. Prove that t is a\n           prime number.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2023-contest-english-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2023-contest-english-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2023-contest-english-question-paper__q10.md"
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2025-february-march-p6-v2-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2025-february-march-p6-v2-qp",
+   "year": 2025,
+   "session": "February/March",
+   "paper": "6",
+   "variant": "2",
+   "id": "caie-igcse-0625-2025-february-march-p6-v2-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "1  A student investigates the behaviour of a spring, and then uses the spring to determine the mass\n     of an object.\n\n    The apparatus is shown in Fig. 1.1.\n\n\n                                                   clamp\n\n\n\n                                                            spring\n\n                                                                 l\n\n\n\n\n\n                        mass m\n\n\n\n                                               Fig. 1.1\n\n     (a) The student suspends a mass m = 100 g from the spring.\n       She measures, and records in Table 1.1, the stretched length l of the spring, as indicated\n           in Fig. 1.1.\n\n        Describe two techniques for measuring the length of the spring, to ensure an accurate\n         reading. You may draw a diagram.\n\n\n\n\n\n       1 ................................................................................................................................................\n\n               ...................................................................................................................................................\n\n       2 ................................................................................................................................................\n\n               ...................................................................................................................................................\n                                                                                                                       [2]\n\n(b) She repeats step (a) for values of m = 200 g, m = 300 g, m = 400 g and m = 500 g.\n    Her readings are shown in Table 1.1.\n\n                                    Table 1.1\n\n\n                   m / g                    l / cm\n\n                            100              6.0\n\n                            200              9.2\n\n                            300            13.6\n\n                            400            16.8\n\n                            500            21.0\n\n\n     Plot a graph of l / cm (y-axis) against m / g (x-axis).\n     Start the axes from the origin (0, 0).\n\n    Draw a best-fit straight line. The line might not go through the origin.\n\n\n\n\n\n         0\n          0\n\n\n                                                                                                                 [4]\n\n(c) Use your graph to determine the length l  of the spring with no load on it.                                                0\n\n                                                                                  l =  .................................................... cm [1]                                                         0\n\nl                  X\n\n\n\n\n\n                                                              object X\n\n\n\n\n\n                                          Fig. 1.2\n\n(d) An object X is suspended from the spring.\n\n       (i)  On Fig. 1.2, measure the stretched length l  of the spring.                                               X\n\n                                                                                  l  =  .........................................................  [1]                                               X\n\n      (ii)  Use the graph and your reading from (d)(i), to determine the mass mX of object X.\n       Show clearly on the graph how you obtained your answer.\n\n                                  mX =  .......................................................g [2]\n\n(e) Two students measure the mass of another object using the same method and apparatus.\n   One student records the mass as 132.6 g. The other student records the mass as 130 g.\n\n    State and explain which answer has the more suitable number of significant figures for\n     this experiment.\n\n    statement ..................................................................................................................................\n\n    explanation  ...............................................................................................................................\n\n        ...................................................................................................................................................\n                                                                                                                 [1]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — February/March 2025 — Paper 6 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_m25_ms_62.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-february-march-p6-v2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-february-march-p6-v2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-february-march-p6-v2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-february-march-p6-v2-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-february-march-p6-v2-qp",
+   "year": 2025,
+   "session": "February/March",
+   "paper": "6",
+   "variant": "2",
+   "id": "caie-igcse-0625-2025-february-march-p6-v2-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "2  A student investigates the effect of insulation on the cooling of water.\n\n   He uses the apparatus shown in Fig. 2.1.\n\n    Beaker A is covered with material that is a thermal insulator.\n\n    Beaker B is identical to beaker A but has no insulation.\n\n\n                                          clamp\n\n\n                                      thermometer\n\n\n\n  beaker A\n                                            beaker B                             bench\n\n insulation\n\n\n\n\n\n                                                    30\n\n\n                                                    20\n\n\n                                                    10\n\n\n\n                                               Fig. 2.1\n\n     (a)   (i)  Record room temperature θR shown on the thermometer in Fig. 2.1.\n\n                                             θR = ..........................................................  [1]\n\n             (ii)  Describe one technique used to ensure that the room temperature reading is as accurate\n            as possible.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n(b) The student pours 200 cm3 of hot water into beaker A and records the temperature θ at\n    time t = 0.\n\n   He records, in Table 2.1, the temperature of the water in the beaker every 30 s.\n\n    The student repeats the procedure for beaker B.\n\n       It is important that the temperatures are recorded at exactly every 30 s.\n\n    Describe a technique which will make it easier for the student to do that.\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n                                    Table 2.1\n\n\n                                   beaker A        beaker B\n                                      with insulation   without insulation\n\n                                         t / s       θ / °C       θ / °C\n\n                       0            92.5             93.0\n\n                      30            90.5             90.5\n\n                      60            89.0             88.5\n\n                      90            87.5             87.0\n\n                     120            86.0             85.5\n\n                     150            85.0             84.0\n\n                     180            85.5             83.0\n\n\n(c)  Write a conclusion stating whether the insulation affects the rate of cooling of the water.\n     Justify your answer by referring to values from the results.\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [2]\n\n(d)   (i)  Calculate the average cooling rate x1 during the first half of the experiment for the water\n           in beaker B. Use the readings for beaker B from Table 2.1 and the equation:\n\n                                       θ0 – θ90\n                                      x1 =              ,                                  T\n\n        where T = 90 s and θ0 and θ90 are the temperatures of the water in beaker B at times\n               t = 0 and t = 90 s.\n\n         Include the unit.\n\n\n\n                                                   x1 = ..........................................................  [1]\n\n      (ii)  Calculate the average cooling rate x2 during the second half of the experiment for the\n        water in beaker B. Use the readings for beaker B from Table 2.1 and the equation:\n\n                                         θ90 – θ180\n                                     x2 =                 ,                                  T\n\n        where T = 90 s and θ90 and θ180 are the temperatures of the water in beaker B at\n               t = 90 s and t = 180 s.\n\n         Include the unit.\n\n\n\n                                                   x2 = ..........................................................  [1]\n\n(e) A student suggests that, for this type of experiment, the temperature of the water in each\n    beaker at time t = 0 must be the same for the comparison to be fair.\n\n   Use your answers from (d)(i) and (d)(ii) to explain whether this is necessary.\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [2]\n\n(f)    (i)  A student wants to eliminate, from the comparison, any thermal energy lost from the\n         surface of the water.\n\n        Suggest a change to the equipment which will do that.\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n      (ii)  Suggest what effect this change will have on the cooling rates of the water in beaker A\n       and beaker B.\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — February/March 2025 — Paper 6 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_m25_ms_62.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-february-march-p6-v2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-february-march-p6-v2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-february-march-p6-v2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-february-march-p6-v2-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-february-march-p6-v2-qp",
+   "year": 2025,
+   "session": "February/March",
+   "paper": "6",
+   "variant": "2",
+   "id": "caie-igcse-0625-2025-february-march-p6-v2-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3  A student investigates the refraction of light by a transparent block.\n\n    The student’s ray-trace sheet is shown full-size in Fig. 3.1.\n\n\n\n      E\n\n\n\n             P1\n\n\n\n\n\n                         P2\n                       N\n              A                                 B\n\n\n\n\n\n              D                                 C\n\n                                            P4\n\n\n\n\n\n                                                           P3\n\n\n\n\n                                               Fig. 3.1\n\n     (a) The student places a transparent block ABCD near the centre of the ray-trace sheet as\n         indicated in Fig. 3.1.\n\n             (i)  Draw a normal to point N, extending above AB. Label the upper end of the normal with\n             the letter L.                                                                                        [1]\n\n(ii)  The student draws line EN as shown in Fig. 3.1.\n      On Fig. 3.1, measure the acute angle θ between the lines LN and EN.\n       An acute angle is an angle of less than 90°.\n\n\n\n                                       θ = ............................... [1]\n\n(b) The student places two pins P1 and P2 on line EN as shown in Fig. 3.1.\n\n       (i)  Measure distance d between pins P1 and P2 .\n\n                                                     d = ............................... cm [1]\n\n      (ii)  State whether the two pins are a suitable distance apart for accurate ray tracing.\n         Explain your answer.\n\n        statement  ..........................................................................................................................\n\n         explanation ........................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n(c) The student views the images of P1 and P2 through the block.\n   He places two pins P3 and P4 so that pins P3 and P4 and the images of P1 and P2 all appear\n     exactly one behind the other.\n\n    Draw a line through P3 and P4 . Extend this line to meet CD.\n\n    Label the point at which this line meets CD with the letter F. Label the lower end of this line\n     with the letter G.\n\n    Extend line EN to approximately 5 cm below line CD.\n    Label the point at which this line crosses CD with the letter H. Label the lower end of this line\n     with the letter J.\n                                                                                                                 [1]\n\n(d)   (i)  Measure the acute angle α between lines CD and GF.\n\n                                    α = ...............................°\n\n       Measure the acute angle β between lines CD and JH.\n\n                                        β = ...............................°\n                                                                                                                 [1]\n\n      (ii)  A student suggests that angle α should be equal to angle β.\n\n         State whether your results support this suggestion. Justify your answer by reference to\n         values from your results.\n\n        statement  ..........................................................................................................................\n\n           justification  ........................................................................................................................\n\n                ...........................................................................................................................................\n                                                                                                                 [2]\n\n(e) Describe two techniques to use in this type of experiment to ensure results are accurate.\n1  ................................................................................................................................................\n...................................................................................................................................................\n2  ................................................................................................................................................\n...................................................................................................................................................\n[2]\n(f) Suggest one reason why different students, all doing this experiment carefully, may not obtain\nidentical results.\n...................................................................................................................................................\n............................................................................................................................................. [1]\n[Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — February/March 2025 — Paper 6 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_m25_ms_62.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-february-march-p6-v2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-february-march-p6-v2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-february-march-p6-v2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-february-march-p6-v2-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-february-march-p6-v2-qp",
+   "year": 2025,
+   "session": "February/March",
+   "paper": "6",
+   "variant": "2",
+   "id": "caie-igcse-0625-2025-february-march-p6-v2-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "4  A student investigates the resistance of a wire.\n\n    Plan an experiment which enables him to investigate how the length of a wire affects the resistance\n     of the wire.\n\n                                     V\n    Resistance R is calculated from the equation: R =\n                                                          I\n\n    where V is the potential difference (p.d.) across the wire and I is the current in the wire.\n\n    The apparatus available includes:\n\n     •   a selection of wires\n     •   a variable power supply\n     •   an ammeter\n     •   a voltmeter.\n\n     In your plan:\n\n     •     list any additional apparatus needed\n\n     •   complete Fig. 4.1 to show a voltmeter connected to measure the potential difference across\n         the wire\n\n     •    explain briefly how to do the experiment, including the measurements to take so that the\n         resistance can be determined\n\n     •    state the key variables to keep constant\n\n     •   draw a table, or tables, with column headings, to show how to display the readings (you are\n        not required to enter any readings in the table)\n\n     •    explain how to use the readings to reach a conclusion.\n\n                                              variable\n                                   power supply\n\n\n\n\n\n                    A\n\n\n\n\n\n                                                       wire\n\n\n\n\n                                               Fig. 4.1\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — February/March 2025 — Paper 6 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_m25_ms_62.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-february-march-p6-v2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-february-march-p6-v2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-february-march-p6-v2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-february-march-p6-v2-qp__q04.md"
+  }
+ ]
+}

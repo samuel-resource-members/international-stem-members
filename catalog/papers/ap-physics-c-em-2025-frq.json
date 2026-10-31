@@ -1,0 +1,196 @@
+{
+ "group": "ap-physics-c-em-2025-frq",
+ "course_id": "AP-PHYSICS-C-EM",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "ap-physics-c-em-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-em-2025-frq__q01",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical charge",
+   "problem_type": "判断电荷相互作用与充放电",
+   "search_text": "Question 1: Version J\n\n1. An isolated, air-filled, charged capacitor consists of two conducting, coaxial, cylindrical shells\n  that each have length L. The inner shell has radius R1 and the outer shell has radius R2, as\n  shown in Figure 1, where R1 < R2 % L . The surface charge densities (amounts of charge per unit\n  area) of the inner and outer shells are + v1 and - v 2 , respectively. The absolute values of the\n   total charges on the shells are equal.\n\n\n\n\n\n  A.\n            i. Using Gauss’s law, derive an expression for the magnitude E of the electric field as\n        a function of the radial distance r from the center of the capacitor for the region\n       R1 < r < R2. Express your answer in terms of R1, v1 , r, and physical constants, as\n         appropriate.\n          ii. Derive an expression for the absolute value TV of the potential difference between\n         the outer and inner shells in terms of R1, R2, v1 , and physical constants, as appropriate.\n        Begin your derivation by writing a fundamental physics principle or an equation from\n         the reference information.\n\niii. On the axes shown in Figure 2, sketch a graph of E as a function of r from r = 0 to a\n       position that is outside the outer shell.\n\n\n\n\n\nB. A material of dielectric constant l is inserted into the isolated, charged capacitor such that\n   the material fills the region R1 < r < R2, as shown in Figure 3.\n\n\n\n\n\n  Derive an expression for the capacitance C of the capacitor with the material inserted\n   in terms of L, R1, R2, l, and physical constants, as appropriate. Begin your derivation by\n   writing a fundamental physics principle or an equation from the reference information.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics C: Electricity and Magnetism - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-c-em.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2025-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2025-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2025-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2025-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-physics-c-em-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-em-2025-frq__q02",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "Question 2: Version J\n\n2. A rotating, circular, conducting loop of area A and resistance R is in an external uniform\n  magnetic field of magnitude B that is directed in the - z- direction . At time t = 0 , the magnetic\n   field is perpendicular to the plane of the loop, as shown in Figure 1. The loop is rotating with\n  constant angular speed ~ and period T about the dashed line that is along the diameter of the\n  loop. The value of the magnetic flux through the loop as a function of time t is U = BA cos ~t                                                                                                       _    i.\n\n\n\n\n\n  A. The absolute value of the induced emf in the loop is f . The partially completed bar chart in\n                                             3\n     Figure 2 shows a bar that represents f at t = 4 T . In Figure 2, draw bars to represent f at\n               1       1                       3\n     times t = 0 , 4 T , and 2 T relative to f shown at 4 T . If f = 0 , write a “0” in that column.\n\nB. Derive an expression for the maximum induced current in the loop in terms of A, R, B,\n  ~, and physical constants, as appropriate. Begin your derivation by writing a fundamental\n   physics principle or an equation from the reference information.\nC. On the axes shown in Figure 3, sketch a graph of the instantaneous power P dissipated by\n   the loop as a function of t during the time interval 0 # t # T .\n\n\n\n\n\nD. Indicate whether the sketch you drew in part C is or is not consistent with the bars that\n  you drew in part A. Briefly justify your answer by referencing the functional dependence\n  between P and f .\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics C: Electricity and Magnetism - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-c-em.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2025-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2025-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2025-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2025-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-physics-c-em-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-em-2025-frq__q03",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "Question 3\n\n3. In Experiment 1, students are asked to use a graph to determine the resistivity t1 of a circuit\n  element that is connected to a variable power supply, as shown in Figure 1. The circuit element\n   is cylindrical and has uniform resistivity. The students have access to a voltmeter, an ammeter,\n  and a ruler.\n                                       Figure 1\n\n\n\n\n\n  A. Describe a procedure for collecting data that would allow the students to use a graph to\n     determine t1 , including any steps necessary to reduce experimental uncertainty.\n  B. Describe how the collected data could be graphed and how that graph would be analyzed to\n     determine t1 .\n\n  In Experiment 2, the students are asked to use a graph to determine the resistivity t 2 of solid,\n  cylindrical resistors made of the same material but of different lengths L. The cross-sectional\n  area of each resistor is 5 .0× 10 -6 m 2 . The students directly measure the resistance R between the\n  ends of each resistor. Table 1 provides L and R for each resistor.\n\n                                         Table 1\n\n\n                                L (m)  R X                                                          _  i\n                                        0.010    0.90\n\n                                        0.020     1.6\n\n                                        0.030     2.5\n\n                                        0.040     3.2\n\n                                        0.050     4.0\n\n  C.\n            i. Indicate two quantities, either measured quantities from Table 1 or additional calculated\n          quantities, that could be graphed to produce a straight line that could be used to\n        determine t 2 .\n          Vertical axis: ______     Horizontal axis: ______\n\nii. On the grid provided, create a graph of the quantities indicated in part C (i).\n         •  Use Table 2 to record the measured or calculated quantities that you will plot.\n         •   Clearly label the axes, including units as appropriate.\n         •   Plot the points you recorded in Table 2.\n\n\n\n\n\n     iii. Draw a best-fit line for the data graphed in part C (ii).\nD. Using the best-fit line that you drew in part C (iii), calculate an experimental value for t 2 .\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics C: Electricity and Magnetism - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-c-em.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2025-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2025-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2025-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2025-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-physics-c-em-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-em-2025-frq__q04",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "Question 4\n\n4. Long, parallel wires S and T are a distance 2d apart. Both wires carry equal currents I, but the\n  currents are in opposite directions. Both wires are parallel to the x-axis. At the instant shown\n  in Figure 1, Sphere 1 is a distance d above Wire S, Sphere 2 is a distance d below Wire S, and\n  both spheres are moving with speed v in the + x- direction . Each sphere has positive charge + Q .\n  Gravitational effects are negligible.\n                                       Figure 1\n\n\n\n\n\n  A. F1 is the magnitude of the magnetic force exerted on Sphere 1 due to the currents in wires S\n    and T. F2 is the magnitude of the magnetic force exerted on Sphere 2 due to the currents in\n     wires S and T.\n     Indicate whether F2 is greater than, less than, or equal to F1 by writing one of the following.\n        •  F2 > F1\n        •  F2 < F1\n        •  F2 = F1\n     Justify your answer.\n  B. Derive an expression for the magnitude Btot of the magnetic field at the location of Sphere 2\n    due to the currents in wires S and T in terms of d, I, and physical constants, as appropriate.\n     Begin your derivation by writing a fundamental physics principle or an equation from the\n     reference information.\n\nC. Later, Wire T carries current 3I in the + x- direction . At the instant shown in Figure 2,\n  Sphere 2 is a distance d below Wire S and is moving with speed v in the + x- direction . Fnew is\n   the new magnitude of the magnetic force exerted on Sphere 2 due to the currents in wires S\n  and T.\n\n                                    Figure 2\n\n\n\n\n\n   Indicate whether Fnew is greater than, less than, or equal to F2 by writing one of the\n   following.\n     •  Fnew > F2\n     •  Fnew < F2\n     •  Fnew = F2\n   Briefly justify your answer by referencing your derivation in part B.\n\n\n\n                            STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics C: Electricity and Magnetism - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-c-em.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2025-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2025-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2025-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2025-frq__q04.md"
+  }
+ ]
+}

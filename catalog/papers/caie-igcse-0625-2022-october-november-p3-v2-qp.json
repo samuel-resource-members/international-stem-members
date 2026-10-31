@@ -1,0 +1,525 @@
+{
+ "group": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 11,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "1  A skydiver jumps from an aeroplane. She falls freely with her parachute closed; then she opens\n     her parachute.\n\n     Fig. 1.1 shows the skydiver falling freely with her parachute closed.\n\n     Fig. 1.2 shows the skydiver falling with the parachute open.\n\n\n\n\n\n                       Fig. 1.1                                        Fig. 1.2\n\n     Fig. 1.3 shows the speed–time graph for the skydiver’s vertical motion, from leaving the aeroplane\n     to landing on the ground.\n\n     60\nvertical\nspeed\n m / s                    BB             CC\n     50\n\n\n\n     40\n\n\n\n     30\n\n\n\n     20\n\n\n\n     10\n                                          DD                     EE\n\n      A\n      0\n       0        10       20       30       40       50       60       70       80\n                                                                                        time / s\n\n                                               Fig. 1.3\n\n© UCLES 2022                                         0625/32/O/N/22\n\n(a)  Using the information from Fig. 1.3:\n\n             (i)  Describe the vertical motion of the skydiver between time = 0 and time = 20 s.\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  Determine the maximum vertical speed of the skydiver.\n\n                              maximum speed =  .................................................. m / s [1]\n\n            (iii)  Determine the point, A, B, C, D or E, at which the skydiver opens her parachute.\n\n                       .....................................................................................................................................  [1]\n\n          (iv)  Determine the distance the skydiver falls between time = 50 s and time = 80 s.\n\n\n\n\n\n                                                distance =  ...................................................... m [3]\n\n     (b) The weight of the skydiver is 750 N.\n\n       The weight of the skydiver acts downwards, as shown in Fig. 1.4.\n\n        While the skydiver is falling, another force acts upwards.\n\n       The upward force varies as the skydiver falls.\n\n                                                          .............................................\n\n\n\n\n\n                                        weight = 750 N\n\n                                        Fig. 1.4 (not to scale)\n\n             (i)  On Fig. 1.4, write the name of the upward force on the dotted line above the upward\n               force.                                                                                               [1]\n\n             (ii)  Suggest a value for the upward force on the skydiver at time = 10 s.\n\n                                                                                                  ....................................................... N [1]\n\n            (iii)  Determine the value of the upward force on the skydiver at time = 30 s.\n\n                                                                                                  ....................................................... N [1]\n© UCLES 2022                                         0625/32/O/N/22                              [Turn over\n\n(c) The weight of the skydiver is 750 N.\n\n    Calculate the mass of the skydiver.\n\n\n\n                                    mass =  ..................................................... kg [3]\n\n                                                                                                      [Total: 12]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Pressure",
+   "problem_type": "从力、面积或液柱高度求压强",
+   "search_text": "2  A device for measuring gas pressure is connected to a gas supply as shown in Fig. 2.1\n\n                                                                                        300\n\n                                                                                          250    242\n                   connection to\n                 gas supply                                             200\n\n                                          h\n                                                                                            150\n\n\n\n                                                                                           100\n                                                         82\n\n                                                                                        50\n                         mercury                                      mm scale\n                                                                                       0\n\n                                               Fig. 2.1\n\n     (a)   (i)  State the name of the measuring device shown in Fig. 2.1.\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  Determine the difference h between the mercury levels shown in Fig. 2.1.\n\n\n\n                                              h =  ................................................... mm [2]\n\n     (b) The atmospheric pressure is 760 mm of mercury.\n\n        Determine the pressure of the gas supply.\n\n\n\n\n\n                                 pressure of gas supply =  ................................. mm of mercury [1]\n\n© UCLES 2022                                         0625/32/O/N/22\n\n(c)  Suggest why this measuring device uses mercury rather than coloured water.\n\n               .............................................................................................................................................  [1]\n\n     (d) The gas supply is turned off and the device is disconnected from the gas supply. Both ends of\n         the tube are open to the atmosphere.\n\n\n\n\n\n                              side A\n                                                              side B\n\n\n\n\n\n                                               Fig. 2.2\n\n      On Fig. 2.2, draw and label the levels of mercury in side A and in side B of the tube.        [1]\n\n                                                                                                            [Total: 6]\n\n\n\n\n\n© UCLES 2022                                         0625/32/O/N/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Physical quantities and measurement",
+   "problem_type": "读仪器、换单位或求测量量",
+   "search_text": "3    (a) A liquid-in-glass thermometer has a scale with marks from –10 °C to 110 °C.\n      A student checks the accuracy of the thermometer.\n\n        Describe how to check the accuracy of:\n\n             (i)  the 100 °C mark on the thermometer scale\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  the 0 °C mark on the thermometer scale.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n            (iii)  State the importance of the 0 °C and 100 °C marks on a thermometer scale.\n\n                       .....................................................................................................................................  [1]\n\n     (b) We can measure temperature by using physical properties that vary with temperature.\n\n             (i)  State the physical property that we use to measure temperature in a liquid-in-glass\n             thermometer.\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  State another physical property that we use to measure temperature.\n\n                       .....................................................................................................................................  [1]\n\n                                                                                                            [Total: 5]\n\n\n\n\n\n© UCLES 2022                                         0625/32/O/N/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "4    Fig. 4.1 shows students walking to school. There are puddles of water on the ground.\n\n\n\n\n\n                                                            puddles\n\n\n\n                                               Fig. 4.1\n\n     After school, the puddles have disappeared and the ground is dry.\n\n     (a)   (i)  State the name of the process that causes the puddles to disappear.\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  Describe the process that causes the puddles to disappear.\n          Use your ideas about molecules.\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [3]\n\n\n\n\n\n© UCLES 2022                                          0625/32/ O/N/22                              [Turn over\n\n(b) A student designs a container to keep a hot liquid at a high temperature.\n       The container is shown in Fig. 4.2.\n\n                                                                          liquid\n\n\n\n                               container\n                      made of\n                            cardboard\n\n\n                                               Fig. 4.2\n\n      He finds that the liquid cools too quickly.\n\n        Suggest two improvements to the design of the container which reduce the transfer of thermal\n        energy from the hot liquid to its surroundings.\n        For each suggestion, state the thermal transfer process that it reduces.\n\n         suggestion 1  .............................................................................................................................\n\n               ...................................................................................................................................................\n\n         thermal transfer process ...........................................................................................................\n\n         suggestion 2  .............................................................................................................................\n\n               ...................................................................................................................................................\n\n         thermal transfer process ...........................................................................................................\n                                                                                                                       [4]\n\n                                                                                                            [Total: 8]\n\n\n\n\n\n© UCLES 2022                                         0625/32/O/N/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q04.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q05",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "5",
+   "chapter": "Waves",
+   "knowledge_point": "Electromagnetic spectrum",
+   "problem_type": "辨认电磁波并解释用途",
+   "search_text": "5    (a) The diagram in Fig. 5.1 shows the profile (side view) of a water wave.\n\n                         Q                                                                               water wave\n\n\n             P                                          T\n\n                                             S\n\n                               R\n\n                                               Fig. 5.1\n\n         State the letter which represents:\n\n             (i)  the amplitude of the wave ...............................................                                   [1]\n\n             (ii)  the wavelength of the wave. ...............................................                                 [1]\n\n     (b) The water molecules move at right angles to the direction of travel of the water wave.\n\n         State the name for this type of wave.\n\n               .............................................................................................................................................  [1]\n\n     (c)  State the meaning of the frequency of a wave.\n\n               .............................................................................................................................................  [1]\n\n     (d) The chart in Fig. 5.2 shows the regions of the electromagnetic spectrum.\n\n       Two of the regions are not labelled.\n\n\n                 ........................   X-rays      .......................    visible    infrared   microwaves    radio\n                                                                      light                         waves\n\n                                                   Fig. 5.2\n\n             (i)  Complete the labelling in Fig. 5.2.                                                              [2]\n\n             (ii)  Compare the speed of radio waves and visible light. Complete the sentence.\n\n               In a vacuum, radio waves travel ................................................................ visible light. [1]\n\n     (e) The different regions of the electromagnetic spectrum have different uses.\n\n         State the region of the electromagnetic spectrum that is used for:\n\n             (i)  the remote control for a television ................................................................................ [1]\n\n             (ii)  the signal for satellite television broadcasting ................................................................ [1]\n\n                                                                                                            [Total: 9]\n© UCLES 2022                                         0625/32/O/N/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q05.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q06",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "6",
+   "chapter": "Waves",
+   "knowledge_point": "Light",
+   "problem_type": "用折射、反射或透镜关系处理光路",
+   "search_text": "6    (a)  Fig. 6.1 shows a ray of light striking a plane mirror.\n\n                                                                 plane\n                                                                         mirror\n                               O\n\n\n\n\n                       ray of light\n                                    B\n\n                                               Fig. 6.1\n\n             (i)  State the name of the dashed line OB in Fig. 6.1.\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  On Fig. 6.1, indicate the angle of reflection by drawing an X.                              [1]\n\n            (iii)  State the law of reflection.\n\n                       .....................................................................................................................................  [1]\n\n     (b) A candle is placed in front of a plane mirror. An image of the candle is formed in the mirror.\n\n          Circle the words from the list that describe the image of the candle.\n\n        enlarged      diminished     same size     upside-down      upright           [2]\n\n     (c)  Fig. 6.2 shows a ray of red light striking one side of a glass prism.\n\n\n                                                        air                        air\n\n\n\n\n                          red light\n                                                     glass\n\n\n                                               Fig. 6.2\n\n             (i)  On Fig. 6.2, draw a line to indicate the path of the red light travelling through the glass\n             prism and emerging into the air.                                                                [2]\n\n             (ii)  Explain why the red light follows the path you have drawn in (c)(i).\n\n                       .....................................................................................................................................  [1]\n\n                                                                                                            [Total: 8]\n\n\n\n© UCLES 2022                                         0625/32/O/N/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q06.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q07",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "7",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "7    Fig. 7.1 shows an arrangement that can produce a magnet.\n\n\n\n                                    iron rod\n\n\n\n\n\n                          coil of insulated wire\n\n\n\n                                               Fig. 7.1\n\n     (a)   (i)  State the name given to the type of magnet in Fig. 7.1.\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  Suggest an advantage of this type of magnet in comparison with other types of magnet.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n            (iii)  State two ways of increasing the strength of the magnet in Fig. 7.1.\n\n               1.  .................................................................................................................................  [1]\n\n               2.  .................................................................................................................................  [1]\n\n          (iv)  Suggest one use for this type of magnet.\n\n                       .....................................................................................................................................  [1]\n\n     (b)   (i)  Compare the effect of using a steel rod instead of an iron rod in the arrangement in\n               Fig. 7.1.\n           The steel rod is the same size as the iron rod.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  Compare the effect of using a copper rod instead of an iron rod in the arrangement in\n               Fig. 7.1.\n           The copper rod is the same size as the iron rod.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n                                                                                                            [Total: 7]\n\n\n© UCLES 2022                                         0625/32/O/N/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q07.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q08",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "8",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "8  A student uses the circuit in Fig. 8.1 to find the resistance of a piece of iron wire.\n\n\n\n\n\n                                                                                            variable\n                                  battery                                                       resistor\n\n      ammeter\n\n\n\n                                       voltmeter\n\n\n               A                                                     B\n\n                                   iron wire                                            rule\n                                               Fig. 8.1\n\n     (a)  Complete Fig. 8.2 to show the circuit diagram for the arrangement shown in Fig. 8.1.\n\n       The piece of iron wire is shown as the thicker line between the points A and B.\n\n                                            4.5 V\n\n\n\n\n\n                 A                  B                                               [3]\n                                               Fig. 8.2\n     (b) The reading on the voltmeter is 1.56 V.\n\n       The reading on the ammeter is 0.112 A.\n\n         Calculate the resistance of the iron wire. Include the unit in your answer.\n\n\n                                               resistance =  ......................... unit ........................ [4]\n\n                                                                                                            [Total: 7]\n© UCLES 2022                                         0625/32/O/N/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q08.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q09",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "9",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electromagnetic induction",
+   "problem_type": "判断感应或变压器关系",
+   "search_text": "9    Fig. 9.1 shows a transformer. An a.c. voltmeter is connected to the output of the secondary coil.\n\n                                                core\n\n\n\n               10 V a.c.                            V  voltmeter\n\n\n\n\n                       number of              number of\n                           primary turns = 200        secondary turns = 800\n\n                                               Fig. 9.1\n\n     (a)  State the meaning of a.c.\n\n               .............................................................................................................................................  [1]\n\n     (b)  State the name of the type of transformer shown.\n\n               .............................................................................................................................................  [1]\n\n     (c)  State a suitable material for the core of the transformer in Fig. 9.1.\n\n               .............................................................................................................................................  [1]\n\n     (d)  Using the information in Fig. 9.1, calculate the reading on the voltmeter.\n\n\n\n\n\n                                    reading on voltmeter =  ...................................................... V [3]\n\n     (e) The 10 V a.c. power supply is replaced by a 10 V d.c. battery.\n\n         State the reading on the voltmeter.\n\n\n\n                                    reading on voltmeter =  ...................................................... V [1]\n\n                                                                                                            [Total: 7]\n\n\n\n\n© UCLES 2022                                         0625/32/O/N/22                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q09.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q10",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "10",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "10  (a)  Fig. 10.1 shows the equipment used by a teacher in a laboratory demonstration.\n\n\n\n\n\n                                                    thin string                            metal\n                              wire\n\n\n\n         magnet                                                           battery\n                      S                 N                                                 direction of\n                                   movement\n\n      wooden clamp                              switch\n      and stand\n\n\n                                              Fig. 10.1\n\n       The teacher closes the switch and there is a current in the metal wire.\n      A force acts on the wire. The wire moves in the direction shown in Fig. 10.1.\n\n             (i)  State two changes that increase the force on the wire.\n               1.  .................................................................................................................................  [1]\n               2.  .................................................................................................................................  [1]\n\n             (ii)  State one change that reverses the direction of the force on the wire.\n                       .....................................................................................................................................  [1]\n     (b)  Fig. 10.2 shows the poles of the magnet.\n\n       Draw the shape and show the direction of the magnetic field in the gap between the poles of\n         the magnet.\n\n           N               S\n\n\n                                              Fig. 10.2\n                                                                                                                       [2]\n                                                                                                            [Total: 5]\n\n\n\n© UCLES 2022                                         0625/32/O/N/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q10.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-october-november-p3-v2-qp",
+   "year": 2022,
+   "session": "October/November",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-october-november-p3-v2-qp__q11",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "11",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "11  Fig. 11.1 represents an atom of carbon-14.\n\n\n                                                                  proton\n\n                 X\n\n\n\n\n\n                                           Y\n\n                                              Fig. 11.1\n\n     (a)   (i)  State the name of the particle labelled X.\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  State the name of the particle labelled Y.\n\n                       .....................................................................................................................................  [1]\n\n            (iii)  State the nucleon number of carbon-14.\n\n                       .....................................................................................................................................  [1]\n\n     (b) Carbon-14 decays by emitting a β (beta)-particle.\n\n         State the nature of a β (beta)-particle.\n\n               .............................................................................................................................................  [1]\n\n     (c)  Scientists find an ancient wooden spoon. They find that the spoon contains 2000 atoms of\n         carbon-14.\n\n      When the spoon was made, it contained 16 000 atoms of carbon-14.\n\n       The half-life of carbon-14 is 5800 years.\n\n         Calculate the age of the ancient spoon.\n\n\n                                     age of spoon = ................................................ years [2]\n\n                                                                                                            [Total: 6]\n\n\n\n\n\n© UCLES 2022                                         0625/32/O/N/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2022 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w22_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-october-november-p3-v2-qp__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-october-november-p3-v2-qp__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-october-november-p3-v2-qp__q11.md"
+  }
+ ]
+}

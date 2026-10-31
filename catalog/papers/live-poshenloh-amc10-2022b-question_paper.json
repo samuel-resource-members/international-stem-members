@@ -1,0 +1,1333 @@
+{
+ "group": "live-poshenloh-amc10-2022b-question_paper",
+ "course_id": "AMC10",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q01",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "嵌套自定义运算：由内向外逐层代入 / 自定义非结合运算：严格按括号逐层",
+   "search_text": "1.  Define x ♢ y to be ∣x −y∣ for all real numbers x and y. What is the value of\n\n                          (1 ♢ (2 ♢ 3)) −((1 ♢ 2) ♢ 3)?\n\n\n     A   −2\n\n    B   −1\n\n    C   0\n\n    D   1\n\n     E   2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q01",
+    "live-poshenloh-amc10-2022b-question_paper__q01",
+    "AMC10-2022B-Q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q02",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "实际长度中的直角三角形：识别三边后列勾股 / 菱形高由勾股：边长由分段和",
+   "search_text": "2.  In rhombus ABCD, point P lies on segment AD so that BP ⊥ AD , AP = 3, and\n  PD = 2. What is the area of ABCD?\n\n\n\n\n\n     A   3   ​5\n\n    B   10\n\n\n    C         6   ​5\n\n    D   20\n\n     E   25\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q02",
+    "live-poshenloh-amc10-2022b-question_paper__q02",
+    "AMC10-2022B-Q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q03",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数字奇偶个数：固定前缀用末位奇偶配对 / 奇数个偶数位：末位奇偶翻转配对",
+   "search_text": "3. How many three-digit positive integers have an odd number of even digits?\n\n     A   150\n\n    B   250\n\n    C   350\n\n    D   450\n\n     E   550\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q03",
+    "live-poshenloh-amc10-2022b-question_paper__q03",
+    "AMC10-2022B-Q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q04",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等间距事件次数：次数减一得到间隔数 / 等间隔第n次事件：间隔n−1",
+   "search_text": "4. A donkey suffers an attack of hiccups and the first hiccup happens at 4 : 00 one\n   afternoon. Suppose that the donkey hiccups regularly every 5 seconds. At what time\n   does the donkey’s 700 th hiccup occur?\n\n     A   15 seconds after 4 : 58\n\n    B   20 seconds after 4 : 58\n\n    C   25 seconds after 4 : 58\n\n    D   30 seconds after 4 : 58\n\n     E   35 seconds after 4 : 58\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q04",
+    "live-poshenloh-amc10-2022b-question_paper__q04",
+    "AMC10-2022B-Q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q05",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "根式连乘：先平方化分数再错位约分 / 分式根号积：平方后平方差约消",
+   "search_text": "5. What is the value of\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​                                                                                                                                                                                                                                                                      ​                                                                                                                                                                                                                                                                      ​                            ( 1 + 1)3  ( 1 + 1)5  ( 1 + 1)7                                                                                        ​?\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​                                                                                                                                                                                                                                                                                             ​                                                                                                                                                                                                                                                                                             ​                                            ​                            ( 1 −  321 ) ( 1 −  521 ) ( 1 −  721 )\n\n\n     A          ​3\n\n    B   2\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​    C     15\n\n    D   4\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​     E     105\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q05",
+    "live-poshenloh-amc10-2022b-question_paper__q05",
+    "AMC10-2022B-Q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q06",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "大整数非平凡分解：识别平方差或重复数结构 / 中间2两侧1的数：构造非平凡因式",
+   "search_text": "6. How many of the first ten numbers of the sequence\n\n                             121, 11211, 1112111, …\n\n   are prime numbers?\n\n     A   0\n\n    B   1\n\n    C   2\n\n    D   3\n\n     E   4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q06",
+    "live-poshenloh-amc10-2022b-question_paper__q06",
+    "AMC10-2022B-Q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q07",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "二次式须整数根：韦达转为受限整数因数对 / 整根二次式：积固定的异因数对",
+   "search_text": "7.  For how many values of the constant k will the polynomial x 2 + kx + 36 have two\n\n    distinct integer roots?\n\n     A    6\n\n    B    8\n\n    C    9\n\n    D    14\n\n     E    16\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q07",
+    "live-poshenloh-amc10-2022b-question_paper__q07",
+    "AMC10-2022B-Q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q08",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "每十数块含一或二个7倍数：总数反推双份块",
+   "search_text": "8. Consider the following 100 sets of 10 elements each:\n\n                                  {1, 2, 3, … , 10},\n                               {11, 12, 13, … , 20},\n                               {21, 22, 23, … , 30},\n\n                                                                 ⋮\n                            {991, 992, 993, … , 1000}.\n\n  How many of these sets contain exactly two multiples of 7?\n\n     A    40\n\n    B    42\n\n    C    43\n\n    D    49\n\n     E    50\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q08",
+    "live-poshenloh-amc10-2022b-question_paper__q08",
+    "AMC10-2022B-Q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q09",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分式求和：裂成相邻差后错位消项 / 阶乘分式裂项求和",
+   "search_text": "9. The sum\n\n                         1   2   3        2021\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ​                                                                                                                                                                            ​                                                                                                                                                                            ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                 +  +  + ⋯+\n                                2!    3!    4!        2022!\n                       1\n   can be expressed as a −      ​, where a and b are positive integers. What is a + b?\n                                b!\n\n     A    2020\n\n    B    2021\n\n    C    2022\n\n    D    2023\n\n     E    2024\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q09",
+    "live-poshenloh-amc10-2022b-question_paper__q09",
+    "AMC10-2022B-Q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q10",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "多种统计量同时约束：排序、频数界与构造 / 众数中位均值固定差：最小正数给界",
+   "search_text": "10. Camila writes down five positive integers. The unique mode of these integers is 2\n    greater than their median, and the median is 2 greater than their arithmetic mean. What\n     is the least possible value for the mode?\n\n     A    5\n\n    B    7\n\n    C    9\n\n    D    11\n\n     E    13\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q10",
+    "live-poshenloh-amc10-2022b-question_paper__q10",
+    "AMC10-2022B-Q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q11",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "条件命题的必然结论：写包含关系、否定或逆否后检验 / 逻辑等价：不能同时更大和销量更多",
+   "search_text": "11.  All the high schools in a large school district are involved in a fundraiser selling T-shirts.\n   Which of the choices below is logically equivalent to the statement “No school bigger\n   than Euclid HS sold more T-shirts than Euclid HS”?\n\n     A     All schools smaller than Euclid HS sold fewer T-shirts than Euclid HS.\n\n\n    B   No school that sold more T-shirts than Euclid HS is bigger than Euclid HS.\n\n\n    C     All schools bigger than Euclid HS sold fewer T-shirts than Euclid HS.\n\n\n    D     All schools that sold fewer T-shirts than Euclid HS are smaller than Euclid HS.\n\n\n     E     All schools smaller than Euclid HS sold more T-shirts than Euclid HS.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q11",
+    "live-poshenloh-amc10-2022b-question_paper__q11",
+    "AMC10-2022B-Q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q12",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "重复独立事件至少一次：补集幂界",
+   "search_text": "12. A pair of fair 6 -sided dice is rolled n times. What is the least value of n such that the\n    probability that the sum of the numbers face up on a roll equals 7 at least once is\n             1\n    greater than   ​?\n             2\n\n     A   2\n\n    B   3\n\n    C   4\n\n    D   5\n\n     E   6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q12",
+    "live-poshenloh-amc10-2022b-question_paper__q12",
+    "AMC10-2022B-Q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q13",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "质数差的幂关系：平方差或中间数换元后筛质数 / 孪生素数立方差：中心换元降平方",
+   "search_text": "13. The positive difference between a pair of primes is equal to 2, and the positive\n    difference between the cubes of the two primes is 31106. What is the sum of the\n    digits of the least prime that is greater than those two primes?\n\n     A    8\n\n    B    10\n\n    C    11\n\n    D    13\n\n     E    16\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q13",
+    "live-poshenloh-amc10-2022b-question_paper__q13",
+    "AMC10-2022B-Q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q14",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "集合禁止某种和：互补配对或差集给上界并构造 / 无和子集最大：以最大元素配互补对",
+   "search_text": "14. Suppose that S is a subset of { 1, 2, 3, ⋯, 25 } such that the sum of any two (not\n    necessarily distinct) elements of S is never an element of S. What is the maximum\n   number of elements S may contain?\n\n     A    12\n\n    B    13\n\n    C    14\n\n    D    15\n\n     E    16\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q14",
+    "live-poshenloh-amc10-2022b-question_paper__q14",
+    "AMC10-2022B-Q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q15",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "对所有输入恒成立：展开后比较系数 / 等差前缀和缩放不依赖n：比较系数",
+   "search_text": "15. Let S ​n be the sum of the first n terms of an arithmetic sequence that has a common\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                     S 3n\n    difference of 2. The quotient                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ​ does not depend on n. What is S 20 ​?\n                     S ​n\n\n     A   340\n\n    B   360\n\n    C   380\n\n    D   400\n\n     E   420\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q15",
+    "live-poshenloh-amc10-2022b-question_paper__q15",
+    "AMC10-2022B-Q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q16",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "多边形相交或并集：求交点分片并加减面积 / 方形跨矩形交集：3-4-5坐标减外三角",
+   "search_text": "16. The diagram below shows a rectangle with side lengths 4 and 8 and a square with side\n   length 5. Three vertices of the square lie on three different sides of the rectangle, as\n   shown. What is the area of the region inside both the square and the rectangle?\n\n\n\n\n\n           1\n     A         15\n                   ​8\n\n           3\n    B   15\n                   ​8\n\n           1\n    C   15\n                   ​2\n\n           5\n    D   15\n                   ​8\n\n           7\n     E   15\n                   ​8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q16",
+    "live-poshenloh-amc10-2022b-question_paper__q16",
+    "AMC10-2022B-Q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q17",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "幂的余数：用小模数周期或同余降幂 / 大幂避小素因数：模2,3,5,7周期",
+   "search_text": "17. One of the following numbers is not divisible by any prime number less than 10. Which\n     is it?\n\n     A   2 606 − 1\n\n    B   2 606 + 1\n\n    C   2 607 − 1\n\n    D   2 607 + 1\n\n     E   2 607 + 3607\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q17",
+    "live-poshenloh-amc10-2022b-question_paper__q17",
+    "AMC10-2022B-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q18",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "0-1齐次线性方程非零解：矩阵奇异计数",
+   "search_text": "18. Consider systems of three linear equations with unknowns x,y, and z,\n\n                                         1 ​x + b 1 ​y + c 1 ​z = 0                  ⎧a\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​                                                                                                                                                                                                     ​                          a 2 ​x + b 2 ​y + c 2 ​z = 0               ⎨                          a 3 ​x + b 3 ​y + c 3 ​z = 0               ⎩\n   where each of the coefficients is either 0 or 1 and the system has a solution other than\n   x = y = z = 0. For example, one such system is\n\n                    + 1y + 0z = 0                     ⎧1x\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ​                                                                                                                                                                                                                                                                                                                                                                                                                                         ​                                                                                                                                                                                                     ​                           0x + 1y + 1z = 0               ⎨                           0x + 0y + 0z = 0               ⎩\n    with a nonzero solution of (x, y, z) = (1, −1, 1). How many such systems of\n   equations are there? (The equations in a system need not be distinct, and two systems\n   containing the same equations in a different order are considered different.)\n\n     A    302\n\n    B    338\n\n    C    340\n\n    D    343\n\n     E    344\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q18",
+    "live-poshenloh-amc10-2022b-question_paper__q18",
+    "AMC10-2022B-Q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q19",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "有限格点生命演化逆推：完整邻域模拟筛配置",
+   "search_text": "19. Each square in a 5 × 5 grid is either filled or empty, and has up to eight adjacent\n   neighboring squares, where neighboring squares share either a side or a corner. The\n    grid is transformed by the following rules:\n\n   • Any filled square with two or three filled neighbors remains filled.\n\n\n   • Any empty square with exactly three filled neighbors becomes a filled square.\n\n\n   • All other squares remain empty or become empty.\n\n\n   A sample transformation is shown in the figure below.\n\n\n\n\n\n   Suppose the 5 × 5 grid has a border of empty squares surrounding a 3 × 3 subgrid.\n  How many initial configurations will lead to a transformed grid consisting of a single\n     filled square in the center after a single transformation? (Rotations and reflections of\n   the same configuration are considered different.)\n\n\n\n\n\n     A    14\n\n    B    18\n\n    C    22\n\n    D    26\n\n30\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q19",
+    "live-poshenloh-amc10-2022b-question_paper__q19",
+    "AMC10-2022B-Q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q20",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "坐标中给定夹角：用斜率、投影或倍角关系列方程 / 菱形中点垂足角：坐标投影后夹角",
+   "search_text": "20. Let ABCD be a rhombus with ∠ADC = 46 ∘ . Let E be the midpoint of CD , and let\n  F be the point on BE such that AF is perpendicular to BE . What is the degree\n   measure of ∠BFC?\n\n     A    110\n\n     B    111\n\n    C    112\n\n    D    113\n\n      E    114\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q20",
+    "live-poshenloh-amc10-2022b-question_paper__q20",
+    "AMC10-2022B-Q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q21",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "多项式除法余数：代除式根或系数比较恢复参数 / 两种二次余式：设最小三次并系数比较",
+   "search_text": "21. Let P(x) be a polynomial with rational coefficients such that when P(x) is divided by\n                       2   the polynomial x + x + 1, the remainder is x + 2, and when P(x) is divided by the\n                   2   polynomial x + 1, the remainder is 2x + 1. There is a unique polynomial of least\n\n   degree with these two properties. What is the sum of the squares of the coefficients\n   of that polynomial?\n\n     A    10\n\n    B    13\n\n    C    19\n\n    D    20\n\n     E    23\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q21",
+    "live-poshenloh-amc10-2022b-question_paper__q21",
+    "AMC10-2022B-Q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q22",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "相切圆的半径：圆心距等于半径和差后联立 / 与两同心圆及第三圆相切：先锁半径再数交点",
+   "search_text": "22. Let S be the set of circles in the coordinate plane that are tangent to each of the three\n\n    circles with equations\n\n                                   2     2              2     2                    x + y = 4,    x + y = 64,\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​\n                       and    (x −5) 2 + y 2 = 3.\n\n   What is the sum of the areas of all circles in S?\n\n\n     A         48π\n\n     B    68π\n\n    C   96π\n\n    D    102π\n\n\n     E         136π\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q22",
+    "live-poshenloh-amc10-2022b-question_paper__q22",
+    "AMC10-2022B-Q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q23",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "先分条件再随机：分支概率乘条件概率后相加 / 随机停时与位移独立：按走2或3步全概率",
+   "search_text": "23. Ant Amelia starts on the number line at 0 and crawls in the following manner. For n = 1,\n    2,3; Amelia chooses a time duration t ​n and an increment x ​n independently and\n    uniformly at random from the interval (0, 1). During the n th step of the process,\n   Amelia moves x ​n units in the positive direction, using up t ​n minutes. If the total\n   elapsed time has exceeded 1 minute during the n th step, she stops at the end of that\n    step; otherwise, she continues with the next step, taking at most 3 steps in all. What is\n   the probability that Amelia’s position when she stops will be greater than 1?\n\n         1\n     A\n                ​3\n\n         1\n     B\n                ​2\n\n         2    C\n                ​3\n\n         3    D\n                ​4\n\n         5\n     E\n                ​6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q23",
+    "live-poshenloh-amc10-2022b-question_paper__q23",
+    "AMC10-2022B-Q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q24",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "收缩函数复合上界：利用端点等值缩短距离",
+   "search_text": "24. Consider functions f that satisfy\n\n                                        1\n                             ∣f(x) −f(y)∣≤   ​∣x − y∣\n                                        2\n    for all real numbers x and y. Of all such functions that also satisfy the equation\n   f(300) = f(900), what is the greatest possible value of\n\n                            f(f(800)) −f(f(400))?\n\n\n     A   25\n\n     B   50\n\n    C   100\n\n    D   150\n\n     E   200\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q24",
+    "live-poshenloh-amc10-2022b-question_paper__q24",
+    "AMC10-2022B-Q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2022b-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2022b-question_paper__q25",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "二进制逐位模逆：逆元高位周期",
+   "search_text": "25. Let x 0 ​, x 1 ​, x 2 ​, … be a sequence of numbers, where each x ​k is either 0 or 1. For each\n     positive integer n, define\n\n                                          n−1\n                                                          k\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                          S n =     ​x k ​2             ∑\n                                           k=0\n\n                               n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ​    Suppose 7S n ≡ 1 (mod 2 ) for all n ≥1. What is the value of the sum\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                           x 2019 + 2x 2020 ​+\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ​                             4x 2021 + 8x 2022 ​?\n\n\n      A   6\n\n      B   7\n\n     C   12\n\n     D   14\n\n       E   15\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/amc10/2022B/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-answers.pdf"
+    },
+    {
+     "title": "2022 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2022B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2022-B-Q25",
+    "live-poshenloh-amc10-2022b-question_paper__q25",
+    "AMC10-2022B-Q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2022b-question_paper__q25.md"
+  }
+ ]
+}

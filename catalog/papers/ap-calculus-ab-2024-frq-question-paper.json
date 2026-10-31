@@ -1,0 +1,290 @@
+{
+ "group": "ap-calculus-ab-2024-frq-question-paper",
+ "course_id": "AP-CALCULUS-AB",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-calculus-ab-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2024-frq-question-paper__q01",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "t\n                                            0     3     7     12\n                                  (minutes)\n\n                       C (t )\n                                           100    85    69    55\n                              (degrees Celsius)\n\n\n1. The temperature of coffee in a cup at time t minutes is modeled by a decreasing differentiable function C,\n  where C t() is measured in degrees Celsius. For 0 £ t £ 12, selected values of C t() are given in the table\n   shown.\n\n   (a) Approximate C ¢(5) using the average rate of change of C over the interval 3 £ t £ 7. Show the work that\n       leads to your answer and include units of measure.\n\n\n   (b) Use a left Riemann sum with the three subintervals indicated by the data in the table to approximate the\n\n                 12                            1   12\n      value of                                    C (t) dt in the context of the problem.            C (t) dt . Interpret the meaning of                                                  ∫0              ∫0                                           12\n\n                                                  −24.55 e 0.01 t\n   (c) For 12 £ t £ 20 , the rate of change of the temperature of the coffee is modeled by C ¢ (t) =                        ,\n                                                                                                                                                     t\n\n      where C ¢( t) is measured in degrees Celsius per minute. Find the temperature of the coffee at time t = 20 .\n\n\n     Show the setup for your calculations.\n\n\n                                                              0.2455 e                                                                                         0.01 t (100 −)t\n   (d) For the model defined in part (c), it can be shown that C ¢¢ (t) =                                      . For 12 < t < 20 ,                                                                                 2\n                                                                                                                   t\n\n      determine whether the temperature of the coffee is changing at a decreasing rate or at an increasing rate.\n\n\n      Give a reason for your answer.\n\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2024-frq-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2024-frq-question-paper__q01.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2024-frq-question-paper__q02",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "2. A particle moves along the x-axis so that its velocity at time t ≥ 0 is given by v(t) = ln  t 2 − 4 t + 5 − 0.2 t .                                                                      (        )\n\n   (a) There is one time, t = tR , in the interval 0 < t < 2 when the particle is at rest (not moving). Find tR. For\n     0 < t < tR , is the particle moving to the right or to the left? Give a reason for your answer.\n\n   (b) Find the acceleration of the particle at time t = 1.5. Show the setup for your calculations. Is the speed of the\n       particle increasing or decreasing at time t = 1.5 ? Explain your reasoning.\n\n   (c) The position of the particle at time t is xt(), and its position at time t = 1 is x( 1) = −3. Find the position of\n       the particle at time t = 4 . Show the setup for your calculations.\n\n   (d) Find the total distance traveled by the particle over the interval 1 £ t £ 4 . Show the setup for your\n       calculations.\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n\nEND OF PART A\n\nCALCULUS AB\n\n             SECTION II, Part B\n\n\n                 Time—1 hour\n\n                       4 Questions\n\n\nNO CALCULATOR IS ALLOWED FOR THESE QUESTIONS.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2024-frq-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2024-frq-question-paper__q02.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2024-frq-question-paper__q03",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分方程",
+   "knowledge_point": "微分方程",
+   "problem_type": "解微分方程并代入初始条件",
+   "search_text": "3. The depth of seawater at a location can be modeled by the function H that satisfies the differential equation\n\n  dH   1                    t\n     =   (H − 1)cos        , where H t() is measured in feet and t is measured in hours after noon (t = 0 ). It is    dt    2        ( 2 )\n\n  known that H (0) = 4.\n\n   (a) A portion of the slope field for the differential equation is provided. Sketch the solution curve, y = H ( t),\n      through the point (0, 4).\n\n\n\n\n\n   (b) For 0 < t < 5 , it can be shown that H ( t) > 1. Find the value of t, for 0 < t < 5 , at which H has a critical\n       point. Determine whether the critical point corresponds to a relative minimum, a relative maximum, or\n       neither a relative minimum nor a relative maximum of the depth of seawater at the location. Justify your\n      answer.\n\n   (c) Use separation of variables to find y = H(t), the particular solution to the differential equation\n\n     dH   1                    t\n        =   (H − 1)cos     with initial condition H (0) = 4.        dt    2        ( 2 )\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2024-frq-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2024-frq-question-paper__q03.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2024-frq-question-paper__q04",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "4. The graph of the differentiable function  f , shown for −6 £ x £ 7, has a horizontal tangent at x = −2 and is\n   linear for 0 £ x £ 7. Let R be the region in the second quadrant bounded by the graph of  f , the vertical line\n   x = −,6 and the x- and y-axes. Region R has area 12.\n\n                                                   x\n                                                                   f ( t) dt . Find the values of g(−6), g(4), and g(6).   (a) The function g is defined by g( x) = ∫0\n\n   (b) For the function g defined in part (a), find all values of x in the interval 0 £ x £ 6 at which the graph of g\n      has a critical point. Give a reason for your answer.\n\n                                                   x\n                                                                    f ¢ (t) dt . Find the values of h(6), h ¢ ( 6), and h ¢¢(6). Show the work   (c) The function h is defined by h(x) = ∫− 6\n\n       that leads to your answers.\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2024-frq-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2024-frq-question-paper__q04.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2024-frq-question-paper__q05",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "2           2                        dy   −2 x\n5. Consider the curve defined by the equation x + 3 y + 2 y = 48. It can be shown that   =             .\n                                                                            dx   3 + 4 y\n\n   (a) There is a point on the curve near (2, 4) with x-coordinate 3. Use the line tangent to the curve at (2, 4) to\n      approximate the y-coordinate of this point.\n\n   (b) Is the horizontal line y = 1 tangent to the curve? Give a reason for your answer.\n\n   (c) The curve intersects the positive x-axis at the point (  48 , 0). Is the line tangent to the curve at this point\n\n       vertical? Give a reason for your answer.\n\n                                                                                         3\n   (d) For time t ≥ 0 , a particle is moving along another curve defined by the equation y + 2 xy = 24 . At the\n       instant the particle is at the point (4, 2), the y-coordinate of the particle’s position is decreasing at a rate of\n\n     2 units per second. At that instant, what is the rate of change of the x-coordinate of the particle’s position\n\n      with respect to time?\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2024-frq-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2024-frq-question-paper__q05.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2024-frq-question-paper__q06",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "6. The functions  f and g are defined by  f ( x) = x 2 + 2 and g( x) = x 2 − 2 x , as shown in the graph.\n\n   (a) Let R be the region bounded by the graphs of  f and g, from x = 0 to x = 2 , as shown in the graph. Write,\n       but do not evaluate, an integral expression that gives the area of region R.\n\n   (b) Let S be the region bounded by the graph of g and the x-axis, from x = 2 to x = 5 , as shown in the graph.\n      Region S is the base of a solid. For this solid, at each x the cross section perpendicular to the x-axis is a\n       rectangle with height equal to half its base in region S. Find the volume of the solid. Show the work that\n       leads to your answer.\n\n   (c) Write, but do not evaluate, an integral expression that gives the volume of the solid generated when\n      region S, as described in part (b), is rotated about the horizontal line y = 20 .\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n\nSTOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2024-frq-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2024-frq-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2024-frq-question-paper__q06.md"
+  }
+ ]
+}

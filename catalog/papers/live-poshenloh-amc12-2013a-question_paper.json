@@ -1,0 +1,1269 @@
+{
+ "group": "live-poshenloh-amc12-2013a-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "用底乘高面积关系反求长度 / 直角三角形面积反求直角边",
+   "search_text": "Square \\(ABCD\\) has side length \\(10.\\) Point \\(E\\) is on \\(\\overline{BC},\\) and the area of \\(\\triangle ABE\\) is \\(40.\\) What is \\(BE?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q01",
+    "live-poshenloh-amc12-2013a-question_paper__q01",
+    "AMC12-2013A-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Square \\(ABCD\\) has side length \\(10.\\) Point \\(E\\) is on \\(\\overline{BC},\\) and the area of \\(\\triangle ABE\\) is \\(40.\\) What is \\(BE?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按比分整数性分胜负计总分 / 比赛比分整数性：先按奇偶分胜负",
+   "search_text": "A softball team played ten games, scoring \\(1,\\) \\(2,\\) \\(3,\\) \\(4,\\) \\(5,\\) \\(6,\\) \\(7,\\) \\(8,\\) \\(9,\\) and \\(10\\) runs. They lost by one run in exactly five games. In each of their other games, they scored twice as many runs as their opponent. How many total runs did their opponents score?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q02",
+    "live-poshenloh-amc12-2013a-question_paper__q02",
+    "AMC12-2013A-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A softball team played ten games, scoring \\(1,\\) \\(2,\\) \\(3,\\) \\(4,\\) \\(5,\\) \\(6,\\) \\(7,\\) \\(8,\\) \\(9,\\) and \\(10\\) runs. They lost by one run in exactly five games. In each of their other games, they scored twice as many runs as their opponent. How many total runs did their opponents score?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分组平均数还原总量再加权 / 分类占比加权：以同一总体合并",
+   "search_text": "A flower bouquet contains pink roses, red roses, pink carnations, and red carnations. One third of the pink flowers are roses, three fourths of the red flowers are carnations, and six tenths of the flowers are pink. What percent of the flowers are carnations?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q03",
+    "live-poshenloh-amc12-2013a-question_paper__q03",
+    "AMC12-2013A-Q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "展开或提出共同因子抵消相同部分 / 指数分式：提取共同最小幂",
+   "search_text": "What is the value of \\[\\dfrac{2^{2014} + 2^{2012}}{2^{2014} - 2^{2012}}?\\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q04",
+    "live-poshenloh-amc12-2013a-question_paper__q04",
+    "AMC12-2013A-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the value of \\[\\dfrac{2^{2014} + 2^{2012}}{2^{2014} - 2^{2012}}?\\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "两种状态相减消去固定量 / 均摊补款之差：消去共同目标金额",
+   "search_text": "Tom, Dorothy, and Sammy went on a vacation and agreed to split the costs evenly. During their trip Tom paid \\(\\$105,\\) Dorothy paid \\(\\$125,\\) and Sammy paid \\(\\$175.\\) In order to share the costs equally, Tom gave Sammy \\(t\\) dollars, and Dorothy gave Sammy \\(d\\) dollars. What is \\(t - d?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q05",
+    "live-poshenloh-amc12-2013a-question_paper__q05",
+    "AMC12-2013A-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Tom, Dorothy, and Sammy went on a vacation and agreed to split the costs evenly. During their trip Tom paid \\(\\$105,\\) Dorothy paid \\(\\$125,\\) and Sammy paid \\(\\$175.\\) In order to share the costs equally, Tom gave Sammy \\(t\\) dollars, and Dorothy gave Sammy \\(d\\) dollars. What is \\(t - d?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "统一单位后用每单位贡献乘数量 / 混合命中率得分：识别两类每次贡献相同",
+   "search_text": "In a recent basketball game, Shenille attempted only three-point shots and two-point shots. She was successful on \\(20\\%\\) of her three-point shots and \\(30\\%\\) of her two-point shots. Shenille attempted \\(30\\) shots. How many points did she score?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q06",
+    "live-poshenloh-amc12-2013a-question_paper__q06",
+    "AMC12-2013A-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In a recent basketball game, Shenille attempted only three-point shots and two-point shots. She was successful on \\(20\\%\\) of her three-point shots and \\(30\\%\\) of her two-point shots. Shenille attempted \\(30\\) shots. How many points did she score?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "线性递推倒向作差 / 相邻和递推：倒向作差",
+   "search_text": "The sequence \\(S_1,\\) \\(S_2,\\) \\(S_3,\\) \\(\\ldots,\\) \\(S_{10}\\) has the property that every term beginning with the third is the sum of the previous two. That is, \\[S_n = S_{n-2} + S_{n-1} \\text{ for } n \\ge 3.\\] Suppose that \\(S_9 = 110\\) and \\(S_7 = 42.\\) What is \\(S_4?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q07",
+    "live-poshenloh-amc12-2013a-question_paper__q07",
+    "AMC12-2013A-Q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The sequence \\(S_1,\\) \\(S_2,\\) \\(S_3,\\) \\(\\ldots,\\) \\(S_{10}\\) has the property that every term beginning with the third is the sum of the previous two. That is, \\[S_n = S_{n-2} + S_{n-1} \\text{ for } n \\ge 3.\\] Suppose that \\(S_9 = 110\\) and \\(S_7 = 42.\\) What is \\(S_4?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "移项因式分解后按各因子是否为零分类 / 对称分式等式：移项提出非零差因子",
+   "search_text": "Given that \\(x\\) and \\(y\\) are distinct nonzero real numbers such that \\(x + \\dfrac{2}{x} = y + \\dfrac{2}{y},\\) what is \\(xy?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q08",
+    "live-poshenloh-amc12-2013a-question_paper__q08",
+    "AMC12-2013A-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Given that \\(x\\) and \\(y\\) are distinct nonzero real numbers such that \\(x + \\dfrac{2}{x} = y + \\dfrac{2}{y},\\) what is \\(xy?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相似三角形对应边成比例 / 等腰三角形内平行四边形：相似给边和不变",
+   "search_text": "In \\(\\triangle ABC,\\) \\(AB = AC = 28\\) and \\(BC = 20.\\) Points \\(D,\\) \\(E,\\) and \\(F\\) are on sides \\(\\overline{AB},\\) \\(\\overline{BC},\\) and \\(\\overline{AC},\\) respectively, such that \\(\\overline{DE}\\) and \\(\\overline{EF}\\) are parallel to \\(\\overline{AC}\\) and \\(\\overline{AB},\\) respectively. What is the perimeter of parallelogram \\(ADEF?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q09",
+    "live-poshenloh-amc12-2013a-question_paper__q09",
+    "AMC12-2013A-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In \\(\\triangle ABC,\\) \\(AB = AC = 28\\) and \\(BC = 20.\\) Points \\(D,\\) \\(E,\\) and \\(F\\) are on sides \\(\\overline{AB},\\) \\(\\overline{BC},\\) and \\(\\overline{AC},\\) respectively, such that \\(\\overline{DE}\\) and \\(\\overline{EF}\\) are parallel to \\(\\overline{AC}\\) and \\(\\overline{AB},\\) respectively. What is the perimeter of parallelogram \\(ADEF?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "循环小数化分数限制分母 / 两位循环单位分数：把循环节化成99分母",
+   "search_text": "Let \\(S\\) be the set of positive integers \\(n\\) for which \\(\\dfrac{1}{n}\\) has the repeating decimal representation \\(0.\\overline{ab} = 0.ababab\\ldots,\\) with \\(a\\) and \\(b\\) different digits. What is the sum of the elements of \\(S?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q10",
+    "live-poshenloh-amc12-2013a-question_paper__q10",
+    "AMC12-2013A-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(S\\) be the set of positive integers \\(n\\) for which \\(\\dfrac{1}{n}\\) has the repeating decimal representation \\(0.\\overline{ab} = 0.ababab\\ldots,\\) with \\(a\\) and \\(b\\) different digits. What is the sum of the elements of \\(S?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "面积或长度比例转相似三角形的边比 / 等周长平行截线：以两条截长列方程",
+   "search_text": "Triangle \\(ABC\\) is equilateral with \\(AB = 1.\\) Points \\(E\\) and \\(G\\) are on \\(\\overline{AC}\\) and points \\(D\\) and \\(F\\) are on \\(\\overline{AB}\\) such that both \\(\\overline{DE}\\) and \\(\\overline{FG}\\) are parallel to \\(\\overline{BC}.\\) Furthermore, triangle \\(ADE\\) and trapezoids \\(DFGE\\) and \\(FBCG\\) all have the same perimeter. What is \\(DE + FG?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q11",
+    "live-poshenloh-amc12-2013a-question_paper__q11",
+    "AMC12-2013A-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Triangle \\(ABC\\) is equilateral with \\(AB = 1.\\) Points \\(E\\) and \\(G\\) are on \\(\\overline{AC}\\) and points \\(D\\) and \\(F\\) are on \\(\\overline{AB}\\) such that both \\(\\overline{DE}\\) and \\(\\overline{FG}\\) are parallel to \\(\\overline{BC}.\\) Furthermore, triangle \\(ADE\\) and trapezoids \\(DFGE\\) and \\(FBCG\\) all have the same perimeter. What is \\(DE + FG?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "余弦定理把两边夹角与第三边连接 / 角成等差的三角形：固定中角60度分类",
+   "search_text": "The angles in a particular triangle are in arithmetic progression, and the side lengths are \\(4,\\) \\(5,\\) and \\(x.\\) The sum of the possible values of \\(x\\) equals \\(a + \\sqrt{b} + \\sqrt{c},\\) where \\(a,\\) \\(b,\\) and \\(c\\) are positive integers. What is \\(a + b + c?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q12",
+    "live-poshenloh-amc12-2013a-question_paper__q12",
+    "AMC12-2013A-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The angles in a particular triangle are in arithmetic progression, and the side lengths are \\(4,\\) \\(5,\\) and \\(x.\\) The sum of the possible values of \\(x\\) equals \\(a + \\sqrt{b} + \\sqrt{c},\\) where \\(a,\\) \\(b,\\) and \\(c\\) are positive integers. What is \\(a + b + c?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "用底乘高面积关系反求长度 / 坐标多边形面积二等分：先求目标高",
+   "search_text": "Let points \\(A = (0, 0),\\) \\(B = (1, 2),\\) \\(C = (3, 3),\\) and \\(D = (4, 0).\\) Quadrilateral \\(ABCD\\) is cut into equal area pieces by a line passing through \\(A.\\) This line intersects \\(\\overline{CD}\\) at point \\(\\left(\\dfrac{p}{q}, \\dfrac{r}{s}\\right),\\) where these fractions are in lowest terms. What is \\(p + q + r + s?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q13",
+    "live-poshenloh-amc12-2013a-question_paper__q13",
+    "AMC12-2013A-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let points \\(A = (0, 0),\\) \\(B = (1, 2),\\) \\(C = (3, 3),\\) and \\(D = (4, 0).\\) Quadrilateral \\(ABCD\\) is cut into equal area pieces by a line passing through \\(A.\\) This line intersects \\(\\overline{CD}\\) at point \\(\\left(\\dfrac{p}{q}, \\dfrac{r}{s}\\right),\\) where these fractions are in lowest terms. What is \\(p + q + r + s?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "对数等差转真数等比 / 对数等差数列：真数转等比",
+   "search_text": "The sequence \\[ \\begin{gathered} \\log_{12} 162, \\ \\log_{12} x, \\ \\log_{12} y, \\\\ \\ \\log_{12} z, \\ \\log_{12} 1250 \\end{gathered} \\] is an arithmetic progression. What is \\(x?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q14",
+    "live-poshenloh-amc12-2013a-question_paper__q14",
+    "AMC12-2013A-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The sequence \\[ \\begin{gathered} \\log_{12} 162, \\ \\log_{12} x, \\ \\log_{12} y, \\\\ \\ \\log_{12} z, \\ \\log_{12} 1250 \\end{gathered} \\] is an arithmetic progression. What is \\(x?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "先固定一个类别数量再分情况选对象 / 父母子女分配：按父母同店异店分类",
+   "search_text": "Rabbits Peter and Pauline have three offspring—Flopsie, Mopsie, and Cottontail. These five rabbits are to be distributed to four different pet stores so that no store gets both a parent and a child. It is not required that every store gets a rabbit. In how many different ways can this be done?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q15",
+    "live-poshenloh-amc12-2013a-question_paper__q15",
+    "AMC12-2013A-Q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分组平均数还原总量再加权 / 加权均值极值：先由两组均值求数量比",
+   "search_text": "\\(A,\\) \\(B,\\) and \\(C\\) are three piles of rocks. The mean weight of the rocks in \\(A\\) is \\(40\\) pounds, the mean weight of the rocks in \\(B\\) is \\(50\\) pounds, the mean weight of the rocks in the combined piles \\(A\\) and \\(B\\) is \\(43\\) pounds, and the mean weight of the rocks in the combined piles \\(A\\) and \\(C\\) is \\(44\\) pounds. What is the greatest possible integer value for the mean in pounds of the rocks in the combined piles \\(B\\) and \\(C?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q16",
+    "live-poshenloh-amc12-2013a-question_paper__q16",
+    "AMC12-2013A-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "\\(A,\\) \\(B,\\) and \\(C\\) are three piles of rocks. The mean weight of the rocks in \\(A\\) is \\(40\\) pounds, the mean weight of the rocks in \\(B\\) is \\(50\\) pounds, the mean weight of the rocks in the combined piles \\(A\\) and \\(B\\) is \\(43\\) pounds, and the mean weight of the rocks in the combined piles \\(A\\) and \\(C\\) is \\(44\\) pounds. What is the greatest possible integer value for the mean in pounds of the rocks in the combined piles \\(B\\) and \\(C?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续分配比例求分母最小公倍数 / 连续分走剩余分数：最小初量用分母最小公倍数",
+   "search_text": "A group of \\(12\\) pirates agree to divide a treasure chest of gold coins among themselves as follows. The \\(k\\)th pirate to take a share takes \\(\\dfrac{k}{12}\\) of the coins that remain in the chest. The number of coins initially in the chest is the smallest number for which this arrangement will allow each pirate to receive a positive whole number of coins. How many coins does the \\(12\\)th pirate receive?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q17",
+    "live-poshenloh-amc12-2013a-question_paper__q17",
+    "AMC12-2013A-Q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A group of \\(12\\) pirates agree to divide a treasure chest of gold coins among themselves as follows. The \\(k\\)th pirate to take a share takes \\(\\dfrac{k}{12}\\) of the coins that remain in the chest. The number of coins initially in the chest is the smallest number for which this arrangement will allow each pirate to receive a positive whole number of coins. How many coins does the \\(12\\)th pirate receive?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "空间垂直投影后列勾股关系 / 对称球相切：轴截面勾股列半径方程",
+   "search_text": "Six spheres of radius \\(1\\) are positioned so that their centers are at the vertices of a regular hexagon of side length \\(2.\\) The six spheres are internally tangent to a larger sphere whose center is the center of the hexagon. An eighth sphere is externally tangent to the six smaller spheres and internally tangent to the larger sphere. What is the radius of this eighth sphere?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q18",
+    "live-poshenloh-amc12-2013a-question_paper__q18",
+    "AMC12-2013A-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Six spheres of radius \\(1\\) are positioned so that their centers are at the vertices of a regular hexagon of side length \\(2.\\) The six spheres are internally tangent to a larger sphere whose center is the center of the hexagon. An eighth sphere is externally tangent to the six smaller spheres and internally tangent to the larger sphere. What is the radius of this eighth sphere?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "交弦或割线用点幂 / 圆外割线整数长：点幂配因数",
+   "search_text": "In \\(\\triangle ABC,\\) \\(AB = 86,\\) and \\(AC = 97.\\) A circle with center \\(A\\) and radius \\(AB\\) intersects \\(\\overline{BC}\\) at points \\(B\\) and \\(X.\\) Moreover \\(\\overline{BX}\\) and \\(\\overline{CX}\\) have integer lengths. What is \\(BC?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q19",
+    "live-poshenloh-amc12-2013a-question_paper__q19",
+    "AMC12-2013A-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In \\(\\triangle ABC,\\) \\(AB = 86,\\) and \\(AC = 97.\\) A circle with center \\(A\\) and radius \\(AB\\) intersects \\(\\overline{BC}\\) at points \\(B\\) and \\(X.\\) Moreover \\(\\overline{BX}\\) and \\(\\overline{CX}\\) have integer lengths. What is \\(BC?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "循环三队用总数减传递三队 / 循环胜负关系三元组：总三元组减传递三元组",
+   "search_text": "Let \\(S\\) be the set \\(\\{1, 2, 3, \\ldots, 19\\}.\\) For \\(a,\\) \\(b \\in S,\\) define \\(a \\succ b\\) to mean that either \\(0 \\lt a - b \\le 9\\) or \\(b - a \\gt 9.\\) How many ordered triples \\((x, y, z)\\) of elements of \\(S\\) have the property that \\(x \\succ y,\\) \\(y \\succ z,\\) and \\(z \\succ x?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q20",
+    "live-poshenloh-amc12-2013a-question_paper__q20",
+    "AMC12-2013A-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(S\\) be the set \\(\\{1, 2, 3, \\ldots, 19\\}.\\) For \\(a,\\) \\(b \\in S,\\) define \\(a \\succ b\\) to mean that either \\(0 \\lt a - b \\le 9\\) or \\(b - a \\gt 9.\\) How many ordered triples \\((x, y, z)\\) of elements of \\(S\\) have the property that \\(x \\succ y,\\) \\(y \\succ z,\\) and \\(z \\succ x?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "嵌套递推量归纳夹逼 / 嵌套对数范围：只夹住最外层内项",
+   "search_text": "Consider \\[ \\begin{gathered} A = \\\\ \\tiny \\log(2013 + \\log(2012 + \\log(2011 + \\log(\\cdots + \\log(3 + \\log 2)\\cdots)))). \\end{gathered} \\]\n\nWhich of the following intervals contains \\(A?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q21",
+    "live-poshenloh-amc12-2013a-question_paper__q21",
+    "AMC12-2013A-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Consider \\[ \\begin{gathered} A = \\\\ \\tiny \\log(2013 + \\log(2012 + \\log(2011 + \\log(\\cdots + \\log(3 + \\log 2)\\cdots)))). \\end{gathered} \\]\n\nWhich of the following intervals contains \\(A?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按位值展开并逐位检查进位或借位 / 回文数除11仍回文：按位借位约束计数",
+   "search_text": "A palindrome is a nonnegative integer number that reads the same forwards and backwards when written in base \\(10\\) with no leading zeros. A \\(6\\)-digit palindrome \\(n\\) is chosen uniformly at random. What is the probability that \\(\\dfrac{n}{11}\\) is also a palindrome?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q22",
+    "live-poshenloh-amc12-2013a-question_paper__q22",
+    "AMC12-2013A-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A palindrome is a nonnegative integer number that reads the same forwards and backwards when written in base \\(10\\) with no leading zeros. A \\(6\\)-digit palindrome \\(n\\) is chosen uniformly at random. What is the probability that \\(\\dfrac{n}{11}\\) is also a palindrome?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "旋转图形按极径包络分块面积 / 偏心旋转正方形扫掠：极径包络分圆弧直边",
+   "search_text": "\\(ABCD\\) is a square of side length \\(\\sqrt{3} + 1.\\) Point \\(P\\) is on \\(\\overline{AC}\\) such that \\(AP = \\sqrt{2}.\\) The square region bounded by \\(ABCD\\) is rotated \\(90^\\circ\\) counterclockwise with center \\(P,\\) sweeping out a region whose area is \\(\\dfrac{1}{c}(a\\pi + b),\\) where \\(a,\\) \\(b,\\) and \\(c\\) are positive integers and \\(\\gcd(a, b, c) = 1.\\) What is \\(a + b + c?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q23",
+    "live-poshenloh-amc12-2013a-question_paper__q23",
+    "AMC12-2013A-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "\\(ABCD\\) is a square of side length \\(\\sqrt{3} + 1.\\) Point \\(P\\) is on \\(\\overline{AC}\\) such that \\(AP = \\sqrt{2}.\\) The square region bounded by \\(ABCD\\) is rotated \\(90^\\circ\\) counterclockwise with center \\(P,\\) sweeping out a region whose area is \\(\\dfrac{1}{c}(a\\pi + b),\\) where \\(a,\\) \\(b,\\) and \\(c\\) are positive integers and \\(\\gcd(a, b, c) = 1.\\) What is \\(a + b + c?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "弦长分档并按三角不等式分类计数 / 正多边形弦长抽样：按长度档及重数枚举不成三角形",
+   "search_text": "Three distinct segments are chosen at random among the segments whose endpoints are the vertices of a regular \\(12\\)-gon. What is the probability that the lengths of these three segments are the three side lengths of a triangle with positive area?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q24",
+    "live-poshenloh-amc12-2013a-question_paper__q24",
+    "AMC12-2013A-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Three distinct segments are chosen at random among the segments whose endpoints are the vertices of a regular \\(12\\)-gon. What is the probability that the lengths of these three segments are the three side lengths of a triangle with positive area?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2013,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2013a-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "复数平方根虚部约束转格点范围 / 复二次映射上半平面计点：配方转平方根虚部约束",
+   "search_text": "Let \\(f : \\mathbb{C} \\to \\mathbb{C}\\) be defined by \\(f(z) = z^2 + iz + 1.\\) How many complex numbers \\(z\\) are there such that \\(\\operatorname{Im}(z) \\gt 0\\) and both the real and the imaginary parts of \\(f(z)\\) are integers with absolute value at most \\(10?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2013-A-Q25",
+    "live-poshenloh-amc12-2013a-question_paper__q25",
+    "AMC12-2013A-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(f : \\mathbb{C} \\to \\mathbb{C}\\) be defined by \\(f(z) = z^2 + iz + 1.\\) How many complex numbers \\(z\\) are there such that \\(\\operatorname{Im}(z) \\gt 0\\) and both the real and the imaginary parts of \\(f(z)\\) are integers with absolute value at most \\(10?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2013a-question_paper__q25.md"
+  }
+ ]
+}

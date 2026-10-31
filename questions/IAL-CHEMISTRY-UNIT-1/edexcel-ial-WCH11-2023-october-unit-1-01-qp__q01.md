@@ -1,0 +1,45 @@
+# IAL-CHEMISTRY-UNIT-1 · 2023 · October · Unit 1 · 01 · Q1
+
+- id: edexcel-ial-WCH11-2023-october-unit-1-01-qp__q01
+- course: IAL-CHEMISTRY-UNIT-1
+- exam: IAL-CHEMISTRY-UNIT-1
+- subject: chemistry
+- year: 2023
+- session: October
+- paper: Unit 1
+- variant: 01
+- question_number: 1
+- paper_id: edexcel-ial-WCH11-2023-october-unit-1-01-qp
+- chapter: Atoms, elements and compounds
+- knowledge_point: Atomic structure
+- problem_type: 从质子、电子和同位素信息判断结构
+- topic_tags: edexcel-ial-WCH11-2023-october-unit-1-01-qp__q01
+
+## Text (OCR)
+
+```text
+N
+                 forms the                                ion, Al3+.     atom             of1  An                     2713Al
+   What         are            the             numbers                          of protons,                                     electrons and neutrons in this ion?                                            THIS
+                                                                                                                                              AREA             protons    electrons   neutrons
+
+      A      13         13         14
+
+      B      10         13         14
+
+      C      14         10         13
+
+     D      13         10         14                                        DO
+                                                                                                           NOT                                                            (Total for Question 1 = 1 mark)
+                                                                       WR
+```
+
+## Answer / mark scheme candidates
+
+- [Pearson Edexcel International Advanced Level Chemistry WCH11 — October 2023 — Unit 1 — 01 — Mark Scheme](https://pmt.physicsandmathstutor.com/download/Chemistry/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/October%202023%20%28IAL%29%20MS.pdf)
+
+## Source files
+
+- package `question-bank-chemistry-part-001.zip` (release `subject-resources`) · member `question-corpus/questions/edexcel-ial-WCH11-2023-october-unit-1-01-qp__q01/question.pdf`: https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-chemistry-part-001.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

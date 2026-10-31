@@ -1,0 +1,196 @@
+{
+ "group": "ap-physics-c-em-2026-frq",
+ "course_id": "AP-PHYSICS-C-EM",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "ap-physics-c-em-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-em-2026-frq__q01",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "Question 1: Version J\n\n1. Two very long, cylindrical, current-carrying Wires S and T are oriented parallel to the y-axis,\n  as shown in Figure 1. The centers of the wires are in the xy-plane. The wires are described as\n  follows.\n        •  Wire S has radius 2a and is centered at x = 0 . Wire S has nonuniform current density\n       and carries total current I0 in the +y‐direction. The magnitude of the current density in\n       Wire S as a function of the radial distance r from the center of the wire is described by\n         J = Cr , where C is a positive constant.\n        •  Wire T has radius a and is centered at x = 10a . Wire T has uniform current density and\n         carries total current I0 in the –y‐direction.\n\n                                       Figure 1\n\n\n\n\n\n  Part A\n            i. Point P is located inside of Wire S at horizontal position x = a . Derive an expression\n         for the magnitude of the magnetic field at Point P due only to the current in Wire S in\n        terms of C, a, and physical constants, as appropriate. Begin your derivation by writing a\n        fundamental physics principle or an equation from the reference information.\n          ii. On the axes shown in Figure 2, sketch a graph of the magnitude B of the magnetic\n          field due to the currents in both wires as a function of x along the x-axis in the region\n        2a # x # 9a . Sketches made in the shaded region will not be graded.\n\nFigure 2\n\n\n\n\n\nPart B\nAt the instant shown in Figure 3, a small sphere with charge Q is at horizontal position x = 5a\nand moving in the xy-plane with speed v in the +x‐direction. At this instant, the net magnetic\nforce exerted on the sphere due to the currents in Wires S and T has magnitude F.\n\n                                    Figure 3\n\n\n\n\n\nDerive an expression for F in terms of a, Q, I0, v, and physical constants, as appropriate. Begin\nyour derivation by writing a fundamental physics principle or an equation from the reference\ninformation.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Physics C: Electricity and Magnetism ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-em.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2026-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2026-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2026-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2026-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-physics-c-em-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-em-2026-frq__q02",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical charge",
+   "problem_type": "判断电荷相互作用与充放电",
+   "search_text": "Question 2: Version J\n\n2. Thin, nonconducting, charged Rods S and T are held fixed in the xy-plane, as shown in Figure 1.\n  Rod S is oriented along the x-axis in the region -3L # x # - L . Rod T is oriented along the y-axis\n  in the region L # y # 3L . Each rod has uniform, positive linear charge density + m . Point P is\n  located at - 2L , 2L              ^          h.\n\n                                       Figure 1\n\n\n\n\n\n  Part A\n  Complete the following tasks in Figure 2.\n        •  Draw an arrow starting on the dot that indicates the direction of the net electric field EP\n          at Point P due to Rods S and T.\n        •  Draw an arrow starting on the dot that indicates the direction of the net electric field EO\n          at the origin O due to Rods S and T.\n        •  Draw an arrow starting on the dot that indicates the direction of the net acceleration\n        aO of a small, negatively charged sphere (not shown) immediately after the sphere is\n         released from rest at the origin O.\n\n                                       Figure 2\n\nPart B\nDerive an expression for the magnitude EO of the net electric field at the origin O due to Rods S\nand T in terms of L, m, and physical constants, as appropriate. Begin your derivation by writing\na fundamental physics principle or an equation from the reference information.\n\nPart C\nRod T is removed. Rod S is then moved such that the right end of Rod S is at the origin O. Rod S\nis then moved with speed v in the –x‐direction, as shown in Figure 3.\n\n                                    Figure 3\n\n\n\n\n\nOn the axes shown in Figure 4, sketch a graph of the electric potential VO at the origin O due to\nRod S as a function of the distance r between the origin and the right end of Rod S.\n\n                                    Figure 4\n\nPart D\nA new thin, nonconducting, charged Rod W has the same length as Rod S. Rod W has uniform,\nnegative linear charge density - m and is oriented along the y-axis. Rods S and W are initially\nheld fixed with one end at the origin. Starting at the same time, Rod S is moved with speed v in\nthe –x‐direction and Rod W is moved with speed v in the +y‐direction, as shown in Figure 5.\n\n                                    Figure 5\n\n\n\n\n\nIndicate how a sketch of VO at the origin O due to both Rods S and W as a function of r would be\ndifferent from the sketch made in part C. Briefly justify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Physics C: Electricity and Magnetism ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-em.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2026-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2026-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2026-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2026-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-physics-c-em-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-em-2026-frq__q03",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "Question 3\n  The following information applies to parts A and B.\n\n\n3. In Experiment 1, students are asked to collect data that can be graphed to determine the\n  inductance L1 of an inductor. The students have access to multiple charged capacitors, each of a\n  different known capacitance, and a voltmeter that measures potential difference as a function\n  of time. In each trial, the inductor is connected to a charged capacitor and an initially open\n  switch, as shown in Figure 1.\n\n                                       Figure 1\n\n\n\n\n\n  Part A\n\n            i. Indicate quantities that could be measured by the students that would allow them to\n        determine L1 using a linear graph.\n          ii. Briefly describe a method to reduce experimental uncertainty.\n\n  Part B\n\n            i. Indicate what quantities the students could graph on the horizontal and vertical axes to\n         create a linear graph that can be used to determine L1.\n          ii. Briefly describe the relationship between L1 and a feature of the graph from part B (i).\n        Your answer may include an equation that relates L1 and the chosen feature of the\n         graph.\n\nThe following information applies to parts C and D.\nIn Experiment 2, the students are asked to use a graph to determine the inductance L2 of a\nnew inductor. The inductor is connected to a 12 V battery, a 10 X resistor, and an initially open\nswitch, as shown in Figure 2.\n\n                                    Figure 2\n\n\n\n\n\nAfter the switch is closed, the current I in the circuit is measured at different times and the\n                                               dIcorresponding rate of change of the current,       , is determined. The collected data are shown in                                                   dt\nTable 1.\n\n                                    Table 1\n\n                                                dI                                                 I (A)       (A/s)                                                    dt\n                                     0.40      280\n\n                                     0.50      230\n\n                                     0.75      150\n\n                                     0.90      100\n\n                                     1.00      68\n\nPart C\n\n        i. Label the axes of the grid provided with measured or calculated quantities. Include\n       units, as appropriate. The graphed quantities should yield a linear graph that can be used\n       to determine L2.\n       ii. On the grid provided, create a graph of the quantities indicated in part C (i).\n              •   Clearly label each axis with a numerical scale.\n              •   Plot the corresponding data points on the grid.\n              •  Table 2 is provided in your booklet for scratch work and will not be scored.\n\n\n\n\n\n     iii. Draw a best-fit line for the data plotted in part C (ii).\n\nPart D\nUsing the best-fit line that you drew in part C (iii), calculate an experimental value for L2.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Physics C: Electricity and Magnetism ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-em.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2026-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2026-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2026-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2026-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-physics-c-em-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-em-2026-frq__q04",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "Question 4\n\n4. In Scenario 1, a square conducting loop with side length s has total resistance R. The loop is\n  held fixed in the xy-plane in an external, uniform, time-varying magnetic field that is initially\n  directed in the +z‐direction, as shown. The z-component of the magnetic field changes as a\n                                                                                  t                                           2r                                            where B0 and t1 are positive constants.  function of time t as described by B z = B0 cos                                                               1                                                                                 t                                                      a                                                                        k,\n\n\n\n\n\n  Part A\n  Indicate whether the induced current I in the loop is clockwise, counterclockwise, or zero\n                                                      t1\n  during the time interval 0 < t < 4 by writing one of the following.\n        •    I is clockwise.\n        •    I is counterclockwise.\n        •    I is zero.\n  Justify your answer without only manipulating equations.\n\n  Part B\n  Derive an expression for I as a function of t in terms of s, R, B0, t1, t, and physical constants, as\n  appropriate. Begin your derivation by writing a fundamental physics principle or an equation\n  from the reference information.\n\nPart C\nIn Scenario 2, a new square conducting loop with side length 2s and total resistance 2R is\nplaced in the same external, uniform, time-varying magnetic field as in Scenario 1.\nIndicate whether the maximum induced current I2 in Scenario 2 is greater than, less than, or\nequal to the maximum induced current I1 in Scenario 1 by writing one of the following.\n     •     I2 > I1\n     •     I2 < I1\n     •     I2 = I1\nBriefly justify your answer by referencing the expression you derived in part B.\n\n\n\n                             STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Physics C: Electricity and Magnetism ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-em.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2026-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2026-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2026-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2026-frq__q04.md"
+  }
+ ]
+}

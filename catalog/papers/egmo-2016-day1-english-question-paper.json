@@ -1,0 +1,134 @@
+{
+ "group": "egmo-2016-day1-english-question-paper",
+ "course_id": "EGMO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 3,
+ "questions": [
+  {
+   "paper_id": "egmo-2016-day1-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "day1",
+   "variant": "English",
+   "id": "egmo-2016-day1-english-question-paper__q01",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "Problem 1.  Let n be an odd positive integer, and let x1, x2, . . ., xn be non-negative real numbers.\nShow that\n                                        i=1,...,n(x2min                                                                   i + x2i+1) ≤maxj=1,...,n(2xjxj+1),\nwhere xn+1 = x1.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2016-day1-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2016-day1-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2016-day1-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2016-day1-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "egmo-2016-day1-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "day1",
+   "variant": "English",
+   "id": "egmo-2016-day1-english-question-paper__q02",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "Problem 2.  Let ABCD be a cyclic quadrilateral, and let diagonals AC and BD intersect at X. Let\nC1, D1 and M be the midpoints of segments CX, DX and CD, respectively. Lines AD1 and BC1\nintersect at Y , and line MY intersects diagonals AC and BD at diﬀerent points E and F, respectively.\nProve that line XY  is tangent to the circle through E, F and X.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2016-day1-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2016-day1-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2016-day1-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2016-day1-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "egmo-2016-day1-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "day1",
+   "variant": "English",
+   "id": "egmo-2016-day1-english-question-paper__q03",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "Problem 3.  Let m be a positive integer.  Consider a 4m  4m array of square unit cells. Two                                   ×diﬀerent cells are related to each other if they are in either the same row or in the same column. No\ncell is related to itself. Some cells are coloured blue, such that every cell is related to at least two blue\ncells. Determine the minimum number of blue cells.\n\n\n\n\n\nLanguage: English                                             Time: 4 hours and 30 minutes\n                                                        Each problem is worth 7 points\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2016-day1-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2016-day1-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2016-day1-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2016-day1-english-question-paper__q03.md"
+  }
+ ]
+}

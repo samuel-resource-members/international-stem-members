@@ -1,0 +1,948 @@
+{
+ "group": "tmua-2020-paper-2-question-paper",
+ "course_id": "TMUA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 20,
+ "questions": [
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q01",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1    Find the complete set of values of k for which the line y = x −2 crosses or touches\n      the curve y = x2 + kx + 2\n\n\n   A −1 ≤k ≤3\n\n   B −3 ≤k ≤5\n\n   C −4 ≤k ≤4\n\n   D  k ≤−1  or k ≥3\n\n    E  k ≤−3  or k ≥5\n\n    F  k ≤−4  or k ≥4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q01.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q02",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2    Given that tan θ = 2 and 180◦< θ < 360◦, ﬁnd the value of cos θ\n\n      √\n   A     3\n      √\n   B −  3\n      √\n            3\n   C\n            2\n      √\n            3\n   D −\n            2\n      √\n            5\n    E\n            5\n      √\n            5\n    F −\n            5\n       √\n           2  5\n   G\n            5\n       √\n   H −2  5\n            5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q02.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q03",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "3   A student makes the following claim:\n\n\n           For all integers n, the expression 4                                       9n + 1 −3n −1    is divisible by 3.\n                                             2        2\n\n     Here is the student’s argument:\n\n\n                 9n + 1 −3n −1 = 2  2  9n + 1 −3n −1            (I)                4\n                     2        2               2        2\n                       = 2(9n + 1 −3n −1)                 (II)\n                       = 2(6n)                                (III)\n                       = 12n                           (IV)\n                       = 3(4n)                        (V)\n                     which is always a multiple of 3.                   (VI)\n\n                                9n + 1    −1               So the expression 4      −3n         is always divisible by 3.\n                                     2        2\n\n\n     Which one of the following is true?\n\n\n   A The argument is correct.\n\n   B  The argument is incorrect, and the ﬁrst error occurs on line (I).\n\n   C  The argument is incorrect, and the ﬁrst error occurs on line (II).\n\n   D The argument is incorrect, and the ﬁrst error occurs on line (III).\n\n    E  The argument is incorrect, and the ﬁrst error occurs on line (IV).\n\n    F  The argument is incorrect, and the ﬁrst error occurs on line (V).\n\n   G The argument is incorrect, and the ﬁrst error occurs on line (VI).\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q03.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q04",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4    Consider the following statement:\n\n\n          Every positive integer N that is greater than 6 can be written as the sum\n             of two non-prime integers that are greater than 1.\n\n\n     Which of the following is/are counterexample(s) to this statement?\n\n\n             I  N = 5\n\n             II  N = 7\n\n            III N = 9\n\n\n   A  none of them\n\n   B  I only\n\n   C  II only\n\n   D  III only\n\n    E   I and II only\n\n    F   I and III only\n\n   G  II and III only\n\n   H   I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q04.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q05",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "函数",
+   "knowledge_point": "图像与方程",
+   "problem_type": "利用交点、截距或渐近线分析图像",
+   "search_text": "5    Which one of the following shows the graph of\n\n                                                2x\n                                       y =\n                                          1 + 2x\n\n      (Dotted lines indicate asymptotes.)\n\n\n    A              B              C\n               y                        y                        y\n\n\n\n\n              0          x           0           x           0           x\n\n    D               E                F\n               y                        y                        y\n\n\n\n\n              0          x           0           x           0           x\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q05.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q06",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "6    The function f(x) is deﬁned for all real values of x.\n\n     Which of the following conditions on f(x) is/are necessary to ensure that\n\n                                               0                5\n                                           f(x) dx =     f(x) dx\n                                    −5              0\n\n\n          Condition I:    f(x) = f(−x) for −5 ≤x ≤5\n\n          Condition II:   f(x) = c for −5 ≤x ≤5, where c is a constant\n\n          Condition III:  f(x) = −f(−x) for −5 ≤x ≤5\n\n\n   A  none of them\n\n   B  I only\n\n   C  II only\n\n   D  III only\n\n    E   I and II only\n\n    F   I and III only\n\n   G  II and III only\n\n   H   I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q06.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q07",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7    Consider the following conditions on a parallelogram PQRS, labelled\n      anticlockwise:\n\n             I    length of PQ = length of QR\n\n             II  The diagonal PR intersects the diagonal QS at right angles\n\n            III ∠PQR = ∠QRS\n\n     Which of these conditions is/are individually suﬃcient for the parallelogram PQRS\n      to be a square?\n\n\n              Condition I is       Condition II is      Condition III is\n                suﬃcient            suﬃcient            suﬃcient\n     A            yes                      yes                      yes\n     B            yes                      yes                   no\n     C            yes                   no                      yes\n     D            yes                   no                   no\n      E           no                      yes                      yes\n      F           no                      yes                   no\n     G          no                   no                      yes\n     H          no                   no                   no\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q07.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q08",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "8   A student is asked to prove whether the following statement (∗) is true or false:\n\n\n            (∗) For all real numbers a and b, |a + b| < |a| + |b|\n\n\n     The student’s proof is as follows:\n\n\n          Statement (∗) is false. A counterexample is a = 3, b = 4, as |3 + 4| = 7\n          and |3| + |4| = 7, but 7 < 7 is false.\n\n\n     Which of the following best describes the student’s proof?\n\n\n   A The statement (∗) is true, and the student’s proof is not correct.\n\n   B  The statement (∗) is false, but the student’s proof is not correct: the\n         counterexample is not valid.\n\n   C  The statement (∗) is false, but the student’s proof is not correct: the student\n         needs to give all the values of a and b where |a + b| < |a| + |b| is false.\n\n   D The statement (∗) is false, but the student’s proof is not correct: the student\n         should have instead stated that for all real numbers a and b, |a + b| ≤|a| + |b|.\n\n    E  The statement (∗) is false, and the student’s proof is fully correct.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q08.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q09",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "三角",
+   "knowledge_point": "弧度与扇形",
+   "problem_type": "用弧长、半径和圆心角求量",
+   "search_text": "9   A student wishes to evaluate the function f(x) = x sin x, where x is in radians, but\n      has a calculator that only works in degrees.\n\n    What could the student type into their calculator to correctly evaluate f(4) ?\n\n\n   A  (π × 4 ÷ 180) × sin(4)\n\n   B  (π × 4 ÷ 180) × sin(π × 4 ÷ 180)\n\n   C  4 × sin(π × 4 ÷ 180)\n\n   D  (180 × 4 ÷ π) × sin(4)\n\n    E  (180 × 4 ÷ π) × sin(180 × 4 ÷ π)\n\n    F  4 × sin(180 × 4 ÷ π)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q09.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q10",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "代数",
+   "knowledge_point": "不等式",
+   "problem_type": "求满足不等式的范围",
+   "search_text": "10   The real numbers a, b, c and d satisfy both\n\n                                   0 < a + b < c + d\n\n     and\n                                   0 < a + c < b + d\n\n\n     Which of the following inequalities must be true?\n\n\n             I   a < d\n\n             II   b < c\n\n            III  a + b + c + d > 0\n\n\n   A  none of them\n\n   B  I only\n\n   C  II only\n\n   D  III only\n\n    E   I and II only\n\n    F   I and III only\n\n   G  II and III only\n\n   H   I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q10.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q11",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "11  A spiral line is drawn as shown.\n\n\n                                         y\n                                           5\n\n\n                                           4\n\n\n                                           3\n\n\n                                           2\n\n\n                                           1\n\n\n                                                            x              −5  −4  −3  −2  −1   0    1    2    3    4    5\n\n                                −1\n\n\n                                −2\n\n\n                                −3\n\n\n                                −4\n\n\n                                −5\n\n\n      This spiral pattern continues indeﬁnitely.\n\n     Which one of the following points is not on the spiral line?\n\n\n   A  (99, 100)\n\n   B  (99, −100)\n\n   C  (−99, 100)\n\n   D  (−99, −100)\n\n    E  (100, 99)\n\n    F  (100, −99)\n\n   G  (−100, 99)\n\n   H  (−100, −99)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q11.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q12",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "12   Which one of A–F correctly completes the following statement?\n\n\n          Given that a < b, and f(x) > 0 for all x with a < x < b, the trapezium rule\n                                                             b\n           produces an overestimate for    f(x) dx . . .                                                a\n\n   A   . . . if f ′(x) > 0 and f ′′(x) < 0 for all x with a < x < b\n\n   B   . . . only if f ′(x) > 0 and f ′′(x) < 0 for all x with a < x < b\n\n   C   . . . if and only if f ′(x) > 0 and f ′′(x) < 0 for all x with a < x < b\n\n   D   . . . if f ′(x) < 0 and f ′′(x) > 0 for all x with a < x < b\n\n    E   . . . only if f ′(x) < 0 and f ′′(x) > 0 for all x with a < x < b\n\n    F    . . . if and only if f ′(x) < 0 and f ′′(x) > 0 for all x with a < x < b\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q12.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q13",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "13    f(x) is a function for which\n\n                                     3                   3                 1\n                                             2\n                                  f(x)  dx +     f(x) dx =     f(x) dx\n                                   0                   0                 0\n\n\n     Which of the following claims about f(x) is/are necessarily true?\n\n                  I   f(x) ≤0 for some x with 1 ≤x ≤3\n\n\n                        3              1\n                 II   0 f(x) dx ≤  0 f(x) dx\n\n\n   A  neither of them\n\n   B  I only\n\n   C  II only\n\n   D  I and II\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q13.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q14",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "利用首项、公差和项数求项或和",
+   "search_text": "14  An arithmetic sequence T has ﬁrst term a and common diﬀerence d, where a and d\n      are non-zero integers.\n\n      Property P is:\n\n\n         For some positive integer m, the sum of the ﬁrst m terms of the sequence\n               is equal to the sum of the ﬁrst 2m terms of the sequence.\n\n\n      For example, when a = 11 and d = −2, the sequence T has property P, because\n\n                   11 + 9 + 7 + 5 = 11 + 9 + 7 + 5 + 3 + 1 + (−1) + (−3)\n\n         i.e. the sum of the ﬁrst 4 terms equals the sum of the ﬁrst 8 terms.\n\n     Which of the following statements is/are true?\n\n\n             I   For T to have property P, it is suﬃcient that ad < 0.\n\n             II  For T to have property P, it is necessary that d is even.\n\n\n   A  neither of them\n\n   B  I only\n\n   C  II only\n\n   D  I and II\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q14.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q15",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "15   Which one of the following is a necessary and suﬃcient condition for\n                                        n       √\n                                     kπ      3\n                                              sin    =\n                                          3      2\n                                       k=1\n\n      to be true?\n\n\n   A n = 1\n\n   B  n is a multiple of 3\n\n   C n is a multiple of 6\n\n   D n is 1 more than a multiple of 3\n\n    E  n is 1 more than a multiple of 6\n\n    F  n is 1 more than a multiple of 6 or n is 2 more than a multiple of 6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q15.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q16",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "16   The Fundamental Theorem of Calculus (FTC) tells us that for any polynomial f :\n\n\n\n                                           d    x\n                                                       f(t) dt = f(x)                                          dx   0\n\n                               d    2x t2 dt  as follows:    A student calculates                              dx   x\n\n\n\n                      2x           2x          x\n            (I)                          t2 dt =  0  t2 dt −  0 t2 dt                    x\n\n\n\n                              d                                   x t2 dt = x2            (II)  By FTC,                                      0                              dx\n\n\n                              d    2x\n            (III)  By FTC,                                          t2 dt = (2x)2 = 4x2                              dx   0\n\n\n                       d    2x          (IV)  So          t2 dt = 4x2 −x2                       dx   x\n\n\n                           d    2x         (V)   giving          t2 dt = 3x2                          dx   x\n\n\n     Which of the following best describes the student’s calculation?\n\n\n   A The calculation is completely correct.\n\n   B  The calculation is incorrect, and the ﬁrst error occurs on line (I).\n\n   C  The calculation is incorrect, and the ﬁrst error occurs on line (II).\n\n   D The calculation is incorrect, and the ﬁrst error occurs on line (III).\n\n    E  The calculation is incorrect, and the ﬁrst error occurs on line (IV).\n\n    F  The calculation is incorrect, and the ﬁrst error occurs on line (V).\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q16/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q16/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q16.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q17",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "17  A set of six distinct integers is split into two sets of three.\n\n     The ﬁrst set of three integers has a mean of 10 and a median of 8.\n\n     The second set of three integers has a mean of 12 and a median of 9.\n\n    What is the smallest possible range of the set of all six integers?\n\n\n   A  8\n\n   B  10\n\n   C  11\n\n   D  12\n\n    E  14\n\n    F  15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q17/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q17/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q17.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q18",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "18   In this question, f(x) = ax3 + bx2 + cx + d and g(x) = px3 + qx2 + rx + s are cubic\n      polynomials.\n\n        If f(x) −g(x) > 0 for every real x, which of the following is/are necessarily true?\n\n\n             I   a > p\n\n             II    if b = q then c = r\n\n            III  d > s\n\n\n   A  none of them\n\n   B  I only\n\n   C  II only\n\n   D  III only\n\n    E   I and II only\n\n    F   I and III only\n\n   G  II and III only\n\n   H   I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q18/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q18/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q18.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q19",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "19   Nine people are sitting in the squares of a 3 by 3 grid, one in each square, as shown.\n    Two people are called neighbours if they are sitting in squares that share a side.\n      (People in diagonally adjacent squares, which only have a point in common, are not\n       called neighbours.)\n\n\n\n\n\n     Each of the nine people in the grid is either a truth-teller who always tells the truth,\n      or a liar who always lies.\n\n     Every person in the grid says: ‘My neighbours are all liars’.\n\n     Given only this information, what are the smallest number and the largest number\n       of people who could be telling the truth?\n\n\n\n\n                smallest               largest\n    A            1                     4\n    B            2                     4\n    C            2                     5\n    D            3                     4\n    E            3                     5\n     F            4                     4\n    G            4                     5\n    H            5                     5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q19/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q19/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q19.md"
+  },
+  {
+   "paper_id": "tmua-2020-paper-2-question-paper",
+   "year": 2020,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2020-paper-2-question-paper__q20",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "20   x is a real number and f is a function.\n\n     Given that exactly one of the following statements is true, which one is it?\n\n\n   A x ≥0 only if f(x) < 0\n\n   B  x < 0 if f(x) ≥0\n\n   C  x ≥0 only if f(x) ≥0\n\n   D  f(x) < 0 if x < 0\n\n    E  f(x) ≥0 only if x ≥0\n\n    F  f(x) ≥0 if and only if x < 0\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2020 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140952/TMUA-2020-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2020-paper-2-question-paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q20/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2020-paper-2-question-paper__q20/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2020-paper-2-question-paper__q20.md"
+  }
+ ]
+}

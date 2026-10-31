@@ -1,0 +1,948 @@
+{
+ "group": "tmua-2021-paper-1-question-paper",
+ "course_id": "TMUA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 20,
+ "questions": [
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q01",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "从圆的方程或几何条件求圆与直线关系",
+   "search_text": "1   Two circles have the same radius.\n\n     The centre of one circle is (–2, 1).\n\n     The centre of the other circle is (3, –2).\n\n     The circles intersect at two distinct points.\n\n    What is the equation of the straight line through the two points at which the circles\n       intersect?\n\n\n   A  3x − 5y = 4\n\n   B  3x + 5y = −1\n\n   C  5x − 3y = −4\n\n   D  5x − 3y = −1\n\n    E  5x − 3y = 1\n\n    F  5x − 3y = 4\n\n   G  5x + 3y = 1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q01.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q02",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "2    The curve y = x3 − 6x + 3 has turning points at x = α and x = β, where β > α.\n\n     Find\n                                             β\n                                 x 3 − 6x + 3 dx\n                                       α\n\n       √\n   A −8  2\n\n   B −10\n         √\n   C −10 + 6  2\n\n   D   0\n         √\n    E    12 − 8  2\n       √\n    F    6  2\n\n   G   12\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q02.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q03",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "代数",
+   "knowledge_point": "等比数列",
+   "problem_type": "利用公比求项、有限和或无穷和",
+   "search_text": "3   An arithmetic progression and a convergent geometric progression each\n                   1\n      have ﬁrst term\n                   2\n\n                                                       1\n     The sum of the second terms of the two progressions is\n                                                       2\n\n                                                     1\n     The sum of the third terms of the two progressions is\n                                                     8\n\n    What is the sum to inﬁnity of the geometric progression?\n\n\n   A −2\n\n   B −1\n\n           1\n   C −\n           2\n\n           1\n   D −\n           3\n\n           1\n    E\n           3\n\n           1\n    F\n           2\n\n   G   1\n\n   H   2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q03.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q04",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4    Find the minimum value of the function\n\n\n                                           22x − 2x+3 + 4\n\n\n   A −16\n\n   B −12\n\n   C −8\n\n   D   0\n\n    E    4\n\n    F    20\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q04.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q05",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5    The function f is such that\n\n\n                                  f(m)f(n)   if mn is a multiple of 3\n                     f(mn) =\n                     mn           if mn is not a multiple of 3\n\n\n       for all positive integers m and n.\n\n     Given that f(9) + f(16) − f(24) = 0, what is the value of f(3)?\n\n\n         8\n   A\n         3\n      √\n   B  2  2\n\n   C  3\n\n         16\n   D\n          5\n      √\n    E  3  2\n\n    F  4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q05.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q06",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6    The function f is given by\n\n\n                                               cos x + 3\n                                      f(x) =\n                                      7 + 5 cos x − sin2 x\n\n     Find the positive diﬀerence between the maximum and the minimum values of f(x).\n\n\n   A  0\n\n         1\n   B\n         3\n\n         1\n   C\n         2\n\n         2\n   D\n         3\n\n    E  1\n\n    F  2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q06.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q07",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "7    The function f is such that f(0) = 0, and xf(x) > 0 for all non-zero values of x.\n\n       It is given that\n\n\n\n                                                     2\n                                                f(x) dx = 4\n                                        −2\n\n     and\n\n\n\n                                                    2\n                                                     |f(x)| dx = 8\n                                        −2\n\n      Evaluate\n\n\n\n                                                       0\n                                                       f(|x|) dx\n                                          −2\n\n\n   A −8\n\n   B −6\n\n   C −4\n\n   D −2\n\n    E    2\n\n    F    4\n\n   G   6\n\n   H   8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q07.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q08",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "8    The line y = 2x + 3 meets the curve y = x2 + bx + c at exactly one point.\n\n     The line y = 4x − 2 also meets the curve y = x2 + bx + c at exactly one point.\n\n    What is the value of b − c ?\n\n\n   A −9\n\n   B  −5.5\n\n   C −1\n\n   D   5\n\n    E    6\n\n    F    14\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q08.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q09",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "9    Find the area enclosed by the graph of\n\n                                                 |x| + |y| = 1\n\n\n         1\n   A\n         2\n\n   B  1\n\n   C  2\n\n   D  4\n      1√\n    E     2\n         2\n     √\n    F    2\n      √\n   G  2  2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q09.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q10",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "10   Use the trapezium rule with 3 strips to estimate\n\n                                                     2\n                                        2 log10 x dx\n                                                            1\n                                                            2\n\n        √\n               6\n   A  log10\n              2\n\n\n              3\n   B  log10\n              2\n\n\n              9\n   C  log10\n              4\n\n   D  log10 3\n\n\n              81\n    E  log10\n              16\n\n        √\n               23\n    F  log10\n               2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q10.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q11",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "11   The function f is given by\n\n\n\n\n                                                                 1\n                                        f(x) = x 7 (x 2 − x + 1)\n\n\n     Find the fraction of the interval 0 < x < 1 for which f(x) is decreasing.\n\n\n          2\n   A\n         15\n\n\n         1\n   B\n         5\n\n\n         1\n   C\n         3\n\n\n         1\n   D\n         2\n\n\n         2\n    E\n         3\n\n\n         4\n    F\n         5\n\n\n         13\n   G\n         15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q11.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q12",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "12   The minimum value of the function  x4 − p2x2   is −9\n\n     p is a real number.\n\n     Find the minimum value of the function x2 − px + 6\n\n\n   A −3\n        √\n             3  2\n   B  6 −\n              2\n\n         3\n   C\n         2\n\n   D  3\n\n         9\n    E\n         2\n        √\n             3  2\n    F  6 +\n              2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q12.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q13",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "13   The function f is such that, for every integer n\n\n\n\n                                       n+1\n                                               f(x) dx = n + 1\n                                       n\n\n      Evaluate\n\n\n\n                                                  8        r\n                                                    f(x) dx\n                                         r=1    0\n\n\n   A  36\n\n   B  84\n\n   C  120\n\n   D  165\n\n    E  204\n\n    F  288\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q13.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q14",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "三角",
+   "knowledge_point": "弧度与扇形",
+   "problem_type": "用弧长、半径和圆心角求量",
+   "search_text": "14   This question uses radians.\n\n     Find the number of distinct values of x that satisfy the equation\n\n\n                              (x + 1)(3 − x) = 2(1 − cos(πx))\n\n\n   A  2\n\n   B  3\n\n   C  4\n\n   D  5\n\n    E  6\n\n    F  7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q14.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q15",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "15   The diagram shows the graph of y = f(x).\n\n       y\n\n\n      1\n\n\n\n\n      0                                                  x        0         1         2         3         4\n\n\n     The graph consists of alternating straight-line segments of gradient 1 and −1 and\n      continues in this way for all values of x.\n\n     The function g is deﬁned as\n\n\n\n                                                         10\n                                     g(x) =    f  2r−1 x\n\n                                                r=1\n\n     Find the value of\n\n\n\n                                                       1\n                                             g(x) dx\n                                                      0\n\n         1023\n   A\n         1024\n\n         1023\n   B\n          512\n\n   C  5\n\n   D  10\n\n         55\n    E\n          2\n\n    F  55\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q15.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q16",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "16   Consider the expansion of\n                                          (a + bx)n\n\n\n     The third term, in ascending powers of x, is 105x2\n\n     The fourth term, in ascending powers of x, is 210x3\n\n     The fourth term, in descending powers of x, is 210x3\n\n                     a  2\n     Find the value of\n                           b\n\n         1\n   A\n         4\n\n\n         4\n   B\n         9\n\n\n         25\n   C\n         36\n\n\n         5\n   D\n         6\n\n\n    E  1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q16/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q16/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q16.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q17",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "17   Which of the following sketches shows the graph of\n\n\n                                                       2        1                                         sin(x + y 2) =\n                                                 2\n\n     where x2 + y2 ≤ 8π ?\n\n                      y                                                 y\n    A                             B\n\n\n\n\n\n                                x                                          x\n\n\n\n\n\n                      y                                                 y\n    C                           D\n\n\n\n\n\n                                x                                          x\n\n\n\n\n\n                     y\n    E\n\n\n\n\n\n                                x\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q17/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q17/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q17.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q18",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "18   The curve with equation\n                               x = y 2 − 6y + 11\n\n\n        is rotated 90o clockwise about the point P to give the curve C.\n\n    P has x-coordinate −2 and y-coordinate 3.\n\n    What is the equation of C ?\n\n\n   A  y = −x2 − 4x − 3\n\n   B  y = −x2 − 4x − 5\n\n   C  y = −x2 − 6x − 7\n\n   D  y = −x2 − 6x − 11\n\n    E  y =  x2 − 4x + 5\n\n    F  y =  x2 + 4x + 3\n\n   G  y =  x2 − 6x + 11\n\n   H  y =  x2 + 6x + 7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q18/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q18/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q18.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q19",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "函数",
+   "knowledge_point": "定义域与值域",
+   "problem_type": "从条件确定定义域或值域",
+   "search_text": "19   The equation\n\n\n                                                             θ         3                                          sin2  4cos × 60o =\n                                                   4\n\n      has exactly three solutions in the range 0o ≤ θ ≤ xo\n\n    What is the range of all possible values of x ?\n\n\n   A  90 ≤ x < 120\n\n   B  90 ≤ x < 270\n\n   C  120 ≤ x < 240\n\n   D  270 ≤ x < 300\n\n    E  300 ≤ x < 360\n\n    F  450 ≤ x < 630\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q19/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q19/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q19.md"
+  },
+  {
+   "paper_id": "tmua-2021-paper-1-question-paper",
+   "year": 2021,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2021-paper-1-question-paper__q20",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "20   Find the length of the curve with equation\n\n\n                       2 log10 (x − y) = log10 (2 − 2x) + log10 (y + 5)\n\n\n   A  5\n\n   B  10\n\n   C  15\n\n   D  3π\n\n    E  9π\n\n    F  12π\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141121/TMUA-2021-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2021-paper-1-question-paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q20/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2021-paper-1-question-paper__q20/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2021-paper-1-question-paper__q20.md"
+  }
+ ]
+}

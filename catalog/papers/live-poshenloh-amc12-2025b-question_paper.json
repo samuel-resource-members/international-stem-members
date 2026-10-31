@@ -1,0 +1,1333 @@
+{
+ "group": "live-poshenloh-amc12-2025b-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "单位份额除总量向下取整 / 材料总量可做整份数：向下取整",
+   "search_text": "1.  The instructions on a 350 -gram bag of coffee beans say that proper brewing of a large\n  mug of pour-over coffee requires 20 grams of coffee beans. What is the greatest\n   number of properly brewed large mugs of coffee that can be made from the coffee\n   beans in that bag?\n\n     A   16\n\n    B   17\n\n    C   18\n\n    D   19\n\n     E   20\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q01",
+    "live-poshenloh-amc12-2025b-question_paper__q01",
+    "AMC12-2025B-Q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "有限状态转移找周期 / 平方个位求和：十项周期加余段",
+   "search_text": "2.  Jerry wrote down the ones digit of each of the first 2025 positive squares: 1,4,9,6,5,\n  6,… . What is the sum of all the numbers Jerry wrote down?\n\n     A   9025\n\n    B   9070\n\n    C   9090\n\n    D   9115\n\n     E   9160\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q02",
+    "live-poshenloh-amc12-2025b-question_paper__q02",
+    "AMC12-2025B-Q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "复数对称分组相乘 / 复数连乘：选择对称两组简化",
+   "search_text": "3. What is the value of i(i −1)(i −2)(i −3), where i =  −1 ​?\n\n\n     A         6 −5i\n\n\n    B        −10i\n\n    C    10i\n\n    D   −10\n\n     E   10\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q03",
+    "live-poshenloh-amc12-2025b-question_paper__q03",
+    "AMC12-2025B-Q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按位值展开数字方程 / 两进制倒序同值：位值展开与数字上界",
+   "search_text": "​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​ in base seven equals the value of the two-digit4. The value of the two-digit number a                                    b\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                       ​                                                     ​   number b a in base nine. What is a + b?\n\n     A   7\n\n    B   9\n\n    C   10\n\n    D   11\n\n     E   14\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q04",
+    "live-poshenloh-amc12-2025b-question_paper__q04",
+    "AMC12-2025B-Q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "一次整系数方程参数化计数 / 正整数线性方程最小和：模约束缩范围",
+   "search_text": "5.  Positive integers x and y satisfy the equation 57x + 22y = 400. What is the least\n   possible value of x + y?\n\n     A   10\n\n    B   11\n\n    C   13\n\n    D   14\n\n     E   15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q05",
+    "live-poshenloh-amc12-2025b-question_paper__q05",
+    "AMC12-2025B-Q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "位值式取模并枚举数字范围 / 币价回文数字：以整数分应用36整除",
+   "search_text": "6. Emmy says to Max, “I ordered 36 math club sweatshirts today.” Max asks, “How much\n   did each shirt cost?” Emmy responds, “I’ll give you a hint. The total cost was\n\n\n\n\n\n                                                                                                                                                                                                                 ​                                                                                                                                                                                                                                                                                            ​                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​    B   $ A     B . B        A ​, where A and B are digits and A =0. ” After a pause, Max says, “That\n   was a good price.” What is A + B?\n\n     A   7\n\n    B   8\n\n    C   11\n\n    D   14\n\n     E   15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q06",
+    "live-poshenloh-amc12-2025b-question_paper__q06",
+    "AMC12-2025B-Q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "换底形成对数望远镜 / 对数分式求和：差式裂项",
+   "search_text": "7. What is the value of\n\n\n                                    255\n                                      log 2    ​ ( 1 + n1       ​ )\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ​                                                                                      ​?\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ​         ∑                                  (log 2                                     n)(log 2 ​(n + 1))                             n=2\n\n         3\n     A\n         4\n\n               1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ​    B   1 −\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ​               log 2 255\n\n         7\n    C\n         8\n\n         15\n    D                                                                                                                                                                                                                      ​\n         16\n\n     E   1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q07",
+    "live-poshenloh-amc12-2025b-question_paper__q07",
+    "AMC12-2025B-Q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "共轭根配对与韦达关系 / 整系数多项式无理根：共轭根配韦达",
+   "search_text": "8. There are integers a and b such that the polynomial x 3 − 5x 2 + ax + b has 4 +    ​5 as\n   a root. What is a + b?\n\n     A   13\n\n    B   17\n\n    C   20\n\n    D   30\n\n     E   68\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q08",
+    "live-poshenloh-amc12-2025b-question_paper__q08",
+    "AMC12-2025B-Q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "模周期计算大指数 / 幂塔十位数：模100循环由指数模5决定",
+   "search_text": "9.                                  66   What is the tens digit of 6 ?\n\n     A   1\n\n    B   3\n\n    C   5\n\n    D   7\n\n     E   9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q09",
+    "live-poshenloh-amc12-2025b-question_paper__q09",
+    "AMC12-2025B-Q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "坐标垂直条件联立求比例 / 特殊直角三角形中线分高：坐标交点比",
+   "search_text": "10. The altitude to the hypotenuse of a 30-60-90 right triangle is divided into two\n   segments of lengths x < y by the median to the shortest side of the triangle. What is\n          x\n   the ratio          ​?\n         x + y\n\n         3\n     A\n         7\n\n                   ​3    B                                                                                                                                                                                                                                                 ​\n          4\n\n         4    C\n         9\n\n         5\n    D                                                                                                                                                                                                                      ​\n         11\n\n         4   ​3     E                                                                                                                                                                                                                                                                                          ​\n          15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q10",
+    "live-poshenloh-amc12-2025b-question_paper__q10",
+    "AMC12-2025B-Q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "概率",
+   "knowledge_point": "树状图与分类",
+   "problem_type": "顺次无放回抽样避免已用类别 / 最高三人分三组概率：依次避免同组",
+   "search_text": "11. Nine athletes, no two of whom are the same height, try out for the basketball team.\n   One at a time, they draw a wristband at random, without replacement, from a bag\n   containing 3 blue bands, 3 red bands, and 3 green bands. They are divided into a blue\n   group, a red group, and a green group. The tallest member of each group is named the\n\n   group captain. What is the probability that the group captains are the three tallest\n    athletes?\n\n         2     A\n         9\n\n         2    B\n         7\n\n         9\n    C                                                                                                                                                                                                                     ​\n         28\n\n         1\n    D\n         3\n\n         3\n     E\n         8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q11",
+    "live-poshenloh-amc12-2025b-question_paper__q11",
+    "AMC12-2025B-Q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "分条带计算截取面积 / 保持竖直雨刷扫面积：按水平切片恒定长度",
+   "search_text": "12. The windshield wiper on the driver’s side of a large bus is depicted below.\n\n\n\n\n\n                                                                                    ∘   Arm AB pivots back and forth around point A, sweeping out an arc of 60 , symmetric\n   about the vertical line through A. The wiper blade CD is attached to B at its midpoint\n   and stays vertical as the arm moves. The arm is 3 feet long, and the wiper blade is 3.5\n    feet tall. What is the area of the windshield cleaned by the wiper, in square feet, to the\n   nearest hundredth? (Assume that the windshield is a flat vertical surface.)\n\n     A    9.68\n\n    B    10.14\n\n    C   10.50\n\n    D   11.32\n\n     E    12.00\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q12",
+    "live-poshenloh-amc12-2025b-question_paper__q12",
+    "AMC12-2025B-Q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相邻块容斥计受限排列 / 圆周三色各两块且邻色异：容斥相邻同色事件",
+   "search_text": "13. A circle has been divided into 6 sectors of different sizes. Then 2 of the sectors are\n   painted red, 2 painted green, and 2 painted blue so that no two neighboring sectors\n   are painted the same color. One such coloring is shown below.\n\n\n\n\n\n  How many different colorings are possible?\n\n     A   12\n\n    B   16\n\n    C   18\n\n    D   24\n\n     E   28\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q13",
+    "live-poshenloh-amc12-2025b-question_paper__q13",
+    "AMC12-2025B-Q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "前缀总和作差求单项 / 前缀均值逐次降一：总和差给新项",
+   "search_text": "​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ​                                  > ⋯> x ​n that14. Consider a decreasing sequence of n positive integers x 1                               > x 2\n    satisfies the following two conditions:\n\n   • The average (arithmetic mean) of the first 3 terms in the sequence is 2025.\n\n   • For all 4 ≤k ≤n, the average of the first k terms in the sequence is 1 less than the\n   average of the first k −1 terms in the sequence.\n\n   What is the greatest possible value of n?\n\n     A   1013\n\n    B   1014\n\n    C   1016\n\n    D   2016\n\n     E   2025\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q14",
+    "live-poshenloh-amc12-2025b-question_paper__q14",
+    "AMC12-2025B-Q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "平行截面相似求立体体积 / 方台注水时间：补全相似棱锥作体积差",
+   "search_text": "15. A container has a 1 × 1 square bottom, a 3 × 3 open square top, and four congruent\n    trapezoidal sides, as shown. Starting when the container is empty, a hose that runs\n   water at a constant rate takes 35 minutes to fill the container up to the midline of the\n    trapezoids.\n\n\n\n\n\n  How many more minutes will it take to fill the remainder of the container?\n\n     A   70\n\n    B   85\n\n    C   90\n\n    D   95\n\n     E   105\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q15",
+    "live-poshenloh-amc12-2025b-question_paper__q15",
+    "AMC12-2025B-Q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "时钟角速度求夹角再半角 / 钟面夹角：模12时刻后求半角正切",
+   "search_text": "16. An analog clock starts at midnight and runs for 2025 minutes before stopping. What is\n   the tangent of the acute angle between the hour hand and the minute hand when the\n   clock stops?\n\n     A   0\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                       ​    B     2        − 1\n\n    C   2 −    ​2\n\n                   ​2    D                                                                                                                                                                                                                                                ​\n          2\n\n     E   3 −    ​2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q16",
+    "live-poshenloh-amc12-2025b-question_paper__q16",
+    "AMC12-2025B-Q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "有稳定对称的染色按轨道代表去重 / 有向邻色要求格网染色：逐格约束后按D4去重",
+   "search_text": "17. Each of the 9 squares in a 3 × 3 grid is to be colored red, blue, or yellow in such a way\n    that each red square shares an edge with at least one blue square, each blue square\n   shares an edge with at least one yellow square, and each yellow square shares an\n   edge with at least one red square. Colorings that can be obtained from one another by\n    rotations and/or reflections are to be considered the same. How many different\n    colorings are possible?\n\n     A   3\n\n    B   9\n\n    C   12\n\n    D   18\n\n     E   27\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q17",
+    "live-poshenloh-amc12-2025b-question_paper__q17",
+    "AMC12-2025B-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "按首个结果条件求等待期望 / 直到两种结果都出现的期望：按首局分情况",
+   "search_text": "18.                                                    1\n   Awnik repeatedly plays a game that has a probability of winning of     ​. The outcomes of\n                                                      3\n   the games are independent. What is the expected value of the number of games he\n     will play until he has both won and lost at least once?\n\n         5\n     A\n         2\n\n    B   3\n\n         16\n    C                                                                                                                                                                                                                     ​\n         5\n\n         7\n    D\n         2\n\n         15\n     E                                                                                                                                                                                                                          ​\n         4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q18",
+    "live-poshenloh-amc12-2025b-question_paper__q18",
+    "AMC12-2025B-Q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "一次整系数方程参数化计数 / 横竖填表同数格：位值索引线性方程",
+   "search_text": "19. A rectangular grid of squares has 141 rows and 91 columns. Each square has room for\n   two numbers. Horace and Vera each fill in the grid by putting the numbers from 1\n   through 141 × 91 = 12,831 into the squares. Horace fills the grid horizontally: he puts\n   1 through 91 in order from left to right into row 1, puts 92 through 182 into row 2 in\n   order from left to right, and continues similarly through row 141. Vera fills the grid\n    vertically: she puts 1 through 141 in order from top to bottom into column 1, then 142\n   through 282 into column 2 in order from top to bottom, and continues similarly through\n   column 91. How many squares get two copies of the same number?\n\n     A   7\n\n    B   10\n\n    C   11\n\n    D   12\n\n     E   19\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q19",
+    "live-poshenloh-amc12-2025b-question_paper__q19",
+    "AMC12-2025B-Q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按状态列概率递推 / 会消失随机游走到达概率：线性递推加吸收边界",
+   "search_text": "20. A frog hops along the number line according to the following rules.\n\n    • It starts at 0.\n\n                                       1                           1\n    • If it is at 0, then it moves to 1 with probability  and it disappears with probability     ​.\n                                                                     ​2                           2\n                                                         1\n    • For n = 1,2, or 3, if it is at n, then it moves to n + 1 with probability     ​, it moves to\n                                                         4\n                     1                           1\n   n −1 with probability     ​, and it disappears with probability     ​.\n                     4                           2\n   What is the probability that the frog reaches 4?\n\n          1     A                                                                                                                                                                                                                                                               ​\n         101\n\n          1\n     B                                                                                                                                                                                                                                                              ​\n         100\n\n          1\n    C                                                                                                                                                                                                                     ​\n         99\n\n          1\n    D                                                                                                                                                                                                                      ​\n         98\n\n          1\n      E                                                                                                                                                                                                                          ​\n         97\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q20",
+    "live-poshenloh-amc12-2025b-question_paper__q20",
+    "AMC12-2025B-Q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "几何",
+   "knowledge_point": "相似与全等",
+   "problem_type": "余弦定理把两边夹角与第三边连接 / 两定边同面积不全等三角形：夹角互补转平方和",
+   "search_text": "21. Two non-congruent triangles have the same area. Each triangle has sides of length 8\n   and 9, and the third side of each triangle has integer length. What is the sum of the\n   lengths of the third sides?\n\n     A   20\n\n    B   22\n\n    C   24\n\n    D   26\n\n     E   28\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q21",
+    "live-poshenloh-amc12-2025b-question_paper__q21",
+    "AMC12-2025B-Q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "代数",
+   "knowledge_point": "复数",
+   "problem_type": "复数乘法分离模长与旋转角 / 复数相似三角形面积极值：模长平方缩放",
+   "search_text": "22. What is the greatest possible area of the triangle in the complex plane with vertices\n   2z,(1 + i)z, and (1 −i)z, where z is a complex number satisfying ∣4z −2∣= 1?\n\n         1\n     A\n                ​4\n\n         1\n     B\n                ​2\n\n          9\n    C                                                                                                                                                                                                                     ​\n         16\n\n         3\n    D\n                ​4\n\n     E   1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q22",
+    "live-poshenloh-amc12-2025b-question_paper__q22",
+    "AMC12-2025B-Q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "严格递增余数排列迫使恒等 / 余数序列严格递增：只能为恒等排列",
+   "search_text": "23. Let S be the set of all integers z > 1 such that for all pairs of nonnegative integers\n    (x, y) with x < y < z, the remainder when 2025x is divided by z is less than the\n   remainder when 2025y is divided by z. What is the sum of the elements of S?\n\n     A   3041\n\n     B   3542\n\n    C   3750\n\n    D   4044\n\n     E   4319\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q23",
+    "live-poshenloh-amc12-2025b-question_paper__q23",
+    "AMC12-2025B-Q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "三角函数按角度区间单调性计交点 / 正弦与对数交点计数：限定值域后按半周期",
+   "search_text": "24. How many real numbers satisfy the equation sin(20πx) = log 20 ​(x)?\n\n     A   199\n\n     B   200\n\n    C   398\n\n    D   399\n\n     E   400\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q24",
+    "live-poshenloh-amc12-2025b-question_paper__q24",
+    "AMC12-2025B-Q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2025b-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "距离平方相减消公共项 / 等边三角形顶点到定点距离：坐标消元锁边平方",
+   "search_text": "25. Three concentric circles have radii 1,2,3. An equilateral triangle with side length s has\n                                            2    one vertex on each circle. What is s ?\n\n      A   6\n\n          25\n      B                                                                                                                                                                                                                       ​\n           4\n\n          13\n     C                                                                                                                                                                                                                     ​\n           2\n\n          27\n     D                                                                                                                                                                                                                      ​\n           4\n\n       E   7\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/amc12/2025B/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2025-B-Q25",
+    "live-poshenloh-amc12-2025b-question_paper__q25",
+    "AMC12-2025B-Q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2025b-question_paper__q25.md"
+  }
+ ]
+}

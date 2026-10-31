@@ -1,0 +1,614 @@
+{
+ "course_id": "DSE-CORE",
+ "subject": "math",
+ "exam_id": "DSE-CORE",
+ "question_count": 999,
+ "years": [
+  "2012",
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ],
+ "questions_dir": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-CORE/",
+ "papers": [
+  {
+   "group": "hkdse-core-2012-p1-en-qp",
+   "paper_id": "hkdse-core-2012-p1-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2012-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2012-p2-en-qp",
+   "paper_id": "hkdse-core-2012-p2-en-qp",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "代数",
+    "函数",
+    "坐标几何",
+    "概率",
+    "积分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2012-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2013-p1-en-qp",
+   "paper_id": "hkdse-core-2013-p1-en-qp",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2013-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2013-p2-en-qp",
+   "paper_id": "hkdse-core-2013-p2-en-qp",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "排列组合",
+    "积分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2013-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2014-p1-en-qp",
+   "paper_id": "hkdse-core-2014-p1-en-qp",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "代数",
+    "函数",
+    "坐标几何",
+    "排列组合",
+    "积分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2014-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2014-p2-en-qp",
+   "paper_id": "hkdse-core-2014-p2-en-qp",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "微分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2014-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2015-p1-en-qp",
+   "paper_id": "hkdse-core-2015-p1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "函数",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2015-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2015-p2-en-qp",
+   "paper_id": "hkdse-core-2015-p2-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "Algebra",
+    "Coordinate geometry",
+    "Counting",
+    "Functions",
+    "Geometry",
+    "Number",
+    "Probability",
+    "Sequences",
+    "Statistics",
+    "Trigonometry"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2015-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2016-p1-en-qp",
+   "paper_id": "hkdse-core-2016-p1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 20,
+   "chapters": [
+    "代数",
+    "函数",
+    "微分",
+    "积分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2016-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2016-p2-en-qp",
+   "paper_id": "hkdse-core-2016-p2-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "积分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2016-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2017-p1-en-qp",
+   "paper_id": "hkdse-core-2017-p1-en-qp",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2017-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2017-p2-en-qp",
+   "paper_id": "hkdse-core-2017-p2-en-qp",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2017-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2018-p1-en-qp",
+   "paper_id": "hkdse-core-2018-p1-en-qp",
+   "year": 2018,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "代数",
+    "函数",
+    "坐标几何",
+    "排列组合",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2018-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2018-p2-en-qp",
+   "paper_id": "hkdse-core-2018-p2-en-qp",
+   "year": 2018,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "微分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2018-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2019-p1-en-qp",
+   "paper_id": "hkdse-core-2019-p1-en-qp",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "代数",
+    "几何",
+    "坐标几何",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2019-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2019-p2-en-qp",
+   "paper_id": "hkdse-core-2019-p2-en-qp",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "积分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2019-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2020-p1-en-qp",
+   "paper_id": "hkdse-core-2020-p1-en-qp",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "代数",
+    "几何",
+    "函数",
+    "微分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2020-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2020-p2-en-qp",
+   "paper_id": "hkdse-core-2020-p2-en-qp",
+   "year": 2020,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2020-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2021-p1-en-qp",
+   "paper_id": "hkdse-core-2021-p1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "三角",
+    "三角与坐标",
+    "代数",
+    "几何",
+    "坐标几何",
+    "排列组合",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2021-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2021-p2-en-qp",
+   "paper_id": "hkdse-core-2021-p2-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "排列组合",
+    "数与代数",
+    "数与度量",
+    "数列",
+    "概率",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2021-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2022-p1-en-qp",
+   "paper_id": "hkdse-core-2022-p1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "坐标几何",
+    "概率",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2022-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2022-p2-en-qp",
+   "paper_id": "hkdse-core-2022-p2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "三角",
+    "三角与坐标",
+    "代数",
+    "几何",
+    "坐标几何",
+    "排列组合",
+    "数与代数",
+    "数与度量",
+    "数列",
+    "概率",
+    "概率分布",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2022-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2023-p1-en-qp",
+   "paper_id": "hkdse-core-2023-p1-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "1",
+   "variant": "English CORE",
+   "question_count": 19,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "坐标几何",
+    "数与度量",
+    "概率",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2023-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2023-p2-en-qp",
+   "paper_id": "hkdse-core-2023-p2-en-qp",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "2",
+   "variant": "English CORE",
+   "question_count": 45,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "排列组合",
+    "数与代数",
+    "数与度量",
+    "数列",
+    "概率",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2023-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2024-p1-en-qp",
+   "paper_id": null,
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "question_count": 19,
+   "chapters": [
+    "三角",
+    "三角与坐标",
+    "代数",
+    "几何",
+    "坐标几何",
+    "概率",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2024-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2024-p2-en-qp",
+   "paper_id": null,
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "question_count": 45,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "排列组合",
+    "数与代数",
+    "数与度量",
+    "概率",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2024-p2-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2025-p1-en-qp",
+   "paper_id": null,
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "question_count": 19,
+   "chapters": [
+    "代数",
+    "几何",
+    "坐标几何",
+    "概率",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2025-p1-en-qp.json"
+  },
+  {
+   "group": "hkdse-core-2025-p2-en-qp",
+   "paper_id": null,
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "question_count": 45,
+   "chapters": [
+    "三角",
+    "三角与坐标",
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "排列组合",
+    "数与代数",
+    "数与度量",
+    "数列",
+    "概率",
+    "概率分布",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/hkdse-core-2025-p2-en-qp.json"
+  },
+  {
+   "group": "peter-dse-core-en-2026-p1__core1",
+   "paper_id": null,
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "question_count": 19,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "坐标几何",
+    "概率",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/peter-dse-core-en-2026-p1__core1.json"
+  },
+  {
+   "group": "DSE-CORE--2026--all--x",
+   "paper_id": null,
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "question_count": 38,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "坐标几何",
+    "概率",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/DSE-CORE--2026--all--x.json"
+  },
+  {
+   "group": "peter-dse-core-en-2026-p2__2",
+   "paper_id": null,
+   "year": 2026,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "question_count": 45,
+   "chapters": [
+    "三角",
+    "代数",
+    "几何",
+    "函数",
+    "坐标几何",
+    "排列组合",
+    "数与代数",
+    "数与度量",
+    "数列",
+    "概率",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/peter-dse-core-en-2026-p2__2.json"
+  }
+ ]
+}

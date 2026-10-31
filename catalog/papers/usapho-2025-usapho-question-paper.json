@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2025-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2025-usapho-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2025-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Problem A1: Shake It\n\nMost hairy mammals shake after getting wet; shaking the water off is energetically advantageous\nto waiting for it to dry on its own. In this problem, we investigate the mechanics of shaking off\nwater. For simplicity, we will model animals as solid cylinders with the sides covered in fur. You\nmay ignore gravity throughout the problem.\n\na. We can model the shaking by assuming that the angular position of the cylinder undergoes a\n   sinusoidal oscillation: θ = A cos(ωt). (The rotation is about the axis of rotational symmetry.)\n   Letting the radius of the cylindrical animal be R, derive an expression for the magnitude of the\n   acceleration of a point on the surface of the animal under such a motion.\n\nb. For the rest of this problem, rather than modeling sinusoidal motion, we will assume that the\n   cylindrical animal is simply spinning at constant angular speed ω. Wet fur tends to separate\n   into cylindrical clumps of radius r ≪R. A droplet of water on the end of a clump of fur will be\n   separated from it if the centripetal force overcomes the forces due to surface tension. Derive an\n   approximate relationship (valid up to scalar numerical constants) between the surface tension σ,\n   the radius r of the fur clump, the radius R of the animal, the angular speed ω, and the density ρ\n   of water. The diagram below show the cross-section of the animal, showing four clumps of fur\n   with droplets on their end.\n\n\n\n\n\nc. Experimentally, it is observed that all mammalian fur forms clumps of similar radius. Under the\n   assumption that different animals all have the same density and are simply scaled copies of each\n   other (i.e. larger animals are both longer and fatter), the relationship between an animal’s mass\n M and its angular velocity of shaking ω is of the form ω ∼Mn: find the value of n.\n\nd. Shaking requires energy, which we can crudely model as the rotational energy of the corresponding\n   cylinder. An alternative strategy for the animal is to simply air-dry their fur, which requires\n   energy to evaporate the water. Assume a wet animal has approximately 5% of their body weight\n   in water, and has to supply all the energy for evaporating the water. Our model predicts that\n   for some animal sizes, it will be energetically advantageous to air dry themselves: estimate the\n   range of animal masses for which this is true. You may use the following facts: a mouse weighs\n   20 g, has a radius of 1 cm, and shakes itself with angular velocity ω = 30 rad/s. The latent heat\n   of vaporization of water at room temperature is λ = 2430 J/g.\n\n2025 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2025-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2025-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2025-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2025-usapho-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2025-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Space physics",
+   "knowledge_point": "Stars and the Universe",
+   "problem_type": "用红移或恒星信息解释宇宙现象",
+   "search_text": "Problem A2: Black Tides\n\nConsider a spherically symmetric, nonrotating star of mass m and radius r.  If it gets too close\nto the supermassive black hole of mass M ≫m at the center of a galaxy, it will be ripped apart\nby tidal forces. Throughout this problem, neglect relativistic effects and give answers in terms of\nG, M, m, and r. When asked for numbers, assume the star is Sun-like, so that m = 2 × 1030 kg,\nr = 7 × 108 m, and M = 106 m, and give all numeric answers to one significant figure.\n\na. Suppose the star orbits the black hole in a circle of radius R. What is the radius of curvature of\n   the trajectory of each point on the star’s surface? Note that the star does not rotate as it orbits.\n\nb. Gas on the star’s surface facing the black hole is attracted to the star by the star’s gravity,\n   and pulled away from the star by the black hole’s tidal force. Write an expression for the tidal\n   acceleration at the point closest to the black hole.\n\nc. At a radius R where the gravitational and tidal forces are in equilibrium, the star will start\n   being tidally ripped apart. This effect can only be observed when R is outside the black hole’s\n   Schwarzschild radius Rs = 2GM/c2. Find an expression for R and numerically evaluate the ratio\n   R/Rs.\n\nFor the rest of the problem, we consider a star on a parabolic orbit whose periapsis (distance of\nclosest approach) is equal to the radius R found in part 1. Near periapsis, the star will be torn\napart in a “tidal disruption event”. As a very rough model of this phenomenon, assume the star is\ninitially a single rigid body. The moment it reaches periapsis, it fragments into many rigid pieces\nwhich do not interact with other, and feel only the black hole’s gravity.\n\nd. Afterward, some of the fragments will escape from the black hole, while the rest remain bound.\n   Numerically evaluate the fraction of the mass which escapes.\n\ne. An escaping fragment has speed vf when it is far from the black hole. Find the maximum\n   possible value of vf, among all fragments, and evaluate it numerically.\n\n f. A bound fragment orbits with period Tf. Find the minimum possible value of Tf, among all\n   fragments, and evaluate it numerically.\n\nAs bound fragments return to the location of the initial disruption, they collide with other debris,\ncausing them to be absorbed into the black hole’s accretion disk. This process produces an enormous\namount of light, with the luminosity (or energy emitted over time) proportional to the mass\nabsorption rate. If t = 0 at the moment the star fragments apart, then light begins to be emitted at\nthe time you found in part 5, and afterward the luminosity scales as L ∝1/tn for a constant n.\n\ng. Find the value of n. Assume for simplicity that the total energies of the bound fragments are\n   uniformly distributed between their minimum and maximum values.\n\n2025 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2025-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2025-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2025-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2025-usapho-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2025-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "Problem A3: Bitter and Magnetic\n\nIn this problem, we explore some of the design considerations for an electromagnet.\n\na. Consider an electromagnet consisting of a long solenoid, i.e. a spiral of thin wire wrapped in\n   a single layer around a cylindrical nonmagnetic core. The wire is wrapped in such a way that\n   the adjacent coils almost touch. When a current is sent through the wire, a magnetic field is\n   generated inside the solenoid; this magnetic field exerts an outward force on the wire. Find the\n   pressure P on the solenoid in terms of the magnetic field B inside the solenoid.\n\nb. The pressure on the “walls” of the solenoid is counteracted by tension inside the wire. Derive an\n   expression for the maximal achievable magnetic field B in terms of coil radius a, wire diameter\n   (thickness) t ≪a, and wire tensile strength σ. (The tensile strength of a material is the force per\n   unit cross-sectional area that needs to be applied in order to pull the material apart.) Assume\n   the wire is circular in cross-section.\n\nc. Let a = 0.1 m, t = 0.001 m. The tensile strength of copper is σ = 250 MPa, and the permeability\n   of free space is µ0 = 4π × 10−7 H/m. What is the maximum magnetic field that can be achieved\n   in a single-layer solenoid made out of such a wire without the wire snapping?\n\nd. In theory, we could generate a stronger field by increasing the wire thickness, but the nonuniform\n   distribution of current inside the wire makes this difficult to analyze.\n\n   Instead, consider wrapping the solenoid in many layers of wire. We will place adjacent layers a\n   distance t apart so that they just barely don’t touch, and will adjust the current through each\n   wire to equalize the tensile stress. The wire coils span the space from an inner core radius of a to\n   an outer radius of b. Estimate the maximum achievable field strength inside this electromagnet.\n  You may assume that the wire is thin (t ≪a, t ≪b −a).\n\ne. Estimate the numeric value of the maximum magnetic field that can be achieved in a multi-layer\n   solenoid described above with a = 0.1 m and b = 0.3 m.\n\n2025 USAPhO Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2025-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2025-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2025-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2025-usapho-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2025-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Problem B1: Scroll ’n’ Roll\n\nConsider a disk with mass m and radius R placed on a large and frictionless table. An ant with\nmass m is placed on top of the disk. The ant can move freely without sliding on the disk.\n\na. Initially, the ant starts on the edge of the disk, and both the ant and the disk are at rest (relative\n   to the table). Then, the ant starts walking across the disk’s diameter, such that in the frame of\n   the disk, the ant has (constant) velocity v. What is ant’s velocity in the frame of the table?\n\nb. Suppose instead that the ant walks counterclockwise along the edge of the disk at constant speed\n   v in the frame of the disk. What is the ant’s speed in the frame of the table?\n\nc. Now there are two ants on the disk! The second ant (also of mass m) starts at distance R/2\n   from the center of the disk, with an angle offset by θ from the first ant. The second ant walks\n   counterclockwise around this circle with radius R/2 at speed v/2 (relative to the disk). Find all\n   θ such that the second ant is stationary in the frame of the table.\n\n\n\n\n\n                                                   θ\n\n2025 USAPhO Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2025-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2025-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2025-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2025-usapho-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2025-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Problem B2: Where’s the Kaboom?\n\nA plane is flying horizontally at constant velocity v and altitude z = H. The speed of sound at\naltitude z is given by\n\n                                          c(z) = α pT(z),\n\nwhere α is a constant. Suppose v > c(H), and define the Mach number as\n\n                                            v\n                   M ≡    > 1.\n                                       c(H)\n\nIf c(z) is constant for all z, then the envelope is a cone with half angle θ where sin θ =  1 and                                                      M\npropagates with the speed of sound c.\n\na. Sketch the envelope.\n\nb. Now, the speed of sound depends on the altitude because the temperature is not uniform. For\n   the altitudes we are interested in, the following linear model works well:\n\n                                     T(z) = T0 −βz,\n\n   where β > 0 is a constant. Sketch the envelope of the boom.\n\nc. If the Mach number is large enough then the sonic boom hits the ground. Assume it is large\n   enough. On the ground, there are two sensors at z = 0 and z = h, one directly above the other.\n  Assume h ≪H and βh ≪T0. At time t1, the top sensor receives the sonic boom signal and at\n   a later time, the bottom sensor also receives the signal. Express the Mach number M of the\n   airplane in terms of H, h, t, T0, α, β, where t = t2 −t1.\n\nd. If the plane travels slower without changing direction, its sonic boom could become no longer\n   audible from the ground for the Mach number 1 < M < Mmax. What is the upper limit for the\n  Mach number Mmax for which this can occur? Express your answer in terms of T0, H, α, β. You\n   do not necessarily need all of these parameters.\n\n2025 USAPhO Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2025-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2025-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2025-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2025-usapho-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2025-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B3",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "Problem B3: Locked and Moded\n\na. Consider two mirrors facing each other separated by a distance L (a Fabry–P´erot resonator).\n  The cavity (the space between the two mirrors) is in vacuum (index of refraction n = 1, no\n   dispersion), and the mirrors have high reflectivities so that the main resonance condition is that\n  an integer multiple of half-wavelengths fit into the cavity. A light pulse containing multiple\n   different frequencies travels between the mirrors and interferes with itself.\n\n      i. State the condition for resonance in terms of L and wavelength λ.\n\n     ii. Write down an expression for the resonant angular frequencies ωm, with m counting each of\n      the possible resonances.\n\n    iii. What is the angular frequency spacing ∆ω ≡ωm+1−ωm between adjacent angular frequencies?\n\nb. The electric field at the antinodes of the standing waves in the resonator is a superposition of\n   oscillations at the resonant angular frequencies and is given by:\n\n                              +∞\n                                   Ebefore(t) = X Ek cos  k ∆ω  t .\n                                 k=−∞\n\n  Now suppose we introduce a gain medium (such as a doped crystal) into the laser cavity. The\n   gain medium completely absorbs incoming light and re-emits it over a finite range of N angular\n   frequencies centered around some angular frequency ω0, which coincides with one of the ωm\n   values determined above. Within this bandwidth, the gain medium amplifies and supports\n   oscillations at all ωm that fall within the range. (Assume N is an odd number.)\n\n  Assume that each of these N angular frequencies—also referred to as modes—has the same\n   amplitude E0, and that their phases are locked such that there is zero relative phase between\n  them at t = 0. This condition is known as mode locking. Set their common phase so that all\n   electric fields are expressed as cosine functions, consistent with the form of Ebefore(t).\n\n      i. Write an expression for the total electric field Eafter(t) as the sum of these N equally spaced\n      angular frequencies (with zero relative phase).\n\n     ii. Show that in the limit of many angular frequencies (∆ω ≪ω0, N ≫1), the time-dependent\n       electric field approximately takes the following form:\n\n                                           N (∆ω) t\n                                                            sin                                                                        2\n                                       Eafter(t) ≈E0f(ω0, t)\n                                                             (∆ω) t\n                                                             sin                                                                        2\n\n     and determine the function f(ω0, t).\n\nc. To answer the next part of the problem, assume N is odd and find the following limit when\n   a = πm, where m is an integer:\n                                          sin(Nx)\n                                          lim              .\n                                    x→a   sin x\n\nd. Mode locking can dramatically increase the peak intensity I of the laser output.  Use the\n   expression I = γE2, where γ is a known constant, to answer the following questions.\n\n      i. Determine to the total instantaneous intensity Iafter(t) of the electric field.\n\n2025 USAPhO                            Part B                                      10\n\n\n\n\n     ii. What is the maximum possible intensity of the total field, and at what time(s) is this achieved?\n\ne. The uncertainty principle states ∆x ∆p ≥ℏ  In optics, we are more commonly interested in the                                                  2.\n   duration of the pulse rather than its spatial extent; the two are related via ∆x = c ∆t.Consider\n   the problem of setting up a very short laser pulse. Use the uncertainty principle to estimate\n   the required bandwidth (range of frequencies). Compare that to the relationship between pulse\n   duration and gain bandwidth that we’re achieving in this problem.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2025-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2025-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2025-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2025-usapho-question-paper__q06.md"
+  }
+ ]
+}

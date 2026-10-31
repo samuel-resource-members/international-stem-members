@@ -1,0 +1,149 @@
+{
+ "group": "ap-physics-c-em-2023-frq-set-1-question-paper",
+ "course_id": "AP-PHYSICS-C-EM",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 3,
+ "questions": [
+  {
+   "paper_id": "ap-physics-c-em-2023-frq-set-1-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "Set 1",
+   "id": "ap-physics-c-em-2023-frq-set-1-question-paper__q01",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "Begin your response to QUESTION 1 on this page.\n\n\n\n                    PHYSICS C: ELECTRICITY AND MAGNETISM\n\n                                SECTION II\n\n                                 Time—45 minutes\n\n                                          3 Questions\n\n\nDirections: Answer all three questions. The suggested time is about 15 minutes for answering each of the questions,\nwhich are worth 15 points each. The parts within a question may not have equal weight. Show all your work in this\nbooklet in the spaces provided after each part.\n\n\n\n\n\n1. Students perform an experiment to determine the value of vacuum permittivity e0. Sphere 1 is nonconducting\n   with charge +q and is attached to an insulating rod. Sphere 2 is nonconducting with charge +Q and has\n  mass M . Sphere 2 is hung from a string of negligible mass and length L. Sphere 1 is brought near, without\n   touching, Sphere 2, as shown. Equilibrium is established when the centers of the two spheres have the same\n   vertical position, are a horizontal distance d apart, and the string is at an angle q from the vertical.\n\nContinue your response to QUESTION 1 on this page.\n\n(a) On the following dot that represents Sphere 2 at the position shown in the previous figure, draw and label the\n   forces (not components) that act on Sphere 2. Each force must be represented by a distinct arrow starting on,\n   and pointing away from, the dot.\n\n\n\n\n\n                                                            Qq\n(b) Derive the relationship between the distance d and the angle q to show that d =                            .\n                                                                     4 pe 0 Mg tanq\n\n\n\n\n\n(c) These values are collected in one trial: Q = q = 6.0 ¥ 10−8 C, q = 12°, and d = 0.057 m. Calculate the\n\n   expected force of tension exerted on Sphere 2 by the string.\n\nContinue your response to QUESTION 1 on this page.\n\n\n\n(d) The students vary d and measure q after equilibrium is reached. The students use the collected data to plot the\n\n                         1\n   following graph of d2 vs.                             tanq.\n\n\n\n\n\n        i. Draw the best-fit line for the data.\n        ii. Using the best-fit line, calculate an experimental value for the vacuum permittivity e0\n    when M = 0.0050 kg and Q = q = 6.0 ¥ 10−8 C.\n\nContinue your response to QUESTION 1 on this page.\n\n\n\n(e) The students modify the experiment by replacing Sphere 1 with a conducting Sphere 3 that has the same size\n   and charge +q. The experiment is repeated.\n\n        i. The circle in the following figure represents Sphere 3 when spheres 2 and 3 are at equilibrium. On the\n       circle, draw a single “+” sign to represent the location of highest concentration of the excess positive\n      charges.\n\n\n\n\n\n        ii. Briefly explain your reasoning for the sketch drawn in part (e)(i).\n\n\n\n\n\n        iii. In the original experiment, when the centers of the two spheres are a horizontal distance d1 apart, the\n      string makes an angle q1 from the vertical. In the modified experiment, when the centers of the two spheres\n      are a horizontal distance d1 apart, the string makes an angle q2 from the vertical.\n      Is q2 greater than, less than, or equal to q1 ?\n\n    _____ q 2 > q1     _____ q 2 < q1     _____ q 2 = q1\n\n\n     Briefly justify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-physics-c-em Scoring Guidelines - Set 1",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-em-set-1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2023-frq-set-1-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2023-frq-set-1-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2023-frq-set-1-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2023-frq-set-1-question-paper__q01.md"
+  },
+  {
+   "paper_id": "ap-physics-c-em-2023-frq-set-1-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "Set 1",
+   "id": "ap-physics-c-em-2023-frq-set-1-question-paper__q02",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "Begin your response to QUESTION 2 on this page.\n\n\n\n\n\n2. Two horizontal, parallel, conducting rails are separated by distance L = 0.40 m. A resistor of resistance\n  R = 0.30 Ω connects the rails. A horizontal ideal spring is located between the rails. The right end of the spring is\n   free to move and the left end is fixed in place. A conducting bar of mass m = 0.23 kg is placed on the rails and is\n   in contact with the spring, which is initially compressed. Frictional forces and the resistance of the bar and rails\n   are negligible.\n\n          • At time t = 0, the bar is released from rest and is pushed to the right by the spring.\n          • At time t1, the bar loses contact with the spring and slides to the right.\n          • At time t2, the bar enters and travels through a uniform magnetic field of\n        magnitude B = 0.50 T that is directed into the page, as shown.\n          • At time t3, the bar enters a region where the magnitude of the uniform magnetic field is\n             still B = 0.50 T but is directed out of the page.\n          • At time t4, the bar enters a region with no magnetic field.\nConsider time tB such that t 2 < tB < t3.\n   (a) On the following diagram of the bar, draw an arrow indicating the direction of the net force Fnet exerted on the\n      bar at time tB. If the net force is zero, write Fnet = 0.\n\nContinue your response to QUESTION 2 on this page.\n\n(b) At time tB, the speed of the bar is v = 2.5 m/s.\n        i. Calculate the magnitude of the current in the bar at time tB.\n\n\n\n\n\n        ii. Calculate the magnitude of the net force Fnet exerted on the bar at time tB.\n\n\n\n\n\n(c) On the following axes, sketch a graph of the speed v of the bar as a function of time t between t = 0 and t4.\n\nContinue your response to QUESTION 2 on this page.\n\n\n\n\n\n(d) The scenario is repeated but an additional resistor of resistance R = 0.30 Ω is connected, as shown.\n        i. Determine the total resistance Rtotal of the closed circuit for the new scenario.\n\n\n\n\n\n        ii. In the original scenario, the magnitude of the acceleration of the bar immediately after the bar enters the\n        first uniform magnetic field is aoriginal. In the new scenario, the magnitude of the acceleration of the bar\n     immediately after the bar enters the first uniform magnetic field is a new . Is a new greater than, less than, or\n      equal to aoriginal ? Justify your answer.\n\n\n\n\n\n(e) Describe a modification to m, B, or L that will result in a smaller induced potential difference across the\n   original resistor immediately after the bar enters the first uniform magnetic field. Justify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-physics-c-em Scoring Guidelines - Set 1",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-em-set-1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2023-frq-set-1-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2023-frq-set-1-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2023-frq-set-1-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2023-frq-set-1-question-paper__q02.md"
+  },
+  {
+   "paper_id": "ap-physics-c-em-2023-frq-set-1-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "Set 1",
+   "id": "ap-physics-c-em-2023-frq-set-1-question-paper__q03",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical charge",
+   "problem_type": "判断电荷相互作用与充放电",
+   "search_text": "Begin your response to QUESTION 3 on this page.\n\n\n\n\n\n3. The circuit shown consists of a battery of emf Ɛ, resistors 1 and 2 each with resistance R, capacitors 1 and 2\n   with capacitances C and 2C, respectively, and a switch. The switch is initially open and both capacitors are\n   uncharged.\n\n  At time t = 0, the switch is closed to Position A.\n\n   (a) Write, but do NOT solve, a differential equation that can be used to determine the charge Q on the positive\n       plate of Capacitor 1 as a function of time t after the switch is closed to Position A. Express your answer in\n      terms of Ɛ, R, C, Q, t, and fundamental constants, as appropriate.\n\nContinue your response to QUESTION 3 on this page.\n\n\n\n(b) On the axes shown, sketch graphs of the surface charge density s on the positive plate of Capacitor 1 and the\n    total power P dissipated by the resistors as functions of time t from time t = 0 until steady-state conditions\n   are nearly reached.\n\n\n\n\n\nA long time after the switch is closed to Position A, the charge on the positive plate of Capacitor 1 is Q0 and\nCapacitor 2 is uncharged.\n\n(c) At time t1, the switch is closed to Position B.\n        i. Immediately after time t1, is the direction of the current in the switch directed toward the left, directed\n     toward the right, or is there no current? Briefly justify your answer.\n\n\n\n\n\n        ii. Determine an expression for the total charge on the positive plate of Capacitor 2 a long time after t1.\n     Express your answer in terms of Q  and fundamental constants, as appropriate.                                         0\n\nContinue your response to QUESTION 3 on this page.\n\n\n        iii. Derive an expression for the total energy ER dissipated by resistors 1 and 2 from immediately after\n     time t1 until new steady-state conditions have been reached. Express your answer in terms of C , Q 0, and\n     fundamental constants, as appropriate.\n\n\n\n\n\nWith the switch still closed to Position B, the parallel plates of Capacitor 2 are moved so that the separation\ndistance increases by a factor of 2.\n\n                  U2(d) Determine the ratio     of the energy U2 stored in Capacitor 2 to the energy U1 stored in Capacitor 1 a long\n                   U1\n\n   time after the plates of Capacitor 2 have been moved. Briefly justify your answer.\n\nContinue your response to QUESTION 3 on this page.\n\n\n\n\nWith the capacitors still charged as in part (d), the switch is now closed to Position A.\n\n(e) Express your answers to part (e)(i) and part (e)(ii) in terms of R, C, Q0, and fundamental constants, as\n   appropriate.\n        i. Derive an expression for the current I0 from the battery immediately after the switch is closed to\n      Position A.\n\n\n\n\n\n        ii. Determine the current I∞ from the battery a long time after the switch is closed to Position A .\n\nSTOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-physics-c-em Scoring Guidelines - Set 1",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-em-set-1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-em-2023-frq-set-1-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-em-2023-frq-set-1-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-em-2023-frq-set-1-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-EM/ap-physics-c-em-2023-frq-set-1-question-paper__q03.md"
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "group": "cemc-galois-2025-contest-english-question-paper",
+ "course_id": "CEMC-GALOIS",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-galois-2025-contest-english-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-galois-2025-contest-english-question-paper__q01",
+   "exam_id": "CEMC-GALOIS",
+   "course_id": "CEMC-GALOIS",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.    Members of the Art Club are between 14 and 17 years old, inclusive. The graph shows\n      the number of students of each age in the club.\n\n                                   Age of Students\n                                                  in the Art Club\n                                  4                                                                                              Students 3\n                        of 2\n                                  1                                                                       Number 0\n                                      14  15  16  17\n                                       Age\n\n          (a) What is the total number of students in the Art Club?\n\n         (b) Determine the mean (average) age of the students in the Art Club.\n\n          (c) Determine the number of 15-year old students that must join the Art Club so\n            that the mean age of all the students in the club is exactly 15.5.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-galois-2025-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-galois-2025-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-galois-2025-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-GALOIS/cemc-galois-2025-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-galois-2025-contest-english-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-galois-2025-contest-english-question-paper__q02",
+   "exam_id": "CEMC-GALOIS",
+   "course_id": "CEMC-GALOIS",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2.    In a magic square, the numbers in each of the three rows, each of the three columns, and\n      each of the two diagonals have the same sum. This sum is called the magic constant.\n     Each of the four ﬁgures shown below is a magic square.\n\n          (a) In Figure 1, the magic constant is 18. What is the value of n?\n\n         (b) In Figure 2, what is the value of p?\n\n          (c) In Figure 3, what is the value of r?\n\n         (d) In Figure 4, determine the value of u.\n\n\n             7   2            8   p            13        r           u +3\n\n                 n            9       5        7       17                12\n             3                 4                          r +1 r +3     u+2 u 5  u\n                Figure 1            Figure 2             Figure 3             Figure 4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-galois-2025-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-galois-2025-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-galois-2025-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-GALOIS/cemc-galois-2025-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-galois-2025-contest-english-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-galois-2025-contest-english-question-paper__q03",
+   "exam_id": "CEMC-GALOIS",
+   "course_id": "CEMC-GALOIS",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3.    Point A has coordinates (10, 15) and C has coordinates (20, 27). Rectangle ABCD has\n       side AD parallel to the y-axis and side AB parallel to the x-axis.\n\n          (a) What is the area of rectangle ABCD?\n\n         (b) The line with equation y = −32x + 39 intersects side AD at E and side AB at F.\n           Determine the area of the pentagon BCDEF.\n\n          (c) The line with equation y = mx+b, with m < 0, intersects side AD at G and side\n        AB at H. Determine all ordered pairs of integers (m, b) with b < 50 for which\n            the area of △GAH is equal to −8                                m.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-galois-2025-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-galois-2025-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-galois-2025-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-GALOIS/cemc-galois-2025-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-galois-2025-contest-english-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-galois-2025-contest-english-question-paper__q04",
+   "exam_id": "CEMC-GALOIS",
+   "course_id": "CEMC-GALOIS",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.    To determine the number of positive divisors of N, we take the exponents on the prime\n      powers in the prime factorization of N, add 1 to each of the exponents, and multiply\n      the resulting numbers together. For example, the prime factorization of 280 is 235171,\n     and so 280 has (3 + 1)(1 + 1)(1 + 1) = 16 positive divisors.\n\n          (a) How many ordered pairs of positive integers (a, b) are there for which ab = 400\n           and 1 < a ≤b?\n\n         (b) Determine the number of ordered triples of positive integers (p, q, r) for which\n            pqr = 270 000.\n\n          (c) Determine the number of ordered triples of positive integers (x, y, z) for which\n           xyz = 270 000 and 1 < x ≤y ≤z.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-galois-2025-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-galois-2025-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-galois-2025-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-GALOIS/cemc-galois-2025-contest-english-question-paper__q04.md"
+  }
+ ]
+}

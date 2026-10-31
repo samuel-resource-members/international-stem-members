@@ -1,0 +1,149 @@
+{
+ "group": "ap-physics-c-mechanics-2024-frq-set-2-question-paper",
+ "course_id": "AP-PHYSICS-C-MECHANICS",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 3,
+ "questions": [
+  {
+   "paper_id": "ap-physics-c-mechanics-2024-frq-set-2-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "Set 2",
+   "id": "ap-physics-c-mechanics-2024-frq-set-2-question-paper__q01",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "Begin your response to QUESTION 1 on this page.\n\n\n\n                            PHYSICS C: MECHANICS\n\n                                SECTION II\n\n                                 Time—45 minutes\n\n                                          3 Questions\n\n\nDirections: Answer all three questions. The suggested time is about 15 minutes for answering each of the questions,\nwhich are worth 15 points each. The parts within a question may not have equal weight. Show all your work in this\nbooklet in the spaces provided after each part.\n\n\n\n\n\n1. Blocks A and B of masses 2 m and m, respectively, are arranged in a setup consisting of a ramp that makes an\n   angle q with a smooth horizontal table and an ideal spring of spring constant k fixed to a wall, as shown.\n  Block A is held at rest a distance D up the ramp, and Block B is at rest on the horizontal table. The coefficient of\n   kinetic friction between Block A and the rough ramp is m in the region of length D, and there is negligible\n   friction between the blocks and the smooth table.\n\nContinue your response to QUESTION 1 on this page.\n\nAt time t = 0 , Block A is located at horizontal position x = 0 and is released from rest. After the block is\nreleased, the following occurs.\n\n      • At time t = t1, Block A has traveled a distance D down the ramp, has transitioned to the table,\n      and is moving with speed v at x = x1.\n\n      • At time t = t2 , Block A is at x = x2 when it collides with and sticks to Block B.\n\n      • At time t = t3 , the combined blocks A and B are at x = x3 when they collide with and stick to\n       the spring in its equilibrium position.\n\n      • At time t = t4 , the combined blocks A and B are instantaneously at rest and the spring is\n      compressed a distance xc from its equilibrium position.\n\n(a) For parts (a)(i) and (a)(ii), express your answer in terms of m, q, D, m, xc, and physical constants,\n   as appropriate.\n\n            i. Derive an expression for the speed v of Block A at time t1.\n\n\n\n\n\n            ii. Derive an expression for the spring constant k of the spring.\n\nContinue your response to QUESTION 1 on this page.\n\n\n\n\n\n(b)\n            i. On the following axes, sketch a graph of the magnitude of the momentum pA of Block A as a function\n        of time t from t = 0 to t4.\n\n\n\n\n\n            ii. Use principles of forces to justify the graph drawn in part (b)(i) for the time interval t = t3 to t = t4 .\n         Explicitly reference features of the shape of the graph you drew in part (b)(i).\n\nContinue your response to QUESTION 1 on this page.\n\nFor times t > t4 , the two-block-spring system oscillates with period TO. The procedure is then repeated using a\nnew ramp, where there is negligible friction between Block A and the ramp.\n\n(c) Indicate how the new period of oscillation TN in the procedure that uses the new ramp compares with the\n   period of oscillation TO from the original procedure.\n\n_____ TN > TO     _____ TN < TO     _____ TN = TO\n\nBriefly justify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-physics-c-mechanics Scoring Guidelines - Set 2",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-physics-c-mech-set-2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2024-frq-set-2-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2024-frq-set-2-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2024-frq-set-2-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2024-frq-set-2-question-paper__q01.md"
+  },
+  {
+   "paper_id": "ap-physics-c-mechanics-2024-frq-set-2-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "Set 2",
+   "id": "ap-physics-c-mechanics-2024-frq-set-2-question-paper__q02",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Begin your response to QUESTION 2 on this page.\n\n\n\n\n\n2. A student drops a sphere of mass m from rest. The air exerts a drag force of magnitude Fdrag on the sphere, as\n  shown in Figure 1. The student models the magnitude of the drag force as Fdrag = bv , where v is the speed of the\n   sphere and b is a positive constant with appropriate units.\n\n   (a) Derive, but do NOT solve, a differential equation that could be used to determine the speed v of the sphere as\n      a function of time t. Express your answer in terms of given quantities and physical constants, as appropriate.\n\nContinue your response to QUESTION 2 on this page.\n\n\n\n\n\n(b) The student sketches the drag force Fdrag exerted on the sphere as a function of time t, as shown in Figure 2.\n            i. Draw a vertical line on the sketch in Figure 2 to indicate the earliest time at which Fdrag is equal to the\n       magnitude of the weight of the sphere, which occurs when the sphere reaches terminal speed. Label this\n        time as tT on the time axis.\n\n\n            ii. Justify the location of tT. Explicitly reference appropriate features of the sketch in Figure 2.\n\n\n\n\n\n(c) Suppose the student throws the same sphere downward with a nonzero initial speed. The magnitude of the new\n   drag force at terminal speed after being thrown downward is Fnew.\n\nIndicate whether Fnew would be greater than, less than, or equal to the magnitude of Fdrag at terminal speed\nrepresented in Figure 2.\n\n_____ Greater than     _____ Less than     _____ Equal to\n\nBriefly justify your answer.\n\nContinue your response to QUESTION 2 on this page.\n\n(d) The student conducts an experiment to better understand the relationship between Fdrag and v. The student\n   makes measurements to calculate and graph the magnitude of Fdrag as a function of v for the falling sphere.\n\n\n\n\n\n            i. Draw the best-fit line for the data.\n\n\n            ii. Use the best-fit line to calculate an experimental value for b.\n\nContinue your response to QUESTION 2 on this page.\n\nA student claims that the terminal speed vT of the sphere depends on the diameter D of the sphere. The student\ndesigns an experiment to collect data that can be used to provide evidence to support the claim.\n\n(e) The student has access to but does not have to use all of the following equipment.\n\n      • Sphere Set 1: spheres of the same known mass with different known diameters\n      • Sphere Set 2: spheres of the same known diameter with different known masses\n      • A motion detector that can measure velocity as a function of time\n\n            i. Indicate two quantities that when graphed could be used to determine whether the diameter of the\n        sphere affects the terminal speed.\n\n        Vertical axis: _______________      Horizontal axis: _______________\n\n\n\n\n            ii. Briefly describe how the quantities graphed could be used to determine the relationship between sphere\n        diameter and terminal speed.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-physics-c-mechanics Scoring Guidelines - Set 2",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-physics-c-mech-set-2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2024-frq-set-2-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2024-frq-set-2-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2024-frq-set-2-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2024-frq-set-2-question-paper__q02.md"
+  },
+  {
+   "paper_id": "ap-physics-c-mechanics-2024-frq-set-2-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "Set 2",
+   "id": "ap-physics-c-mechanics-2024-frq-set-2-question-paper__q03",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Begin your response to QUESTION 3 on this page.\n\n\n\n\n\n3. A uniform disk of radius R and mass md is attached to a vertical pole by a horizontal axle that passes through the\n   center of the disk. Friction between the axle and the disk is negligible. A lump of clay of mass mc is attached to\n   the edge of the disk at Point A. The size of the lump of clay is small compared with the radius of the disk. A\n   horizontal string is connected from the pole to the edge of the disk at Point A. The string makes an angle q with\n   the line between Point A and the axle, as shown in Figure 1.\n\n   (a) On the following representation of the clay-disk system, draw and label the external forces (not components)\n      exerted on the system. Each force must be represented by a distinct arrow that starts on, and points away from,\n      the point at which the force is exerted on the system.\n\nContinue your response to QUESTION 3 on this page.\n\n\n\n(b) Derive an expression for the tension FT in the string when the clay is at Point A, as shown in Figure 1, in\n   terms of R, md, mc, q, and physical constants, as appropriate.\n\n\n\n\n\n(c) The string remains connected to the edge of the disk at Point A. The clay is moved to Point B, which is\n   horizontally in line with the axle, as shown in Figure 2. How does the new tension FT, new compare with\n   tension FT from part (b)? Justify your reasoning.\n\nContinue your response to QUESTION 3 on this page.\n\n\n\n\n\n(d) A nonuniform disk is now attached to the axle. The lump of clay is attached to the disk at Point B, as shown in\n   Figure 3. The clay has mass m c = 0.60 kg and the disk has a radius R = 0.30 m . The mass density of the disk\n    varies radially and can be modeled by r(r) = br , where r is the radial distance from the axle\n   and b = 4.0 kg/m3.\n\n            i. Calculate the rotational inertia of the disk about the axle.\n\n\n\n\n\n            ii. The string connecting the disk to the pole is cut. Calculate the magnitude of the initial angular\n        acceleration of the clay-disk system.\n\nSTOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-physics-c-mechanics Scoring Guidelines - Set 2",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-physics-c-mech-set-2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2024-frq-set-2-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2024-frq-set-2-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2024-frq-set-2-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2024-frq-set-2-question-paper__q03.md"
+  }
+ ]
+}

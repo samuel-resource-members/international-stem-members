@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2019-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2019-usapho-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2019-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "Question A1\n\nCollision Course\n\nTwo blocks, A and B, of the same mass are on a ﬁxed inclined plane, which makes a 30◦angle\nwith the horizontal. At time t = 0, A is a distance ℓ= 5 cm along the incline above B, and both\nblocks are at rest. Suppose the coeﬃcients of static and kinetic friction between the blocks and the\nincline are                 √       √\n                                       3            3\n                           µA =       ,    µB =       ,\n                                      6            3\nand that the blocks collide perfectly elastically. Let vA(t) and vB(t) be the speeds of the blocks\ndown the incline. For this problem, use g = 10 m/s2, assume both blocks stay on the incline for\nthe entire time, and neglect the sizes of the blocks.\n\na. Graph the functions vA(t) and vB(t) for t from 0 to 1 second on the provided answer sheet, with\n   a solid and dashed line respectively. Mark the times at which collisions occur.\n\nb. Derive an expression for the total distance block A has moved from its original position right\n   after its nth collision, in terms of ℓand n.\n                                √         √\nNow suppose that the coeﬃcient of block B is instead µB =   3/2, while µA =  3/6 remains the\nsame.\n\nc. Again, graph the functions vA(t) and vB(t) for t from 0 to 1 second on the provided answer\n   sheet, with a solid and dashed line respectively. Mark the times at which collisions occur.\n\nd. At time t = 1 s, how far has block A moved from its original position?\n\n2019 USAPhO Part A\n\n2019 USAPhO                      Answer Sheets                                   12\n\n\n\n\n                                      Student AAPT ID #:\n\n\n                                       Proctor AAPT ID #:\n\nA1: Collision Course\n\n(a)\n\n\n\n\n\n     [m/s]\n    v(t)\n\n\n\n\n\n                                          time t [s]\n\n2019 USAPhO                      Answer Sheets                                   13\n\n\n\n\n                                      Student AAPT ID #:\n\n\n                                       Proctor AAPT ID #:\n\n\n(c)\n\n\n\n\n\n     [m/s]\n    v(t)\n\n\n\n\n\n                                          time t [s]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2019-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2019-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2019-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2019-usapho-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2019-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "Question A2\n\nGreen Revolution1\n\nIn this problem, we will investigate a simple thermodynamic model for the conversion of solar\nenergy into wind.  Consider a planet of radius R, and assume that it rotates so that the same\nside always faces the Sun. The bright side facing the Sun has a constant uniform temperature T1,\nwhile the dark side has a constant uniform temperature T2. The orbit radius of the planet is R0,\nthe Sun has temperature Ts, and the radius of the Sun is Rs. Assume that outer space has zero\ntemperature, and treat all objects as ideal blackbodies.\n\na. Find the solar power P received by the bright side of the planet. (Hint: the Stefan-Boltzmann\n   law states that the power emitted by a blackbody with area A is σAT 4.)\n\nIn order to keep both T1 and T2 constant, heat must be continually transferred from the bright side\nto the dark side. By viewing the two hemispheres as the two reservoirs of a reversible heat engine,\nwork can be performed from this temperature diﬀerence, which appears in the form of wind power.\nFor simplicity, we assume all of this power is immediately captured and stored by windmills.\n\nb. The equilibrium temperature ratio T2/T1 depends on the heat transfer rate between the hemi-\n   spheres. Find the minimum and maximum possible values of T2/T1. In each case, what is the\n   wind power Pw produced?\n\nc. Find the wind power Pw in terms of P and the temperature ratio T2/T1.\n\nd. Estimate the maximum possible value of Pw as a fraction of P, to one signiﬁcant ﬁgure. Brieﬂy\n   explain how you obtained this estimate.\n\n\n\n\n\n   1This question inspired by De Vos, Alexis, and Guust Flater, American Journal of Physics 59.8 (1991): 751-754.\n\n2019 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2019-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2019-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2019-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2019-usapho-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2019-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical charge",
+   "problem_type": "判断电荷相互作用与充放电",
+   "search_text": "Question A3\n\nElectric Slide\n                                       √\nTwo large parallel plates of area A are placed at x = 0 and x = d ≪  A in a semiconductor\nmedium. The plate at x = 0 is grounded, and the plate at x = d is at a ﬁxed potential −V0, where\nV0 > 0. Particles of positive charge q ﬂow between the two plates. You may neglect any dielectric\neﬀects of the medium.\n\na. For large V0, the velocity of the positive charges is determined by a strong drag force, so that\n\n                                          v = µE\n\n   where E is the local electric ﬁeld and µ is the charge mobility.\n\n      i. In the steady state, there is a nonzero but time-independent density of charges between the\n     two plates. Let the charge density at position x be ρ(x). Use charge conservation to ﬁnd a\n      relationship between ρ(x), v(x), and their derivatives.\n\n     ii. Let V (x) be the electric potential at x. Derive an expression relating ρ(x), V (x), and their\n      derivatives. (Hint: start by using Gauss’s law to relate the charge density ρ(x) to the deriva-\n       tive of the electric ﬁeld E(x).)\n\n    iii. Suppose that in the steady state, conditions have been established so that V (x) is proportional\n      to xb, where b is an exponent you must ﬁnd, and the current is nonzero. Derive an expression\n       for the current in terms of V0 and the other given parameters.\n\nb. For small V0, the positive charges move by diﬀusion. The current due to diﬀusion is given by\n   Fick’s Law,\n                                          dρ\n                                            I = −AD     .\n                                          dx\n\n   Here, D is the diﬀusion constant, which you can assume to be described by the Einstein relation\n\n                                     µkBT\n                        D =           ,\n                                                   q\n\n   where T is the temperature of the system.\n\n      i. Assume that in the steady state, conditions have been established so that a nonzero, steady\n      current ﬂows, and the electric potential again satisﬁes V (x) ∝xb′, where b′ is another expo-\n      nent you must ﬁnd. Derive an expression for the current in terms of V0 and the other given\n      parameters.\n\n     ii. At roughly what voltage V0 does the system transition from this regime to the high voltage\n      regime of the previous part?\n\n2019 USAPhO                            Part B                                       7\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\n If there is still time remaining for Part A, you should review your work for\n   Part A, but do not continue to Part B until instructed by your exam\n                                 supervisor.\n\n\n\n\n\n     Once you start Part B, you will not be able to return to Part A.\n\n2019 USAPhO Part B\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2019-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2019-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2019-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2019-usapho-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2019-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical charge",
+   "problem_type": "判断电荷相互作用与充放电",
+   "search_text": "Question B1\n\nStrain in the Membrane2\n\n                                          outer surface\n\n                                          +\n\n                                                     ϵ                  d\n\n                                          −\n                                           inner surface\n\n\nThe wall of a neuron is made from an elastic membrane, which resists compression in the same way\nas a spring. It has an eﬀective spring constant k and an equilibrium thickness d0. Assume that the\nmembrane has a very large area A and negligible curvature.\n   The neuron has “ion pumps” that can move ions across the membrane. In the resulting charged\nstate, positive and negative ionic charge is arranged uniformly along the outer and inner surfaces\nof the membrane, respectively. The permittivity of the membrane is ϵ.\n\na. Suppose that, after some amount of work is done by the ion pumps, the charges on the outer\n  and inner surfaces are Q and −Q, respectively. What is the thickness d of the membrane?\n\nb. Derive an expression for the voltage diﬀerence V between the outer and inner surfaces of the\n  membrane in terms of Q and the other parameters given.\n\nc. Suppose that the ion pumps are ﬁrst turned on in the uncharged state, and the membrane is\n   charged very slowly (quasistatically). The pumps will only turn oﬀwhen the voltage diﬀerence\n   across the membrane becomes larger than a particular value Vth. How large must the spring\n   constant k be so that the ion pumps turn oﬀbefore the membrane collapses?\n\nd. How much work is done by the ion pumps in each of the following situations? Express your\n   answers in terms of k and d0.\n\n         i. k is inﬁnitesimally larger than the value derived in part (c).\n\n        ii. k is inﬁnitesimally smaller than the value derived in part (c).\n\n  Assume in each case that the membrane thickness d cannot become negative.\n\n\n\n\n\n   2This question inspired by Partenskii and Jordan, Physical Review E 80, 011112 (2009).\n\n2019 USAPhO Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2019-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2019-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2019-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2019-usapho-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2019-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Space physics",
+   "knowledge_point": "Earth and the Solar System",
+   "problem_type": "从天体运动和轨道条件解释现象",
+   "search_text": "Question B2\n\nStellar Black Box\n\nScientists have recently detected a new star, the MAR-Kappa. The star is almost a perfect black-\nbody, and its measured light spectrum is shown below.\n\n                         ×10−15\n                           1.2\n\n                                                          units]   1\n                           0.8\n\n\n                           0.6                                                                                                 [arbitrary\n\n                           0.4\n                                                                                       Intensity  0.2\n\n\n                        0\n                          0     100    200    300    400    500    600    700    800\n                                               Wavelength [nm]\n\nThe total measured light intensity from MAR-Kappa is I = 1.12 × 10−8 W/m2.  The mass of\nMAR-Kappa is estimated to be 3.5 × 1030 kg.  It is stationary relative to the sun. You may ﬁnd\nthe Stefan-Boltzmann law useful, which states the power emitted by a blackbody with area A is\nσAT 4.\n\na. The spectrum of wavelengths λ emitted from a blackbody only depends on h, c, kB, λ, and T.\n   Given that the sun has a surface temperature of 5778 K and peak emission at 500 nm, what is\n   the approximate surface temperature of MAR-Kappa?\n\nb. The “lines” in the spectrum result from atoms in the star absorbing speciﬁc wavelengths of the\n   emitted light. One contribution to the width of the spectral lines is the Doppler shift associated\n   with the thermal motion of the atoms in the star. The spectral line at λ = 389 nm is due to\n   helium. Estimate to within an order of magnitude the thermal broadening ∆λ of this line. The\n   mass of a helium atom is 6.65 × 10−27 kg.\n\nc. Over the course of a year, MAR-Kappa appears to oscillate between two positions in the back-\n   ground night sky, which are an angular distance of 1.6 × 10−6 rad apart. How far away is\n  MAR-Kappa? Assume that MAR-Kappa lies in the same plane as the Earth’s orbit, which is\n   circular with radius 1.5 × 1011 m.\n\nd. What is the radius of MAR-Kappa?\n\nOver the course of some time, you observe that the star’s intensity periodically dips from I to\n(1 −10−5)I and then rises back to I, with period t. One possible explanation for this observation\nis that an exoplanet is orbiting the star and blocking the starlight for some time.\n\ne. Estimate the exoplanet’s radius, assuming that it is much closer to the star than to the Earth.\n\n f. Assume the exoplanet is a blackbody with uniform temperature in a circular orbit around the\n   star. What must t be so that the planet has a temperature of 250 K? (If this were true, and the\n   planet had an appropriate atmosphere, the temperature would increase enough to support life.)\n\n2019 USAPhO\nPart B\n10\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2019-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2019-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2019-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2019-usapho-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2019-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question B3\n\nPitfall\n\nA bead is placed on a horizontal rail, along which it can slide frictionlessly. It is attached to the\nend of a rigid, massless rod of length R. A ball is attached at the other end. Both the bead and\nthe ball have mass M. The system is initially stationary, with the ball directly above the bead.\nThe ball is then given an inﬁnitesimal push, parallel to the rail.\n\n                         M\n\n                                                θ\n\n\n\n                               R\n\n\n\n                     M\n\n\n   Assume that the rod and ball are designed in such a way (not shown explicitly in the diagram)\nso that they can pass through the rail without hitting it. In other words, the rail only constrains\nthe motion of the bead. Two subsequent states of the system are shown below.\n\n                                θ = π                                           2\n                                                              θ = π\n\n\n\n\n\na. Derive an expression for the force in the rod when it is horizontal, as shown at left above, and\n   indicate whether it is tension or compression.\n\nb. Derive an expression for the force in the rod when the ball is directly below the bead, as shown\n   at right above, and indicate whether it is tension or compression.\n\nc. Let θ be the angle the rod makes with the vertical, so that the rod begins at θ = 0. Find the\n   angular velocity ω = dθ/dt as a function of θ.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2019-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2019-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2019-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2019-usapho-question-paper__q06.md"
+  }
+ ]
+}

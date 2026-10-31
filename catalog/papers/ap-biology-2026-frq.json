@@ -1,0 +1,290 @@
+{
+ "group": "ap-biology-2026-frq",
+ "course_id": "AP-BIOLOGY",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-biology-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2026-frq__q01",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理变量、观察、数据和实验误差",
+   "search_text": "The following information applies to all parts.\n\n1. Molecules known as dinucleoside polyphosphates, a type of nucleotide, are signaling molecules\n  that accumulate in plant cells during dry or stressful conditions.\n\n  Part A\n  Describe the three structural components of a nucleotide.\n\n  The following information applies to parts B, C, and D.\n  Stomata are pores on the surface of leaves that open when exposed to light and regulate the\n  flow of carbon dioxide, oxygen, and water vapor in and out of a plant. In response to dry\n  environmental conditions, many plants close their stomata, which reduces water loss.\n   Scientists hypothesized that the dinucleoside polyphosphates Ap 4 A and Cp 4 C bind to DORN1\n  receptors on the plasma membrane of plant cells and initiate signaling cascades that cause\n  stomata to close. The scientists exposed plants to light to open the stomata and then placed\n  samples of the leaves in buffer alone or in buffer containing one of three different compounds:\n  Ap 4 A , Cp 4 C , or abscisic acid (ABA), a molecule that causes stomata to close.\n  The scientists measured the size of the stomata in each sample and calculated their sizes\n  relative to the size of the stomata in the sample kept in buffer alone, as shown in Figure 1.\n\n            Figure 1. Effect of Ap 4 A , Cp 4 C , and ABA on Relative Stomatal Size\n                             (Error Bars Represent ! SEx )\n\nPart B\n\n        i. Identify the dependent variable in the scientists’ first experiment.\n       ii. Based on Figure 1, describe the relative size of the stomata in the Cp 4 C treatment group\n      as compared with the size of the stomata in the group treated with buffer alone.\n     iii. Justify the use of buffer alone as a control in the scientists’ experiments.\n\nPart C\nIn a second experiment, the scientists used plants that were identical to those in the first\nexperiment except that the gene encoding the DORN1 receptor was mutated. The scientists\nrepeated the procedure of the first experiment. Their results are shown in Figure 2.\n\n Figure 2. Effect of Ap 4 A , Cp 4 C , and ABA on Relative Stomatal Size in DORN1 Mutants\n                           (Error Bars Represent ! SEx )\n\n\n\n\n\n        i. Justify the scientists’ treating one sample of leaves with ABA in the experiments.\n       ii. Based on Figure 2, describe the difference between the effects of Ap 4 A and Cp 4 C\n      treatments on the size of stomata in plants with mutated DORN1 receptors.\n     iii. Activation of DORN1 receptors induces plant cells to produce certain molecules that\n      cause the stomata to close. Based on the data in Figures 1 and 2 for cells treated with\n     Ap 4 A , predict the relative production of the molecules by DORN1-mutated cells in\n      comparison to the production by nonmutated cells.\n\nPart D\nThe DORN1 receptor transmits signals that result in an increase in the transcription of genes\ninvolved in plant defenses. The scientists then developed DORN1-mutant plants in which the\nDORN1 receptor lacked most of its intracellular domain.\n        i. In cells homozygous for this mutation, predict the effect of Ap 4 A treatment on\n       transcription of the genes involved in plant defenses relative to the effect of Ap 4 A on\n      nonmutated cells.\n       ii. Justify your prediction.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Biology ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2026-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2026-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-biology-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2026-frq__q02",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "2",
+   "chapter": "Inheritance",
+   "knowledge_point": "Inheritance, DNA and cell division",
+   "problem_type": "从遗传条件判断基因型或表型",
+   "search_text": "The following information applies to all parts.\n\n\n2. Eukaryotic cells use small interfering RNA (siRNA) molecules that regulate the expression of\n  certain genes by binding to complementary sequences in target mRNAs. This binding causes\n  the protein AGO2 to cleave the target mRNAs. As a result of the cleavage, the mRNAs are not\n  translated.\n\n  Part A\n  Describe one location where ribosomes are found in eukaryotic cells.\n\n  The following information applies to parts B, C, and D.\n  To investigate the role of AGO2 in the cleavage of mRNA transcribed from two genes, Gene G\n  and Gene H, scientists determined the amount of Gene G and Gene H mRNA produced in cells\n  with three different AGO2 genotypes:\n        •  Homozygous for the wild-type AGO2 protein (AGO2 +/+)\n        •  Heterozygous for the allele encoding a nonfunctional AGO2 protein (AGO2 +/-)\n        •  Homozygous for the allele encoding a nonfunctional AGO2 protein (AGO2 -/-)\n  The scientists then calculated the amount of Gene G and Gene H mRNA produced from cells of\n  each genotype relative to that in AGO2 +/+ cells. These results are shown in the table.\n\n    Relative Average Amounts of Gene G and Gene H mRNA in Cells with Different AGO2\n                                   Genotypes\n\n           mRNA in AGO2 +/+    mRNA in AGO2 +/-    mRNA in AGO2 -/-\n                        Cells ! SEx               Cells ! SEx               Cells ! SEx\n       Gene                         1.0 ! 0.1                 0.9 ! 0.4              1.5 ! 0.5\n      G\n\n       Gene                     1.0 ! 0.1               2.0 ! 0.1              3.0 ! 0 .4\n     H\n\n  Part B\n\n            i. Using the template in the space provided for your response, construct a bar graph that\n         represents the data in the table. Your graph should be appropriately plotted and labeled.\n          ii. Based on the table, determine all the cells in which the amount of Gene G mRNA\n        produced is statistically the same as the amount in the cells with the AGO2 +/+ genotype.\n\n  Part C\n\n            i. Based on the table, describe the relationship between the number of wild-type copies of\n         the AGO2 gene and the amount of Gene H mRNA in the cells.\n          ii. Based on the data in the table for Gene H, calculate the percent by which the average\n       amount of mRNA in AGO2 -/- cells increases compared with that in AGO2 +/- cells.\n\nPart D\n\n        i. The scientists claim that siRNA binding and AGO2 cleavage of mRNAs play a greater\n       role in the regulation of Gene H expression than in the regulation of Gene G expression.\n      Based on the table, support the scientists’ claim.\n       ii. Anaphase I of meiosis is blocked in mice with the AGO2 -/- genotype. Scientists\n      hypothesize that the block in meiosis occurs because the continued presence of a spindle-\n       fiber stabilizing protein prevents the chromosomes from separating. Based on the table,\n      explain how the AGO2 -/- genotype could cause this effect on the dividing cells.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Biology ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2026-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2026-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-biology-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2026-frq__q03",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "3",
+   "chapter": "Organisation of the organism",
+   "knowledge_point": "Cells, tissues and organs",
+   "problem_type": "辨认结构并解释功能",
+   "search_text": "The following information applies to all parts.\n\n\n3. Cyanide is a chemical that affects the enzyme cytochrome c oxidase (CCO), a key enzyme in the\n  mitochondrial electron transport chain. At high cyanide concentrations, CCO activity is much\n  lower than when no cyanide is present. At low concentrations of cyanide, CCO activity is slightly\n  higher than when no cyanide is present, as shown in Table 1.\n\n                      Table 1. Effects of Cyanide on CCO Activity\n\n       No Cyanide           Low Cyanide                High Cyanide\n\n     Normal CCO activity   Slightly increases CCO activity  Greatly decreases CCO activity\n\n  Some strains of bacteria produce cyanide, which they then release into their environment.\n  Other strains of bacteria do not produce cyanide. Researchers grew both types of bacteria in\n  high-concentration nutrient medium and then isolated the medium from the bacteria. One-half\n  of each medium sample was left at a high concentration, while the concentration of the other\n  half was lowered.\n  To study the effects of cyanide on mammalian cells, researchers then added the four samples of\n  media to the cells growing in culture dishes, as shown in Table 2. They measured ATP and lactic\n  acid production by the mammalian cells in each of the four treatment groups.\n\n       Table 2. Experimental Design to Test Effects of Cyanide on Mammalian Cells\n\n      Mammalian Cell Treatment      Cyanide in Nutrient        Concentration of\n              Group                 Medium?             Medium\n\n                  1                          Yes                    High\n\n                  2                          Yes                Low\n\n                  3                    No                    High\n\n                  4                    No                 Low\n\n  Part A\n  Describe the advantage to cells of producing ATP from one molecule of glucose by aerobic\n  cellular respiration rather than by glycolysis alone.\n\n  Part B\n  Identify the two treatment groups that served as controls in the researchers’ experiment.\n\n  Part C\n  Based on the information provided in both tables, predict the treatment group that is likely to\n  have the highest ATP production of all four treatment groups.\n\nPart D\nThe researchers claim that cells in which CCO activity is inhibited will show an increase in lactic\nacid production. Support the researchers’ claim.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Biology ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2026-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2026-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-biology-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2026-frq__q04",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "4",
+   "chapter": "Inheritance",
+   "knowledge_point": "Inheritance, DNA and cell division",
+   "problem_type": "从遗传条件判断基因型或表型",
+   "search_text": "The following information applies to all parts.\n\n\n4. The process of meiosis enables animals that reproduce sexually to produce gametes.\n\n  Part A\n  Describe one characteristic of chromosome movement during Meiosis I.\n\n  Part B\n  Explain why chromosomes are more visible when viewed under a microscope during mitosis\n  or meiosis than at any other time in the cell cycle.\n\n  Part C\n  An animal cell with two pairs of homologous chromosomes (a diploid number of four) has\n  undergone meiosis to produce four gametes, and an error occurred at one step, as shown in the\n   figure. One set of chromosomes is represented in white, and the other set is represented in gray.\n\n                    An Animal Cell Undergoing Meiosis\n\n\n\n\n\n  Assume that each gamete produced by the cell shown in the figure is fertilized by a gamete with\n  a complete haploid set of chromosomes. Also assume gene regulation on Chromosome 1 is not\n  affected by the number of copies of Chromosome 1 in the four resulting viable zygotes. Predict\n  the difference in mRNA production from genes on Chromosome 1 among the four possible\n  zygotes.\n\nPart D\nTriploidy describes a condition in which an organism has three complete sets of chromosomes\nin each cell. Provide reasoning to justify the claim that most organisms with triploidy cannot\nproduce gametes with the chromosome number typical of the species.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Biology ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2026-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2026-frq__q04.md"
+  },
+  {
+   "paper_id": "ap-biology-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2026-frq__q05",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "5",
+   "chapter": "Variation and selection",
+   "knowledge_point": "Variation and natural selection",
+   "problem_type": "解释变异、选择与适应",
+   "search_text": "The following information applies to all parts.\n\n\n5. Anole lizards throughout the Caribbean islands and Central and South America have pads\n  of varying sizes on the bottom surfaces of their toes. The sizes of the toe pads are genetically\n  determined and not the result of phenotypic plasticity. During storms with high winds, anoles\n  cling to trees with the help of their toe pads. In recent years, an increase in both the number\n  and intensity of storms has occurred across the range of anole habitats.\n  In 2017, two very intense storms occurred in the Caribbean islands within a month. In 2019,\n   scientists investigated the relationship between the intense storms and the average toe\n  pad size of the offspring of lizards that survived the storms. The scientists determined the\n  average toe pad size of the surviving offspring and grouped their measurements into three\n  categories: small, medium, and large toe pads. The scientists then compared the 2019 toe pad\n  measurements with measurements recorded prior to 2017. Their data are represented in the\n   figure.\n\n       A Map Representing Toe Pad Size Distributions Prior to 2017 and in 2019\n\n\n\n\n\n  Part A\n  Describe the role that changes in abiotic factors have in natural selection.\n\n  Part B\n  Based on the figure, explain the relationship between storm intensity and average toe pad size.\n\nPart C\nIdentify the region on the 2019 map, by indicating the number, that experienced the least storm\nintensity.\n\nPart D\nBased on the information provided, explain how continued differences in storm intensity\ncan apply different selective pressures on anole populations living on the Caribbean islands,\neventually leading to speciation.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Biology ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2026-frq__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2026-frq__q05.md"
+  },
+  {
+   "paper_id": "ap-biology-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2026-frq__q06",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "6",
+   "chapter": "Organisms and their environment",
+   "knowledge_point": "Ecology and energy flow",
+   "problem_type": "用食物关系、能量流或种群数据推理",
+   "search_text": "The following information applies to all parts.\n\n\n6. Many raptors in Africa are top predators and keystone species in their ecosystems. Raptor\n  population sizes have been declining in recent years.\n   Scientists studied the relationship between the conversion of the raptors’ natural habitat into\n  farmland and the population sizes of raptors in those regions. They compiled raptor population\n  size data from three different regions of Africa: Region 1, Region 2, and Region 3. In each of\n  the regions, the scientists compared the annual percent change in the raptor population size in\n  areas that were protected from farming (protected) with the annual percent change in areas\n  where farming occurred (unprotected). Their results are shown in the box and whisker plot.\n   type of bird\n\n    Median Annual Percent Change in the Population Size of Raptors in Protected and\n                                Unprotected Areas\n\nPart A\nBased on the box and whisker plot, identify the median annual percent change in population\nsize in the unprotected area of Region 2.\n\nPart B\nBased on the box and whisker plot, identify the region and area that experienced the greatest\nmedian annual percent change in population size.\n\nPart C\nResearchers hypothesize that if farming is eliminated in Region 2, there will no longer be a\ndecline in the raptor population size. Based on the data in the box and whisker plot, evaluate\nthe researchers’ hypothesis.\n\nPart D\nBased on the information provided, explain why ecosystem resilience in unprotected areas\nmay decline over time.\n\n\n\n                             STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Biology ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2026-frq__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2026-frq__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2026-frq__q06.md"
+  }
+ ]
+}

@@ -1,0 +1,1374 @@
+{
+ "group": "bbo-2024-papers-1-and-2-question-paper--part02",
+ "course_id": "BBO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 34,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q22__part-6f",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "22",
+   "chapter": "Diseases and immunity",
+   "knowledge_point": "产后母乳",
+   "problem_type": "区分胎盘循环抗体与哺乳途径对患儿溶血风险",
+   "search_text": "Human blood contains red blood cells, plasma (a fluid rich in antibodies),\nand platelets. Platelets are membrane-bound fragments that bud off\nspecialized cells and help blood clotting.All human cells express A, B or O\nantigens on their surface, each from an allele of the ABO gene. The O\nantigen can be thought of as being absent.For blood donations, red blood\ncells can be highly purified, then donated. Platelets cannot be highly purified\nand are usually donated within a significant amount of donor plasma. If\nantibodies bind to either donor or recipient red blood cells, they are attacked\nand the byproducts rapidly kill the recipient. If antibodies bind to platelets,\nnot very much happens but the platelets might not last quite as long.\nBy Whoisjohngalt - Own work, CC BY-SA 4.0,\nhttps://commons.wikimedia.org/w/index.php?curid=93709314\n\nAll human cells can also express immune-triggering rhesus (Rh+) antigens\non their surface, or express less immunogenic rhesus antigens (Rh-).People\nbecome rhesus intolerant if they are exposed to miss-matched material.\n\nFoetal blood cells may leak into the blood stream of a pregnant mother. All\nmothers pass their circulating antibodies to the developing foetus through\ntheir placenta.What situations increase the chance of the baby being harmed\nby blood group incompatibility with the mother?\nNewborn with severe rhesus disease. By Benkerroum Zineb, Lachiri Boutaina,\nLazrak Ikram, Moussaoui Rahali Driss, Dehayni Mohammed -\nhttps://panafrican-med-journal.com/content/article/22/137/full/, CC BY 4.0,\nhttps://commons.wikimedia.org/w/index.php?curid=132866773\nGroups\nMore likely baby is harmed\nLess likely baby is harmed\nPut into the groups above\n\nA newborn very sick due to blood-group incompatibility is breast fed by\nits mother.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q22__part-6f"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q22__part-6f/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q22__part-6f/question.pdf",
+     "bytes": 2601128,
+     "sha256": "a372a285c7050aede27206c4c290f657b85c1256ffe0cec71128f7870aa5ac86",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q22__part-6f.md"
+  },
+  {
+   "paper_id": "bbo-2024-papers-1-and-2-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "Papers 1 and 2",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q23",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "8",
+   "chapter": "Excretion in humans",
+   "knowledge_point": "示踪物稀释、肾血浆流量与滤过率",
+   "problem_type": "由保留/完全清除/仅滤过示踪物曲线建立指数清除模型",
+   "search_text": "Question 8\n\nPart 1 of 6\n* Inulin is a soluble inert (non-reactive, non-toxic) 4 kDa (small) polymer. *\nDextran is a soluble inert 500 kDa (very large) polymer. Both are handled by\nthe kidney as you would expect for **non**-actively transported molecules of\ntheir size.Para-aminohippurate (PAH) is unusual because it is completely\nremoved from plasma as it moves past a nephron (i.e. it is actively\ntransported into the urine).All molecules were tagged with different colour\nfluorescent dyes and intravenously injected into pigs. The injection was a\none-off and contained 0.75 millimoles of each molecule.Plasma\nconcentration of each molecule over time was then measured with a\nfibreoptic fluorescence imager inserted into a blood vessel.\n\n\n\n\n\nPart 2 of 6\nThe equation for exponential decay is* A = A₀e⁻ᵏᵀWhich can be rearranged as*\nK = ln(A₀/A)/TWhere* A = the amount remaining* A₀ = the initial amount* k is\nthe chance that each molecule is lost per unit time (i.e. proportion of blood\nfiltered per minute).* T = timeNote: ln(2) ∼0.693\n\nPart 3 of 6\nCalculate the plasma volume of the pig. Give your answer in litres to one\ndecimal place.*It doesn't matter if you type the unit, L, or not*.\n\n3 marks\nWrite something below\n___________________\n\nPart 4 of 6\n\n\n\nBBO 2024                 UKBiologyCompetitions.org\n\n**For subsequent parts, take the plasma volume of the pig to be 10 litres.**\n\nPart 5 of 6\nCalculate the renal plasma flow of the pig (how much plasma flow the\nkidneys receive).Give your answer in l/min to tone decimal place.*It doesn't\nmatter if you type the unit, l/min, or not*.\n\n2 marks\nWrite something below\n___________________\n\nPart 6 of 6\nCalculate the glomerular filtration rate of the pig (how much plasma the\nBowman's capsule excretes before any reabsorption).Give your answer in\nl/min to two decimal places.*It doesn't matter if you type the unit, l/min, or\nnot*.\n\n3 marks\nWrite something below\n___________________\n\n\n\n\n\nBBO 2024                 UKBiologyCompetitions.org\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-002.zip",
+     "member": "question-corpus/questions/bbo-2024-papers-1-and-2-question-paper__q23/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bbo-2024-papers-1-and-2-question-paper__q23/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q23__part-3",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "23",
+   "chapter": "Excretion in humans",
+   "knowledge_point": "大分子示踪稀释",
+   "problem_type": "选不被滤过的dextran初始平台用0.75mmol反推血浆体积",
+   "search_text": "* Inulin is a soluble inert (non-reactive, non-toxic) 4 kDa (small) polymer. *\nDextran is a soluble inert 500 kDa (very large) polymer. Both are handled by\nthe kidney as you would expect for **non**-actively transported molecules of\ntheir size.Para-aminohippurate (PAH) is unusual because it is completely\nremoved from plasma as it moves past a nephron (i.e. it is actively\ntransported into the urine).All molecules were tagged with different colour\nfluorescent dyes and intravenously injected into pigs. The injection was a\none-off and contained 0.75 millimoles of each molecule.Plasma\nconcentration of each molecule over time was then measured with a\nfibreoptic fluorescence imager inserted into a blood vessel.\n\nThe equation for exponential decay is* A = A₀e⁻ᵏᵀWhich can be rearranged as*\nK = ln(A₀/A)/TWhere* A = the amount remaining* A₀ = the initial amount* k is\nthe chance that each molecule is lost per unit time (i.e. proportion of blood\nfiltered per minute).* T = timeNote: ln(2) ∼0.693\n\nCalculate the plasma volume of the pig. Give your answer in litres to one\ndecimal place.*It doesn't matter if you type the unit, L, or not*.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q23__part-3"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q23__part-3/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q23__part-3/question.pdf",
+     "bytes": 341843,
+     "sha256": "ddca6c1884d6de7603b19807c56e31fa87c31f08f9c054d7f7cb6d8c53ecba6e",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q23__part-3.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q23__part-5",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "23",
+   "chapter": "Excretion in humans",
+   "knowledge_point": "PAH全清除指数",
+   "problem_type": "由34.7分钟半衰和给定10L求清除率再换肾血浆流量",
+   "search_text": "* Inulin is a soluble inert (non-reactive, non-toxic) 4 kDa (small) polymer. *\nDextran is a soluble inert 500 kDa (very large) polymer. Both are handled by\nthe kidney as you would expect for **non**-actively transported molecules of\ntheir size.Para-aminohippurate (PAH) is unusual because it is completely\nremoved from plasma as it moves past a nephron (i.e. it is actively\ntransported into the urine).All molecules were tagged with different colour\nfluorescent dyes and intravenously injected into pigs. The injection was a\none-off and contained 0.75 millimoles of each molecule.Plasma\nconcentration of each molecule over time was then measured with a\nfibreoptic fluorescence imager inserted into a blood vessel.\n\nThe equation for exponential decay is* A = A₀e⁻ᵏᵀWhich can be rearranged as*\nK = ln(A₀/A)/TWhere* A = the amount remaining* A₀ = the initial amount* k is\nthe chance that each molecule is lost per unit time (i.e. proportion of blood\nfiltered per minute).* T = timeNote: ln(2) ∼0.693\n\n**For subsequent parts, take the plasma volume of the pig to be 10 litres.**\n\nCalculate the renal plasma flow of the pig (how much plasma flow the\nkidneys receive).Give your answer in l/min to tone decimal place.*It doesn't\nmatter if you type the unit, l/min, or not*.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q23__part-5"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q23__part-5/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q23__part-5/question.pdf",
+     "bytes": 349326,
+     "sha256": "d77c8822f76b9812969bbb7599ab9df4b144a849f3276a9c8d2975a35270198d",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q23__part-5.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q23__part-6",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "23",
+   "chapter": "Excretion in humans",
+   "knowledge_point": "菊粉滤过清除",
+   "problem_type": "由231分钟半衰及10L求肾小球滤过率",
+   "search_text": "* Inulin is a soluble inert (non-reactive, non-toxic) 4 kDa (small) polymer. *\nDextran is a soluble inert 500 kDa (very large) polymer. Both are handled by\nthe kidney as you would expect for **non**-actively transported molecules of\ntheir size.Para-aminohippurate (PAH) is unusual because it is completely\nremoved from plasma as it moves past a nephron (i.e. it is actively\ntransported into the urine).All molecules were tagged with different colour\nfluorescent dyes and intravenously injected into pigs. The injection was a\none-off and contained 0.75 millimoles of each molecule.Plasma\nconcentration of each molecule over time was then measured with a\nfibreoptic fluorescence imager inserted into a blood vessel.\n\nThe equation for exponential decay is* A = A₀e⁻ᵏᵀWhich can be rearranged as*\nK = ln(A₀/A)/TWhere* A = the amount remaining* A₀ = the initial amount* k is\nthe chance that each molecule is lost per unit time (i.e. proportion of blood\nfiltered per minute).* T = timeNote: ln(2) ∼0.693\n\n**For subsequent parts, take the plasma volume of the pig to be 10 litres.**\n\nCalculate the glomerular filtration rate of the pig (how much plasma the\nBowman's capsule excretes before any reabsorption).Give your answer in\nl/min to two decimal places.*It doesn't matter if you type the unit, l/min, or\nnot*.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q23__part-6"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q23__part-6/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q23__part-6/question.pdf",
+     "bytes": 349324,
+     "sha256": "248b3f33f0cc98dbd695c14a3c843043b2cd3928d2e39e70885a05f664ca71a2",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q23__part-6.md"
+  },
+  {
+   "paper_id": "bbo-2024-papers-1-and-2-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "Papers 1 and 2",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q24",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "9",
+   "chapter": "Inheritance",
+   "knowledge_point": "编码容量、蛋白质量及碱基配对",
+   "problem_type": "进行基因组估算并将六碱基系统迁移到密码长度及稳定性",
+   "search_text": "Question 9\n\nPart 1 of 3\n* Humans have about 20,000 protein-coding genes.* Assume the average\n(mean) human protein weighs 50 kDa.* The average amino acid weighs 110\nDa.Use this information to estimate the total length, in base pairs, of coding\nsequence in the human genome.*Give your answer to the nearest million\nbase-pairs. (It does not matter if you type the unit, 'Mbp' million base pairs\nor not).*\n\n4 marks\nWrite something below\n___________________\n\nPart 2 of 3\nAn alien plant has 100 million base pairs of protein-coding sequence in its\ngenome.The alien uses 20 different amino acids (like us) but has 3 different\nDNA base pairs (A/T, G/C and X/Y).Calculate the maximum total length of\nprotein sequence (in amino acids) this alien could encode.*Give your answer\nto the nearest million amino acids. (It does not matter if you type the unit,\n'million amino acids', or not).*\n\n3 marks\nWrite something below\n___________________\n\nPart 3 of 3\nThe chemical structure of an X/Y base pair is shown.Which DNA sequence\nhas the highest melting temperature?\n\n\n\n\n\nBBO 2024                 UKBiologyCompetitions.org\n\n2 marks\nChoose ONE\na) ATTATAAAATAAT\n\nb) GCGCGCCCCGGCG\n\nc) GCGG\n\nd) ATGCYGAYTCTX\n\ne) XYXYYXYXXYXXY\n\n\n\n\n\nBBO 2024                 UKBiologyCompetitions.org\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-002.zip",
+     "member": "question-corpus/questions/bbo-2024-papers-1-and-2-question-paper__q24/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bbo-2024-papers-1-and-2-question-paper__q24/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q24__part-1",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "24",
+   "chapter": "Inheritance",
+   "knowledge_point": "蛋白平均质量到编码总长",
+   "problem_type": "用50kDa/110Da、每氨基酸三碱基和2万基因估Mbp",
+   "search_text": "* Humans have about 20,000 protein-coding genes.* Assume the average\n(mean) human protein weighs 50 kDa.* The average amino acid weighs 110\nDa.Use this information to estimate the total length, in base pairs, of coding\nsequence in the human genome.*Give your answer to the nearest million\nbase-pairs. (It does not matter if you type the unit, 'Mbp' million base pairs\nor not).*",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q24__part-1"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q24__part-1/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q24__part-1/question.pdf",
+     "bytes": 62660,
+     "sha256": "4514159d8e7a1beaf2b076133303a375917234af3bddab46df86281fda88030d",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q24__part-1.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q24__part-2",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "24",
+   "chapter": "Inheritance",
+   "knowledge_point": "六碱基密码容量",
+   "problem_type": "找足编码20种氨基酸的最短码长并换算100Mbp蛋白长度",
+   "search_text": "An alien plant has 100 million base pairs of protein-coding sequence in its\ngenome.The alien uses 20 different amino acids (like us) but has 3 different\nDNA base pairs (A/T, G/C and X/Y).Calculate the maximum total length of\nprotein sequence (in amino acids) this alien could encode.*Give your answer\nto the nearest million amino acids. (It does not matter if you type the unit,\n'million amino acids', or not).*",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q24__part-2"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q24__part-2/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q24__part-2/question.pdf",
+     "bytes": 62657,
+     "sha256": "089968b3ef45f3ab61baa0e9a3836187a5313be575ba8dd97c8dac53d42ac65a",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q24__part-2.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q24__part-3",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "24",
+   "chapter": "Biological molecules",
+   "knowledge_point": "人工碱基配对熔解",
+   "problem_type": "数X/Y氢键并结合序列长及配对性质比较Tm",
+   "search_text": "The chemical structure of an X/Y base pair is shown.Which DNA sequence\nhas the highest melting temperature?\n\nChoose ONE\na) ATTATAAAATAAT\nb) GCGCGCCCCGGCG\nc) GCGG\nd) ATGCYGAYTCTX\ne) XYXYYXYXXYXXY",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q24__part-3"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q24__part-3/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q24__part-3/question.pdf",
+     "bytes": 264895,
+     "sha256": "20da7d996afa4b66836d981f88b5b848342e41479bfe32d1fb235308359d4c26",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q24__part-3.md"
+  },
+  {
+   "paper_id": "bbo-2024-papers-1-and-2-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "Papers 1 and 2",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "10",
+   "chapter": "Biotechnology and genetic modification",
+   "knowledge_point": "微生物还原酶发现、比较基因组及人群证据",
+   "problem_type": "从反应化学、培养控制和系统树推进到候选功能验证",
+   "search_text": "Question 10\n\nPart 1 of 8\nWhen dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\n\n\n\n\n\nThe conversion of bilirubin to urobilinogen\n\nPart 2 of 8\nWhat features does the unknown enzyme have?\n\n3 marks\nMark the following as TRUE or FALSE\na) Catalyses a reduction reaction.\n\n TRUE  FALSE\nb) Probably uses ATP.\n\n TRUE  FALSE\nc) Probably uses NADH or FADH/FADH₂.\n\n TRUE  FALSE\nd) Catalyses a condensation reaction.\n\n TRUE  FALSE\n\nPart 3 of 8\nScientists showed **only** gut bacteria produce the unknown enzyme.How\ncould this be proved?\n\n3 marks\nChoose ONE\na) Bacteria grown in the lab are able to convert bilirubin to urobilinogen.\n\n\nBBO 2024                 UKBiologyCompetitions.org\n\nb) Bioinformatic analyses show gut bacteria have genes which look like\nthose that could convert bilirubin to urobilinogen.\n\nc) Rats grown in sterile conditions with their entire gut microbiome killed\nare unable to convert bilirubin to urobilinogen.\n\nd) Bioinformatic analyses show humans do **not** have genes which look\nlike those that could convert bilirubin to urobilinogen.\n\ne) Urobilinogen is useful for bacteria to use in some of their reactions.\n\nPart 4 of 8\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\n\n\n\nBBO 2024                 UKBiologyCompetitions.org\n\nPart 5 of 8\nFor the interpretations of the assay results to be reliable...\n\n2 marks\nMark the following as TRUE or FALSE\na) *Clostridioides difficile CD3*, which is known to convert bilirubin to\nurobilinogen, gave the expected results.\n\n TRUE  FALSE\n\n\n\n\nBBO 2024                 UKBiologyCompetitions.org\n\nb) All of the bacteria must also be grown in the absence of bilirubin and not\nproduce fluorescence.\n\n TRUE  FALSE\nc) There must be equal numbers of bacteria on all of the plates.\n\n TRUE  FALSE\nd) The sensitivity of the fluorescence camera should be determined by\nplating dilutions of *Clostridioides difficile CD3*\n\n TRUE  FALSE\n\nPart 6 of 8\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\n\n\n\n\n\n4 marks\nMark the following as TRUE or FALSE\na) The gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\n\n TRUE  FALSE\nb) The gene for the unknown enzyme probably evolved multiple times.\n\n TRUE  FALSE\nc) The gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\n\n TRUE  FALSE\n\n\n\nBBO 2024                 UKBiologyCompetitions.org\n\nd) The gene for the unknown enzyme probably has an identical sequence in\nall of the species.\n\n TRUE  FALSE\ne) This phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\n\n TRUE  FALSE\nf) To confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\n\n TRUE  FALSE\n\nPart 7 of 8\nAfter identifying the unknown gene, scientists found that, like most bacterial\ngenes, it was an 'operon' which encoded 3 different enzymes.How can they\nfind which enzyme is responsible for converting bilirubin to urobilinogen?\n\n3 marks\nMark the following as TRUE or FALSE\na) Look for the amino acid sequence most similar to *The Old Yellow\nEnzyme* family (which is known to carry out a similar class of reaction).\n\n TRUE  FALSE\nb) Use artificial intelligence (AlphaFold) to model the tertiary structure of the\nenzyme and how bilirubin could bind.\n\n TRUE  FALSE\nc) Determine that **no** bacteria which are **not** known to convert\nbilirubin to urobilinogen contain the suspect enzyme.\n\n TRUE  FALSE\nd) Determine that **all** bacteria which are known to convert bilirubin to\nurobilinogen contain the suspect enzyme.\n\n TRUE  FALSE\n\nPart 8 of 8\nScientists tested for the gene in samples from many people to determine\nwhat proportion were unable to safely detoxify haeme.\n\n\n\n\n\nBBO 2024                 UKBiologyCompetitions.org\n\n3 marks\nMark the following as TRUE or FALSE\na) The youngest babies may be most at risk of jaundice.\n\n TRUE  FALSE\nb) Sample sizes are insufficient to be confident in the trend.\n\n TRUE  FALSE\nc) People with inflammatory bowel diseases may be at risk of jaundice.\n\n TRUE  FALSE\nd) We can conclude that lack of the enzyme is a causal factor of jaundice.\n\n TRUE  FALSE\ne) We can conclude that lack of the enzyme is a causal factor of\ninflammatory bowel diseases.\n\n TRUE  FALSE\n\n\n\n\n\nBBO 2024                 UKBiologyCompetitions.org\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-002.zip",
+     "member": "question-corpus/questions/bbo-2024-papers-1-and-2-question-paper__q25/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bbo-2024-papers-1-and-2-question-paper__q25/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-2a",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Enzymes",
+   "knowledge_point": "还原反应类型",
+   "problem_type": "按胆红素到尿胆原新增氢/双键变化判氧化还原",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nWhat features does the unknown enzyme have?\nMark the following as TRUE or FALSE\n\nCatalyses a reduction reaction.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-2a"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-2a/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-2a/question.pdf",
+     "bytes": 780150,
+     "sha256": "465112321a10051914a36e8a732e1d697e808dbe47568eaa0445250f054bfeaf",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-2a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-2b",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Enzymes",
+   "knowledge_point": "ATP参与假说",
+   "problem_type": "区分还原力需求和ATP能量投入",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nWhat features does the unknown enzyme have?\nMark the following as TRUE or FALSE\n\nProbably uses ATP.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-2b"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-2b/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-2b/question.pdf",
+     "bytes": 780150,
+     "sha256": "2d4a188f6aeeb39d6ab4a4f8e574005a1b1700de5714b9a0e4d9cb2e3c847302",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-2b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-2c",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Respiration",
+   "knowledge_point": "还原辅酶",
+   "problem_type": "联系NADH/FADH2与氢电子供体",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nWhat features does the unknown enzyme have?\nMark the following as TRUE or FALSE\n\nProbably uses NADH or FADH/FADH₂.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-2c"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-2c/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-2c/question.pdf",
+     "bytes": 780138,
+     "sha256": "300f2c6a2b582b2a153be6f9214b158f1fe87d5529f90b8c937f49bc38820f2a",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-2c.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-2d",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Biological molecules",
+   "knowledge_point": "缩合与还原区分",
+   "problem_type": "检查是否形成新分子间键并脱水",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nWhat features does the unknown enzyme have?\nMark the following as TRUE or FALSE\n\nCatalyses a condensation reaction.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-2d"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-2d/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-2d/question.pdf",
+     "bytes": 780140,
+     "sha256": "3e732106a5c93d028a4b99a4108ed0f081843b68add17ead01b8d458c5310175",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-2d.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-3",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "菌群功能必要性",
+   "problem_type": "比较培养可实现、序列相似与无菌动物功能丢失的因果证据",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nScientists showed **only** gut bacteria produce the unknown enzyme.How\ncould this be proved?\nChoose ONE\na) Bacteria grown in the lab are able to convert bilirubin to urobilinogen.\n\nb) Bioinformatic analyses show gut bacteria have genes which look like\nthose that could convert bilirubin to urobilinogen.\nc) Rats grown in sterile conditions with their entire gut microbiome killed\nare unable to convert bilirubin to urobilinogen.\nd) Bioinformatic analyses show humans do **not** have genes which look\nlike those that could convert bilirubin to urobilinogen.\ne) Urobilinogen is useful for bacteria to use in some of their reactions.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-3"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-3/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-3/question.pdf",
+     "bytes": 573175,
+     "sha256": "2c12b51c604daa484e935334fa2672cd4df6a84bbfecfaf06ad446785098d2bc",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-3.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-5a",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "阳性菌株对照",
+   "problem_type": "核对CD3荧光是否符合已知能转化功能",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nFor the interpretations of the assay results to be reliable...\nMark the following as TRUE or FALSE\n\n*Clostridioides difficile CD3*, which is known to convert bilirubin to\nurobilinogen, gave the expected results.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-5a"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-5a/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-5a/question.pdf",
+     "bytes": 969852,
+     "sha256": "f6bf93d78e83cb17aa5ff26daeaab4da54403fab03f0e41755819898f25f83e6",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-5a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-5b",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "无底物阴性控制",
+   "problem_type": "排除菌株自身无关荧光",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nFor the interpretations of the assay results to be reliable...\nMark the following as TRUE or FALSE\n\nAll of the bacteria must also be grown in the absence of bilirubin and not\nproduce fluorescence.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-5b"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-5b/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-5b/question.pdf",
+     "bytes": 873966,
+     "sha256": "6d28e490a01070ccb638c4a7e398a4e225260d7eaf0749d37fa8dadaade3d67b",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-5b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-5c",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "细胞量归一化",
+   "problem_type": "评价生物量差对信号可比性",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nFor the interpretations of the assay results to be reliable...\nMark the following as TRUE or FALSE\n\nThere must be equal numbers of bacteria on all of the plates.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-5c"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-5c/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-5c/question.pdf",
+     "bytes": 873961,
+     "sha256": "83ce3807c7556d629440b3513dfaf6a291fb04201cd1e7b46c0eb892fbb12517",
+     "shard": "pdfs-b775e8610eb2c1a9.zip",
+     "shard_bytes": 41674304,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-b775e8610eb2c1a9.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-5c.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-5d",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "检测限与稀释",
+   "problem_type": "用已知阳性菌梯度估荧光检测灵敏度",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nFor the interpretations of the assay results to be reliable...\nMark the following as TRUE or FALSE\n\nThe sensitivity of the fluorescence camera should be determined by\nplating dilutions of *Clostridioides difficile CD3*\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-5d"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-5d/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-5d/question.pdf",
+     "bytes": 873960,
+     "sha256": "ceb7b63fd95ed5e7a42a425c0aa632c6965eaa0b539156cea1c27665f803fae2",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-5d.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-6a",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Characteristics and classification of living organisms",
+   "knowledge_point": "性状与基因组树",
+   "problem_type": "比较功能阳性分布和全基因组分支一致性",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\n\nThe gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-6a"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6a/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6a/question.pdf",
+     "bytes": 778065,
+     "sha256": "5f7981f64e268e86426b5ce8cfb0626005937408df545b238b3e311665b7a1cc",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-6a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-6b",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Variation and selection",
+   "knowledge_point": "多次起源",
+   "problem_type": "评价分散功能分布是否支持独立演化",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\n\nThe gene for the unknown enzyme probably evolved multiple times.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-6b"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6b/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6b/question.pdf",
+     "bytes": 778066,
+     "sha256": "6aff599268fcf48fb8414067cc4d93033aa8528d97bbd066a087eabaed5285bc",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-6b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-6c",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Variation and selection",
+   "knowledge_point": "水平转移",
+   "problem_type": "比较功能与谱系不一致的基因转移解释",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\n\nThe gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-6c"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6c/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6c/question.pdf",
+     "bytes": 778063,
+     "sha256": "e77a761723946d6d75a9591eb7bfd7030eb65d9c8294d3cd713b4cf9b493ae98",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-6c.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-6d",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Inheritance",
+   "knowledge_point": "同功能序列相同性",
+   "problem_type": "检验相同转化功能是否意味着酶基因完全相同",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\n\nThe gene for the unknown enzyme probably has an identical sequence in\nall of the species.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-6d"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6d/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6d/question.pdf",
+     "bytes": 712351,
+     "sha256": "233ff61b483ec84ef1ca99f95de76a4520acf315fc3fdaa2225c23b81bf7f4fd",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-6d.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-6e",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Biotechnology and genetic modification",
+   "knowledge_point": "比较基因组候选数",
+   "problem_type": "评价系统树本身能否保证只有很少阳性特有基因",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\n\nThis phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-6e"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6e/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6e/question.pdf",
+     "bytes": 712346,
+     "sha256": "e5889abcee3124c44093e1f9d7314db9774ddc40153615661a3aa3d77ca197c5",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-6e.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-6f",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Biotechnology and genetic modification",
+   "knowledge_point": "异源表达功能验证",
+   "problem_type": "把候选基因转入E.coli后荧光测定检验功能充分性",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\n\nTo confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-6f"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6f/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-6f/question.pdf",
+     "bytes": 712340,
+     "sha256": "89b456395e916a698fa1b4fb92d81fe5cbdd77384879816353035efc88fa685c",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-6f.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-7a",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Biotechnology and genetic modification",
+   "knowledge_point": "序列家族同源",
+   "problem_type": "依据类似催化酶家族寻找候选",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\na) The gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\nTRUE\nFALSE\nb) The gene for the unknown enzyme probably evolved multiple times.\nTRUE\nFALSE\nc) The gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\nTRUE\nFALSE\n\nd) The gene for the unknown enzyme probably has an identical sequence in\nall of the species.\nTRUE\nFALSE\ne) This phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\nTRUE\nFALSE\nf) To confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\nTRUE\nFALSE\n\nAfter identifying the unknown gene, scientists found that, like most bacterial\ngenes, it was an 'operon' which encoded 3 different enzymes.How can they\nfind which enzyme is responsible for converting bilirubin to urobilinogen?\nMark the following as TRUE or FALSE\n\nLook for the amino acid sequence most similar to *The Old Yellow\nEnzyme* family (which is known to carry out a similar class of reaction).\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-7a"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-7a/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-7a/question.pdf",
+     "bytes": 828208,
+     "sha256": "64c1227845e4bf7d6e161ab796dbb2a898fd97f55171361bfcc459adf7e1824f",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-7a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-7b",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Biotechnology and genetic modification",
+   "knowledge_point": "蛋白结构预测",
+   "problem_type": "用结构及底物相容性形成候选假说而非直接证明",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\na) The gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\nTRUE\nFALSE\nb) The gene for the unknown enzyme probably evolved multiple times.\nTRUE\nFALSE\nc) The gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\nTRUE\nFALSE\n\nd) The gene for the unknown enzyme probably has an identical sequence in\nall of the species.\nTRUE\nFALSE\ne) This phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\nTRUE\nFALSE\nf) To confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\nTRUE\nFALSE\n\nAfter identifying the unknown gene, scientists found that, like most bacterial\ngenes, it was an 'operon' which encoded 3 different enzymes.How can they\nfind which enzyme is responsible for converting bilirubin to urobilinogen?\nMark the following as TRUE or FALSE\n\nUse artificial intelligence (AlphaFold) to model the tertiary structure of the\nenzyme and how bilirubin could bind.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-7b"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-7b/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-7b/question.pdf",
+     "bytes": 828211,
+     "sha256": "0f2e0959e616ced93afe1b5992146272a9dd2ae79f668ae775c1fb6024a327df",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-7b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-7c",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Biotechnology and genetic modification",
+   "knowledge_point": "功能阴性物种排除",
+   "problem_type": "评价候选在不转化菌中缺失的特异性证据",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\na) The gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\nTRUE\nFALSE\nb) The gene for the unknown enzyme probably evolved multiple times.\nTRUE\nFALSE\nc) The gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\nTRUE\nFALSE\n\nd) The gene for the unknown enzyme probably has an identical sequence in\nall of the species.\nTRUE\nFALSE\ne) This phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\nTRUE\nFALSE\nf) To confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\nTRUE\nFALSE\n\nAfter identifying the unknown gene, scientists found that, like most bacterial\ngenes, it was an 'operon' which encoded 3 different enzymes.How can they\nfind which enzyme is responsible for converting bilirubin to urobilinogen?\nMark the following as TRUE or FALSE\n\nDetermine that **no** bacteria which are **not** known to convert\nbilirubin to urobilinogen contain the suspect enzyme.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-7c"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-7c/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-7c/question.pdf",
+     "bytes": 828208,
+     "sha256": "ec39cb06012b9ef0269b9549bc29140622e1b91a9694d9ad1f0b745cf44a57b8",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-7c.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-7d",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Biotechnology and genetic modification",
+   "knowledge_point": "功能阳性物种保留",
+   "problem_type": "评价候选在所有能转化菌中存在的必要性线索",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\na) The gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\nTRUE\nFALSE\nb) The gene for the unknown enzyme probably evolved multiple times.\nTRUE\nFALSE\nc) The gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\nTRUE\nFALSE\n\nd) The gene for the unknown enzyme probably has an identical sequence in\nall of the species.\nTRUE\nFALSE\ne) This phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\nTRUE\nFALSE\nf) To confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\nTRUE\nFALSE\n\nAfter identifying the unknown gene, scientists found that, like most bacterial\ngenes, it was an 'operon' which encoded 3 different enzymes.How can they\nfind which enzyme is responsible for converting bilirubin to urobilinogen?\nMark the following as TRUE or FALSE\n\nDetermine that **all** bacteria which are known to convert bilirubin to\nurobilinogen contain the suspect enzyme.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-7d"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-7d/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-7d/question.pdf",
+     "bytes": 828209,
+     "sha256": "e1a5733c50127d6dfad0d72f4a8c9e544ec99311482378d6262b7fe497231c8a",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-7d.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-8a",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "年龄相关黄疸风险",
+   "problem_type": "按初生婴儿酶基因缺失高比例联系解毒能力",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\na) The gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\nTRUE\nFALSE\nb) The gene for the unknown enzyme probably evolved multiple times.\nTRUE\nFALSE\nc) The gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\nTRUE\nFALSE\n\nd) The gene for the unknown enzyme probably has an identical sequence in\nall of the species.\nTRUE\nFALSE\ne) This phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\nTRUE\nFALSE\nf) To confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\nTRUE\nFALSE\n\nScientists tested for the gene in samples from many people to determine\nwhat proportion were unable to safely detoxify haeme.\n\nMark the following as TRUE or FALSE\n\nThe youngest babies may be most at risk of jaundice.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-8a"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-8a/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-8a/question.pdf",
+     "bytes": 934960,
+     "sha256": "3883b0cc111d5910a60a0314081179fd1a5dbe2f80cc65affec728434c58b78e",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-8a.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-8b",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "气泡样本量",
+   "problem_type": "结合气泡面积图例及变化量评估置信度",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\na) The gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\nTRUE\nFALSE\nb) The gene for the unknown enzyme probably evolved multiple times.\nTRUE\nFALSE\nc) The gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\nTRUE\nFALSE\n\nd) The gene for the unknown enzyme probably has an identical sequence in\nall of the species.\nTRUE\nFALSE\ne) This phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\nTRUE\nFALSE\nf) To confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\nTRUE\nFALSE\n\nScientists tested for the gene in samples from many people to determine\nwhat proportion were unable to safely detoxify haeme.\n\nMark the following as TRUE or FALSE\n\nSample sizes are insufficient to be confident in the trend.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-8b"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-8b/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-8b/question.pdf",
+     "bytes": 934964,
+     "sha256": "cdb045394f0d06639a26e53ce265c88739a0fb4f1bd47cfb6f2e37c782d157a6",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-8b.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-8c",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "肠炎相关缺酶",
+   "problem_type": "比较成年肠炎组与一般成人缺酶比例",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\na) The gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\nTRUE\nFALSE\nb) The gene for the unknown enzyme probably evolved multiple times.\nTRUE\nFALSE\nc) The gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\nTRUE\nFALSE\n\nd) The gene for the unknown enzyme probably has an identical sequence in\nall of the species.\nTRUE\nFALSE\ne) This phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\nTRUE\nFALSE\nf) To confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\nTRUE\nFALSE\n\nScientists tested for the gene in samples from many people to determine\nwhat proportion were unable to safely detoxify haeme.\n\nMark the following as TRUE or FALSE\n\nPeople with inflammatory bowel diseases may be at risk of jaundice.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-8c"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-8c/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-8c/question.pdf",
+     "bytes": 934961,
+     "sha256": "de3bdab3e0cb9482efcc543e4f78f65ce13cb3876a8acd43214205be031ba1b5",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-8c.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-8d",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "解毒机制因果",
+   "problem_type": "联合已知代谢功能与人群关联评价黄疸因果",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\na) The gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\nTRUE\nFALSE\nb) The gene for the unknown enzyme probably evolved multiple times.\nTRUE\nFALSE\nc) The gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\nTRUE\nFALSE\n\nd) The gene for the unknown enzyme probably has an identical sequence in\nall of the species.\nTRUE\nFALSE\ne) This phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\nTRUE\nFALSE\nf) To confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\nTRUE\nFALSE\n\nScientists tested for the gene in samples from many people to determine\nwhat proportion were unable to safely detoxify haeme.\n\nMark the following as TRUE or FALSE\n\nWe can conclude that lack of the enzyme is a causal factor of jaundice.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-8d"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-8d/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-8d/question.pdf",
+     "bytes": 934965,
+     "sha256": "7b230ad1964cefcd9b7e4f7d0335dc4801bcbe911f02057732f9b08118680489",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-8d.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2024,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "bbo-2024-papers-1-and-2-question-paper__q25__part-8e",
+   "exam_id": "BBO",
+   "course_id": "BBO",
+   "subject": "biology",
+   "question_number": "25",
+   "chapter": "Practical skills",
+   "knowledge_point": "疾病逆因果",
+   "problem_type": "区分缺酶引发肠炎和肠炎改变菌群的解释",
+   "search_text": "When dead/damaged red blood cells are recycled, the haem they contain\nmust be detoxified. *An outline of the haeme degradation pathway:** Haeme\n→→bilirubin →urobilinogen →urobilin Urobilin makes urine yellow.If\nbilirubin cannot be processed into urobilinogen, it builds up in the blood.\nThis can cause jaundice (a person turning yellowish) and is toxic.The enzyme\nwhich converts bilirubin to urobilinogen (see image) was unknown until\n2024.\nThe conversion of bilirubin to urobilinogen\n\nGut bacteria were grown on bilirubin agar plates which turn fluorescent in\nthe presence of urobilinogen.(The numbers match species on a later\ndiagram)\n\n\nThe phylogeny of the *Clostridium* family below shows how closely species\nare related according to their entire genome sequence.\nMark the following as TRUE or FALSE\na) The gene encoding the unknown enzyme exhibits an ancestry pattern\nconsistent with the rest of the genome.\nTRUE\nFALSE\nb) The gene for the unknown enzyme probably evolved multiple times.\nTRUE\nFALSE\nc) The gene for the unknown enzyme probably spread by horizontal gene\ntransfer.\nTRUE\nFALSE\n\nd) The gene for the unknown enzyme probably has an identical sequence in\nall of the species.\nTRUE\nFALSE\ne) This phylogeny shows very few genes, except the unknown enzyme, are\npresent **only** in the species which can convert bilirubin to urobilinogen.\nTherefore, scientists can find the enzyme easily.\nTRUE\nFALSE\nf) To confirm the identify of the gene encoding the unknown enzyme,\nscientists could transfect it into *E. coli* and grow them on the fluorescent\nplates.\nTRUE\nFALSE\n\nScientists tested for the gene in samples from many people to determine\nwhat proportion were unable to safely detoxify haeme.\n\nMark the following as TRUE or FALSE\n\nWe can conclude that lack of the enzyme is a causal factor of\ninflammatory bowel diseases.\nTRUE\nFALSE",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bbo-2024-papers-1-and-2-question-paper__q25__part-8e"
+   ],
+   "paths": [
+    "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-8e/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "projects/biology-question-processing/bbo-existing/atomic-2024/questions/bbo-2024-papers-1-and-2-question-paper__q25__part-8e/question.pdf",
+     "bytes": 934960,
+     "sha256": "2d91a38717f41f00cfec48e25aed45e2c93047b389026a05540eb1bccd36d05e",
+     "shard": "pdfs-2aff2bef95222386.zip",
+     "shard_bytes": 13338459,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-2aff2bef95222386.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BBO/bbo-2024-papers-1-and-2-question-paper__q25__part-8e.md"
+  }
+ ]
+}

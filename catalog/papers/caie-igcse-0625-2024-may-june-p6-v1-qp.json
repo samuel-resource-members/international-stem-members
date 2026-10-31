@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2024-may-june-p6-v1-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2024-may-june-p6-v1-qp",
+   "year": 2024,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-may-june-p6-v1-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "1  A student investigates the stretching of a spring.\n\n     Fig. 1.1 shows the set-up.\n\n\n\n\n\n                                                      spring\n\n                                              metre ruler\n                clamp stand\n\n\n\n                                                              bench\n\n\n                                               Fig. 1.1\n\n     (a) The student measures, and records in Table 1.1, the unstretched length l 0 of the spring. He\n        does not include the loops at the ends of the spring in the measurement. The value l 0 is the\n         length of the spring when the load L on the spring is 0.00 N.\n\n        Describe one technique you would use to obtain an accurate value for l 0. Draw a diagram to\n           illustrate your answer.\n\n\n\n\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n     (b) The student suspends a load L = 1.00 N from the spring. He records the new length l of the\n         spring in Table 1.1.\n\n      He calculates the extension e of the spring using the equation e = (l – l 0) and records the\n         value of e in Table 1.1.\n\n       The student repeats the procedure using loads L = 2.00 N, 3.00 N, 4.00 N and 5.00 N.\n       The readings and results are recorded in Table 1.1.\n\n\n\n\n© UCLES 2024                                          0625/61/M/J/24                               [Turn over\n\nCalculate the extension e of the spring using the equation e = (l – l 0) when L = 5.00 N. Record\n           this value of e in Table 1.1.\n\n                                        Table 1.1\n\n                         L / N                     l / cm          e / cm\n                            0.00              2.1              0.0\n                            1.00              6.0              3.9\n                            2.00            10.6              8.5\n                            3.00            14.9            12.8\n                            4.00            19.3            17.2\n                            5.00            23.7\n                                                                                                                       [1]\n\n     (c)  Plot a graph of L / N (y-axis) against e / cm (x-axis). Start both axes at the origin (0, 0).\n       Draw the best-fit line.\n\n\n\n\n\n           00\n                                                                                                                       [4]\n\n\n\n\n\n© UCLES 2024                                          0625/61/M/J/24\n\n(d)  Determine the gradient G of the graph. Show all your working and indicate on the graph the\n         values you use.\n\n\n\n                                 G =  .........................................................  [2]\n\n     (e) G is numerically equal to the spring constant k.\n\n        Record the value of k to a suitable number of significant figures for this experiment. Include\n         the unit.\n\n                                                   k =  .........................................................  [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2024                                          0625/61/M/J/24                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2024 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s24_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-may-june-p6-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-may-june-p6-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-may-june-p6-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-may-june-p6-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-may-june-p6-v1-qp",
+   "year": 2024,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-may-june-p6-v1-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2  A student investigates the resistance of a wire.\n\n     Fig. 2.1 shows the circuit used.\n\n\n\n                                                A\n\n\n                         d\n         B                                     C\n\n                                                                            resistance                 V\n                                                            sliding                 wire\n                                                     contact S\n\n                                               Fig. 2.1\n\n     (a) The student measures the current I in the circuit.\n\n       She places the sliding contact S at a distance d = 50.0 cm from B.\n\n       She measures the potential difference (p.d.) V50 across length d of the resistance wire.\n\n          Fig. 2.2 shows the ammeter and voltmeter.\n\n             (i)  Record the readings on the ammeter and voltmeter. Include the units.\n\n\n                      0.4    0.6                            4  5  6                                                    3          7                0.2                0.8                  2               8\n                                               1                    9\n          0                            1.0         0                       10\n                   A                             V\n\n\n\n\n                                               Fig. 2.2\n\n                                                             I =  ...............................................................\n\n                                                 V50 =  ...............................................................\n                                                                                                                       [2]\n\n\n\n\n\n© UCLES 2024                                          0625/61/M/J/24\n\n(ii)  Calculate the resistance R50 of 50.0 cm of the resistance wire using the equation\n                                              V50                                       R50 =       .                                                        I\n             Include the unit.\n\n                                                R50 =  .........................................................  [2]\n            (iii)  Calculate r1, a value for the resistance per cm of the resistance wire, using the equation\n                                            R50                                                       r1 =       ,                                          d\n           where d = 50.0 cm. Include the unit.\n\n                                                                    r1 =  .........................................................  [2]\n     (b) The student repeats the procedure in (a) using d = 75.0 cm and calculates r2 using the\n         equation\n                                            R75                                                       r2 =       .                                          d\n                                                                        2.2                                                 V75 =  ...............................................................\n                                                                        6.1                                                R75 =  ...............................................................\n                                                                   0.081                                                                    r2 =  ...............................................................\n\n      A student suggests that the resistance per cm of the resistance wire is constant.\n\n             (i)  State whether your results support  this suggestion and  justify your statement by\n             reference to the results.\n\n             statement  ..........................................................................................................................\n\n                justification  ........................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n                                                                                                                       [2]\n\n             (ii)  The student plans to plot a graph of resistance R against length d to test the suggestion.\n\n            Suggest suitable additional values of length d to use.\n\n                       .....................................................................................................................................  [2]\n\n     (c) A variable resistor is a circuit component that can be made using a coil of resistance wire.\n\n       Draw the electrical symbol for a variable resistor.\n\n\n                                                                                                                       [1]\n\n                                                                                                           [Total: 11]\n© UCLES 2024                                          0625/61/M/J/24                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2024 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s24_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-may-june-p6-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-may-june-p6-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-may-june-p6-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-may-june-p6-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-may-june-p6-v1-qp",
+   "year": 2024,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-may-june-p6-v1-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3  A student investigates the image produced by a lens.\n\n     Fig. 3.1 shows the set-up.\n\n               illuminated\n                 object                              x                    y\n                                                                       screen\n                                             lens\n\n\n\n                                                               bench\n\n                                               Fig. 3.1\n\n\n\n                                                     hO\n\n\n\n\n                                               Fig. 3.2\n\n     (a)  Fig. 3.2 shows the height hO of the illuminated object.\n      On Fig. 3.2, measure hO.\n                                            hO =  .........................................................  [2]\n\n     (b)  Fig. 3.1 is drawn to scale. The actual distance u between the illuminated object and the lens\n           is 20.0 cm.\n\n             (i)  On Fig. 3.1, measure the distance x.\n\n                                                   x =  .........................................................  [1]\n\n             (ii)  Calculate the scale ratio r using the equation\n                                         u                                                                r =    ,                                              x\n           where u = 20.0 cm.\n\n                                                                              r =  .........................................................  [1]\n\n\n\n\n\n© UCLES 2024                                          0625/61/M/J/24\n\n(c) The student moves the screen until a focused image is formed on the screen.\n\n             (i)  On Fig. 3.1, measure the distance y.\n\n                                                   y =  ................................................... cm [1]\n\n             (ii)  Calculate the actual distance v between the lens and the screen using the equation\n            v = r y. Use your value for r from (b)(ii).\n\n\n\n                                                   v =  ................................................... cm [1]\n\n     (d)  Calculate the focal length f of the lens using the equation\n                                           uv\n                                                                        f =             .                                                 (u + v)\n        Give your answer to a suitable number of significant figures for this type of experiment.\n\n\n\n\n                                                                                             f =  ................................................... cm [2]\n\n     (e)  In this type of experiment,  it can be difficult to judge the screen position that produces the\n         clearest image.\n\n        Suggest two precautions or techniques to overcome this difficulty.\n\n       1 ................................................................................................................................................\n\n               ...................................................................................................................................................\n\n       2 ................................................................................................................................................\n\n               ...................................................................................................................................................\n                                                                                                                       [2]\n\n      (f)   Fig. 3.2 shows the shape of the illuminated object. The image of the object is enlarged.\n\n       Draw a diagram to show the image that you would see on the screen.\n\n\n\n\n\n                                                                                                                       [1]\n\n                                                                                                           [Total: 11]\n\n\n\n© UCLES 2024                                          0625/61/M/J/24                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2024 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s24_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-may-june-p6-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-may-june-p6-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-may-june-p6-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-may-june-p6-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-may-june-p6-v1-qp",
+   "year": 2024,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-may-june-p6-v1-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the bending of composite strips of wood when they are loaded at one end.\n    The composite strips are made from identical layers of wood stuck together, as shown in Fig. 4.1.\n\n    Plan an experiment to investigate how much composite strips bend when they are loaded at one\n    end. Fig. 4.2 shows the set-up the student uses.\n\n    The student has a number of composite strips made with two or more layers of wood.\n\n                                                  wood\n\n                                                                               adhesive\n\n\n                                               Fig. 4.1\n\n   clamp\n\n\n\n                                                                         composite\n                                bench                                             strip\n\n\n                                                                                   floor\n\n\n                                               Fig. 4.2\n\n     In your plan:\n\n     •    state the variable that you are testing\n     •     list any additional apparatus that you would use\n     •    explain briefly how to do the investigation\n     •    state the key variables to keep constant\n     •   draw a table, or tables, with column headings, to show how to display your readings (you are\n        not required to enter any readings in the table)\n     •    explain how to use your readings to reach a conclusion.\n\n\n\n\n\n© UCLES 2024                                          0625/61/M/J/24\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2024 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s24_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-may-june-p6-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-may-june-p6-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-may-june-p6-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-may-june-p6-v1-qp__q04.md"
+  }
+ ]
+}

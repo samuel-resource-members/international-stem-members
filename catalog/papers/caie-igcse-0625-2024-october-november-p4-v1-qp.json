@@ -1,0 +1,431 @@
+{
+ "group": "caie-igcse-0625-2024-october-november-p4-v1-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 9,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p4-v1-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "4",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-october-november-p4-v1-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "1  A spring is suspended from a clamp. Fig. 1.1 shows a pointer attached to the lower end of the\n     spring.\n\n                                                                           cm             metre ruler\n\n\n\n                                                                                           10\n\n\n\n\n                                                                                           20\n\n\n\n\n                                                                                           30\n\n\n                         spring                                   40\n                                                                                           50           pointer\n\n\n\n\n                                                                                           60\n\n\n\n\n                                                                                           70\n\n                                                                                           80                      loads\n\n\n                                                                                           90\n\n\n\n\n\n                                               Fig. 1.1\n\n   A student suspends loads of different weights from the spring and records the readings on the\n    metre ruler.\n\nFig. 1.2 is the reading–weight graph that the student obtains.\n\n\n           80\n\n\n           70\n\n\n           60\nreading / cm\n           50\n\n\n           40\n\n\n           30\n\n\n           20\n\n\n           10\n\n\n            0\n             0         1.0        2.0        3.0        4.0        5.0        6.0        7.0\n\n                                                                       weight / N\n\n\n                                              Fig. 1.2\n\n    (a)   (i)  Using Fig. 1.2, determine the reading on the metre ruler when\n\n              1. no weight is attached to the spring ................................................................................\n\n              2. a weight of 5.6 N is attached to the spring .....................................................................\n                                                                                                                      [1]\n\n            (ii)  Calculate the extension of the spring when the weight attached is 5.6 N.\n\n\n\n\n\n                                             extension =  .........................................................  [1]\n\n    (b)  Using the values found in (a), calculate the spring constant of the spring.\n\n\n\n\n\n                                          spring constant =  .........................................................  [2]\n\n(c) An object of mass 0.50 kg is attached to the spring.\n\n       (i)  Calculate the weight of the object.\n\n\n\n\n\n                                            weight =  .........................................................  [1]\n\n      (ii)  The object is pulled downwards until the tension in the spring is 6.5 N.\n\n       The object is released.\n\n         Calculate the acceleration of the object immediately after it is released.\n\n\n\n\n\n                                          acceleration =  .........................................................  [3]\n\n                                                                                                       [Total: 8]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 4 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_41.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p4-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p4-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p4-v1-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "4",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-october-november-p4-v1-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "2  A drag car is a racing car that is powered by a rocket engine.\n\n   A drag car accelerates uniformly from rest until  it reaches the finishing line. The engine is then\n    switched off and a parachute opens. The car decelerates until it stops.\n\n     Fig. 2.1 shows a drag car decelerating after a race.\n\n\n                          parachute\n\n\n\n                                                                   drag car\n\n\n\n\n\n                                               Fig. 2.1\n\n    This drag car has a mass of 1400 kg.\n\n     Fig. 2.2 is the speed–time graph for the car during a race on a straight horizontal track.\n\n\n              160\n\n\n              140\n\n       speed\n              120\n     m / s\n\n              100\n\n\n               80\n\n\n               60\n\n\n               40\n\n\n               20\n\n\n                0\n                  0        4        8        12       16       20       24\n\n                                                                   time / s\n\n\n                                               Fig. 2.2\n\n    The car reaches its maximum speed of 130 m / s at a time of 6.5 s.\n\n(a)   (i)  Calculate the maximum momentum of the car during the race.\n\n\n\n\n\n                       maximum momentum =  .........................................................  [2]\n\n      (ii)  State the feature of Fig. 2.2 that represents the distance travelled by the car.\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n     (iii)  Determine the distance travelled by the car in the first 6.5 s.\n\n\n\n\n\n                                            distance =  .........................................................  [2]\n\n(b) The parachute opens at 6.5 s and the car decelerates.\n\n    Describe how Fig. 2.2 shows that, after 6.5 s:\n\n       (i)  the car decelerates\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n      (ii)  the deceleration of the car is not constant.\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n(c)  Describe the energy transfer that takes place as the car slows down.\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [2]\n\n                                                                                                       [Total: 9]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 4 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_41.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p4-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p4-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p4-v1-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "4",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-october-november-p4-v1-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "3    (a)  Define the moment of a force and describe the effect that it measures.\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [3]\n\n     (b) A large rectangular block of stone has a square base of side 3.4 m. Fig. 3.1 shows the block\n          at rest on a horizontal surface.\n\n                                                     3.4 m\n\n\n\n\n\n                                    G\n\n\n                         horizontal surface\n\n\n                                            X\n\n\n\n                                               Fig. 3.1\n\n       The block is of uniform density and the centre of gravity G is at its centre.\n\n             (i)  Explain what is meant by centre of gravity.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  The weight of the block is 1.3 × 107 N.\n\n             Calculate the moment of the weight of the block about corner X.\n\n\n\n\n\n                              moment of weight =  .........................................................  [2]\n\n(c) The block shown in Fig. 3.1 is in equilibrium.\n\n    State the two different conditions that apply when an object is in equilibrium.\n\n    1 ................................................................................................................................................\n\n    2 ................................................................................................................................................\n                                                                                                                 [2]\n\n                                                                                                       [Total: 8]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 4 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_41.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p4-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p4-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p4-v1-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "4",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-october-november-p4-v1-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "4    (a)  Describe an experiment to determine the specific heat capacity of aluminium. You may draw\n       a diagram.\n\n         Include in your answer:\n\n           •    the measurements made\n           •   any equations needed.\n\n\n\n\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [4]\n\n     (b) An aluminium dish is initially at room temperature. Boiling water is poured into the aluminium\n         dish as shown in Fig. 4.1.\n\n\n\n\n\n                                                    boiling water\n\n\n\n                                                       aluminium dish\n\n\n\n                                                                   table surface\n\n\n\n                                               Fig. 4.1\n\n(i)  Explain why, after a short time, the dish and the water are the same temperature.\n\n          ...........................................................................................................................................\n\n          ...........................................................................................................................................\n\n          ...........................................................................................................................................\n\n          .....................................................................................................................................  [3]\n\n (ii)  Explain, in terms of its particles, why the aluminium expands as the boiling water is\n     poured into the dish.\n\n          ...........................................................................................................................................\n\n          ...........................................................................................................................................\n\n          .....................................................................................................................................  [2]\n\n(iii)  The water in the dish evaporates.\n\n      Explain, in terms of the water molecules, what is meant by evaporation.\n\n          ...........................................................................................................................................\n\n          ...........................................................................................................................................\n\n          .....................................................................................................................................  [2]\n\n                                                                                                  [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 4 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_41.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p4-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p4-v1-qp__q04.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p4-v1-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "4",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-october-november-p4-v1-qp__q05",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "5",
+   "chapter": "Waves",
+   "knowledge_point": "Sound",
+   "problem_type": "从声音传播或回声条件求量",
+   "search_text": "5  A loudspeaker produces a sound wave in air. The distance between the centre of a compression\n    and the centre of a neighbouring rarefaction is 0.10 m.\n\n     (a)  Calculate the wavelength of the sound wave.\n\n\n\n\n\n                                          wavelength =  .........................................................  [1]\n\n     (b)  State a typical value for the speed of sound in air.\n\n               .............................................................................................................................................  [1]\n\n     (c)   (i)  Calculate the frequency of the sound from the loudspeaker.\n\n\n\n\n\n                                             frequency =  .........................................................  [2]\n\n             (ii)  Explain whether the sound from the loudspeaker is audible to a human with normal\n              hearing.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n(d)  Another loudspeaker produces a sound of wavelength 0.40 m. Sound from the loudspeaker\n    reaches a sound absorbing surface with a gap of width 0.80 m at the centre.\n\n     Fig. 5.1 shows the arrangement.\n\n\n                                                     J\n\n\n                            gap\n\n\n\n\n                                                                     0.80 m\n\n\n\n         loudspeaker                                    K\n\n                                             sound absorbing surface\n\n\n                                          Fig. 5.1\n\n    Explain whether  it is possible to detect sound from the loudspeaker at either point J or at\n     point K.\n\n     point J  .......................................................................................................................................\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n     point K  ......................................................................................................................................\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n                                                                                                                 [4]\n\n                                                                                                       [Total: 9]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 4 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_41.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p4-v1-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p4-v1-qp__q05.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p4-v1-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "4",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-october-november-p4-v1-qp__q06",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "6",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "6  A potential divider is made by connecting a light-dependent resistor (LDR) and a thermistor in\n     series. Fig. 6.1 shows the potential divider, a voltmeter and a direct current (d.c.) power supply\n    connected into a circuit.\n\n\n                                   +     –\n\n\n\n\n\n                            V\n\n\n                                               Fig. 6.1\n\n    The voltmeter measures the potential difference (p.d.) across the LDR.\n\n     (a)  Define potential difference (p.d.).\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n     (b) The electromotive force (e.m.f.) of the supply is E.\n\n        Describe how the p.d. across the thermistor can be determined using the reading on the\n          voltmeter.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n(c) The resistance of the LDR decreases and the resistance of the thermistor increases.\n\n       (i)  State what has happened to the light intensity incident on the LDR and the temperature\n          of the thermistor.\n\n          intensity of incident light on LDR: ......................................................................................\n\n        temperature of thermistor: .................................................................................................\n                                                                                                                 [1]\n\n      (ii)  Explain what happens to the reading on the voltmeter.\n\n                ...........................................................................................................................................\n\n                ...........................................................................................................................................\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [3]\n\n                                                                                                       [Total: 7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 4 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_41.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p4-v1-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p4-v1-qp__q06.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p4-v1-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "4",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-october-november-p4-v1-qp__q07",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "7",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "7  A solid bar is inside a copper solenoid. Fig. 7.1 shows that the copper solenoid is connected in\n     series with a battery and a variable resistor.\n\n\n                     copper solenoid\n\n\n\n\n                              bar\n\n\n\n\n\n                                               Fig. 7.1\n\n    The device shown in Fig. 7.1 is an electromagnet.\n\n     (a)  Suggest a suitable material for the bar.\n\n               .............................................................................................................................................  [1]\n\n     (b) The right-hand end of the bar is the S pole.\n\n             (i)  Fig. 7.2 shows the bar viewed from above.\n\n         On Fig. 7.2, draw at least six field lines to show the pattern and direction of the magnetic\n                 field surrounding the bar.\n\n\n\n\n\n                                          S\n\n\n\n\n\n                                               Fig. 7.2\n                                                                                                                       [3]\n\n(ii)  The resistance of the variable resistor increases.\n\n         Explain what happens to the magnetic field surrounding the bar and state how the pattern\n          of field lines that represents the field changes.\n\n                ...........................................................................................................................................\n\n                ...........................................................................................................................................\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [3]\n\n(c) A square coil of many turns is placed close to the bar. Fig. 7.3 shows the plane of the square\n     coil parallel to the flat circular surface at the right-hand end of the bar.\n\n\n                                             terminals\n\n\n         copper solenoid\n\n\n\n\n                                                              square coil\n                  bar\n\n\n\n\n\n                                          Fig. 7.3\n\n    The resistance of the variable resistor is alternately increased and decreased.\n\n    Explain what happens in the wires of the square coil.\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [3]\n\n                                                                                                      [Total: 10]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 4 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_41.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p4-v1-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p4-v1-qp__q07.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p4-v1-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "4",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-october-november-p4-v1-qp__q08",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "8",
+   "chapter": "Nuclear physics",
+   "knowledge_point": "Atomic structure",
+   "problem_type": "用核子数和电荷判断原子结构",
+   "search_text": "8   The nuclide notation for the radioactive isotope carbon-14 is 146C.\n\n     (a)  Using the symbols shown in Fig. 8.1, draw a diagram to show the number of electrons,\n        neutrons and protons in a neutral atom of carbon-14 and how they are arranged.\n\n\n                                                                  symbols:\n\n                                                                         electron\n\n                                                                   neutron\n\n                                                                     proton\n\n\n\n\n\n                                               Fig. 8.1\n                                                                                                                       [3]\n\n     (b)  Describe how the composition of a neutral atom of carbon-14 is different from the composition\n          of a neutral atom of nitrogen-14 (147N).\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n(c)  Carbon-14 decays by beta (β) emission.\n\n       (i)  State the name of a particle that is identical to a beta-particle.\n\n                .....................................................................................................................................  [1]\n\n      (ii)  Describe the change that takes place in carbon-14 as a beta-particle is emitted.\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n(d) The half-life of carbon-14 is 5700 years.\n\n   A very old object is made of wood. It contains 1.2 × 1011 atoms of carbon-14. When it was\n    manufactured, it contained 9.6 × 1011 atoms of carbon-14.\n\n    Determine the time that has passed since it was manufactured.\n\n\n\n\n\n                                        time passed =  .........................................................  [3]\n\n                                                                                                      [Total: 10]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 4 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_41.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p4-v1-qp__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p4-v1-qp__q08.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2024-october-november-p4-v1-qp",
+   "year": 2024,
+   "session": "October/November",
+   "paper": "4",
+   "variant": "1",
+   "id": "caie-igcse-0625-2024-october-november-p4-v1-qp__q09",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "9",
+   "chapter": "Space physics",
+   "knowledge_point": "Stars and the Universe",
+   "problem_type": "用红移或恒星信息解释宇宙现象",
+   "search_text": "9   The Milky Way is the galaxy in which the Solar System is located.\n\n     (a)  State what a galaxy is.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n     (b) The Milky Way has a diameter that is approximately equal to 100 000 light-years.\n\n        Determine this distance in kilometres (km).\n\n\n\n\n                                                distance =  ................................................... km [2]\n\n     (c)  Astronomers determine the speed and distance from the Earth of a far galaxy that is moving\n       away from the Earth.\n\n             (i)  State one observation that allows the speed at which a galaxy is moving away to be\n             determined.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  State one different observation that is used to determine the distance to a far galaxy.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n            (iii)  State how the speeds of galaxies and their distances from the Earth are related.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n          (iv)  The best estimate for the Hubble constant H0 is 2.2 × 10–18 per second.\n\n          Use this value to calculate an estimate for the age of the Universe.\n\n\n\n\n\n                                age of the Universe =  ...................................................... s [2]\n\n                                                                                                            [Total: 8]\n\n\n\n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every\nreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the\npublisher will be pleased to make amends at the earliest possible opportunity.\n\n\nTo avoid the issue of disclosure of answer-related information to candidates,  all copyright acknowledgements are reproduced online in the Cambridge\nAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download\nat www.cambridgeinternational.org after the live examination series.\n\n\nCambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge\nLocal Examinations Syndicate (UCLES), which is a department of the University of Cambridge.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2024 — Paper 4 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w24_ms_41.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2024-october-november-p4-v1-qp__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2024-october-november-p4-v1-qp__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2024-october-november-p4-v1-qp__q09.md"
+  }
+ ]
+}

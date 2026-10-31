@@ -1,0 +1,176 @@
+{
+ "group": "bmo2-2024-round-2-question-paper",
+ "course_id": "BMO2",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "bmo2-2024-round-2-question-paper",
+   "year": 2024,
+   "session": "24 January 2024",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-2024-round-2-question-paper__q01",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1. In the sequence 7, 76, 769, 7692, 76923, 769230, . . ., the 𝑛th term is given by the first 𝑛\n   digits after the decimal point in the expansion of 10/13 = 0.7692307692 . . ..\n\n   Prove that of the first 60 terms of the sequence, at least 49 have three or more prime factors\n   (repeated prime factors are allowed; for example, 76 = 2 × 2 × 19 has three prime factors).\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-2024-round-2-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-2024-round-2-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-2024-round-2-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-2024-round-2-question-paper__q01.md"
+  },
+  {
+   "paper_id": "bmo2-2024-round-2-question-paper",
+   "year": 2024,
+   "session": "24 January 2024",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-2024-round-2-question-paper__q02",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. Find all functions 𝑓from the integers to the integers such that for all integers 𝑛:\n\n                             2 𝑓( 𝑓(𝑛)) = 5 𝑓(𝑛) −2𝑛.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-2024-round-2-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-2024-round-2-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-2024-round-2-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-2024-round-2-question-paper__q02.md"
+  },
+  {
+   "paper_id": "bmo2-2024-round-2-question-paper",
+   "year": 2024,
+   "session": "24 January 2024",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-2024-round-2-question-paper__q03",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "3. Let 𝐴𝐵𝐶be an acute-angled triangle with 𝐴𝐵> 𝐴𝐶. Let 𝑃be the intersection of the\n   tangents to the circumcircle of 𝐴𝐵𝐶at 𝐵and 𝐶. The line through the midpoints of line\n   segments 𝑃𝐵and 𝑃𝐶meets lines 𝐴𝐵and 𝐴𝐶at 𝑋and 𝑌respectively.\n   Prove that the quadrilateral 𝐴𝑋𝑃𝑌is cyclic.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-2024-round-2-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-2024-round-2-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-2024-round-2-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-2024-round-2-question-paper__q03.md"
+  },
+  {
+   "paper_id": "bmo2-2024-round-2-question-paper",
+   "year": 2024,
+   "session": "24 January 2024",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-2024-round-2-question-paper__q04",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4. Let 𝑚< 𝑛be positive integers. Start with 𝑛piles, each of 𝑚objects. Repeatedly carry out\n   the following operation: choose two piles and remove 𝑛objects in total from the two piles.\n   For which (𝑚, 𝑛) is it possible to empty all the piles?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-2024-round-2-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-2024-round-2-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-2024-round-2-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-2024-round-2-question-paper__q04.md"
+  }
+ ]
+}

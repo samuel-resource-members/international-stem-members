@@ -1,0 +1,773 @@
+{
+ "group": "live-poshenloh-aime-2021ii-question_paper",
+ "course_id": "AIME",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 15,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q01",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.  Find the arithmetic mean of all the three-digit palindromes. (Recall that a palindrome is\n   a number that reads the same forward and backward, such as 777 or 383. )\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q02",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "比例与变化",
+   "problem_type": "按比例或正反比关系求量",
+   "search_text": "2.  Equilateral triangle ABC has side length 840. Point D lies on the same side of line BC\n   as A such that BD ⊥ BC . The line ℓ through D parallel to line BC intersects sides\n  AB and AC at points E and F, respectively. Point G lies on ℓ such that F is between\n  E and G,△AFG is isosceles, and the ratio of the area of △AFG to the area of\n  △BED is 8 : 9. Find AF.\n\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q03",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "3. Find the number of permutations x 1 ​, x 2 ​, x 3 ​, x 4 ​, x ​5 of numbers 1,2,3,4,5 such that\n   the sum of five products\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​                                                                                                                                                                                                                                                                                                                               ​                        x 1 ​x 2 ​x 3 + x 2 ​x 3 ​x 4\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ​\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ​​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ​ + x 3 ​x 4 ​x 5                        + x 4 ​x 5 ​x 1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ​                   + x 5 ​x 1 ​x 2\n\n     is divisible by 3.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q04",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "4. There are real numbers a,b,c, and d such that −20 is a root of x 3 + ax + b and −21 is\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​   a root of x                3 + cx 2 + d. These two polynomials share a complex root m +  n                                                                                                                  ⋅ i,\n   where m and n are positive integers and i =  −1 ​. Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q05",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "几何",
+   "knowledge_point": "相似与全等",
+   "problem_type": "用相似或全等关系求长度或证明",
+   "search_text": "5. For positive real numbers s, let τ(s) denote the set of all obtuse triangles that have\n   area s and two sides with lengths 4 and 10. The set of all s for which τ(s) is nonempty,\n                                                                          2     2   but all triangles in τ(s) are congruent, is an interval [a, b). Find a + b .\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q06",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6. For any finite set S, let ∣S∣ denote the number of elements in S. Find the number of\n   ordered pairs (A, B) such that A and B are (not necessarily distinct) subsets of\n   {1, 2, 3, 4, 5} that satisfy\n\n                      ∣A∣⋅∣B∣= ∣A ∩B∣⋅∣A ∪B∣.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q07",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "代数",
+   "knowledge_point": "联立方程",
+   "problem_type": "联立条件求未知量",
+   "search_text": "7.  Let a,b,c, and d be real numbers that satisfy the system of equations\n\n                                a + b = −3,\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ​\n                             ab + bc + ca                         = −4,\n\n                          abc + bcd + cda + dab = 14,\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ​\n                                         abcd        ​ = 30.\n\n   There exist relatively prime positive integers m and n such that\n\n                         m                                       2     2     2     2                         a + b + c + d =        ​.\n                                     n\n\n   Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q08",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "8. An ant makes a sequence of moves on a cube where a move consists of walking from\n   one vertex to an adjacent vertex along an edge of the cube. Initially the ant is at a\n    vertex of the bottom face of the cube and chooses one of the three adjacent vertices\n   to move to as its first move. For all moves after the first move, the ant does not return\n\n   to its previous vertex, but chooses to move to one of the other two adjacent vertices.\n     All choices are selected at random so that each of the possible moves is equally likely.\n   The probability that after exactly 8 moves that ant is at a vertex of the top face on the\n       m   cube is     ​, where m and n are relatively prime positive integers. Find m + n.           n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q09",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "9.  Find the number of ordered pairs (m, n) such that m and n are positive integers in the\n                                      m          n   set {1, 2, … , 30} and the greatest common divisor of 2 + 1 and 2 − 1 is not 1.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q10",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "10. Two spheres with radii 36 and one sphere with radius 13 are each externally tangent to\n   the other two spheres and to two different planes P and Q. The intersection of planes\n  P and Q is the line ℓ. The distance from line ℓ to the point where the sphere with radius\n                          where m and n are relatively prime positive integers.   13 is tangent to plane P is mn ​,\n   Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q11",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "11. A teacher was leading a class of four perfectly logical students. The teacher chose a\n   set S of four integers and gave a different number in S to each student. Then the\n   teacher announced to the class that the numbers in S were four consecutive two-digit\n    positive integers, that some number in S was divisible by 6, and a different number in S\n   was divisible by 7. The teacher then asked if any of the students could deduce what S\n     is, but in unison, all of the students replied no.\n\n\n   However, upon hearing that all four students replied no, each student was able to\n   determine the elements of S. Find the sum of all possible values of the greatest\n   element of S.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q12",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "12. A convex quadrilateral has area 30 and side lengths 5,6,9, and 7, in that order. Denote\n   by θ the measure of the acute angle formed by the diagonals of the quadrilateral. Then\n                               where m and n are relatively prime positive   tan θ can be written in the form mn ​,\n    integers. Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q13",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "13. Find the least positive integer n for which 2 n + 5 n − n is a multiple of 1000.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q14",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "14. Let △ABC be an acute triangle with circumcenter O and centroid G. Let X be the\n    intersection of the line tangent to the circumcircle of △ABC at A and the line\n   perpendicular to GO at G. Let Y be the intersection of lines XG and BC. Given that\n   the measures of ∠ABC,∠BCA, and ∠XOY are in the ratio 13 : 2 : 17, the degree\n                          m   measure of ∠BAC can be written as     ​, where m and n are relatively prime positive                                      n\n    integers. Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2021ii-question_paper",
+   "year": 2021,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2021ii-question_paper__q15",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "15. Let f(n) and g(n) be functions satisfying\n\n                         f(n) =\n                                                                                                        if  n    ​ is                                  ​                                                                                          ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​         ​n                                                        an integer\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​  otherwise ​                 { 1 + f(n + 1)\n\n\n    and\n\n                          g(n) =\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​                                                                                                       if  n                                                                                                 is                                  ​                                                                                          ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​         ​n                                                        an integer\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​  otherwise ​                 { 2 + g(n + 2)\n\n                                                                              f(n)    4\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​      for positive integers n. Find the least positive integer n such that                                     =     ​.                                                                                  g(n)     7\n\n\n\n      Answer\n\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/aime/2021II/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2021 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-answers.pdf"
+    },
+    {
+     "title": "2021 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2021II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2021ii-question_paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2021ii-question_paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2021ii-question_paper__q15.md"
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "group": "mat-2025-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "mat-2025-mat-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2025-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "26X",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "Question 26 X\nThis question is about two diagrams.\nIn parts (i) and (ii) and (iii), we consider a diagram formed of eight points equally spaced\naround the unit circle, with each pair of points connected with a straight line segment,\nexcept for cases where the two points lie directly opposite each other.\n\nIn parts (iv) and (v), we will consider a new diagram formed of three separate collections\nof points named A, B, and C respectively.\nA contains 3 points, B contains 4 points, and C contains 5 points.\nEach point in A is connected with a straight line segment to each point in B.\nEach point in B is connected with a straight line segment to each point in C.\nEach point in C is connected with a straight line segment to each point in A.\nNo other pairs of points are connected with a straight line segment.\n\n  (i) How many line segments are there in the first diagram in total?  Explain your\n     answer.\n                                                            2 marks\n\n  (ii) A 3-star  is a collection of three distinct points, with each pair connected by a\n      straight line segment. How many 3-stars are there in the first diagram in total?\n     Explain your answer.                                        3 marks\n\n (iii) For n ≥4, an n-star is a collection of n distinct points, with each pair connected\n    by a straight line segment. For n = 4, 5, 6, 7, 8, how many n-stars are there in the\n       first diagram in total? Explain your answers.                      3 marks\n\n (iv) A new diagram is formed of three separate collections of points named A, B, and\n   C respectively. A contains 3 points, B contains 4 points, and C contains 5 points.\n\n    Each point in A is connected with a straight line segment to each point in B.\n\n    Each point in B is connected with a straight line segment to each point in C.\n\n    Each point in C is connected with a straight line segment to each point in A.\n\n    No other pairs of points are connected with a straight line segment.\n\n    How many 3-stars are there in this new diagram in total?  Justify your answer\n      carefully.                                                 3 marks\n\n (v) For n ≥2, an n-loop is a sequence of n distinct points with each point connected\n     to the next in sequence with a straight line segment, and with the last connected\n     to the first with a straight line segment.\n\n     For which values of n ≥4 does the new diagram described in part (iv) contain at\n      least one n-loop? Justify your answer.                           4 marks\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2025",
+     "url": "https://www.maths.ox.ac.uk/system/files/inline-files/websolutions25.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2025-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2025-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2025-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2025-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2025-mat-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2025-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "26Y",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "Question 26 Y\nLinear polynomials are functions of the form a + bx with a and b real numbers.\n\nGiven two linear polynomials, we define an operation  · as follows. To calculate\nf(x) · g(x), we multiply the polynomials as normal, but we ignore any x2 term.\n\nFor example, (1 −2x) · (3 −5x) = 3 −11x, because we are ignoring the 10x2 term.\n\n  (i) (a) Find the coefficients of (a+bx) · (c+dx) in terms of a, b, c, d, and explain why\n        f(x) · g(x) = g(x) · f(x) for all linear polynomials f(x) and g(x).\n\n     (b) Find a linear polynomial f(x) such that f(x) · (1 + 2x) = (3 + 4x).\n                                                            3 marks\n\n  (ii) A strictly increasing linear function f(x) has the property that if y > x then f(y) >\n     f(x).\n\n   A student claims that if f(x) and g(x) are both strictly increasing linear functions,\n     then so is f(x) · g(x).  Is the student correct?  If so, prove the student’s claim.\n     Otherwise, find a counterexample.\n                                                            2 marks\n\n (iii) Prove that\n                        (f(x) · g(x)) · h(x) = f(x) · (g(x) · h(x))\n\n      for all linear polynomials f(x) and g(x) and h(x).\n\n     [For the rest of the question, we will assume this result and write f(x) · g(x) · h(x)\n     to mean either expression above.]\n                                                            2 marks\n\n (iv) Let N be a whole number with N > 1. Find\n\n                 (1 + x) · (1 + 2x) · (1 + 3x) · (1 + 4x) · . . . · (1 + 2Nx).\n\n                                                            3 marks\n\n (v) Given that f(x) and g(x) are linear polynomials and f(x) · g(x) = 0, describe all\n      possibilities for the pair f(x) and g(x).                          2 marks\n\n (vi) Given that f(x) and g(x) and h(x) are linear polynomials and\n\n                                f(x) · g(x) · h(x) = 0,\n\n     prove that at least one of the following statements must be true;\n\n        (I) f(x) · g(x) = 0,\n\n       (II) g(x) · h(x) = 0,\n\n      (III) f(x) · h(x) = 0.\n\n     For each of the three statements, give examples of polynomials for which that\n     statement is true and the other two statements are false.             3 marks\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2025",
+     "url": "https://www.maths.ox.ac.uk/system/files/inline-files/websolutions25.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2025-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2025-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2025-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2025-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2025-mat-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2025-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "27X",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "Question 27 X\nIn this question we will write {1, 2, 4, 5} to mean the set containing the numbers 1, 2,\n4, and 5. The order of the numbers inside a set doesn’t matter, and the numbers in a\nset cannot be repeated. All the sets in this question contain whole numbers (positive, or\nzero, or negative).\n\nWe say that a set of whole numbers is nice if there is a number T such that the numbers\nin the set can be paired together so that each pair adds up to T.  If such a number T\nexists, we will call T a target for that set.\n\nFor example, the set {1, 2, 5, 6} is nice because we can take the target to be T = 7 and\npair the elements as 1 + 6 = 2 + 5. The set {1, 3, 4, 5} is not nice because there is no such\nnumber T.\n\nIn the second half of this question, we will imagine that each whole number is coloured\neither red or green, and we will look for nice sets with all numbers the same colour.\n\n  (i) Is the set {1, 2, 4, 5, 6, 9, 10, 11} nice? Justify your answer.            2 marks\n\n  (ii) Prove that for any nice set of six numbers, the total of those six numbers must be\n     a multiple of 3.                                             1 mark\n\n (iii) Now we consider infinite sets of whole numbers (for example, the set of all the\n      positive whole numbers).\n\n     Give examples to demonstrate that an infinitely large set of whole numbers might\n     have zero, exactly one, or more than one target(s).\n\n      Justify your answers, making it clear which is which.                6 marks\n\n (iv) Suppose that we want to find a nice set of two numbers that are the same colour.\n    By considering the possibilities for the colours of the numbers 1, 2, and 3, prove\n     such a set always exists.                                      1 mark\n\n (v) Suppose that we want to find a nice set of four numbers that are all the same colour.\n    By considering the possibilities for the colours of the numbers from 1 to 27 inclusive,\n     prove such a set always exists.\n\n      [Hint: consider {1, 2, 3}, {4, 5, 6}, ..., {25, 26, 27}.]                  5 marks\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2025",
+     "url": "https://www.maths.ox.ac.uk/system/files/inline-files/websolutions25.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2025-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2025-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2025-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2025-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2025-mat-question-paper",
+   "year": 2025,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2025-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "27Y",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "Question 27 Y\nAn office building has n meeting rooms numbered 1, 2,  . . . , n according to their size.\nMeeting room 1 only has space for one person, meeting room 2 has space for two people,\nand so on, up to meeting room n, which has space for n people.\n\nThe office has n teams, numbered 1, 2, . . . , n who call reception in that order one-by-one\nto book a meeting room. For i = 1, . . . , n, team i has size t(i), where t(i) is a whole\nnumber with 1 ≤t(i) ≤n. When team i calls reception, they are given the smallest\navailable meeting room among meeting rooms with size greater than or equal to t(i). If\nall these rooms have already been booked, then team i do not manage to book a meeting\nroom.\n\nWe represent the sizes of the teams using a list (t(1), t(2), . . . , t(n)). We call the list good\nif all teams manage to book a meeting room, and we write G(n) for the number of good\nlists of length n.\n\nFor example with n = 2, each of the lists (1, 1), (1, 2), (2, 1) is good because for each of\nthem both teams manage to make a booking, whereas the list (2, 2) is not good because\nthe first team takes meeting room 2 and then the second team doesn’t fit in the remaining\nmeeting room. We have G(2) = 3.\n\nFrom part (iii) onwards, we will define F(n, k) to be the number of good lists of length\nn which result in team n booking room k.\n\n  (i) For n = 3, explain why the list (2, 1, 1) is good, but the list (2, 2, 2) is not good.\n                                                            2 marks\n\n  (ii) For n = 3, there are 16 good lists, so G(3) = 16.  List all of them, starting with\n    good lists with t(1) = 1, then good lists with t(1) = 2, and then good lists with\n      t(1) = 3.                                                 3 marks\n\n (iii) For k = 1, . . . , n, let F(n, k) be the number of good lists of length n which result\n      in team n booking room k.\n\n     Explain why F(n, k) is a multiple of k.                          2 marks\n\n (iv) Describe the relationship between G(n) and F(n, 1), F(n, 2), . . . , F(n, n).\n                                                             1 mark\n\n (v) Explain why F(4, 1) = G(3) and F(4, 4) = 4 × G(3).                3 marks\n\n (vi) Find the values of F(4, 2) and F(4, 3). Explain your answers in each case.\n    Hence find the value of G(4).                                  4 marks\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2025",
+     "url": "https://www.maths.ox.ac.uk/system/files/inline-files/websolutions25.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2025-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2025-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2025-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2025-mat-question-paper__q04.md"
+  }
+ ]
+}

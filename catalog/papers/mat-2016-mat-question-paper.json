@@ -1,0 +1,337 @@
+{
+ "group": "mat-2016-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2016-mat-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2016-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "1. For ALL APPLICANTS.\n\n   For each part of the question on pages 3-7 you will be given ﬁve possible answers,\njust one of which is correct. Indicate for each part A-J which answer (a), (b), (c), (d),\nor (e) you think is correct with a tick (!)  in the corresponding column in the table\nbelow. Please show any rough working in the space provided between the parts.\n\n\n\n\n                         (a)          (b)           (c)          (d)           (e)\n\n\n\n      A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n       E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n         J\n\n\n\n\n\n                                      2\n\nA. A sequence (an) has ﬁrst term a1 = 1, and subsequent terms deﬁned by an+1 = lan\nfor n ⩾1. What is the product of the ﬁrst 15 terms of the sequence?\n\n                                     1 −l15\n          (a)   l14,   (b)  15 + l14,   (c)               ,   (d)   l105,   (e)  15 + l105.\n                                     1 −l\n\n\n\n\n\nB. An irregular hexagon with all sides of equal length is placed inside a square of side\nlength 1, as shown below (not to scale). What is the length of one of the hexagon sides?\n\n\n\n\n\n                                √\n       √          √                       2        √\n        (a)    2 −1,     (b)  2 −   2,     (c)   1,     (d)         ,     (e)  2 +   2.\n                                                       2\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      3\n\nC. The origin lies inside the circle with equation\n\n                               x2 + ax + y2 + by = c\n\nprecisely when\n\n(a)  c > 0,     (b)  a2+b2 > c,     (c)  a2+b2 < c,     (d)  a2+b2 > 4c,     (e)  a2+b2 < 4c.\n\n\n\n\n\nD. How many solutions does cosn(x) + cos2n(x) = 0 have in the range 0 ⩽x ⩽2π for\nan integer n ⩾1?\n\n     (a)      1 for all n,     (b)    2 for all n,     (c)    3 for all n,\n    (d)      2 for even n and 3 for odd n,     (e)    3 for even n and 2 for odd n.\n\n\n\n\n\n                                      4\n\nE. The graph of y = (x −1)2 −cos(πx) is drawn in\n\n\n\n\n\n               (a)                             (b)                                (c)\n\n\n\n\n\n               (d)                                (e)\n\n\n\nF. Let n be a positive integer. Then x2 + 1 is a factor of\n\n                            (3 + x4)n −(x2 + 3)n(x2 −1)n\n\nfor\n\n (a)   all n,     (b)  even n,     (c)  odd n,     (d)  n ⩾3,     (e)  no values of n.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      5\n\nG. The sequence (xn), where n ⩾0, is deﬁned by x0 = 1 and\n\n\n                                   n−1\n                           xn =    xk     for n ⩾1.\n\n                                    k=0\n\nThe sum\n                         ∞\n                                       1\n                                         xk\n                                        k=0\nequals\n                            6          8                    27\n               (a)   1,     (b)   5,     (c)   5,     (d)   3,     (e)   5 .\n\n\n\n\n\nH.  Consider two functions\n\n                               f(x) = a −x2\n                                g(x) = x4 −a.\n\nFor precisely which values of a > 0 is the area of the region bounded by the x-axis and\nthe curve y = f(x) bigger than the area of the region bounded by the x-axis and the\ncurve y = g(x)?\n\n                                                              6\n            (a)        all values of a,     (b)    a > 1,     (c)    a > 5,\n                                           3\n                        4   2                 6  4\n           (d)     a >            ,     (e)    a >           .\n                        3                    5\n\n\n\n\n\n                                      6\n\nI. Let a and b be positive real numbers. If x2 + y2 ⩽1 then the largest that ax + by can\nequal is\n\n     1  1                √\n(a)  +       (b)  max(a, b),     (c)    a2 + b2,     (d)  a+b,     (e)  a2+ab+b2.     a   b,\n\n\n\n\n\nJ. Let n > 1 be an integer. Let Π(n) denote the number of distinct prime factors of n\nand let x(n) denote the ﬁnal digit of n. For example, Π(8) = 1 and Π(6) = 2. Which of\nthe following statements is false?\n\n    (a)      If Π(n) = 1, there are some values of x(n) that mean n cannot be prime,\n    (b)      If Π(n) = 1, there are some values of x(n) that mean n must be prime,\n     (c)      If Π(n) = 1, there are values of x(n) which are impossible,\n    (d)      If Π(n) + x(n) = 2, we cannot tell if n is prime,\n     (e)      If Π(n) = 2, all values of x(n) are possible.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2016",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions16%20v2_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2016-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2016-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2016-mat-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2016-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. For ALL APPLICANTS.\n\n   Let\n                      A(x) = 2x + 1,    B(x) = 3x + 2.\n\n(i) Show that A(B(x)) = B(A(x)).\n\n(ii) Let n be a positive integer. Determine An(x) where\n\n                         An(x) = A(A(A · · · A(x) · · · ).\n\n                                         n times\n\nPut your answer in the simplest form possible.\n\n  A function F(x) = 108x + c (where c is a positive integer) is produced by repeatedly\napplying the functions A(x) and B(x) in some order.\n\n(iii) In how many diﬀerent orders can A(x) and B(x) be applied to produce F(x)?\nJustify your answer.\n\n(iv) What are the possible values of c? Justify your answer.\n\n(v) Are there positive integers m1, . . . , mk, n1, . . . , nk such that\n\n       Am1Bn1(x) + Am2Bn2(x) + · · · + AmkBnk(x) = 214x + 92     for all x?\n\nJustify your answer.\n\n\n\n\n\n                                      8\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                             9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2016",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions16%20v2_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2016-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2016-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2016-mat-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2016-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "3.           ⎧                          ⎫\n            ⎪ MATHEMATICS                ⎪            ⎪                          ⎪            ⎨                          ⎬\n                MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n            ⎪ MATHEMATICS & PHILOSOPHY      ⎪            ⎪                          ⎪            ⎩                          ⎭\n                MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science and Computer Science & Philosophy applicants should turn to\npage 14.\n\n   In this question we ﬁx a real number α which will be the same throughout. We say\nthat a function f is bilateral if\n\n                               f(x) = f(2α −x)\n\nfor all x.\n\n(i) Show that if f(x) = (x −α)2 for all x then the function f is bilateral.\n\n(ii) On the other hand show that if f(x) = x −α for all x then the function f is not\nbilateral.\n\n(iii) Show that if n is a non-negative integer and a and b are any real numbers then\n\n                                                b                a\n                              xn dx = −    xn dx.\n                                     a                   b\n\n\n(iv) Hence show that if f is a polynomial (and a and b are any reals) then\n\n\n                                             b                  a\n                             f(x) dx = −    f(x) dx.\n                                   a                      b\n\n\n(v) Suppose that f is any bilateral function. By considering the area under the graph\nof y = f(x) explain why for any t ⩾α we have\n\n                                                     t             α\n                              f(x) dx =      f(x) dx.\n                             α              2α−t\n\n\n     If f is a function then we write G for the function deﬁned by\n\n                                                                          t\n                               G(t) =    f(x) dx\n                                         α\nfor all t.\n\n(vi) Suppose now that f is any bilateral polynomial. Show that\n\n                               G(t) = −G(2α −t)\n\nfor all t.\n\n(vii) Suppose f is a bilateral polynomial such that G is also bilateral. Show that G(x) = 0\nfor all x.\n\n                                     10\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            11\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2016",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions16%20v2_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2016-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2016-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2016-mat-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2016-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "从圆的方程或几何条件求圆与直线关系",
+   "search_text": "4.            ⎧                     ⎫\n             ⎨ MATHEMATICS           ⎬\nFor APPLICANTS IN                MATHEMATICS & STATISTICS  ⎭ONLY.             ⎩\n                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 14.\n\n   The line l passes through the origin at angle 2α above the x-axis, where 2α < π2.\n\n        y\n                                                                                                                 l\n\n\n\n\n\n            2α\n                                                           x\n\nCircles C1 of radius 1 and C2 of radius 3 are drawn between  l and the x-axis, just\ntouching both lines.\n\n(i) What is the centre of circle C1?\n\n(ii) What is the equation of circle C1?\n\n(iii) For what value of α do circles C1 and C2 touch?\n\n(iv) For this value of α (for which the circles C1 and C2 touch) a third circle, C3, larger\nthan C2, is to be drawn between l and the x-axis. C3 just touches both lines and also\ntouches C2. What is the radius of this circle C3?\n\n(v) For the same value of α, what is the area of the region bounded by the x-axis and\nthe circles C1 and C2?\n\n\n\n\n\n                                     12\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            13\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2016",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions16%20v2_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2016-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2016-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2016-mat-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2016-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For ALL APPLICANTS.\n\n   This question concerns the sum sn deﬁned by\n\n                            sn = 2 + 8 + 24 + · · · + n2n.\n\n(i) Let f(n) = (An + B)2n + C for constants A, B and C yet to be determined, and\nsuppose sn = f(n) for all n ⩾1. By setting n = 1, 2, 3, ﬁnd three equations that must\nbe satisﬁed by A, B and C.\n\n(ii) Solve the equations from part (i) to obtain values for A, B and C.\n\n(iii) Using these values, show that if sk = f(k) for some k ⩾1 then sk+1 = f(k + 1).\n\n   You may now assume that f(n) = sn for all n ⩾1.\n\n(iv) Find simpliﬁed expressions for the following sums:\n\n                  tn = n + 2(n −1) + 4(n −2) + 8(n −3) + · · · + 2n−11,\n                   1   2   3       n\n              un =  + + + · · · +                   2   4   8         2n.\n\n\n\n(v) Find the sum\n                                         n\n                                                 sk.\n\n                                        k=1\n\n\n\n\n\n                                     14\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2016",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions16%20v2_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2016-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2016-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2016-mat-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2016-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6.           ⎧                          ⎫\n            ⎨ COMPUTER SCIENCE            ⎬\nFor APPLICANTS IN                MATHEMATICS & COMPUTER SCIENCE ⎭ONLY.            ⎩\n               COMPUTER SCIENCE & PHILOSOPHY\n\n\n                 A A                  B B\n\n\n\n\n\n                D D                  C C\n\n   Four people A, B, C, D are performing a dance, holding hands in the arrangement\nshown above. Each dancer is assigned a 1 or a 0 to determine their steps, and there\nmust always be at least a 1 and a 0 in the group of dancers (dancers cannot all dance\nthe same kind of steps). A dancer is oﬀ-beat if their assigned number plus the numbers\nassigned to the people holding hands with them is odd. The entire dance is an oﬀ-beat\ndance if every dancer is oﬀ-beat.\n\n(i) In how many ways can the four dancers perform an oﬀ-beat dance? Explain your\nanswer.\n\n  A new dance starts and two more people, E and F, join the dance such that each\ndancer holds hands with their neighbours to form a ring.\n\n(ii) In how many ways can the ring of six dancers perform an oﬀ-beat dance? Explain\nyour answer.\n\n(iii) In a ring of n dancers explain why an oﬀ-beat dance can only occur if n is a multiple\nof 3.\n\n(iv) For a new dance a ring of n > 4 dancers, each holds hands with dancers one person\naway from them round the ring (so C holds hands with A and E and D holds hands\nwith B and F and so on). For which values of n can the dance be oﬀ-beat?\n\n  On another planet the alien inhabitants have three (extendible) arms and still like\nto dance according to the rules above.\n\n(v) If four aliens dance, each holding hands with each other, how many ways can they\nperform an oﬀ-beat dance?\n\n(vi) Six aliens standing in a ring perform a new dance where each alien holds hands with\ntheir direct neighbours and the alien opposite them in the ring. In how many ways can\nthey perform an oﬀ-beat dance?\n\n\n                                     16\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            17\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2016",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions16%20v2_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2016-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2016-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2016-mat-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2016-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7.\n              COMPUTER SCIENCE\nFor APPLICANTS IN                                   ONLY.\n              COMPUTER SCIENCE & PHILOSOPHY\n\n  An n-fan consists of a row of n points, the tips, in a straight line, together with\nanother point, the hub, that is not on the line. The n tips are joined to each other and\nto the hub with line segments. For example, the left-hand picture here shows a 6-fan,\n\n\n\n\n\nFor a given n-fan, an n-span is a subset containing all n + 1 points and exactly n of the\nline segments, chosen so that all the points are connected together, with a unique path\nbetween any two points. The right-hand picture shows one of many 6-spans obtained\nfrom the given 6-fan; in this 6-span, the tips are in “groups” of 3, 1 and 2, with the top\n“group” containing 3 tips.\n\n  (i) Draw all three 2-spans.\n\n  (ii) Draw all 3-spans.\n\n (iii) By considering the possible sizes of the top group of tips and how the group is\n     connected to the hub, calculate the number of 4-spans.\n\n (iv) For n ⩾1 let zn denote the number of n-spans. Give an expression for zn in terms\n      of zk, where 1 ⩽k < n. Use this expression to show that z5 = 55.\n\n (v) Use this relationship to calculate z6.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2016",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions16%20v2_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2016-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2016-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2016-mat-question-paper__q07.md"
+  }
+ ]
+}

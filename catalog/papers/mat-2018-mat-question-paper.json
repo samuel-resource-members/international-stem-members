@@ -1,0 +1,337 @@
+{
+ "group": "mat-2018-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2018-mat-question-paper",
+   "year": 2018,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2018-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "1. For ALL APPLICANTS.\nFor each part of the question on pages 3-7 you will be given five possible answers, just\none of which is correct. Indicate for each part A-J which answer (a), (b), (c), (d), or\n(c) you think is correct with a tick (V) in the corresponding column in the table below.\nPlease show any rough working in the space provided between the parts.\n\nA. The area of the region bounded by the curve y = y/7, the line y = x — 2 and the\na-axis equals\ndo] or\n_\n&\nD>\n—\n_\noS\n&\n&\nNn\nw\n|\n|\nB. The function y = e** satisfies the equation\ndy dy dy dy\n(a ae) ar 9) > \"ae\n(a) no values of k,\n(b) exactly one value of k,\n(c) exactly two distinct values of k,\n(d) exactly three distinct values of k,\n(e) infinitely many distinct values of k.\n\nC. Let a,b,¢ and d be real numbers. The two curves y = ax? +c and y = ba? +d have\nexactly two points of intersection precisely when\n(a) 3 <1, (b) 3 < 7 (c) a<b, (d) c<d, (e) (d—c)(a—b) > 0.\nD. If f(x) = 2? — 5a +7, what are the coordinates of the minimum of y = f(a — 2)?\n\nE. A circle of radius 2, centred on the origin, is drawn on a grid of points with integer\ncoordinates. Let n be the number of grid points that lie within or on the circle. What\nis the smallest amount the radius needs to increase by for there to be 2n — 5 grid points\nwithin or on the circle?\n(a) V5—-2, (b) V6-2, (ce) V8-2, (da) 1, (ce) VB\nF. A particle moves in the xy-plane, starting at the origin (0,0). At each turn, the\nparticle may move in one of two ways:\ne it may move two to the right and one up, that is, it may be translated by the\nvector (2,1), or\ne it may move one to the right and two up, that is, it may be translated by the\nvector (1,2).\nWhat is the closest the particle may come to the point (25,75)?\n(a) 0, (b) 5V5, (ec) 2V53, — (d)- 25, (e)- 35.\n\nG. The parabolas with equations y = x?+c and y? = x touch (that is, meet tangentially)\nat a single point. It follows that c equals\nH. Two triangles S and 7 are inscribed in a circle, as shown in the diagram below.\nThe triangles have respective areas s and ¢ and S is the smaller triangle so that s < t.\nThe smallest value that\n4 +f?\n5st\ncan equal is\n2 3 4 3\n\nI. A sketch of the curve\n(a® + 4yx® + 6y?at + 4y%x? + y')? = 1\nis given below in\n(a) +;\n(d) Kk\nJ. Which of the following could be the sketch of a curve\nP(x) + p(y) = 0\nfor some polynomial p?\nA B Cc\ny y y\na) A and D, but not B or C;\n(\n(\nb) A and B, but not C or D;\n(\nc) C and D, but not A or B;\n(\nd) A, C and D, but not B;\n(e) A, B and C, but not D.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2018",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions18_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2018-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2018-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2018-mat-question-paper",
+   "year": 2018,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2018-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "描述变换或画变换后的图像",
+   "search_text": "2. For ALL APPLICANTS.\nLet S and T denote transformations of the ay-plane\nS(z,y)=(e@+1,y),  T(a,y) = (-y, 2).\nWe will write, for example, 7S to denote the composition of applying S then T, that is\nTS(a,y) = T(S(x,y)),\nand write T” to denote n applications of T where n is a positive integer.\n(i) Show that TS(x,y) # ST (x,y).\n(ii) For what values of n is it the case that T(x, y) = (a, y) for all x,y?\n(iii) Show that applications of S and T in some order can produce the transformation\nU(a,y) = (w—1,y).\nWhat is the least number of applications (of S and T in total) that can produce U?\nJustify your answer.\n(iv) Show that for any integers a and b there is some sequence of applications of S and\nT that maps (0,0) to (a, 6).\n(v) The parabola C has equation y = x? + 2x7 + 2.\nWhat is the equation of the curve obtained by applying S to C?\nWhat is the equation of the curve obtained by applying T to C?\n\nIf you require additional space please use the pages at the end of the booklet\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2018",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions18_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2018-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2018-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2018-mat-question-paper",
+   "year": 2018,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2018-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "MATHEMATICS\nMATHEMATICS & STATISTICS\nFor APPLICANTSIN 9 \\taTHEMATICS & PHILOSOPHY ONLY.\nMATHEMATICS & COMPUTER SCIENCE\nComputer Science and Computer Science & Philosophy applicants should turn to\nLet g(x) be the function defined by\n(c-1)+1 if >0\ng(x) = >.\n3-(a@4+1)? ifa<0\nand for « 4 0 write m(x) for the gradient of the chord between (0, 9(0)) and (x, g(x)).\n(i) Sketch the graph y = g(x) for -3 <4 <3.\n(ii) Write down expressions for m(x) in the two cases x > 0 and x < 0.\n(iii) Show that m(a) + 2 = « for x > 0. What is the value of m(x) + 2 when x < 0?\n(iv) Explain why g has derivative —2 at 0.\n(v) Suppose that p < q and that A(x) is a cubic with a maximum at x = p anda\nminimum at z = q. Show that h(x) < 0 whenever p < x < q.\nSuppose that c and d are real numbers and that there is a cubic h(x) with a maximum\nat x = —1 and a minimum at x = 1 such that h’(0) = —3c and h(0) = d.\n(vi) Show that c > 0 and find a formula for h(x) in terms of ¢ and d (and 2).\n(vii) Show that there are no values of c and d such that the graphs of y = g(x) and\ny = h(a) are the same for -3 <x <3.\n10\n\nIf you require additional space please use the pages at the end of the booklet\n11\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2018",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions18_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2018-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2018-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2018-mat-question-paper",
+   "year": 2018,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2018-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "A.\nMATHEMATICS\nFor APPLICANTS IN « MATHEMATICS & STATISTICS ONLY.\nMATHEMATICS & PHILOSOPHY\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 14.\nConsider two circles S and S centred at A and B and with radii V6 and V3 — 1,\nrespectively. Suppose that the two circles intersect at two distinct points C and D.\nSuppose further that the two centres A and B are of distance 2 apart. The sketch below\nis not to scale.\n(i) Find the angle ZC.BA, and deduce that A and B lie on the same side of the line CD.\n(ii) Show that CD has length 3 — V3 and hence calculate the angle ZCAD.\n(iii) Show that the area of the region lying inside the circle Sy and outside of the circle\nS; (that is the shaded region in the picture) is equal to\n< (5 — 4V3) +3 v3.\n(iv) Suppose that a line through C is drawn such that the total area covered by S; and\nSo is split into two equal areas. Let F be the intersection of this line with S$; and x\ndenote the angle ZCAF. You may assume that F lies on the larger arc C'D of S,. Write\ndown an equation which x satisfies and explain why there is a unique solution x.\n12\n\nIf you require additional space please use the pages at the end of the booklet\n13\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2018",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions18_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2018-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2018-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2018-mat-question-paper",
+   "year": 2018,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2018-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "利用指数或对数关系求未知量",
+   "search_text": "5. For ALL APPLICANTS.\nLet n be a positive integer. An n-brick is a rectangle of height 1 and width n. A 1-tower\nis defined as a 1-brick. An n-tower, for n > 2, is defined as an n-brick on top of which\nexactly two other towers are stacked: a ky-tower and a kg-tower such that 1 < ky <n—-1\nand ky + ky =n. The k,-tower is placed to the left of the k2-tower so that side-by-side\nthey fit exactly on top of the n-brick. For example, here is a 4-tower:\n1} 1\n(i) Draw the four other 4-towers.\n(ii) What is the maximum height of an n-tower? Justify your answer.\n(iii) The area of a tower is defined as the sum of the widths of its bricks. For example,\nthe 4-tower drawn above has area 4+ 4+3-+2= 13. Give an expression for the area of\nan n-tower of maximum height.\n(iv) Show that there are infinitely many n such that there is an n-tower of height exactly\n1+ log, n.\n(v) Write ¢,, for the number of n-towers. We have t; = 1. For n > 2 give a formula for ¢,,\nin terms of t, for k <n. Use your formula to compute tg.\n(vi) Show that ¢, is odd if and only if ta, is odd.\n14\n\nIf you require additional space please use the pages at the end of the booklet\n15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2018",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions18_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2018-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2018-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2018-mat-question-paper",
+   "year": 2018,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2018-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6.\nCOMPUTER SCIENCE\nFor APPLICANTS IN ¢ MATHEMATICS & COMPUTER SCIENCE\nONLY.\nCOMPUTER SCIENCE & PHILOSOPHY\nA positive rational number q is expressed in friendly form if it is written as a finite sum\nof reciprocals of distinct positive integers. For example, 4 = 4 + ; + %\n52\ni “ess > fi ing srs in frie form: 2. 2. 23\n(i) Express the following numbers in friendly form: 3, 3, 35-\n(ii) Let q be a rational number with 0 < q < 1, and m be the smallest natural number\na 1 c\nsuch than — < q. Suppose g = 3 and g-— = q in their lowest terms. Show\nm m\nthat c <a.\n(iii) Suggest a procedure by which any rational g with 0 < q < 1 can be expressed in\nfriendly form. Use the result in part (ii) to show that the procedure always works,\ngenerating distinct reciprocals and finishing within a finite time.\n(iv) Demonstrate your procedure by finding a friendly form for a\n1\n(v) Assuming that aan — increases without bound as N becomes large, show that\nevery positive rational number can be expressed in friendly form.\n16\n\nIf you require additional space please use the pages at the end of the booklet\n17\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2018",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions18_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2018-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2018-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2018-mat-question-paper",
+   "year": 2018,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2018-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7.\nFor APPLICANTS IN { COMPUTER SCIENCE\nCOMPUTER SCIENCE & PHILOSOPHY \\ ONLY.\nA character in a video game is collecting the magic coins that are attached to a cliff face.\nThe character starts at the bottom left corner S and must reach the top right corner\nEF. One point is scored for each coin C that is collected on the way, and the aim is to\nreach the top right corner with the highest possible score. At each step the character\nmay move either one cell to the right or one cell up, but never down or to the left.\n8 C E\nC\nCc Cc Cc\n. C\nJ\nCc \\c\nC\nCc\n1s C C\n1 8\ni\n(i) Let c(i, 7) = 1if there is a coin at position (7,7), and c(7, 7) = 0 otherwise. Describe\nhow the maximum score m(i, 7) achievable on reaching position (i, 7), where i > 2\nand j > 2, can be determined in terms of the maximum scores m(i,j7 — 1) and\nm(i — 1,7) achievable at the positions immediate below and to the left. Briefly\njustify your answer.\n(ii) Use the result from part (i) to fill in cach cell in the diagram above to show the\nmaximum score achievable on reaching that cell. What is the maximum score\nachievable in the game? A spare copy of the diagram appears at the end of the\nquestion.\n(iii) Given the array of scores m(i, j), describe a method for tracing backwards from EF\nto S a path that, if followed in a forward direction by the character, would achieve\nthe maximum score. Draw one such path across the cliff.\n(iv) With the pattern of coins shown, how many different paths from S to FE achieve\nthe maximum score? Describe a method for computing the number of such paths.\n18\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2018",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions18_2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2018-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2018-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2018-mat-question-paper__q07.md"
+  }
+ ]
+}

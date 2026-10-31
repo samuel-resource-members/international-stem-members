@@ -1,0 +1,488 @@
+{
+ "group": "hkdse-m1-2025-pm1-en-qp",
+ "course_id": "DSE-M1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 12,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q01",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "3\n1. Let & be aconstant. The probability function of a discrete random variable X is P(X =x) -= 3\nwhere x=1, 3,9.\n(a) Find k.\n(b) Let X be the mean of 100 independent random observations of X. Find E(X) and Var(X) .\n(7 marks)\nno? ks)P 13\n3°\na) 3° 33 ht =|\nkK 729K\n3 + k+ Jaess = t\n656i k+ tAbS3K+IZAK= 19683\n21\nke 37\n—_ 2 aL\nb) EQD= loox (1x4 +3xae+ 4x 31)\n34 ihe)\n= 3a\nyor UR) = SS fee 1-H) +3 U-) 4 9x - )\nOo - 7 +\n= 2162. 454346\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q01"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q01/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q01/question.pdf",
+     "bytes": 154377,
+     "sha256": "5215006c52874747fe5344310537093073b82ebda85ffbbbe0737efc7dcb3f8f",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q02",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "概率分布",
+   "knowledge_point": "二项分布",
+   "problem_type": "用固定次数独立试验模型求概率",
+   "search_text": "2. Let Y bea discrete random variable with its probability function P(Y = y) , where y=0, 1, 2, 3. Itis\ngiven that Y follows a binomial distribution with a probability of success p in each trial\nand P(Y =0)=0.027 .\n(a) Find p.\n(b) Find Var(3Y-1) .\n(5 marks)\na) CB cPy (=p) =0-521\nCe py #02027\n[pt Ov]:\nb> EW): ox ort [xolSTt 2x 044+ 3x0 .343\n= 2.|\nELY*) 207 002T + 17 0189+ De OMY Lt 3% 0.343\n= S04\nVar (X)= 5.04 - 2.5?\n= 0-63\nYar (3¥-1)\n= 4x 0-b3\n75.6]\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q02"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q02/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q02/question.pdf",
+     "bytes": 206827,
+     "sha256": "07d45f554c6a5044cf327f09e8e4ec7ecaf0092ab7e012083a0c21472bff1323",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q03",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "统计推断",
+   "knowledge_point": "参数估计",
+   "problem_type": "求或解释置信区间与估计",
+   "search_text": "3. The time spent by each visitor in a park follows a probability distribution with a mean of 4 hours. A random\nsample of 49 visitors is drawn from the park. A constructed 95% confidence interval for 4 using the\nsample mean and the sample standard deviation is (4.362, 5.538)\n(a) Find the sample standard deviation.\n(b) Another random sample of _36 visitors is drawn from the park. The sample mean and the sample\nstandard deviation of this sample are_5 fours and _1.8 hours respectively. The two samples are\ncombined. Construct a 90% confidence interval for 4s using the combined sample.\n[Hint: The sample standard deviation is fals x? — nx?\na n\nn-\\\\4q\n(7 marks)\n4.3624 5-538\na) Sample_mean\n2\n4.945\n\"\nLet 6 be the standorck eviction\na\n495-1 1bX fq = 4,362\n6.22:)\nHOX4.9S+ 36x5\nb) hew Sample. means 44436.\n= 4. 447\nJa (5 xi7~ any. 95)? ) 2 tl\nEX” = 142.3025\nJag (x? anu = 18\nLa 42\nEX fo 13.4\nnew standard deviation\n- Jame pia 3025 4 oleh) = (4A436) (4.471 7641!)\n= 4, 88334450]\n\n90%o__ Confidente\ninterval\n4883344501 Y SESSH45 07\n= (49 TN THT - LOYSX ~ faaege > HA TUTOAT + 14S X ” Suege\n= (4.0999, 5.8425)\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q03"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q03/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q03/question.pdf",
+     "bytes": 260165,
+     "sha256": "84b3fd31730da5f5058501e8bdc3a44d17e58e09d4ce6a259a4af681fceab343",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q04",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "4, Let A and B be two events. It is given that P(A)=P(B| A)+0.1 and 0.02+P(AMB)<0.4P(B| A) .\n(a) Find the range of values of P(A) .\n(b) Are A and B mutually exclusive ? Explain your answer.\n(c) Suppose that P(A)=0.25 . If A and B are independent, find P(AUB) .\n(6 marks)\na) PLA}: PCBIA) +o.1\nPUN) = PRS so «)\nPpeAY? = PLAABY to} PLA)\n0:02 + PLANB) $0.4 PLBIA)\no.p2 +IPUA\\*-0.1P(A)] £ o-4(PLAY-o) 2\n02+ PLA) -0:1PLA) ¢ 0-4PLIA)- 0.04\nPUR) *-0 5PUA) + 0.06 $0\n0.2 $ PLAY £0.3\nb> puna) = PLA) - ot PLAY\n70\n»A_ond Bove not. mutually exclusive.\nc) PLARB)= 0.25. = o.|xoirS\n= 6.0315\nA_and Bore independent\nPUR) PLBY= PLAABY\nPLBY= o1tS\nPin RYE 0:25 + OS - 0.0375\n= 0.3625\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q04"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q04/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q04/question.pdf",
+     "bytes": 163648,
+     "sha256": "d479037d76ffd181196ff4f18acab9395c78e115d34c92987c26765e5894d2bf",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q05",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "5. Define f(x)=xe*? , viey2)\n1\n(a) Find f(x).\n(b) Is there only one horizontal tangent to the graph of y=f(x) ? Explain your answer.\na (5 marks)\na) FOU: Xe\nfoo: xle**- - Gap | +e”\ncere ret\n— x\n> 7G-2y & +e\nb) fd =0\n7 Gea b* + e* 20\nxz x rot\ne* = (a-2zy &\n(A-2) =X\nwe Hy eX\nw= Bx theo\nLoe 4) (X-1)=0\n={ or 4\n“there is 2 hovizonta| Tangent\ncr .No-\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q05"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q05/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q05/question.pdf",
+     "bytes": 203243,
+     "sha256": "d30510e0d5bd09ab80250770baf5017c911eff0e71cf88d1fcc01b8f09bee67c",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q06",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "代数",
+   "knowledge_point": "二项式展开",
+   "problem_type": "求展开式的系数或指定项",
+   "search_text": "6. Let k bea positive constant.\nke\n(a) Expand 2 in ascending powers of x as far as the term in x? .\nex _y4\n(b) Let y= = itis given that the coefficient of x? in the expansion of (2-x) is 320.\n125 —— y —\n(i) Find k.\n(ii) | Express Iny asa linear function of x. Find the intercept on the horizontal axis of the graph\neee\n- of this linear function.\nak 5 (6 marks)\nale y St 2s\nCc\ncy (- &Y! cS}\n= Or + aT + ti. dny= 15X- Qni25\n2, ee, Be\nISxt Lni25\n(2-x)+ Lw irs\nbi) gem A= IS\niz\nGait\na had\n5\nTe\n=5(2-ayte °\n= HL ckeay ays ayl-ay'e CHCA. IL Be ed\nka KR\n=5CG-32%4 oe Cle St ete)\nwa Bt\n= (go-1bo xt 120974... SCI-\nBt 18 te.)\ncoefficient of a*= 320\nBok? —Ibols\nTTS 7 a + !20 = 320\nBok*~ Abok + 2bo= STho\ngok7- ook - 3bo0=0\nkes 15 oy 3 Crel-)\nWw\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q06"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q06/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q06/question.pdf",
+     "bytes": 166969,
+     "sha256": "406993a2a3e2f5775ff9898f354e1c3b309aecf1f53dd30853925386bc60016a",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q07",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "积分",
+   "knowledge_point": "分部积分",
+   "problem_type": "选择分部积分并求积分",
+   "search_text": "7. Let m bea positive constant.\n(a) By considering Sem nx) , express fem Inx dx interms of m.\n—_\n(b) | Consider the curve C: y=x”Inx , where x>0. It is given that the area of the region bounded\n3m+1\nby C, the x-axis and the straight line x = e is T°\nFind the exact value of m.\n(m+1)\n(6 marks)\na) = (x™*'2 nx)\n=e sr + Any omer\npee\nne\n= SU cmt) ou Dnt\nanay= f+ omen nx ole\n= fx™ax + ome) [xe ane lt\ncnt) Sx\" Ang daz ot ann) = S20\" hx\nm+ mt ~\nOt dn) = HS\nCU* Qnx) ~ ae\nJa” nx dx = met +¢\n™ =\ni. ry +\n- Pa Tee yn\"! os\nene maim |)\nb) when Y=O , +!\ne m 3Bm+ |\nas Si x Anx = cman}\n[amie xml Sm+ | he\nm1 tens n: \\ > (oman\nioe = “Umti)imn= fama |: [=- rons wd = cmt?\nems! 71 3m+t\nen*' gmt 3mt!\net) oatemey) came) = ot)?\ne™*! emt ay sm-~\\\nOt oso = met)\ne™t(may)-e\"! -1 . 3m t\nC(M+1)2 EM=1) =_tm+t1)?\neM cmery- en! -t = (Bmel Om=t)\ncmtoom=1) - mer): = lw (Bs 2m-t)\nmis dart = dn(3m -2m-t)\nm-m = Ly 3m7-amM-t) met oo\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q07"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q07/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q07/question.pdf",
+     "bytes": 246024,
+     "sha256": "f7571d8989c846f616593ad55716d6c00b222e9b96705fc1ed2c750cef4590e8",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q08",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "8. Consider the curve [: y = a(x—1)) +5(x-1)? +cx+2 , where a, b and c are constants. It is given that\nthere is a maximum point of Fat x=1.\n————\n(a) Find c.\n(b) It is given that the y-intercept of [is 1 and ab=6.\n(i) Someone claims that there are two possible values of a. Do you agree? Explain your answer.\n(ii) Find the other extreme point(s) of I”.\n(8 marks)\na) yt a(ami) 4b x-1) +042\nrn\nHe = Ba(X-1)4 ab X04 C.\nBlast =o\nC=O ane)\nbi) YE Qb-1ys bUy 42\nciwhen X=0 , Y= l\nI= alo~1)° + blo-1) \"+2\nIz -ath +2\na-b=!\n6\nab=6 , bea\n&\nAra =!\na-b2a\na*-a-b=0\n(a-3)(4t2]=0\nA=3 or -2\nYes\n\nbil) when -when a: 3, d=2\na\na = 4la-1)*4 60x-1)\n= 4. 2xtt) + 6x-6\n= 9x7- 18x 4% + bx-6\n= Ax*= (2443\n> 3Bx7- 4x44\noli\n=0\n327- Hx =0\n4\nA> Bor |\n4 attains “its minimum ot 4 3\niwi 72 . =\na\n“_efreme point (CS. 2)\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q08"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q08/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q08/question.pdf",
+     "bytes": 253265,
+     "sha256": "7a440af280f18a5594083d57f6da4929ae83a346ed8fdea6a298ad0ee43c7cb0",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q09",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "概率分布",
+   "knowledge_point": "泊松分布",
+   "problem_type": "用单位区间事件数模型求概率",
+   "search_text": "9. In a stock market, the number of trades in a minute for the shares of each company follows a Poisson\ndistribution. The shares of company A are traded in this stock market and the average number of trades]\nis A per minute. For the shares of company A , the ratio of the probability ofhaving 3 trades to the probability\nof having 6 trades ina minute is 15:1.\n(a) Find 24. (2 marks)\n(b) Find the probability that there are more than 2 trades for the shares of company A in a certain minute.\n(2 marks)\n(c) The shares of company B are traded in this stock market and the average number of trades\nis 4 per minute. The number of trades in a minute for the shares of companies A and B are independent.\n(i) Find the probability of having exactly 1 trade in total for the shares of companies A and B in\na certain minute.\n(ii) Find the probability of having at least 3 trades in total for the shares of companies A and B in\na certain minute. TT\n(iii) | Given that there are at least 3 trades in total for the shares of companies A and B in a certain\nminute, find the probability that there are at most 2 trades for the shares of company B in that\nminute. ~\n“2 (8 marks)\ney ‘\n23\" 5 b) Probability\n“Aaay® ~) ertc2y® erzc2ay! e722)\n£_e ; = | rUer rn tnt\nun) ?\n= 0.323323583\nety\nB LS = 0.3233 lov. fo 4 ofp.)\nee = |\n720\nci) Probability\n120 1 2p 5° 4 -2, 1 4 °\n7 no feo\" ec)’ 1 fern ety\n“Torey ta a\nia: =| | J It oO:\nARD = 0- 014872513\nWY\nw\nCc\n=O.014% ccorr. To 4 ol .p-)\n\nci) Probabili ty\nTt\n=} — poe pasta ela’ ete | fete ent ety! ep!\nbor Xmer Joa o. tay Xo\n=209)° rae fe\nKC + et yy e- CH 71\n= 0. 418201178\n20.9182 Ceore. to 4 Aspe)\ncil) Probability\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q09"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q09/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q09/question.pdf",
+     "bytes": 224123,
+     "sha256": "52d542e412667b2a2d59a1723dbf1146eec4b3b193b603fad05fa9835111e5fa",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q10",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "10. The weight of coffee beans used each day in a coffee shop follows a normal distribution with a mean of_4 kg\nand a standard deviation of_o_kg . The probability that more than 2 kg of coffee beans is used in the shop\nona day is 0.9332 while the probability that less than 2.2 kg of coffee beans is used in the shop on a day\nis 0.2266. A day is regarded as ordinary if the weight of coffee beans used in the shop on that day is\nbetween 2 kg and 2.72 kg.\n(a) Find the exact values of w and o.\n(3 marks)\n(b) Find the probability that a day is ordinary.\n(2 marks)\n(c) Peter is a customer of the shop. Given that a day is ordinary, the probability that Peter visits the shop\non that day is 0.6. ——\n(i) Find the probability that all the 7 days in a certain week are ordinary and Peter visits the shop\non exactly 3 days in that week.\n(ii) Let p be the probability that the day is ordinary given that Peter visits the shop on a day.\n—\n(1) Suppose that p = 0.8. Given that Peter does not visit the shop on a day, find the\nprobability that the day is ordinary.\n(2) Someone claims that a possible value of p is 0.7. Do you agree ? Explain your answer.\n(7 marks)\nawe\nay Xe Nw 9°)\nPLyZ2.2)= 012266\nP(X >2)= 0.9332\nPLE? 25\" )= 0.9382 ples =~ ) = 0.22bb\n0-5 +A(4=) = 0.9332 0.5 - a=\" Jz 9.2266\nAl )= 09-4332 ae ye 0.2734\nM-2 472d\nTs T= 0-75\n4-2= 156 K-22 20.755\n-h5f=22 -u'y wo 15h e202 -@)\nwae tk 2 15\nby) Pl2¢x$ 2-1)\n2-204 ate\n= P(-h5 ES 1-125)\n0.4332 + 0.36% |\n\"\n0.8024\n\"\n\nrap) Probability\n= (0. 8029)\" x C3 (0.b)3Co-4)*\n=o o4lb 28615\n=O. 0416  Ceorr. to 4 ap.)\nacu PCvisit | oro nory y= 0:4\nP< yisit a ordinary) = 0-6 x 0: 8029\n= 0. 48174\n0. 4a\nP( visit) = o.8\n= 0, bo 215\nPCnot 'wisit) = l-o-6021TS = 0.397825\n: Probability —_\nl= 0+b) (0.8029)\n0. 39T8 25\n= 0. 80128963 |\n20.8013 ccorr. te 4 dsp.)\n(2)\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q10"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q10/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q10/question.pdf",
+     "bytes": 240849,
+     "sha256": "6ee89a599b7a0fa7ef95b2f4235af4e403211cc6d37054dbbbe894f2c5a6272a",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q11",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "6\n11. (a) — Using the trapezoidal rule with 4 sub-intervals, estimate f In(5‘ +1)dr .\n(2 marks)\n_—_ — 2\n(b) Let P(¢) (in million) be the population of a city, where f (tf > 0) is the number of years elapsed since\nthe start of the year 2025. It is given that P’(t) = 1 and P'(0)=0.\n— sel\n. woe . we 1 1 1 7\n(i) Using integration by substitution and =——--.,, find P(4).\n—— u(u-l) u-l u\n(ii) | Using the result of (a), estimate the change in the population of the city from the start of the\nyear 2027 to the end of the year 2030.\n(iii) Does the change in the population of the city from the start of the year 2027 to the end of the\nyear 2030 exceed 1.7 million? Explain your answer.\n(12 marks)\n43\na) ot: =!\nz *[eonaalginyfeyitenye fey)\n= 25.718053574\n=25.180S ceorr.te 4 ol.p.)\ni\nbi), PUCt) = 5* +1\npit) s J Ba ott\nlet uz 5+ \\\n{ma 1) Ba du - J UW ole\nff 7\nfata: : Sen tea At = SRG at\nr t\n= Suen “du =Seweu) du +c\nea wet\n\nbi)\n\n“paxJeU 9q JOU |[IM SUTSIeUI oY} Ul UOLIM somsuy\n“poyreUl oq JOU [IM SUTSIeU Oy} UI UO}LIM sIoMsUy\n\n\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q11"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q11/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q11/question.pdf",
+     "bytes": 273540,
+     "sha256": "501dfab80e158c58118f13df87c94f633cb2a2efbbd496223847d5236c27565a",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2025,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "hkdse-m1-2025-pm1-en-qp__q12",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "12. Let vm and sm be the length and the perimeter of a rectangle respectively. It is given that the area of the\nrectangle is 1 m?\n(a) By considering S. describe and explain how s varies when v increases from 1. (4 marks)\nVv\nex +8\n(b) Suppose that v= , where ¢ (t 2 0) is the time measured in seconds. It is given that v\ne +l\nattains its minimum value when t=T.\n_\n69) Find the exact value of 7 and the minimum value of v .\n(ii) | Someone claims that s also attains its minimum value when t= 7. Do you agree? Explain\nyour answer.\n(iii) Find the rate of change of s when ¢=3T7.\n(8 marks)\nj 243\nbi) V= oe\ndy pfe743 \\-% presae**) - (e148) (e®) ]\nat (oe ] t ey ‘\n_ 2 [et 42e* -8e*\n5)* ey /\ne*42e*- Seto\net(e2*42e%- 9) =0\ne*(e*+4)(e%-2) =o\net=o0 or -@*: 4 cre}-) or et 2\nt= or ti Dnr\n\\\ni ost far | dar ct et | toy A__1\n- fb - t+} SU\nou Vv ottains ts minimum value at t=\nATE!\n3. 5>p2\na /e2+2e7-8e\nVe x( nt\newe w) PS\nte*#e)*(et) =)\n\na) Vet\nb= (tt ¥)XK2\na\n= 2h+ He\nas 2.\nav = 2-52\nwhen vy increases from 1S Glso ancheases.\nbii) avy =o\n=\n2- +t 70\n2t?-2=0\natt 1)=0?\nte\n|ot< ler Lo\na\nay = +\ns_attains its minimum at t=\nLu aaree .\nu\nas\n2\nbili) atts = 2- 3\nay\n= 4\n1b\nThe vote of change iS 74.\n\n“payseUl 9q JOU []IM SUTZIEW OY} UI UOyLIM slomsuy\n“poxseul 9g JOU JIM SUTSIEUT oY) UT UONLIM sIoMsuy\n\n“poxseU 9q JOU [JIM SUIZIeU Oy} UI UUM sIOMSUY\n“poyTeU aq JOU [[LM SUIBIEUT oY} UI UOYLIM sIoMsuy\nEND OF PAPER\n\nStandard Normal Distribution Table\nZz .00 01 02 03 04 05 .06 07 08 09\n0.0 | .0000 .0040 .0080 0120 .0160 0199 .0239 0279 .0319 .0359\n0.1 | 0398 .0438 .0478 0517 .0557 .0596 . .0636 .0675 0714. .0753\n0.2 0793 .0832. 0871 = 0910 0948) 0987 —s «1026S 1064S 11031141\n0.3 1179) 1217) .1255) 1293) £1331) .1368 = 1406) 1443, 14801517\n0.4 1554 1591-1628) 1664. .1700-S 1736S 1772, s«.1808 = .1844 Ss 1879\n0.5 -1915 1950 1985 .2019) 2054) = 2088) 2123) 2157'S 2190 = .2224\n0.6 .2257) = 2291 .2324) 2357. 2389-2422) 2454 2486) = 2517S 2549\n0.7 2580 §=.2611 .2642 =.2673, 2704S .2734 2764. = .2794 )S.2823 2852\n0.8 2881 =.2910) 2939 2967) .2995 3023, 3051 = 3078) 3106 = 3133\n0.9 3159 3186) = 3212) 3238) = 3264. = 3289) 3315) 3340) = 3365 = £3389\n1.0 3413 3438) «= .3461 = 34853508) = .3531) 3554 3577S 35993621\nLl 3643 =.3665 = .3686 4 3708 =.3729 =.3749 3770S 3790S 3810 = 3830\n1.2 | 3849 3869 .3888 3907 .3925 3944 3962 =.3980 §=.3997_—s «4015\n13 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n14 4192 4207 4222 4236 4251 4265 4279 4292 4306 .4319\n1.5 | 4332 4345 .4357 4370 4382 4394 4406 4418 4429 4441\n1.6 | 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545\n1.7 | 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633\n1.8 4641 4649 4656 .4664 4671 .4678 4686 .4693 .4699 .4706\n1.9 4713, 47194726. —4732— 4738) = 4744. 4750 = 4756 = 4761 £4767\n2.0 4772. A778 ~—«4783,—s «A788 = 4793-4798 ~— 4803S 4808 = 4812S 4817\n2.1 4821 4826 .4830 .4834 .4838 .4842 4846 4850 .4854  .4857\n2.2 4861 4864 4868 .4871 .4875 4878 4881 4884 .4887 .4890\n2.3 4893 4896 4898 .4901 .4904 4906 4909 4911 4913 .4916\n2.4 4918 4920 4922 4925 4927 4929 4931 4932 4934  .4936\n2.5 4938 4940 4941 4943 4945 4946 - 4948 4949 4951 4952\n2.6 4953, 4955 4956 4957 4959 4960 4961 4962 4963 .4964\n2.7 | 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974\n- 2.8 | 4974 4975 4976 4977 4977 4978 4979 4979 4980 .4981\n29 4981 4982 4982 .4983 ..4984 .4984 4985 4985 .4986 .4986\n3.0 | 4987 4987 4987 4988 4988 4989 .4989 4989 .4990 .4990\n3.1 4990 4991 4991 4991 .4992 4992 4992 4992 .4993  .4993\n3.2 | 4993 4993 .4994 4994 4994 4994 4994 4995 4995 4995\n3.3 4995 4995 4995 4996 4996 4996 .4996 4996 4996 .4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 4998\n3.5 | 4998 4998 4998 .4998 .4998 4998 4998 4998 4998 4998\nNote : An entry in the table is the area under the standard normal curve between x =0 and\nx=z (z 20). Areas for negative values of z can be obtained by symmetry.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "hkdse-m1-2025-pm1-en-qp__q12"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q12/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-math-current/questions/hkdse-m1-2025-pm1-en-qp__q12/question.pdf",
+     "bytes": 296910,
+     "sha256": "2a6da7091c2e7ac18590717a687d67e2453ab8ca8f18cbb4abca2cf2dc95e1c8",
+     "shard": "pdfs-af4eae97070da69f.zip",
+     "shard_bytes": 104103949,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-af4eae97070da69f.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2025-pm1-en-qp__q12.md"
+  }
+ ]
+}

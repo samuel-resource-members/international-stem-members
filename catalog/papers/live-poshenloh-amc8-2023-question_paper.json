@@ -1,0 +1,1308 @@
+{
+ "group": "live-poshenloh-amc8-2023-question_paper",
+ "course_id": "AMC8",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q01",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "四则指令与运算顺序：括号优先逐步求值 / 混合运算：先乘除后加减",
+   "search_text": "1.  What is the value of\n\n                            (8 × 4 + 2) −(8 + 4 × 2)?\n\n\n     A   0\n\n    B   6\n\n    C   10\n\n    D   18\n\n     E   24\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q01",
+    "live-poshenloh-amc8-2023-question_paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q02",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "折叠展开：逆向镜映位置或恢复尺寸 / 折纸剪孔：沿折痕连续镜像展开",
+   "search_text": "2. A square piece of paper is folded twice into four equal quarters, as shown below, then\n   cut along the dashed line. When unfolded, the paper will match which of the following\n    figures?\n\n\n\n\n\n     A\n\n\n\n\n\n    B\n\n\n\n\n\n    C\n\n\n\n\n\n    D\n\n\n\n\n\n     E\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q02",
+    "live-poshenloh-amc8-2023-question_paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q03",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数值公式代入：统一变量单位再按顺序计算 / 公式代入近似：按变量单位代入",
+   "search_text": "3. Wind chill is a measure of how cold people feel when exposed to wind outside. A good\n   estimate for wind chill can be found using this calculation:\n\n               W = T −0.7 ⋅S\n\n   Where W represents the wind chill, T represents air temperature measured in\n                           ∘   degrees Fahrenheit ( F), and S represents wind speed measured in miles per hour\n\n   (mph).\n\n                                          ∘   Suppose the air temperature is 36 F and the wind speed is 18 mph. Which of the\n    following is closest to the approximate wind chill?\n\n     A   18\n\n    B   23\n\n    C   28\n\n    D   32\n\n     E   35\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q03",
+    "live-poshenloh-amc8-2023-question_paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q04",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "螺旋填数定位：按每圈边长与转弯逐段追踪 / 螺旋填数：按每圈转弯定位",
+   "search_text": "4. The numbers from 1 to 49 are arranged in a spiral pattern on a square grid, beginning at\n   the center. The first few numbers have been entered into the grid below. Consider the\n    four numbers that will appear in the shaded squares, on the same diagonal as the\n   number 7. How many of these four numbers are prime?\n\n\n\n\n\n     A   0\n\n    B   1\n\n    C   2\n\n    D   3\n\n     E   4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q04",
+    "live-poshenloh-amc8-2023-question_paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q05",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "代数",
+   "knowledge_point": "比例与变化",
+   "problem_type": "已知部分求整体：数量除以所占分数 / 样本比例：同一比率放大总体",
+   "search_text": "5. A lake contains 250 trout, along with a variety of other fish. When a marine biologist\n   catches and releases a sample of 180 fish from the lake, 30 are identified as trout.\n   Assume that the ratio of trout to the total number of fish is the same in both the sample\n   and the lake. How many fish are there in the lake?\n\n     A   1250\n\n    B   1500\n\n    C   1750\n\n    D   1800\n\n     E   2000\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q05",
+    "live-poshenloh-amc8-2023-question_paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q06",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数字填指数最值：先处理零底数与零指数 / 数字填指数：先排除零底数",
+   "search_text": "6. The digits 2,0,2, and 3 are placed in the expression below, one digit per box. What is\n   the maximum possible value of the expression?\n\n\n\n\n\n     A   0\n\n    B   8\n\n    C   9\n\n    D   16\n\n     E   18\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q06",
+    "live-poshenloh-amc8-2023-question_paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q07",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "直线与矩形相交：求直线后检查边界坐标范围 / 直线与矩形相交：检查坐标范围",
+   "search_text": "7. A rectangle, with sides parallel to the x -axis and y -axis, has opposite vertices located\n    at (15, 3) and (16, 5). A line is drawn through points A(0, 0) and B(3, 1). Another line\n     is drawn through points C(0, 10) and D(2, 9). How many points on the rectangle lie\n\n   on at least one of the two lines?\n\n\n\n\n\n     A   0\n\n    B   1\n\n    C   2\n\n    D   3\n\n     E   4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q07",
+    "live-poshenloh-amc8-2023-question_paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q08",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "比赛逐轮记录：每轮胜负守恒排除队伍 / 比赛记录：每轮胜负数守恒",
+   "search_text": "8.  Lola, Lolo, Tiya, and Tiyo participated in a ping pong tournament. Each player\n   competed against each of the other three players exactly twice. Shown below are the\n    win-loss records for the players. The numbers 1 and 0 represent a win or loss,\n    respectively. For example, Lola won five matches and lost the fourth match. What was\n\n    Tiyo’s win-loss record?\n\n\n\n\n\n     A   000101\n\n    B   001001\n\n    C   010000\n\n    D   010101\n\n     E   011000\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q08",
+    "live-poshenloh-amc8-2023-question_paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q09",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "图像满足高度区间的时长：定位交点后横向累计 / 图像区间时间：横向累加满足高度范围的区间",
+   "search_text": "9.  Malaika is skiing on a mountain. The graph below shows her elevation, in meters, above\n   the base of the mountain as she skis along a trail. In total, how many seconds does she\n   spend at an elevation between 4 and 7 meters?\n\n\n\n\n\n     A   6\n\n    B   8\n\n    C   10\n\n    D   12\n\n     E   14\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q09",
+    "live-poshenloh-amc8-2023-question_paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q10",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续百分比变化：每一步改用当前量作基数 / 连续按剩余量取走：连乘保留比例",
+   "search_text": "110. Harold made a plum pie to take on a picnic. He was able to eat only  of the pie, and he                                                                                                                                    ​4\n                                                               1    left the rest for his friends. A moose came by and ate  of what Harold left behind.                                                                                                          ​3\n                                  1    After that, a porcupine ate  of what the moose left behind. How much of the original                                                         ​3\n   pie still remained after the porcupine left?\n\n         1     A                                                                                                                                                                                                                        ​\n         12\n\n         1\n    B\n         6\n\n         1\n    C\n         4\n\n         1\n    D\n         3\n\n         5\n     E                                                                                                                                                                                                                          ​\n         12\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q10",
+    "live-poshenloh-amc8-2023-question_paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q11",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "乘除表达式估算：先取近值再判断数量级 / 平均速度估算：把月份换成小时",
+   "search_text": "11. NASA’s Perseverance Rover was launched on July 30,2020. After traveling\n   292,526,838 miles, it landed on Mars in Jezero Crater about 6.5 months later. Which of\n   the following is closest to the Rover’s average interplanetary speed in miles per hour?\n\n     A    6,000\n\n    B   12,000\n\n    C   60,000\n\n    D   120,000\n\n     E    600,000\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q11",
+    "live-poshenloh-amc8-2023-question_paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q12",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆方组合面积：扇形或圆面积的加减抵消 / 圆形阴影：按半径平方加减面积",
+   "search_text": "12. The figure below shows a large unshaded circle with a number of smaller unshaded\n   and shaded circles in its interior. What fraction of the interior of the large unshaded\n    circle is shaded?\n\n\n\n\n\n         1     A\n         4\n\n         11\n    B                                                                                                                                                                                                                       ​\n         36\n\n         1\n    C\n         3\n\n         19\n    D                                                                                                                                                                                                                      ​\n         36\n\n         5\n     E\n         9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q12",
+    "live-poshenloh-amc8-2023-question_paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q13",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等间隔种植与覆盖：区别开口和闭合端点 / 等距设站：把站数转成间隔数",
+   "search_text": "13. Along the route of a bicycle race, 7 water stations are evenly spaced between the start\n   and finish lines, as shown in the figure below. There are also 2 repair stations evenly\n   spaced between the start and finish lines. The 3 rd water station is located 2 miles after\n   the 1 st repair station. How long is the race in miles?\n\n\n\n\n\n     A   8\n\n    B   16\n\n    C   24\n\n    D   48\n\n     E   96\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q13",
+    "live-poshenloh-amc8-2023-question_paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q14",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "同币值或固定和整数解：按一种数量分类 / 有限邮票最大张数：从全用转为最少删去",
+   "search_text": "14. Nicolas is planning to send a package to his friend Anton, who is a stamp collector. To\n   pay for the postage, Nicolas would like to cover the package with a large number of\n   stamps. Suppose he has a collection of 5 -cent, 10 -cent, and 25 -cent stamps, with\n    exactly 20 of each type. What is the greatest number of stamps Nicolas can use to\n   make exactly $7.10 in postage?\n\n    (Note: The amount $7.10 corresponds to 7 dollars and 10 cents. One dollar is worth\n   100 cents.)\n\n     A   45\n\n    B   46\n\n    C   51\n\n    D   54\n\n     E   55\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q14",
+    "live-poshenloh-amc8-2023-question_paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q15",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分段路程与同路程变速：按各段对应速度时间 / 绕路赶时：剩余路程除剩余时间",
+   "search_text": "15. Visvam walks half a mile to get to school each day. His route consists of 10 city blocks\n   of equal length and he takes one minute to walk each block. Today, after walking 5\n    blocks, Visvam discovers that he has to make a detour, walking 3 blocks of equal\n   length instead of 1 block to reach the next corner. From the time he starts his detour, at\n   what speed, in miles per hour, must Visvam walk in order to arrive at school at his usual\n   time?\n\n\n\n\n     A   4\n\n    B    4.2\n\n    C    4.5\n\n    D    4.8\n\n     E   5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q15",
+    "live-poshenloh-amc8-2023-question_paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q16",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "循环状态定位：找周期与起点后取余 / 周期方阵计数：整周期加边缘余项",
+   "search_text": "16. The letters P, Q, and R are entered into a 20 × 20 table according to the pattern shown\n   below. How many Ps, Qs, and Rs will appear in the completed table?\n\n\n\n\n\n     A   132 Ps, 134 Qs, 134 Rs\n\n    B   133 Ps, 133 Qs, 134 Rs\n\n    C   133 Ps, 134 Qs, 133 Rs\n\n    D   134 Ps, 132 Qs, 134 Rs\n\n     E   134 Ps, 133 Qs, 133 Rs\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q16",
+    "live-poshenloh-amc8-2023-question_paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q17",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多面体展开图：追踪顶点与棱的折叠重合 / 八面体展开图：追踪折叠后的边配对",
+   "search_text": "17. A regular octahedron has eight equilateral triangle faces with four faces meeting at\n   each vertex. Jun will make the regular octahedron shown in the figure by folding the\n   piece of paper below. Which numbered face will end up to the right of the shaded\n   region Q?\n\n\n\n\n\n     A   1\n\n    B   2\n\n    C   3\n\n    D   4\n\n     E   5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q17",
+    "live-poshenloh-amc8-2023-question_paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q18",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "同币值或固定和整数解：按一种数量分类 / 前后跳跃最少次数：位移方程配合同余",
+   "search_text": "18. Greta Grasshopper sits on a long line of lily pads in a pond. From any lily pad, Greta can\n   jump 5 pads to the right or 3 pads to the left. What is the fewest number of jumps\n   Greta must make to reach the lily pad located 2023 pads to the right of her starting\n    position?\n\n     A   405\n\n    B   407\n\n    C   409\n\n    D   411\n\n     E   413\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q18",
+    "live-poshenloh-amc8-2023-question_paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q19",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "几何",
+   "knowledge_point": "相似与全等",
+   "problem_type": "相似缩放：长度倍数对应面积平方或体积立方 / 相似图形与等面积分割：先平方边比",
+   "search_text": "19. An equilateral triangle is placed inside a larger equilateral triangle so that the region\n   between them can be divided into three congruent trapezoids, as shown below. The\n                                         2   side length of the inner triangle is  the side length of the larger triangle. What is the                                                                     ​3\n    ratio of the area of one trapezoid to the area of the inner triangle?\n\n\n\n\n\n     A   1 : 3\n\n    B   3 : 8\n\n    C   5 : 12\n\n    D   7 : 16\n\n     E   4 : 9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q19",
+    "live-poshenloh-amc8-2023-question_paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q20",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "平均中位众数共同约束：先排序再分段 / 加入数据保持众数中位数：结合排序限制优化",
+   "search_text": "20. Two integers are inserted into the list 3,3,8,11,28 to double its range. The mode and\n   median remain unchanged. What is the maximum possible sum of the two additional\n   numbers?\n\n     A   56\n\n     B   57\n\n    C   58\n\n    D   60\n\n      E   61\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q20",
+    "live-poshenloh-amc8-2023-question_paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q21",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "定和分组计数：固定最小未用数消除组间重复 / 等和三组分拆：固定最小未用数消重复",
+   "search_text": "21. Alina writes the numbers 1,2,⋯,9 on separate cards, one number per card. She\n   wishes to divide the cards into 3 groups of 3 cards so that the sum of the numbers in\n   each group will be the same. In how many ways can this be done?\n\n     A   0\n\n    B   1\n\n    C   2\n\n    D   3\n\n     E   4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q21",
+    "live-poshenloh-amc8-2023-question_paper__q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q22",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "乘积递推：以质因数指数代替大数迭代 / 乘积递推：追踪指数并比较质因数",
+   "search_text": "22. In a sequence of positive integers, each term after the second is the product of the\n    previous two terms. The sixth term in the sequence is 4000. What is the first term?\n\n     A   1\n\n     B   2\n\n    C   4\n\n    D   5\n\n     E   10\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q22",
+    "live-poshenloh-amc8-2023-question_paper__q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q23",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "局部图案概率：判互斥或重叠后合并事件 / 局部图案概率：互斥位置求和",
+   "search_text": "23. Each square in a 3 × 3 grid is randomly filled with one of the 4 shaded-and-unshaded\n     tiles shown below on the right.\n\n\n\n\n\n   What is the probability that the tiling will contain a large shaded diamond in one of the\n    smaller 2 × 2 grids? Below is an example of such a tiling.\n\n\n\n\n\n           1\n     A                                                                                                                                                                                                                                                                                                     ​\n         1024\n\n          1\n     B                                                                                                                                                                                                                                                              ​\n         256\n\n          1\n    C                                                                                                                                                                                                                     ​\n         64\n\n          1    D                                                                                                                                                                                                                      ​\n         16\n\n         1\n     E\n                ​4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q23",
+    "live-poshenloh-amc8-2023-question_paper__q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q24",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相似交线面积：先求交点高比再分割面积 / 平行截线等面积：用相似高度平方列式",
+   "search_text": "24. Isosceles triangle ABC has equal side lengths AB and BC. In the figures below,\n   segments are drawn parallel to AC so that the shaded portions of △ABC have the\n   same area. The heights of the two unshaded portions are 11 and 5 units, respectively.\n   What is the height h of △ABC?\n\n\n\n\n\n     A    14.6\n\n     B    14.8\n\n    C   15\n\n    D    15.2\n\n     E    15.4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q24",
+    "live-poshenloh-amc8-2023-question_paper__q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2023-question_paper",
+   "year": 2023,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2023-question_paper__q25",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "整数等差数列范围：用首末条件夹逼公差 / 整数等差数列范围：夹逼公差",
+   "search_text": "​ are arranged in order on a number line. The 25. Fifteen integers a 1 ​, a 2 ​, a 3 ​, ⋯,a 15\n     integers are equally spaced and have the property that\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​                                1 ≤a 1 ≤ 10,\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​                                13 ≤a 2 ≤ 20,\n\n    and\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ​                              241 ≤a 15 ≤ 250.\n\n    What is the sum of the digits of a 14 ?\n\n      A   8\n\n      B   9\n\n     C   10\n\n     D   11\n\n       E   12\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/amc8/2023/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-answers.pdf"
+    },
+    {
+     "title": "2023 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2023-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2023-Q25",
+    "live-poshenloh-amc8-2023-question_paper__q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2023-question_paper__q25.md"
+  }
+ ]
+}

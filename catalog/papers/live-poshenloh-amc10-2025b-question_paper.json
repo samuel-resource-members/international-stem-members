@@ -1,0 +1,1333 @@
+{
+ "group": "live-poshenloh-amc10-2025b-question_paper",
+ "course_id": "AMC10",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q01",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定消耗或容量：总量除单份量后向下取整 / 固定耗用量求最大整份数：除后向下取整",
+   "search_text": "1.  The instructions on a 350 -gram bag of coffee beans say that proper brewing of a large\n  mug of pour-over coffee requires 20 grams of coffee beans. What is the greatest\n   number of properly brewed large mugs of coffee that can be made from the coffee\n   beans in that bag?\n\n     A   16\n\n    B   17\n\n    C   18\n\n    D   19\n\n     E   20\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q01",
+    "live-poshenloh-amc10-2025b-question_paper__q01",
+    "AMC10-2025B-Q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q02",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "幂的余数：用小模数周期或同余降幂 / 平方末位周期求和：完整周期加余段",
+   "search_text": "2.  Jerry wrote down the ones digit of each of the first 2025 positive squares: 1,4,9,6,5,\n  6,… What is the sum of all the numbers Jerry wrote down?\n\n     A   9025\n\n    B   9070\n\n    C   9090\n\n    D   9115\n\n     E   9160\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q02",
+    "live-poshenloh-amc10-2025b-question_paper__q02",
+    "AMC10-2025B-Q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q03",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相邻和生成数列：先写新旧行或项之间的递推 / 固定两端的相邻和阵列：先求行和递推再数位和",
+   "search_text": "3. A Pascal-like triangle has 10 as the top row and 10 followed by 1 as the second row. In\n   each subsequent row the first number is 10, the last number is 1, and, as in the\n   standard Pascal’s Triangle, each other number in the row is the sum of the two numbers\n    directly above it. The first four rows are shown below.\n\n\n\n\n\n   What is the sum of the digits of the sum of the numbers in the 11 th row?\n\n     A   11\n\n    B   13\n\n    C   14\n\n    D   16\n\n     E   17\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q03",
+    "live-poshenloh-amc10-2025b-question_paper__q03",
+    "AMC10-2025B-Q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q04",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "不同进制表示同一数：按位值展开后联立数字范围 / 两进制两位倒序数相等：展开位值解数字比",
+   "search_text": "​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​ in base seven equals the value of the two-digit4. The value of the two-digit number a                                    b\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                       ​   number b          a                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​ in base nine. What is a + b?\n\n     A   7\n\n    B   9\n\n    C   10\n\n    D   11\n\n     E   14\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q04",
+    "live-poshenloh-amc10-2025b-question_paper__q04",
+    "AMC10-2025B-Q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q05",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "圆周角、圆心角与同弧：统一所对弧追角 / 钝角圆周角所对弦：取小圆心角再求半径三角形底角",
+   "search_text": "5.  In △ABC,AB = 10,AC = 18, and ∠B = 130 ∘ . Let O be the center of the circle\n   containing points A,B, and C. What is the degree measure of ∠CAO?\n\n     A   20\n\n    B   30\n\n    C   40\n\n    D   50\n\n     E   60\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q05",
+    "live-poshenloh-amc10-2025b-question_paper__q05",
+    "AMC10-2025B-Q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q06",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "直线平分面积：把目标半面积写成三角形或梯形等式 / 斜线下区域竖切等面积：梯形面积列二次方程",
+   "search_text": "16. The line y =  ​x + 1 divides the square region defined by 0 ≤x ≤2 and 0 ≤y ≤2                  3\n    into an upper region and a lower region. The line x = a divides the lower region into\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ​   two regions of equal area. Then a can be written as  s                             − t, where s and t are positive\n    integers. What is s + t?\n\n     A   18\n\n    B   19\n\n    C   20\n\n    D   21\n\n     E   22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q06",
+    "live-poshenloh-amc10-2025b-question_paper__q06",
+    "AMC10-2025B-Q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q07",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "两路线等长：勾股与线性长度关系联立 / 两绕行路线等长：勾股后相减消二次项",
+   "search_text": "7.  Frances stands 15 meters directly south of a locked gate in a fence that runs east-\n   west. Immediately behind the fence is a box of chocolates, located x meters east of\n   the locked gate. An unlocked gate lies 9 meters east of the box, and another unlocked\n   gate lies 8 meters west of the locked gate. Frances can reach the box by walking\n   toward an unlocked gate, passing through it, and walking toward the box. It happens\n    that the total distance Frances would travel would be the same via either unlocked\n    gate. What is the value of x?\n\n              2     A   3                        ​7\n\n              3    B   3                        ​7\n\n              4    C         3                        ​7\n\n              5    D   3                        ​7\n\n              6     E   3                        ​7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q07",
+    "live-poshenloh-amc10-2025b-question_paper__q07",
+    "AMC10-2025B-Q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q08",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整数数量凑固定总价：线性方程配同余与范围枚举 / 货款重复式数字：以分为单位用整除条件",
+   "search_text": "8. Emmy says to Max, “I ordered 36 math club sweatshirts today.” Max asks, “How much\n   did each shirt cost?” Emmy responds, “I’ll give you a hint. The total cost was\n\n\n\n\n\n                                                                                                                                                                                                                 ​                                                                           ​                                                                                                                                                               ​   $ A B B . B A ​, where A and B are digits and A =0. ” After a pause, Max says, “That\n   was a good price.” What is A + B?\n\n     A   7\n\n    B   8\n\n    C   11\n\n    D   14\n\n     E   15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q08",
+    "live-poshenloh-amc10-2025b-question_paper__q08",
+    "AMC10-2025B-Q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q09",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "代数",
+   "knowledge_point": "不等式",
+   "problem_type": "对称整数线性不等式：按总和分层枚举",
+   "search_text": "9. How many ordered triples of integers (x, y, z) satisfy the following system of\n    inequalities?\n\n                     −x −y −z ≤−2\n\n                      −x + y + z ≤2\n\n                           x −y + z ≤2\n\n                           x + y −z ≤2\n\n\n     A   4\n\n    B   8\n\n    C   11\n\n    D   15\n\n     E   17\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q09",
+    "live-poshenloh-amc10-2025b-question_paper__q09",
+    "AMC10-2025B-Q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q10",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分式须为整数：化简成整除关系再筛因数 / 多项式比值为整数：约分保留原分母禁值",
+   "search_text": "10. Let f(n) = n 3 − 5n 2 + 2n + 8, and let g(n) = n 3 − 6n 2 + 5n + 12. What is the\n                                 f(n)\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​ is also an integer?   sum of all integer values of n for which\n                                   g(n)\n\n     A   2\n\n    B   3\n\n    C   4\n\n    D   5\n\n     E   6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q10",
+    "live-poshenloh-amc10-2025b-question_paper__q10",
+    "AMC10-2025B-Q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q11",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "导师分配模型待核：若一一配对则选固定点并错排其余 / 随机一一配对恰两项重复：选固定点再错排其余",
+   "search_text": "11. On Monday, 6 students went to the tutoring center at the same time, and each one\n   was randomly assigned to one of the 6 tutors on duty. On Tuesday, the same 6\n   students showed up, the same 6 tutors were on duty, and the students were again\n   randomly assigned to the tutors. What is the probability that exactly 2 students met\n    with the same tutor both Monday and Tuesday?\n\n         1\n     A                                                                                                                                                                                                                        ​\n         16\n\n         3\n    B                                                                                                                                                                                                                       ​\n         16\n\n         1\n    C\n         4\n\n         3\n    D\n         8\n\n         1     E\n         2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q11",
+    "live-poshenloh-amc10-2025b-question_paper__q11",
+    "AMC10-2025B-Q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q12",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "几何",
+   "knowledge_point": "相似与全等",
+   "problem_type": "相切等圆环绕：圆心构成正多边形，外半径补小圆半径 / 多边形内等圆填充率比较：统一半径求外接边长",
+   "search_text": "12. The figure below shows an equilateral triangle, a rhombus with a 60∘ angle, and a\n    regular hexagon, each of them containing some mutually tangent congruent disks. Let\n   T,R, and H, respectively, denote the ratio in each case of the total area of the disks\n   to the area of the enclosing polygon.\n\n\n\n\n\n   Which of the following is true?\n\n     A   T = H = R\n\n    B  H < R = T\n\n    C  H = R < T\n\n    D  H < R < T\n\n     E  H < T < R\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q12",
+    "live-poshenloh-amc10-2025b-question_paper__q12",
+    "AMC10-2025B-Q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q13",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "三角形重心与中线：二比一分段及等面积分割 / 特殊直角三角形中线截高：坐标求线段分比",
+   "search_text": "13. The altitude to the hypotenuse of a 30 - 60 - 90∘ right triangle is divided into two\n   segments of lengths x < y by the median to the shortest side of the triangle. What is\n          x\n   the ratio          ​?\n         x + y\n\n         3\n     A\n         7\n\n                   ​3    B                                                                                                                                                                                                                                                 ​\n          4\n\n         4\n    C\n         9\n\n         5\n    D                                                                                                                                                                                                                      ​\n         11\n\n         4   ​3     E                                                                                                                                                                                                                                                                                          ​\n          15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q13",
+    "live-poshenloh-amc10-2025b-question_paper__q13",
+    "AMC10-2025B-Q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q14",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "概率",
+   "knowledge_point": "树状图与分类",
+   "problem_type": "固定组容量随机分组：三位最高者异组概率",
+   "search_text": "14. Nine athletes, no two of whom are the same height, try out for the basketball team.\n   One at a time, they draw a wristband at random, without replacement, from a bag\n   containing 3 blue bands, 3 red bands, and 3 green bands. They are divided into a blue\n   group, a red group, and a green group. The tallest member of each group is named the\n\n   group captain. What is the probability that the group captains are the three tallest\n    athletes?\n\n         2     A\n         9\n\n         2    B\n         7\n\n         9\n    C                                                                                                                                                                                                                     ​\n         28\n\n         1\n    D\n         3\n\n         3\n     E\n         8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q14",
+    "live-poshenloh-amc10-2025b-question_paper__q14",
+    "AMC10-2025B-Q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q15",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分式求和：裂成相邻差后错位消项 / 三因子倒数无穷和：部分分式错位消去",
+   "search_text": "15. The sum\n\n\n                     ∞\n                                     1\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ​  3       2                                                                                                                                                                                        ​          ∑ k + 6k + 8k\n                                  k=1\n\n                  a\n   can be expressed as     ​, where a and b are relatively prime positive integers. What is\n                       b\n   a + b?\n\n     A   89\n\n    B   97\n\n    C   102\n\n    D   107\n\n     E   129\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q15",
+    "live-poshenloh-amc10-2025b-question_paper__q15",
+    "AMC10-2025B-Q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q16",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "环形相邻限色：固定首项并检查末项闭合约束 / 圆环定额三色相邻不同：按同色两位置间距分类",
+   "search_text": "16. A circle has been divided into 6 sectors of 6 different sizes. Then 2 of the sectors are\n   painted red, 2 painted green, and 2 painted blue so that no two neighboring sectors\n   are painted the same color. One such coloring is shown below.\n\n\n\n\n\n  How many different colorings are possible?\n\n     A   12\n\n    B   16\n\n    C   18\n\n    D   24\n\n     E   28\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q16",
+    "live-poshenloh-amc10-2025b-question_paper__q16",
+    "AMC10-2025B-Q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q17",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "连续前缀均值：相邻总和相减求新增项 / 前缀均值逐次减一：相邻总和作差再用正性",
+   "search_text": "​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​                                     > ⋯> x ​n17. Consider a decreasing sequence of n positive integers x 1                               > x 2                                  > x 3\n    that satisfies the following conditions. The average (arithmetic mean) of the first 3\n   terms in the sequence is 2025. For all 4 ≤k ≤n, the average of the first k terms in the\n   sequence is 1 less than the average of the first k −1 terms in the sequence.\n\n   What is the greatest possible value of n?\n\n     A   1013\n\n    B   1014\n\n    C   1016\n\n    D   2016\n\n     E   2025\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q17",
+    "live-poshenloh-amc10-2025b-question_paper__q17",
+    "AMC10-2025B-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q18",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平方根取整求和：按相邻平方数间的恒值区间分组 / 平方根取整求和：按相邻平方数间隔分块",
+   "search_text": "18. What is the ones digit of the sum ⌊  1 ​⌋+ ⌊  2 ​⌋+ ⌊  3 ​⌋ + ⋯+ ⌊  2024 ​⌋\n  +⌊  2025 ​⌋? (Recall that ⌊x⌋ denotes the greatest integer less than or equal to x. )\n\n     A   1\n\n    B   2\n\n    C   3\n\n    D   5\n\n     E   8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q18",
+    "live-poshenloh-amc10-2025b-question_paper__q18",
+    "AMC10-2025B-Q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q19",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "相似立体：长度比平方对应面积、立方对应体积 / 截棱锥匀速注水：补完整锥比较立方差",
+   "search_text": "19. A container has a 1 × 1 square bottom, a 3 × 3 open square top, and four congruent\n    trapezoidal sides, as shown. Starting when the container is empty, a hose that runs\n   water at a constant rate takes 35 minutes to fill the container up to the midline of the\n    trapezoids.\n\n\n\n\n\n  How many more minutes will it take to fill the remainder of the container?\n\n     A   70\n\n    B   85\n\n    C   90\n\n    D   95\n\n     E   105\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q19",
+    "live-poshenloh-amc10-2025b-question_paper__q19",
+    "AMC10-2025B-Q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q20",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "相切圆的半径：圆心距等于半径和差后联立 / 四相邻半圆外切：先求大半径再求中心间距",
+   "search_text": "20. Four congruent semicircles are inscribed in a square of side length 1 so that their\n    diameters are on the sides of the square, one endpoint of each diameter is at a vertex\n    of the square, and adjacent semicircles are tangent to each other. A small circle\n    centered at the center of the square is tangent to each of the four semicircles, as\n\n   shown below.\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ​   The diameter of the small circle can be written as (  a                             + b)(  c                                  + d), where a,b,c,\n   and d are integers. What is a + b + c + d?\n\n     A   3\n\n     B   5\n\n    C   8\n\n    D   9\n\n      E   11\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q20",
+    "live-poshenloh-amc10-2025b-question_paper__q20",
+    "AMC10-2025B-Q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q21",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "旋转反射视同的计数：按对称固定配置数求轨道 / 方格循环邻色约束且旋反视同：逐格合法性与对称轨道去重",
+   "search_text": "21. Each of the 9 squares in a 3 × 3 grid is to be colored red, blue, or yellow in such a way\n    that each red square shares an edge with at least one blue square, each blue square\n   shares an edge with at least one yellow square, and each yellow square shares an\n   edge with at least one red square. Colorings that can be obtained from one another by\n\n    rotations and/or reflections are to be considered the same. How many different\n    colorings are possible?\n\n     A   3\n\n    B   9\n\n    C   12\n\n    D   18\n\n     E   27\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q21",
+    "live-poshenloh-amc10-2025b-question_paper__q21",
+    "AMC10-2025B-Q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q22",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数位和固定：把数字或亏损量分配为受限非负整数 / 近最大位数和下整除11：改数位亏损分配",
+   "search_text": "22. A seven-digit positive integer is chosen at random. What is the probability that the\n   number is divisible by 11, given that the sum of its digits is 61?\n\n          3\n     A                                                                                                                                                                                                                        ​\n         14\n\n          3\n     B                                                                                                                                                                                                                       ​\n         11\n\n         2    C\n                ​7\n\n          4\n    D                                                                                                                                                                                                                      ​\n         11\n\n         3\n     E\n                ​7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q22",
+    "live-poshenloh-amc10-2025b-question_paper__q22",
+    "AMC10-2025B-Q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q23",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "行列两种编号相同：消去位值转线性丢番图",
+   "search_text": "23. A rectangular grid of squares has 141 rows and 91 columns. Each square has room for\n   two numbers. Horace and Vera each fill in the grid by putting the numbers from 1\n   through 141 × 91 = 12,831 into the squares. Horace fills the grid horizontally: he puts\n   1 through 91 in order from left to right into row 1, puts 92 through 182 into row 2 in\n    order from left to right, and continues similarly through row 141. Vera fills the grid\n    vertically: she puts 1 through 141 in order from top to bottom into column 1, then 142\n   through 282 into column 2 in order from top to bottom, and continues similarly\n   through column 91. How many squares get two copies of the same number?\n\n     A   7\n\n     B   10\n\n    C   11\n\n    D   12\n\n     E   19\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q23",
+    "live-poshenloh-amc10-2025b-question_paper__q23",
+    "AMC10-2025B-Q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q24",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "随机位置转移：合并等价状态并按第一步列概率递推 / 会消失的随机游走到达概率：按首步列线性递推",
+   "search_text": "24. A frog hops along the number line according to the following rules. It starts at 0. If it is\n                                                1                                      1    at 0, then it moves to 1 with probability  and it disappears with probability    ​. For n =                                                                                ​2                                      2\n    1,2, or 3, if it is at n, then it moves to n + 1 with probability 1 ​, it moves to n −1 with                                                                      4\n                 1                                       1    probability    ​, and it disappears with probability    ​.                 4                                       2\n\n   What is the probability that the frog reaches 4?\n\n          1\n     A                                                                                                                                                                                                                                                               ​\n         101\n\n          1\n     B                                                                                                                                                                                                                                                              ​\n         100\n\n          1\n    C                                                                                                                                                                                                                     ​\n         99\n\n          1\n    D                                                                                                                                                                                                                      ​\n         98\n\n          1\n     E                                                                                                                                                                                                                          ​\n         97\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q24",
+    "live-poshenloh-amc10-2025b-question_paper__q24",
+    "AMC10-2025B-Q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc10-2025b-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC10",
+   "variant": "B",
+   "id": "live-poshenloh-amc10-2025b-question_paper__q25",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "几何",
+   "knowledge_point": "相似与全等",
+   "problem_type": "方形镜面反射到顶点：展开直线与格点同余",
+   "search_text": "25. Square ABCD has sides of length 4. Points P and Q lie on AD and CD ,\n                                  8              10      respectively, with AP =  and DQ =       ​. A path begins along the line segment from                                                          ​5               3\n   P to Q and continues by reflecting against the sides of ABCD (with congruent\n\n     incoming and outgoing angles), as shown in the figure. If the path hits a vertex of the\n\n     square, then it terminates there; otherwise it continues forever.\n\n\n\n\n\n     At which vertex does the path terminate?\n\n      A  A\n\n\n      B  B\n\n\n     C  C\n\n\n     D  D\n\n\n       E    The path continues forever.\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/amc10/2025B/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 10B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 10B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc10-2025B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC10-2025-B-Q25",
+    "live-poshenloh-amc10-2025b-question_paper__q25",
+    "AMC10-2025B-Q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2025b-question_paper__q25.md"
+  }
+ ]
+}

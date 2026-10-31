@@ -1,0 +1,51 @@
+{
+ "group": "0625-w24-qp-53",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 1,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:practical:0625-w24-qp-53-Q4",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "专题P 实验技能",
+   "knowledge_point": "实验规划",
+   "problem_type": "规划力学实验 / 改木条层数或斜角测挠度或速率",
+   "search_text": "A student investigates the speed of a small trolley moving down a sloping ramp.\nPlan an experiment which will enable him to compare the effect of different angles of slope on the \naverage speed of the trolley between points on the ramp.\nAverage speed can be calculated from the equation: \n \n \n \naverage speed = distance\ntime\nThe apparatus available includes:\n• \na long ramp with a support that enables it to be set at different angles of slope\n• \na small trolley.\nYou are not required to do the experiment.\nIn your plan:\n• \nlist any additional apparatus needed\n• \nexplain briefly how to do the experiment, including how to take the measurements so that the \naverage speed can be determined\n• \nsuggest a possible source of inaccuracy even if the method is carried out carefully\n• \nstate the key variables to keep constant\n• \ndraw a table, or tables, with column headings, to show how to display the readings (you are \nnot required to enter any readings in the table)\n• \nexplain how to use the readings to reach a conclusion.\nYou may draw a diagram if it helps to explain your plan.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-w24-qp-53-Q4",
+    "caie-0625:practical:0625-w24-qp-53-Q4"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_practical_0625-w24-qp-53-Q4.md"
+  }
+ ]
+}

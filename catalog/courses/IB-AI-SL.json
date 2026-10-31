@@ -1,0 +1,114 @@
+{
+ "course_id": "IB-AI-SL",
+ "subject": "math",
+ "exam_id": "IB-AI-SL",
+ "question_count": 51,
+ "years": [
+  "2025"
+ ],
+ "questions_dir": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/",
+ "papers": [
+  {
+   "group": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "question_count": 13,
+   "chapters": [
+    "三角",
+    "代数",
+    "坐标几何",
+    "概率分布",
+    "积分",
+    "统计推断"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-ai-2025-may-p1-sl-tz1-qp.json"
+  },
+  {
+   "group": "ib-dp-math-ai-2025-may-p1-sl-tz2-qp",
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ2",
+   "question_count": 11,
+   "chapters": [
+    "三角",
+    "代数",
+    "函数",
+    "概率",
+    "概率分布",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-ai-2025-may-p1-sl-tz2-qp.json"
+  },
+  {
+   "group": "ib-dp-math-ai-2025-may-p1-sl-tz3-qp",
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ3",
+   "question_count": 12,
+   "chapters": [
+    "代数",
+    "函数",
+    "坐标几何",
+    "微分",
+    "统计",
+    "统计推断"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-ai-2025-may-p1-sl-tz3-qp.json"
+  },
+  {
+   "group": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp",
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ1",
+   "question_count": 5,
+   "chapters": [
+    "代数",
+    "排列组合",
+    "积分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-ai-2025-may-p2-sl-tz1-qp.json"
+  },
+  {
+   "group": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp",
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ2",
+   "question_count": 5,
+   "chapters": [
+    "代数",
+    "几何",
+    "积分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-ai-2025-may-p2-sl-tz2-qp.json"
+  },
+  {
+   "group": "ib-dp-math-ai-2025-may-p2-sl-tz3-qp",
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ3",
+   "question_count": 5,
+   "chapters": [
+    "代数",
+    "几何",
+    "数值方法",
+    "概率分布"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-ai-2025-may-p2-sl-tz3-qp.json"
+  }
+ ]
+}

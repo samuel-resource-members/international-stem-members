@@ -1,0 +1,176 @@
+{
+ "group": "cemc-fryer-2023-contest-english-question-paper",
+ "course_id": "CEMC-FRYER",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-fryer-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2023-contest-english-question-paper__q01",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.    At Monday’s practice, Lonnie sprints 200 m a total of 24 times. At Tuesday’s practice,\n      he sprints 240 m a total of 20 times. On both days, he rests for 30 s between each\n      consecutive pair of sprints. Lonnie sprints at a constant speed of 8 m/s.\n\n          (a) On Monday, how many times does Lonnie take the 30 s rest between consecutive\n             pairs of sprints?\n\n         (b) On Monday, determine Lonnie’s total practice time. That is, determine the total\n          number of seconds between the start of his ﬁrst sprint and the end of his last\n              sprint, including the rests.\n\n          (c) Determine how many fewer seconds Tuesday’s practice will take compared to\n           Monday’s practice.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2023-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2023-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2023-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2023-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2023-contest-english-question-paper__q02",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "2.    Consider the following arrangement of positive integers.\n\n                                     1\n                                     2   4\n                                     5   7   9\n                                    10  12  14  16\n                                                                                                                                                                                                                                           ...\n\n     The 1st row includes the odd integer 1, and the 2nd row includes the two even integers\n      2 and 4. For k ≥2, the kth row\n\n         • begins with the integer that is one more than the last integer in the previous row,\n\n         • includes, in increasing order, k consecutive odd integers when k is odd, and\n\n         • includes, in increasing order, k consecutive even integers when k is even.\n\n    A useful fact about this arrangement is that the integer in the kth row and kth position\n      (that is, the last position in the kth row) is k2. For example, 42 = 16 and 16 is the\n       integer in the 4th position of the 4th row.\n\n          (a) What is the average of the integers in the 5th row?\n\n         (b) Which row has the integer 145 in the 1st position?\n\n          (c) Determine the row and the position in which the integer 1598 appears.\n\n         (d) The average of the integers in row r is 241. Determine the value of r.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2023-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2023-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2023-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2023-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2023-contest-english-question-paper__q03",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3.   A positive integer is divisible by 3 exactly when the sum of its digits is divisible by 3.\n    A positive integer is divisible by 4 exactly when the positive integer formed by its last\n     two digits is divisible by 4. For example:\n\n          • 3816 is divisible by 3, since 3 + 8 + 1 + 6 = 18 and 18 is divisible by 3;\n\n          • 3817 is not divisible by 3, since 3 + 8 + 1 + 7 = 19 and 19 is not divisible by 3;\n\n          • 3816 is divisible by 4, since 16 is divisible by 4;\n\n          • 3817 is not divisible by 4, since 17 is not divisible by 4.\n\n      In each part that follows, A, B and C are non-zero digits (1, 2, 3, 4, 5, 6, 7, 8, or 9),\n     and not necessarily distinct.\n\n          (a) The ﬁve-digit positive integer 4B5B2 is divisible by 3. What are the possible\n             values of the non-zero digit B?\n\n         (b) The ﬁve-digit positive integer ABABA is divisible by 4 and not divisible by 3.\n           Determine the number of diﬀerent pairs of non-zero digits A and B that are\n              possible.\n\n          (c) A positive integer, t, is equal to the product of the four-digit positive integer\n        ACA2 and the three-digit positive integer BAC; that is, t = ACA2 × BAC.\n                 If t is divisible by 15 and not divisible by 12, determine the number of diﬀerent\n               triples of non-zero digits A, B, C that are possible.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2023-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2023-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2023-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2023-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2023-contest-english-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2023-contest-english-question-paper__q04",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "4.   A lab has 50 computers numbered 1 through 50. Each pair of computers is connected\n      to each other by a cord. The cords are coloured according to the following rules.\n\n         • If the numbers of the two computers are both even or both odd, then the cord\n           connecting them is red.\n\n         • Otherwise, the cord connecting them is blue.\n\n    A route is a sequence of cords along which data can travel to get from one computer\n      to another computer within the lab.  For example, data could travel the route from\n     Computer 5 to Computer 12 directly, or the route from Computer 5 to Computer 15 to\n     Computer 12.\n\n          (a) There is a route connecting Computer 1 to Computer n using only red cords.\n                 If n ̸= 1, how many possible values are there for n?\n\n         (b) Show that for every pair of distinct computers, Computer A and Computer B,\n             there is always a route between them that uses only blue cords.\n\n          (c) Each red cord and blue cord is removed and randomly replaced with either a\n            green cord or a yellow cord. Dani notices that there is no route that connects\n          Computer 1 to Computer 50 that uses only green cords. Show that there is always\n           a route between Computer 13 and Computer 14 that uses only yellow cords.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2023-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2023-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2023-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2023-contest-english-question-paper__q04.md"
+  }
+ ]
+}

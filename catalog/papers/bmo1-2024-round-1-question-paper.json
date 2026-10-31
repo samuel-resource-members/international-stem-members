@@ -1,0 +1,260 @@
+{
+ "group": "bmo1-2024-round-1-question-paper",
+ "course_id": "BMO1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "bmo1-2024-round-1-question-paper",
+   "year": 2024,
+   "session": "15 November 2023",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2024-round-1-question-paper__q01",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1. An unreliable typist can guarantee that when they try to type a word with\n   different letters, every letter of the word will appear exactly once in what\n   they type, and each letter will occur at most one letter late (though it may\n   occur more than one letter early). Thus, when trying to type MATHS, the\n   typist may type MATHS, MTAHS or TMASH, but not ATMSH.\n\n  Determine, with proof, the number of possible spellings of OLYMPIADS\n   that might be typed.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2024-round-1-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2024-round-1-question-paper__q01.md"
+  },
+  {
+   "paper_id": "bmo1-2024-round-1-question-paper",
+   "year": 2024,
+   "session": "15 November 2023",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2024-round-1-question-paper__q02",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. The sequence of integers 𝑎0, 𝑎1, . . . has the property that for each 𝑖≥2, 𝑎𝑖\n   is either 2𝑎𝑖−1 −𝑎𝑖−2 or 2𝑎𝑖−2 −𝑎𝑖−1.\n  Given that 𝑎2023 and 𝑎2024 are consecutive integers, prove that 𝑎0 and 𝑎1 are\n   consecutive integers.\n\n  (Note that 6 and 7 are consecutive integers, as are 7 and 6.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2024-round-1-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2024-round-1-question-paper__q02.md"
+  },
+  {
+   "paper_id": "bmo1-2024-round-1-question-paper",
+   "year": 2024,
+   "session": "15 November 2023",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2024-round-1-question-paper__q03",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "∠𝐴𝐶𝐵< ∠𝐵𝐴𝐶<3. Let 𝐴𝐵𝐶be a triangle with                    90◦. Let 𝑋and𝑌be points on\n  𝐴𝐶and the circle 𝐴𝐵𝐶respectively such that 𝑋,𝑌≠𝐴and 𝐵𝑋= 𝐵𝑌= 𝐵𝐴.\n  Line 𝑋𝑌intersects the circle 𝐴𝐵𝐶again at 𝑍.\n   Prove that 𝐵𝑍is perpendicular to 𝐴𝐶.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2024-round-1-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2024-round-1-question-paper__q03.md"
+  },
+  {
+   "paper_id": "bmo1-2024-round-1-question-paper",
+   "year": 2024,
+   "session": "15 November 2023",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2024-round-1-question-paper__q04",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4. Find all positive integers 𝑛such that 𝑛× 2𝑛+ 1 is a square.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2024-round-1-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2024-round-1-question-paper__q04.md"
+  },
+  {
+   "paper_id": "bmo1-2024-round-1-question-paper",
+   "year": 2024,
+   "session": "15 November 2023",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2024-round-1-question-paper__q05",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "5. An artist arranges 1000 dots evenly around a circle, with each dot being\n   either red or blue. A critic looks at the artwork and counts faults: each time\n  two red dots are adjacent is one fault, and each time two blue dots are exactly\n  two apart (that is, they have exactly one dot in between them) is another.\n\n  What is the smallest number of faults the critic could find?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2024-round-1-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2024-round-1-question-paper__q05.md"
+  },
+  {
+   "paper_id": "bmo1-2024-round-1-question-paper",
+   "year": 2024,
+   "session": "15 November 2023",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2024-round-1-question-paper__q06",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "𝑛>                                                                . . . ,6. For some integer    4 a convex polygon has vertices 𝑣1, 𝑣2,    𝑣𝑛in that\n   cyclic order. All its edges are the same length. It also has the property that\n                                                                   . . . ,   the lengths of the diagonals 𝑣1𝑣4, 𝑣2𝑣5,     𝑣𝑛−3𝑣𝑛, 𝑣𝑛−2𝑣1, 𝑣𝑛−1𝑣2 and 𝑣𝑛𝑣3\n   are all equal.\n  For which 𝑛is it necessarily the case that the polygon has equal angles?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2024-round-1-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2024-round-1-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2024-round-1-question-paper__q06.md"
+  }
+ ]
+}

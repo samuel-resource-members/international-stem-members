@@ -1,0 +1,176 @@
+{
+ "group": "cemc-fryer-2016-contest-english-question-paper",
+ "course_id": "CEMC-FRYER",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-fryer-2016-contest-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2016-contest-english-question-paper__q01",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.  Three schools each sent four students to a competition. The scores earned by nine of the\n    students are given in the table below. The scores of the remaining three students are\n    represented by x, y and z. The total score for any school is determined by adding the\n    scores of the four students competing from the school.\n\n                            Student 1  Student 2  Student 3  Student 4\n                  School A      12         8         10         6\n                  School B      17         5          7        x\n                  School C      9         15         y           z\n\n          (a) What is the total score for School A?\n\n         (b) The total scores for Schools A and B are the same. What is the value of x, the\n             score for Student 4 at School B?\n          (c) The total scores for Schools A and C are the same. If the score for Student 4 at\n            School C is twice that of Student 3 at School C, determine these two scores.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2016-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2016-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2016-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2016-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2016-contest-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2016-contest-english-question-paper__q02",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2.  When Esther and her older brother Paul race, Esther takes 5 steps every 2 seconds, and\n    each of her steps is 0.4 m long. Paul also takes 5 steps every 2 seconds, but each of his\n    steps is 1.2 m long.\n\n          (a) In metres, how far does Esther travel in 2 seconds?\n\n         (b) In metres per second, what is Paul’s speed?\n\n          (c) If they both start a race at the same time, what distance ahead will Paul be after\n           2 minutes?\n         (d) If Esther begins a race 3 minutes before Paul, how much time does it take Paul\n             to catch Esther?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2016-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2016-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2016-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2016-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2016-contest-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2016-contest-english-question-paper__q03",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "3. A median is a line segment drawn from a vertex of a triangle to the midpoint of the\n    opposite side of the triangle.                                        A\n          (a) In the diagram, △ABC is right-angled and\n            has side lengths AB =  4 and BC = 12.  If\n       AD is a median of △ABC, what is the area\n              of △ACD?                          C       D        B\n         (b) In  rectangle EFGH,  point S  is on FH    E                F\n            with SG perpendicular to FH. In △FGH,                    S\n           median FT  is drawn as shown.  If FS = 18,\n        SG = 24 and SH = 32, determine the area\n              of △FHT.\n                                      H        T      G\n          (c) In    quadrilateral  KLMN,  KM     is      K\n            perpendicular to LN at R.  Medians KP                   N\n           and KQ are drawn in △KLM and △KMN\n              respectively, as shown. If LR = 6, RN = 12,\n                                                   R       KR = x, RM = 2x + 2, and the area of   L\n      KPMQ is 63, determine the value of x.                Q\n                                               P\n\n                                      M\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2016-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2016-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2016-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2016-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2016-contest-english-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2016-contest-english-question-paper__q04",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "4. A BINGO card has twenty-ﬁve diﬀerent integers arranged into ﬁve rows and ﬁve columns\n    labeled B, I, N, G, and O such that:\n                                                         Here is an example of a\n     • The middle integer is always 0.\n                                           BINGO card.\n     • Integers in column B are between 1 and 15 inclusive.\n     • Integers in column I are between 16 and 30 inclusive.     B    I  N  G  O\n     • Integers in column N are between 31 and 45 inclusive      5   24  36  48  61\n        (other than the middle integer being 0).                  2   29  31  53  64\n     • Integers in column G are between 46 and 60 inclusive.     11  18   0   60  68\n     • Integers in column O are between 61 and 75 inclusive.     15  20  44  51  69\n                                                            3   26  42  47  70\n\n          (a) What is the smallest possible sum of the numbers in a row on a BINGO card?\n\n         (b) Carrie’s BINGO card has a row and a diagonal each with the same sum. What\n                 is the smallest possible such sum? Show that there is a BINGO card with this\n          sum and explain why there is no BINGO card with a smaller such sum.\n\n          (c) In the BINGO card shown, numbers in a\n            diagonal and in the 3rd row are missing.      B    I  N  G  O\n           Determine with justiﬁcation the number of             23  35  47  65\n           ways to complete this BINGO card so that         5       31  52  63\n            the sum of the numbers in this diagonal is                  0\n            equal to 177 and the sum of the numbers in         11  20  40       69\n            the 3rd row is also equal to 177.                    9   18  38  48\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2016-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2016-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2016-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2016-contest-english-question-paper__q04.md"
+  }
+ ]
+}

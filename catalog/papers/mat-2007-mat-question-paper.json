@@ -1,0 +1,337 @@
+{
+ "group": "mat-2007-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2007-mat-question-paper",
+   "year": 2007,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2007-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "1. For ALL APPLICANTS.\n\n\n   For each part of the question on pages 3—7 you will be given four possible answers,\n   just one of which is correct.  Indicate for each part A—J which answer (a), (b),\n    (c), or (d) you think is correct with a tick     in the corresponding column in the                                    (X)\n   table below. Please show any rough working in the space provided between the\n   parts.\n\n\n\n\n                           (a)           (b)            (c)           (d)\n\n\n\n       A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n        E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n          J\n\nA. Let r and s be integers. Then\n                                      6r+s × 12r−s\n                                         8r × 9r+2s\nis an integer if\n\n             0,(a) r + s 6\n(b) s 6 0,\n         0,(c) r 6\n(d) r > s.\n\n\n\n\n\nB. The greatest value which the function\n                                 ¡                     ¢2\n                         f (x) = 3 sin2 (10x + 11) −7\ntakes, as x varies over all real values, equals\n\n                   (a)  −9,     (b)  16,     (c)  49,     (d)  100.\n\nC. The number of solutions x to the equation\n\n                             7 sin x + 2 cos2 x = 5,\n\nin the range 0                                is        6 x < 2π,\n\n                       (a)   1,     (b)   2,     (c)   3,     (d)   4.\n\n\n\n\n\nD. The point on the circle\n                             (x −5)2 + (y −4)2 = 4\nwhich is closest to the circle\n                             (x −1)2 + (y −1)2 = 1\nis\n         (a)   (3.4, 2.8) ,     (b)   (3, 4) ,     (c)   (5, 2) ,     (d)   (3.8, 2.4) .\n\nE. If x and n are integers then\n                    (1 −x)n (2 −x)2n (3 −x)3n (4 −x)4n (5 −x)5n\nis\n\n(a) negative when n > 5 and x < 5,\n(b) negative when n is odd and x > 5,\n(c) negative when n is a multiple of 3 and x > 5,\n(d) negative when n is even and x < 5.\n\n\n\n\n\nF. The equation\n                                 8x + 4 = 4x + 2x+2\n\nhas\n\n(a) no real solutions;\n(b) one real solution;\n(c) two real solutions;\n(d) three real solutions.\n\nG. On which of the axes below is a sketch of the graph\n                                            ¡x2¢?                               y = 2−x sin2\n\n\n\n\n\n                      (a)                                     (b)\n\n\n\n\n\n                       (c)                                     (d)\n\n\nH. Given a function f (x) , you are told that\n                   Z 1          Z 2\n                          3f (x) dx +    2f (x) dx =  7,\n                                0 Z 2         Z1  2\n                            f (x) dx +    f (x) dx =  1.\n                                   0                 1\n             R 2\nIt follows that   f (x) dx equals                   0\n\n                                              1\n                     (a)  −1,     (b)   0,     (c)  2,     (d)   2.\n\nI. Given that a and b are positive and\n\n                          4 (log10 a)2 + (log10 b)2 = 1,\n\nthen the greatest possible value of a is\n\n                     1                               (b)   1,     (c) √10,     (d)  10√2.                  (a)                      10,\n\n\n\n\n\nJ. The inequality\n                  ¡      ¢   ¡      ¢   ¡       ¢        ¡           ¢\n        (n + 1) + n4 + 2 + n9 + 3 +  n16 + 4 + · · · +  n10000 + 100 > k\n                    1. It follows thatis true for all n >\n\n(a) k < 1300,\n(b) k2 < 101,\n(c) k > 10110000,\n(d) k < 5150.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2007",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions07.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2007-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2007-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2007-mat-question-paper",
+   "year": 2007,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2007-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "2. For ALL APPLICANTS.\n\nLet\n                      fn (x) = (2 + (−2)n) x2 + (n + 3) x + n2\nwhere n is a positive integer and x is any real number.\n\n(i) Write down f3 (x) .\n\nFind the maximum value of f3 (x).\n\nFor what values of n does fn (x) have a maximum value (as x varies)?\n\n[Note you are not being asked to calculate the value of this maximum.]\n\n(ii) Write down f1 (x).\n\nCalculate f1 (f1 (x)) and f1 (f1 (f1 (x))).\n\nFind an expression, simpliﬁed as much as possible, for\n\n                                 f1 (f1 (f1 (· · · f1 (x))))\nwhere f1 is applied k times. [Here k is a positive integer.]\n\n(iii) Write down f2 (x) .\n\nThe function\n                                 f2 (f2 (f2 (· · · f2 (x)))) ,\nwhere f2 is applied k times, is a polynomial in x. What is the degree of this polynomial?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2007",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions07.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2007-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2007-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2007-mat-question-paper",
+   "year": 2007,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2007-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "积分",
+   "knowledge_point": "不定积分",
+   "problem_type": "求原函数或使用积分结果",
+   "search_text": "3.           ⎧                          ⎫\n            ⎪ MATHEMATICS                ⎪            ⎪                          ⎪            ⎨                          ⎬\n               MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n            ⎪ MATHEMATICS & PHILOSOPHY      ⎪            ⎪                          ⎪            ⎩                          ⎭\n               MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science applicants should turn to page 14.\n\nLet                         Z 1                                     ¡                             I (c) =     (x   + c2¢ dx                                             0    −c)2\nwhere c is a real number.\n\n                                               3 on the axes below and show on(i) Sketch y = (x −1)2 + 1 for the values −1 6 x 6your graph the area represented by the integral I (1) .\n\n                                                     0 for any value of c.(ii) Without explicitly calculating I (c) , explain why I (c) >\n\n(iii) Calculate I (c) .\n\n(iv) What is the minimum value of I (c) (as c varies)?\n\n(v) What is the maximum value of I (sin θ) as θ varies?\n\n\n\n                            y\n                6\n\n                                                                                                  p                                                                                                                           p                                                             p                                                             p\n\n\n\n\n\n                                                                                                  p                                                                                                                           p                                                             p                                                             p\n\n\n\n\n\n                                                                                                  p                                                                                                                           p                                                             p                                                             p\n\n\n\n\n\n                                                                                                  p                                                                                                                           p                                                             p                                                             p\n\n\n\n\n                                    - x\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2007",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions07.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2007-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2007-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2007-mat-question-paper",
+   "year": 2007,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2007-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "4.            ⎧                     ⎫\n             ⎨ MATHEMATICS           ⎬\nFor APPLICANTS IN  MATHEMATICS & STATISTICS             ⎩                        ⎭ONLY.\n                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science and Computer Science applicants should turn to\npage 14.\n\nIn the diagram below is sketched the circle with centre (1, 1) and radius 1 and a line\nL. The line L is tangential to the circle at Q; further L meets the y-axis at R and the\nx-axis at P in such a way that the angle OPQ equals θ where 0 < θ < π/2.\n\n\n\n\n\n(i) Show that the co-ordinates of Q are\n\n                                 (1 + sin θ, 1 + cos θ) ,\n\nand that the gradient of PQR is −tan θ.\nWrite down the equation of the line PQR and so ﬁnd the co-ordinates of P.\n\n(ii) The region bounded by the circle, the x-axis and PQ has area A (θ); the region\nbounded by the circle, the y-axis and QR has area B (θ). (See diagram.)\n\nExplain why\n                    A (θ) = B (π/2 −θ)\nfor any θ.\n\nCalculate A (π/4) .\n\n(iii) Show that\n                         ³π ´                    A   = √3                                 3    −π3.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2007",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions07.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2007-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2007-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2007-mat-question-paper",
+   "year": 2007,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2007-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For ALL APPLICANTS.\n\n                                                          0, as follows:Let f (n) be a function deﬁned, for any integer n >\n              ⎧\n              ⎨     1                    if n = 0,\n                  f (n) =    (f (n/2))2   if n > 0 and n is even,\n              ⎩\n                            2f (n −1)   if n > 0 and n is odd.\n(i) What is the value of f(5)?\n\nThe recursion depth of f (n) is deﬁned to be the number of other integers m such that\nthe value of f (m) is calculated whilst computing the value of f (n) . For example, the\nrecursion depth of f (4) is 3, because the values of f (2) , f (1) , and f (0) need to be\ncalculated on the way to computing the value of f (4).\n\n(ii) What is the recursion depth of f (5)?\n\n                                                               0, as follows:Now let g (n) be a function, deﬁned for all integers n >\n             ⎧\n             ⎨      0                      if n = 0,\n                 g (n) =    1 + g (n/2)    if n > 0 and n is even,\n             ⎩\n                          1 + g (n −1)   if n > 0 and n is odd.\n(iii) What is g (5)?\n              ¡(iv) What is g 2k¢, where k   0 is an integer? Brieﬂy explain your answer.                >\n             ¡(v) What is g  2l + 2k¢ where l > k   0 are integers? Brieﬂy explain your answer.                    >\n\n(vi) Explain brieﬂy why the value of g (n) is equal to the recursion depth of f (n).\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2007",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions07.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2007-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2007-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2007-mat-question-paper",
+   "year": 2007,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2007-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6.             ½                               ¾\n              COMPUTER SCIENCE\nFor APPLICANTS IN                                     ONLY.\n               MATHEMATICS & COMPUTER SCIENCE\n\nThree people called Alf, Beth, and Gemma, sit together in the same room.\n\nOne of them always tells the truth.\nOne of them always tells a lie.\nThe other one tells truth or lies at random.\n\nIn each of the following situations, your task is determine how each person acts.\n\n(i) Suppose that Alf says \"I always tell lies\" and Beth says \"Yes, that’s true, Alf always\ntells lies\".\n\nWho always tells the truth? Who always lies? Brieﬂy explain your answer.\n\n(ii) Suppose instead that Gemma says \"Beth always tells the truth\" and Beth says\n\"That’s wrong.\"\n\nWho always tells the truth? Who always lies? Brieﬂy explain your answer.\n\n(iii) Suppose instead that Alf says \"Beth is the one who behaves randomly\" and Gemma\nsays \"Alf always lies\". Then Beth says \"You have heard enough to determine who always\ntells the truth\".\n\nWho always tells the truth? Who always lies? Brieﬂy explain your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2007",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions07.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2007-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2007-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2007-mat-question-paper",
+   "year": 2007,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2007-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7. For APPLICANTS IN COMPUTER SCIENCE ONLY.\n\nSuppose we have a collection of tiles, each containing two strings of letters, one above the\nother. A match is a list of tiles from the given collection (tiles may be used repeatedly)\nsuch that the string of letters along the top is the same as the string of letters along the\nbottom. For example, given the collection\n               ½ ∙AA ¸ ∙  B  ¸ ∙CCA ¸ ¾\n                                                         ,                ,                    ,\n                     A     ABA     CA\n\nthe list              ∙AA ¸ ∙  B  ¸ ∙AA ¸\n                      A    ABA    A\n\nis a match since the string AABAA occurs both on the top and bottom.\n\nConsider the following set of tiles:\n          ½ ∙X ¸ ∙UU ¸ ∙Z ¸ ∙E ¸ ∙Y ¸ ∙Z ¸ ¾\n                                        ,              ,           ,             ,           ,               .\n              U    U     X    ZE    U    Y\n\n(a) What tile must a match begin with?\n\n(b) Write down all the matches which use four tiles (counting any repetitions).\n               ∙E ¸     ∙  E  ¸\n(c) Suppose we replace the tile        with                .\n                        ZE       ZZZE\n\nWhat is the least number of tiles that can be used in a match?\n\nHow many diﬀerent matches are there using this smallest numbers of tiles?\n\n[Hint: you may ﬁnd it easiest to construct your matches backwards from right to left.]\n               ½ ∙XXXXXXX ¸ ∙     X      ¸ ¾\nConsider a new set of tiles                             ,                                  . (The ﬁrst tile has\n                        X       XXXXXXXXXX\nseven Xs on top, and the second tile has ten Xs on the bottom.)\n\n(d) For which numbers n do there exist matches using n tiles?  Brieﬂy justify your\nanswer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2007",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions07.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2007-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2007-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2007-mat-question-paper__q07.md"
+  }
+ ]
+}

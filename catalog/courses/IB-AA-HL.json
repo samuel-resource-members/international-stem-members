@@ -1,0 +1,171 @@
+{
+ "course_id": "IB-AA-HL",
+ "subject": "math",
+ "exam_id": "IB-AA-HL",
+ "question_count": 78,
+ "years": [
+  "2025"
+ ],
+ "questions_dir": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AA-HL/",
+ "papers": [
+  {
+   "group": "ib-dp-math-aa-2025-may-p1-hl-tz1-qp",
+   "paper_id": "ib-dp-math-aa-2025-may-p1-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AA HL TZ1",
+   "question_count": 12,
+   "chapters": [
+    "三角",
+    "代数",
+    "向量",
+    "微分",
+    "微分方程",
+    "概率",
+    "积分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-aa-2025-may-p1-hl-tz1-qp.json"
+  },
+  {
+   "group": "ib-dp-math-aa-2025-may-p1-hl-tz2-qp",
+   "paper_id": "ib-dp-math-aa-2025-may-p1-hl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AA HL TZ2",
+   "question_count": 12,
+   "chapters": [
+    "三角",
+    "代数",
+    "函数",
+    "向量",
+    "概率"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-aa-2025-may-p1-hl-tz2-qp.json"
+  },
+  {
+   "group": "ib-dp-math-aa-2025-may-p1-hl-tz3-qp",
+   "paper_id": "ib-dp-math-aa-2025-may-p1-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AA HL TZ3",
+   "question_count": 12,
+   "chapters": [
+    "代数",
+    "函数",
+    "向量",
+    "微分",
+    "概率分布",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-aa-2025-may-p1-hl-tz3-qp.json"
+  },
+  {
+   "group": "ib-dp-math-aa-2025-may-p2-hl-tz1-qp",
+   "paper_id": "ib-dp-math-aa-2025-may-p2-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AA HL TZ1",
+   "question_count": 12,
+   "chapters": [
+    "三角",
+    "函数",
+    "力学",
+    "坐标几何",
+    "微分",
+    "微分方程",
+    "概率分布",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-aa-2025-may-p2-hl-tz1-qp.json"
+  },
+  {
+   "group": "ib-dp-math-aa-2025-may-p2-hl-tz2-qp",
+   "paper_id": "ib-dp-math-aa-2025-may-p2-hl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AA HL TZ2",
+   "question_count": 12,
+   "chapters": [
+    "三角",
+    "代数",
+    "力学",
+    "向量",
+    "坐标几何",
+    "微分",
+    "概率分布",
+    "积分",
+    "统计"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-aa-2025-may-p2-hl-tz2-qp.json"
+  },
+  {
+   "group": "ib-dp-math-aa-2025-may-p2-hl-tz3-qp",
+   "paper_id": "ib-dp-math-aa-2025-may-p2-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AA HL TZ3",
+   "question_count": 12,
+   "chapters": [
+    "三角",
+    "代数",
+    "力学",
+    "向量",
+    "坐标几何",
+    "微分",
+    "微分方程",
+    "概率",
+    "概率分布"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-aa-2025-may-p2-hl-tz3-qp.json"
+  },
+  {
+   "group": "ib-dp-math-aa-2025-may-p3-hl-tz1-qp",
+   "paper_id": "ib-dp-math-aa-2025-may-p3-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "3",
+   "variant": "AA HL TZ1",
+   "question_count": 2,
+   "chapters": [
+    "代数",
+    "概率分布"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-aa-2025-may-p3-hl-tz1-qp.json"
+  },
+  {
+   "group": "ib-dp-math-aa-2025-may-p3-hl-tz2-qp",
+   "paper_id": "ib-dp-math-aa-2025-may-p3-hl-tz2-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "3",
+   "variant": "AA HL TZ2",
+   "question_count": 2,
+   "chapters": [
+    "向量",
+    "微分方程"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-aa-2025-may-p3-hl-tz2-qp.json"
+  },
+  {
+   "group": "ib-dp-math-aa-2025-may-p3-hl-tz3-qp",
+   "paper_id": "ib-dp-math-aa-2025-may-p3-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "3",
+   "variant": "AA HL TZ3",
+   "question_count": 2,
+   "chapters": [
+    "函数",
+    "微分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/ib-dp-math-aa-2025-may-p3-hl-tz3-qp.json"
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2010-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2010-usapho-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2010-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question A1\n\nAn object of mass m is sitting at the northernmost edge of a stationary merry-go-round of radius\nR.  The merry-go-round begins rotating clockwise (as seen from above) with constant angular\nacceleration of α. The coeﬃcient of static friction between the object and the merry-go-round is\nµs.\n\n   a. Derive an expression for the magnitude of the object’s velocity at the instant when it slides\n    oﬀthe merry-go-round in terms of µs, R, α, and any necessary fundamental constants.\n\n   b. For this problem assume that µs = 0.5, α = 0.2 rad/s2, and R = 4 m. At what angle, as\n     measured clockwise from north, is the direction of the object’s velocity at the instant when\n       it slides oﬀthe merry-go-round? Report your answer to the nearest degree in the range 0 to\n      360◦.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2010 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2010-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2010-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2010-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2010-usapho-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2010-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical charge",
+   "problem_type": "判断电荷相互作用与充放电",
+   "search_text": "Question A2\n\nA spherical shell of inner radius a and outer radius b is made of a material of resistivity ρ and\nnegligible dielectric activity. A single point charge q0 is located at the center of the shell. At time\nt = 0 all of the material of the shell is electrically neutral, including both the inner and outer\nsurfaces. What is the total charge on the outer surface of the shell as a function of time for t > 0?\nIgnore any eﬀects due to magnetism or radiation; do not assume that b −a is small.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2010 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2010-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2010-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2010-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2010-usapho-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2010-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Pressure",
+   "problem_type": "从力、面积或液柱高度求压强",
+   "search_text": "Question A3\n\nA cylindrical pipe contains a movable piston that traps 2.00 mols of air. Originally, the air is at\none atmosphere of pressure, a volume V0, and at a temperature of T0 = 298 K. First (process A)\nthe air in the cylinder is compressed at constant temperature to a volume of 4V0.1   Then (process\nB) the air is allowed to expand adiabatically to a volume of V = 15.0 L. After this (process C)\nthis piston is withdrawn allowing the gas to expand to the original volume V0 while maintaining a\nconstant temperature. Finally (process D) while maintaining a ﬁxed volume, the gas is allowed to\nreturn to the original temperature T0. Assume air is a diatomic ideal gas, no air ﬂows into, or out\nof, the pipe at any time, and that the temperature outside the remains constant always. Possibly\nuseful information: Cp = 2R,7  Cv = 52R, 1 atm = 1.01 × 105 Pa.\n\n   a. Draw a P-V diagram of the whole process.\n\n   b. How much work is done on the trapped air during process A?\n\n    c. What is the temperature of the air at the end of process B?\n\n2010 Semifinal Exam Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2010 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2010-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2010-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2010-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2010-usapho-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2010-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A4",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "Question A4\n\nThe energy radiated by the Sun is generated primarily by the fusion of hydrogen into helium-4. In\nstars the size of the Sun, the primary mechanism by which fusion takes place is the proton-proton\nchain. The chain begins with the following reactions:\n\n                            2 p →X1 + e+ + X2 (0.42 MeV)                        (A4-1)\n\n                           p + X1 →X3 + γ (5.49 MeV)                         (A4-2)\n\nThe amounts listed in parentheses are the total kinetic energy carried by the products, including\ngamma rays. p is a proton, e+ is a positron, γ is a gamma ray, and X1, X2, and X3 are particles\nfor you to identify.\n   The density of electrons in the Sun’s core is suﬃcient that the positron is annihilated almost\nimmediately, releasing an energy x:\n\n                                 e+ + e−→2 γ (x)                              (A4-3)\n\nSubsequently, two major processes occur simultaneously. The “pp I branch” is the single reaction\n\n                                2 X3 →4He + 2 X4  (y),                            (A4-4)\n\nwhich releases an energy y. The “pp II branch” consists of three reactions:\n\n                           X3 + 4He →X5 + γ                              (A4-5)\n\n                         X5 + e−→X6 + X7 (z)                            (A4-6)\n                            X6 + X4 →2 4He                               (A4-7)\n\nwhere z is the energy released in step A4-6.\n\n   a. Identify X1 through X7. X2 and X7 are neutral particles of negligible mass. It is useful to\n    know that the ﬁrst few elements, in order of atomic number, are H, He, Li, Be, B, C, N, O.\n\n   b. The mass of the electron is 0.51 MeV/c2, the mass of the proton is 938.27 MeV/c2, and\n     the mass of the helium-4 nucleus is 3 727.38 MeV/c2. Find the energy released during the\n     production of one helium-4 nucleus, including the kinetic energy of all products and all energy\n      carried by gamma rays.\n\n    c. Find the unknown energies x and y above.\n\n   d. Step (A4-6) does not proceed as follows because there is insuﬃcient energy.\n\n                             X5 →X6 + e+ + X7\n\n    What constraint does this fact place on z?\n\n    e. In which of the reaction steps is the energy carried by any given product the same every time\n     the step occurs? Assume that the kinetic energy carried in by the reactants in each step is\n      negligible, and that the products are in the ground state.\n\n2010 Semiﬁnal Exam                      Part A                                       5\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\n If there is still time remaining for Part A, you should review your work for\n   Part A, but do not continue to Part B until instructed by your exam\n                                 supervisor.\n\n2010 Semiﬁnal Exam                      Part B                                       6\n\n\n\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2010 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2010-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2010-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2010-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2010-usapho-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2010-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question B1\n\nA thin plank of mass M and length L rotates about a pivot at its center. A block of mass m ≪M\nslides on the top of the plank. The system moves without friction.  Initially, the plank makes an\nangle θ0 with the horizontal, the block is at the upper end of the plank, and the system is at rest.\nThroughout the problem you may assume that θ ≪1, and that the physical dimensions of the\nblock are much, much smaller than the length of the plank.\n\n\n                                        L/2\n\n\n\n                                          x\n\n\n\n\n\n   Let x be the displacement of the block along the plank, as measured from the pivot, and let θ\nbe the angle between the plank and the horizontal. You may assume that centripetal acceleration\nof the block is negligible compared with the linear acceleration of the block up and down the plank.\n\n   a. For a certain value of θ0, x = kθ throughout the motion, where k is a constant. What is this\n      value of θ0? Express your answer in terms of M, m, and any fundamental constants that you\n      require.\n\n   b. Given that θ0 takes this special value, what is the period of oscillation of the system? Express\n     your answer in terms of M, m, and any fundamental constants that you require.\n\n    c. Determine the maximum value of the ratio between the centripetal acceleration of the block\n     and the linear acceleration of the block along the plank, writing your answer in terms of m\n     and M, therefore justifying our approximation.\n\n2010 Semifinal Exam Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2010 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2010-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2010-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2010-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2010-usapho-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2010-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "Question B2\n\nThese three parts can be answered independently.\n\n   a. One pair of ends of two long, parallel wires are connected by a resistor, R = 0.25 Ω, and a\n      fuse that will break instantaneously if 5 amperes of current pass through it. The other pair\n      of ends are unconnected. A conducting rod of mass m is free to slide along the wires under\n     the inﬂuence of gravity. The wires are separated by 30 cm, and the rod starts out 10 cm\n     from the resistor and fuse. The whole system is placed in a uniform, constant magnetic ﬁeld\n      of B = 1.2 T as shown in the ﬁgure. The resistance of the rod and the wires is negligible.\n    When the rod is released is falls under the inﬂuence of gravity, but never loses contact with\n     the long parallel wires.\n\n\n\n\n                                                     Resistor          Fuse\n\n\n\n\n                                                             Sliding Rod\n\n\n                                             The magnetic field is\n                                                          directed into the page\n\n\n\n             i. What is the smallest mass needed to break the fuse?\n            ii. How fast is the mass moving when the fuse breaks?\n\n   b. A fuse is composed of a cylindrical wire with length L and radius r ≪L. The resistivity\n      (not resistance!) of the fuse is small, and given by ρf. Assume that a uniform current I ﬂows\n     through the fuse. Write your answers below in terms of L, r, ρf, I, and any fundamental\n      constants.\n\n             i. What is the magnitude and direction of the electric ﬁeld on the surface of the fuse wire?\n            ii. What is the magnitude and direction of the magnetic ﬁeld on the surface of the fuse\n          wire?\n           iii. The Poynting vector, ⃗S is a measure of the rate of electromagnetic energy ﬂow through\n         a unit surface area; the vector gives the direction of the energy ﬂow. Since ⃗S =  1 ⃗E× ⃗B,                                                                                                 µ0\n         where µ0 is the permeability of free space and and ⃗E and ⃗B are the electric and magnetic\n          ﬁeld vectors, ﬁnd the magnitude and direction of the Poynting vector associated with\n          the current in the fuse wire.\n\n    c. A fuse will break when it reaches its melting point. We know from modern physics that a\n     hot object will radiate energy (approximately) according to the black body law P = σAT 4,\n     where T  is the temperature in Kelvin, A the surface area, and σ is the Stefan-Boltzmann\n      constant.  If Tf = 500 K is the melting point of the metal for the fuse wire, with resistivity\n       ρf = 120 nΩ· m, and If = 5 A is the desired breaking current, what should be the radius of\n     the wire r?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2010 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2010-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2010-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2010-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2010-usapho-question-paper__q06.md"
+  }
+ ]
+}

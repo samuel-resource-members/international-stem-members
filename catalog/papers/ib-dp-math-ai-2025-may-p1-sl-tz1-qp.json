@@ -1,0 +1,619 @@
+{
+ "group": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+ "course_id": "IB-AI-SL",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 13,
+ "questions": [
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q01",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "1.   [Maximum mark: 6]\n\n     Hot air balloons are available in many sizes for different numbers of passengers.\n\n\n\n\n\n    The following table shows the recommended minimum volume of a hot air balloon, in cubic\n     metres, for a specific number of passengers.\n\n    Number of Passengers ( x )              1      2      4      5      7      15\n    Recommended Minimum Volume ( y )    1000   1350   2225   2500   3150   5800\n\n      (a)  Use your graphic display calculator to find the Pearson’s product-moment correlation\n             coefficient,  r , for these values.                                                                        [2]\n\n      (b)     (i)   Find the equation of the regression line  y  on  x  for this data in the\n               form  y = ax + b .\n\n                   (ii)   State what the value of  a  means in the context of the question.                          [2]\n\n       (c)  Use your regression equation from part (b)(i) to find the recommended minimum\n          volume of a balloon for  10  passengers.                                                             [2]\n\n(This question continues on the following page)\n\n(Question 1 continued)\nL\n_\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-011.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-011.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q01.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q02",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "统计推断",
+   "knowledge_point": "假设检验",
+   "problem_type": "建立假设并使用检验结果作判断",
+   "search_text": "2.   [Maximum mark: 5]\n\n    A car manufacturer collected data about preferred car colour from drivers in various age\n     groups. The results are presented in the following table.\n\n                                    Preferred car colour\n                       White      Black       Silver      Red        Total\n      18 ≤ Age < 25      12         7          4         17         40\n      25 ≤ Age < 45      15         b         10         12         58\n       Age ≥ 45        12         18         16         6         52\n            Total          39         46         30         35        150\n\n      (a)   Write down the value of  b .                                                                            [1]\n\n    The car manufacturer performs a  χ 2  test for independence, at the  1 %  significance level, to\n     determine if there is significant evidence that different age groups have different car colour\n      preferences.\n\n    The null hypothesis and alternative hypothesis are defined as:\n\n                    H0 : age and car colour preference are independent.\n\n                    H1 : age and car colour preference are not independent.\n\n    The  c 2  critical value for this test is  16.81 .\n\n      (b)   Find the  c 2  test statistic.                                                                               [2]\n\n       (c)   Write down the conclusion to the test, in context. Give a reason for your answer.             [2]\n\n(This question continues on the following page)\n\n(Question 2 continued)\nL\n_\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-011.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-011.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q02.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q03",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3.   [Maximum mark: 5]\n\n    A bakery sells boxes of cupcakes at the following prices:\n\n       •  a small box, containing  1  cupcake, costs  $4.50\n\n       •  a medium box, containing  6  cupcakes, costs  $23.50\n\n       •  a large box, containing  12  cupcakes, costs  $44.75 .\n\n                                Medium box\n\n\n\n\n\n      In a particular week, the bakery sold  88  boxes containing a total of  383  cupcakes. The\n     bakery collected  $1486  from cupcake sales for the week.\n\n    The number of boxes of cupcakes sold during the week can be represented by\n\n                                         x + y + z = 88 ,\n\n     where  x  is the number of small boxes sold,  y  is the number of medium boxes sold, and  z  is\n      the number of large boxes sold.\n\n      (a)   Write down an equation in terms of  x ,  y , and  z  to represent\n\n                 (i)    the number of cupcakes sold during the week.\n\n                   (ii)   the money collected from sales of cupcakes for the week.                                 [3]\n\n      (b)   Hence, use your graphic display calculator to determine the number of medium boxes\n            that were sold during the week.                                                                       [2]\n\n(This question continues on the following page)\n\n(Question 3 continued)\nL\n_\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-011.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-011.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q03.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q04",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "代数",
+   "knowledge_point": "比例与变化",
+   "problem_type": "按比例或正反比关系求量",
+   "search_text": "4.   [Maximum mark: 5]\n\n    A swimming pool has a shallow end where the depth of the water is  1.2 m  and a deep end\n     where the depth of the water is  2.0 m . A cross-section of the water in the swimming pool,\n      with additional dimensions, is shown in the diagram.\n\n                                                             diagram not to scale\n\n                                                7.5 m\n\n\n                                                               Shallow end    1.2 m\n         2.0 m       Deep end\n                                                         floor                                       Sloped                                                                         1.8 m\n\n                          3.0 m\n\n    A safety regulation states that the gradient of the sloped floor of the swimming pool, as\n                                                1\n    shown in the cross-section, must not be greater than     .\n                                                3\n      (a)  Show that the swimming pool satisfies the safety regulation.                                     [2]\n\n    The time to fill the pool with water is inversely proportional to the water flow rate, in litres per\n      minute, of the hose being used. A hose with a water flow rate of  300  litres per minute will\n     completely fill this pool from empty in  4.5  hours if the hose is run continuously.\n\n      (b)   Determine the time it takes to completely fill the pool from empty, using a hose run\n           continuously with a water flow rate of  170  litres per minute.                                      [3]\n\n(This question continues on the following page)\n\n(Question 4 continued)\nL\n_\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-011.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-011.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-011.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q04.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q05",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "代数",
+   "knowledge_point": "二次方程",
+   "problem_type": "解二次方程或判断根的情况",
+   "search_text": "5.   [Maximum mark: 7]\n\n    A dolphin jumps out of water. The path of its jump can be modelled by a quadratic function\n     using the following variables:\n\n             d  is the horizontal distance from the point where the dolphin leaves the water\n\n             h  is the height of the dolphin above the surface of the water.\n\n       All distances are measured in metres, from the point where the dolphin leaves the water.\n\n                                                             diagram not to scale\n\n                    h\n\n\n\n\n\n                                                                d\n\n    On a particular jump, the dolphin first reaches a height of  5.1 m above the surface of the\n     water when the horizontal distance is  3 m  and again when the horizontal distance is  8.5 m .\n\n      (a)   Write down the equation of the axis of symmetry of the quadratic function.                    [2]\n\n    The quadratic function that models the dolphin’s jump is  h(d ) = −0.2d 2 + bd , where  d > 0 \n     and  b  is a constant.\n\n      (b)   Calculate the value of  b .                                                                               [2]\n\n       (c)   Find the horizontal distance when the dolphin re-enters the water.                              [2]\n\n      (d)   Explain what a negative  h -value would mean in this context.                                    [1]\n\n(This question continues on the following page)\n\n(Question 5 continued)\nL\n_\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q05.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q06",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "从圆的方程或几何条件求圆与直线关系",
+   "search_text": "6.   [Maximum mark: 6]\n\n    A child’s game is played by making paths in the snow. First, two circular paths are made\n     using the same centre,  O . The radius of the smaller circle is  2.8 m , and the radius of the\n      larger circle is  4 m . Additional paths are then made from  O  to the outer edge of the larger\n       circle, dividing each circle into  5  equal sectors, as shown in the following diagram.\n\n     For your calculations, ignore the widths of the paths.\n\n                                                             diagram not to scale\n\n\n\n\n                   O                                     4\n\n                                 2.8\n                                                     Key:\n                                                        Path\n                                                       Radius\n\n                              Entrance\n\n     Each region between paths will be coloured with environmentally friendly dye. The shaded\n      region below will be coloured orange.\n\n                                                             diagram not to scale\n\n\n\n\n\n                                          Entrance\n\n     Maureen has enough orange dye to cover an area of  6 m2 .\n\n      (a)  Show that Maureen has enough orange dye to cover the shaded region.                      [3]\n\n(This question continues on the following page)\n\n(Question 6 continued)\nDuring the game, the players start at the entrance and must travel only along the paths made\nin the snow. Maureen travels from the entrance along the path shown in the following diagram.\ndiagram not to scale\nEntrance\n(b)\nCalculate the distance Maureen travels along this path, starting from the entrance and\nreturning to the entrance.\n[3]\nL\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q06.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q07",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "概率分布",
+   "knowledge_point": "二项分布",
+   "problem_type": "用固定次数独立试验模型求概率",
+   "search_text": "7.\n[Maximum mark: 5]\nChildren inherit genes from their biological parents that determine their eye colour.\nMaria and Alex plan to have  5  children. The probability that a child born to Maria and Alex\nwill have brown eyes is  0.75 . It is assumed that a child’s eye colour is independent of any\nother child’s eye colour.\nMaria and Alex wish to predict how many of their  5  children will have brown eyes.\n(a)\nState one criterion, in addition to independence, that would support them using a\nbinomial distribution to find probabilities for their prediction.\n[1]\n(b)\nCalculate the probability that\nexactly  3  of the  5  children will have brown eyes.\n(i)\nat least  4  of the  5  children will have brown eyes.\n(ii)\n[4]\nL\n_\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q07.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q08",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "8.\n[Maximum mark: 7]\nConsider a function of the form  f (x) = 2x−2 + bx−1 + c , where  b  and  c  are constants.\nThe graph of  y = f (x)  has a gradient of  0.208  at  x = 5 .\nDetermine the value of  b .\n(a)\n[5]\nShow that  f (x)  is increasing at  x = 3.5\n(b)\n[2]\nL\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q08.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q09",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "9.\n[Maximum mark: 4]\nConsider the function  f (x) = x3 − 9x2 + 23x − 15  for  0 ≤ x ≤ 5 .\nThe graph of  f (x)  crosses the x-axis when  x = 1 , x = 5  and  x = a .\nFind the value of  a .\n(a)\n[2]\n(a) Find the value of a. [2]\nUse your graphic display calculator to find the area enclosed by the curve  y = f (x)  and\n(b)\nthe  x -axis, when  1 ≤ x ≤ a .\n[2]\nthe x-axis, when 1 <x<a. [2]\nL\n_\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q09.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q10",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "10.\n[Maximum mark: 7]\nA manufacturer designs hats that businesses can order.\nFor an order of  15  hats or fewer, the price per hat is  p  euros  (EUR) . For larger orders, the\nprice of each hat after the first  15  ordered is reduced by  5 EUR .\nC (n)  represents the total cost of purchasing  n  hats from the manufacturer.\nWrite down an expression in terms of  p  for the total cost of ordering  15  hats.\n(a)\n[1]\nWrite down an equation for  C (n) , in terms of  p  and  n , for the total cost of\n(b)\nordering  n hats when  n > 15 .\n[3]\nordering n hats when n> 15. [3]\nA company decides to order  100  hats. The mean price per hat for this order is  25.73 EUR .\n(c)\n(i)\nCalculate the exact total cost of the order.\nHence, determine the value of  p , correct to  2  decimal places.\n(ii)\n[3]\nL\n_\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q10.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q11",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "代数",
+   "knowledge_point": "百分比与增长",
+   "problem_type": "求百分比变化或复利结果",
+   "search_text": "11.\n[Maximum mark: 5]\nMongolia is one of the coldest countries in the world, with the air temperature in winter as low\nas  −40°C . It can feel even colder if a wind is blowing. This effect is called wind chill.\nOn a day when the air temperature is  −40°C , the approximate wind chill index,  W , can be\ncalculated by the equation\nW = −34.1 − 7.33 ln (v) ,\nwhere  v  is the wind speed, in kilometres per hour  (km h−1) .\nFind the approximate wind chill index on a day when the air temperature is  −40°C\n(a)\nand the wind speed is measured as  13 km h−1 .\n[2]\nDue to errors in the measuring device, the percentage error in the approximate wind chill\nindex calculated in part (a) could be as high as  6 % .\nPredict the maximum and the minimum wind chill index for this day.\n(b)\n[3]\nL\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q11.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q12",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "12.  [Maximum mark: 9]\n\n    An airline restricts the size of bags by stating that the sum of a bag’s width, length, and\n      height (ignoring the handle) must not exceed a fixed value,  M .\n\n                                                             diagram not to scale\n\n\n\n\n                               Height             Bag\n\n\n\n                                                  Length\n                                     Width\n\n                                 Width + Length + Height ≤ M\n\n    A company is designing a cuboid-shaped bag so that the sum of the bag’s width, length, and\n      height equals  M . Their design will have a length equal to three times its width.\n\n    As the width of the design varies, its volume changes according to the equation\n\n                                   dV                                   = 690w −36w2 ,\n                                   dw\n     where  w  is the width in centimetres and  V  is the volume in cubic centimetres.\n\n      (a)  Use your graphic display calculator to find the value of  w  that will produce the\n        maximum volume.                                                                                      [2]\n\n      (b)  Show that the maximum volume of the bag to three significant figures is  42 200 cm3 .        [4]\n\n       (c)  Hence find the value of  M .                                                                            [3]\n\n(This question continues on the following page)\n\n(Question 12 continued)\nL\n_\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q12.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "1",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q13",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "三角",
+   "knowledge_point": "解三角形",
+   "problem_type": "用正弦定理、余弦定理或三角比求边角",
+   "search_text": "13.  [Maximum mark: 9]\n\n      Ticky is sailing a boat in the ocean. For the first part of her trip, she plans to start at point  A \n     and travel to point  B . She then plans to turn and travel  13 km  on a bearing of  100°  to\n      point  C  as shown in the following diagram.\n\n                                                             diagram not to scale\n\n                                                                         North\n                    2   100˚\n           D     B\n                                        13\n\n\n\n                                         E     C         A\n\n    Due to navigational error in the first part of the trip, Ticky arrives at point  D  instead of\n      point  B . Point  D  is  2 km  due west of point  B .\n\n      (a)   Determine\n                 (i)    the size of  DB̂ C .\n\n                   (ii)   the distance from point  D  to point  C .\n\n                   (iii)   the bearing Ticky must use to travel directly from point  D  to point  C .                   [7]\n\n    Due to navigational error in the second part of the trip, Ticky arrives at point  E  instead of\n      point  C . Point  E  is  2 km  due west of point  C .\n\n      (b)   Write down the distance between point  D  and point  E . Justify your answer.                  [2]\n\n(This question continues on the following page)\n\n(Question 13 continued)\nL\n_\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 1 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_1_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p1-sl-tz1-qp__q13.md"
+  }
+ ]
+}

@@ -1,0 +1,1040 @@
+{
+ "group": "0625-s24-qp-13",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 24,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:electricity-magnetism:0625-s24-qp-13-Q25",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "25",
+   "chapter": "专题4 电学与磁学",
+   "knowledge_point": "磁学基本现象",
+   "problem_type": "由吸斥现象判磁极 / 先用排斥锁定磁体",
+   "search_text": "5 Diagrams 1, 2 and 3 show an experiment to compare two magnets 1 and 2. \n125.3 g\ndiagram 1\nN\nS\n124.9 g\ndiagram 2\nN\nS\n126.7 g\ndiagram 3\nN\nS\nW\nX\nY\nZ\nmagnet 1\nmagnet\nmagnet\nmagnet\nmagnet 2\n \nWhich row explains the readings on the balances? \n \npolarity of magnet 1 \npolarity of magnet 2 \nA \nX is an N pole \nZ is an N pole \nB \nX is an N pole \nZ is an S pole \nC \nX is an S pole \nZ is an N pole \nD \nX is an S pole \nZ is an S pole",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q25",
+    "caie-0625:electricity-magnetism:0625-s24-qp-13-Q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_electricity-magnetism_0625-s24-qp-13-Q25.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:electricity-magnetism:0625-s24-qp-13-Q29",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "29",
+   "chapter": "专题4 电学与磁学",
+   "knowledge_point": "用电安全",
+   "problem_type": "按外壳判断接地或双重绝缘 / 金属外壳接地，双重绝缘不用地线",
+   "search_text": "9 Four statements about safety when designing electrical products are listed. \n1 \nIf the outer casing is a conductor, it should be earthed. \n2 \nIf the outer casing is a conductor, it should not be earthed. \n3 \nIf the outer casing is an insulator, it should be earthed. \n4 \nIf the outer casing is an insulator, it should not be earthed. \nWhich statements are correct? \nA \n1 and 3 \nB \n1 and 4 \nC \n2 and 3 \nD \n2 and 4",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q29",
+    "caie-0625:electricity-magnetism:0625-s24-qp-13-Q29"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_electricity-magnetism_0625-s24-qp-13-Q29.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:electricity-magnetism:0625-s24-qp-13-Q31",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "31",
+   "chapter": "专题4 电学与磁学",
+   "knowledge_point": "直流电动机",
+   "problem_type": "增大线圈转动效应 / 先查电流、匝数和磁场强度",
+   "search_text": "A class is designing a d.c. motor. To achieve a greater turning effect, three suggestions are \nmade. \n1 \nHave a larger current in the coil of the motor. \n2 \nHave a stronger magnet in the motor. \n3 \nPut a larger number of turns on the coil. \nWhich suggestions will help to increase the turning effect? \nA \n1, 2 and 3 \nB \n1 and 2 only \nC \n1 and 3 only \nD \n2 and 3 only",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q31",
+    "caie-0625:electricity-magnetism:0625-s24-qp-13-Q31"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_electricity-magnetism_0625-s24-qp-13-Q31.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:mechanics:0625-s24-qp-13-Q1",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "专题1 运动、力与能量",
+   "knowledge_point": "物理量与测量方法",
+   "problem_type": "不规则体积先用排水法 / 先选量筒和水",
+   "search_text": "A student wishes to find the volume of a small, irregularly shaped stone. \nstone\n \nA ruler and a measuring cylinder containing some water are available. \nWhich apparatus is needed? \nA \nneither the ruler nor the measuring cylinder \nB \nthe measuring cylinder only \nC \nthe ruler and the measuring cylinder \nD \nthe ruler only",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q1",
+    "caie-0625:mechanics:0625-s24-qp-13-Q1"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_mechanics_0625-s24-qp-13-Q1.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:mechanics:0625-s24-qp-13-Q3",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "专题1 运动、力与能量",
+   "knowledge_point": "运动",
+   "problem_type": "距离–时间图先看斜率 / 看斜率变化判运动",
+   "search_text": "Four objects are moving along a straight line. \nThe distance of each object from a fixed point on the line is plotted against time. \nWhich object is decelerating? \n0\n0\nA\ndistance from\nfixed point\ntime\nB\ndistance from\nfixed point\ntime\nC\ndistance from\nfixed point\ntime\nD\ndistance from\nfixed point\ntime\n0\n0\n0\n0\n0\n0",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q3",
+    "caie-0625:mechanics:0625-s24-qp-13-Q3"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_mechanics_0625-s24-qp-13-Q3.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:mechanics:0625-s24-qp-13-Q4",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "专题1 运动、力与能量",
+   "knowledge_point": "质量与重量",
+   "problem_type": "先分清质量和重量 / 换地点时质量不变",
+   "search_text": "An object is taken from the Earth to the Moon. \nThe acceleration of free fall is 9.8 m / s2 on the Earth and is 1.6 m / s2 on the Moon. \nWhich row describes the mass and the weight of the object on the Moon compared to on the \nEarth? \n \nmass \nweight \nA \ngreater than on the Earth \nsame as on the Earth \nB \nless than on the Earth \nsame as on the Earth \nC \nsame as on the Earth \ngreater than on the Earth \nD \nsame as on the Earth \nless than on the Earth",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q4",
+    "caie-0625:mechanics:0625-s24-qp-13-Q4"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_mechanics_0625-s24-qp-13-Q4.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:mechanics:0625-s24-qp-13-Q5",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "5",
+   "chapter": "专题1 运动、力与能量",
+   "knowledge_point": "密度",
+   "problem_type": "测密度先分别测质量体积 / 流体先扣容器质量",
+   "search_text": "The diagram shows some liquid in a measuring cylinder. \nThe mass of the liquid is 16 g. \n25\n20\n15\n10\n5\ncm3\n \nWhat is the density of the liquid? \nA \n0.80 g / cm 3 \nB \n1.3 g / cm 3 \nC \n36 g / cm 3 \nD \n320 g / cm 3",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q5",
+    "caie-0625:mechanics:0625-s24-qp-13-Q5"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_mechanics_0625-s24-qp-13-Q5.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:mechanics:0625-s24-qp-13-Q7",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "7",
+   "chapter": "专题1 运动、力与能量",
+   "knowledge_point": "功率",
+   "problem_type": "先把功率认成能量速率 / 同样能量用时短功率大",
+   "search_text": "Four electric motors do the same quantity of work when they lift a weight of 10 N through the \nsame distance. \nThe times taken by each motor to lift the weight are shown. \nWhat is the time taken by the motor which produces the most power? \nA \n1.5 s \nB \n6.0 s \nC \n15 s \nD \n60 s",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q7",
+    "caie-0625:mechanics:0625-s24-qp-13-Q7"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_mechanics_0625-s24-qp-13-Q7.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:mechanics:0625-s24-qp-13-Q8",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "8",
+   "chapter": "专题1 运动、力与能量",
+   "knowledge_point": "压强",
+   "problem_type": "液体压强先找深度和密度 / 越深越密压强增量越大",
+   "search_text": "Which row describes how the pressure beneath the surface of a liquid depends on the depth \nbelow the surface and on the density of the liquid? \n \ndepth below surface \ndensity of liquid \nA \n \npressure decreases \nwith increasing depth \npressure decreases \nwith increasing density \nB \n \npressure decreases \nwith increasing depth \npressure increases \nwith increasing density \nC \n \npressure increases \nwith increasing depth \npressure decreases \nwith increasing density \nD \n \npressure increases \nwith increasing depth \npressure increases \nwith increasing density",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q8",
+    "caie-0625:mechanics:0625-s24-qp-13-Q8"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_mechanics_0625-s24-qp-13-Q8.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:nuclear:0625-s24-qp-13-Q33",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "33",
+   "chapter": "专题5 核物理",
+   "knowledge_point": "原子核",
+   "problem_type": "读写核素与粒子组成 / 由粒子数写符号或结构",
+   "search_text": "3 A nuclide of strontium is represented by \nSr.\n90\n38\n \nWhich row gives the number and location of the electrons in an atom of \nSr?\n90\n38\n \n \nnumber of \nelectrons \nlocation of electrons \nA \n38 \nin the nucleus \nB \n38 \nsurrounding the nucleus \nC \n52 \nin the nucleus \nD \n52 \nsurrounding the nucleus",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q33",
+    "caie-0625:nuclear:0625-s24-qp-13-Q33"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_nuclear_0625-s24-qp-13-Q33.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:nuclear:0625-s24-qp-13-Q35",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "35",
+   "chapter": "专题5 核物理",
+   "knowledge_point": "放射性衰变",
+   "problem_type": "看核变化判断衰变影响 / 抓住不稳定自发且随机",
+   "search_text": "5 The nuclei of the atoms in a substance are changing randomly and emitting radiation. \nWhat is happening to the substance? \nA \nIt is undergoing electromagnetic induction. \nB \nIt is undergoing magnetisation. \nC \nIt is undergoing solidification. \nD \nIt is undergoing radioactive decay.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q35",
+    "caie-0625:nuclear:0625-s24-qp-13-Q35"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_nuclear_0625-s24-qp-13-Q35.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:nuclear:0625-s24-qp-13-Q36",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "36",
+   "chapter": "专题5 核物理",
+   "knowledge_point": "放射性的安全防护",
+   "problem_type": "用时间距离屏蔽做防护 / 用铅容器隔离并管控",
+   "search_text": "6 What is the safest way to store a radioactive source? \nA \nin a lead-lined box in a metal cabinet \nB \non a shelf away from other radioactive materials \nC \nin a glass bottle containing oil \nD \nin a fume cupboard",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q36",
+    "caie-0625:nuclear:0625-s24-qp-13-Q36"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_nuclear_0625-s24-qp-13-Q36.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:space:0625-s24-qp-13-Q37",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "37",
+   "chapter": "专题6 空间物理",
+   "knowledge_point": "地球",
+   "problem_type": "认准地日月周期现象 / 由自转判昼夜与太阳日动",
+   "search_text": "7 Which row explains the apparent daily motion of the Sun across the sky and the cycle of phases \nof the Moon? \n \nthe daily motion of \nthe Sun across the sky \nthe cycle of \nphases of the Moon \nA \n \nthe Earth rotates on its axis \nonce every 24 hours \nthe Earth orbits the Sun once \napproximately every 365 days \nB \n \nthe Earth rotates on its axis \nonce every 24 hours \nthe Moon orbits the Earth \napproximately once every month \nC \n \nthe Moon orbits the Earth \napproximately once every month \nthe Earth orbits the Sun once \napproximately every 365 days \nD \n \nthe Moon orbits the Earth \napproximately once every month \nthe Earth rotates on its axis \nonce every 24 hours",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q37",
+    "caie-0625:space:0625-s24-qp-13-Q37"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_space_0625-s24-qp-13-Q37.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:space:0625-s24-qp-13-Q39",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "39",
+   "chapter": "专题6 空间物理",
+   "knowledge_point": "太阳是一颗恒星",
+   "problem_type": "辨太阳的组成与辐射 / 把主要辐射定在红外至紫外",
+   "search_text": "9 In which regions of the electromagnetic spectrum does the Sun radiate most of its energy? \nA \nmicrowave to infrared \nB \nultraviolet to X-ray \nC \ninfrared to ultraviolet \nD \nradio to infrared",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q39",
+    "caie-0625:space:0625-s24-qp-13-Q39"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_space_0625-s24-qp-13-Q39.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:space:0625-s24-qp-13-Q40",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "40",
+   "chapter": "专题6 空间物理",
+   "knowledge_point": "宇宙",
+   "problem_type": "认宇宙层级与银河系尺度 / 先写数十亿星系与10万光年",
+   "search_text": "0 What is the approximate diameter of the Milky Way? \nA \n100 000 kilometres \nB \n1 000 000 kilometres \nC \n100 000 light-years \nD \n1 000 000 light-years",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q40",
+    "caie-0625:space:0625-s24-qp-13-Q40"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_space_0625-s24-qp-13-Q40.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:thermal:0625-s24-qp-13-Q10",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "10",
+   "chapter": "专题2 热学",
+   "knowledge_point": "物质的粒子模型",
+   "problem_type": "从随机微粒认布朗运动 / 由曲折轨迹辨布朗运动",
+   "search_text": "0 A pollen grain in a beaker of still water is viewed through a microscope. \nWhich diagram shows the most likely movement of the pollen grain? \nA\nB\nC\nD",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q10",
+    "caie-0625:thermal:0625-s24-qp-13-Q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_thermal_0625-s24-qp-13-Q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:thermal:0625-s24-qp-13-Q12",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "12",
+   "chapter": "专题2 热学",
+   "knowledge_point": "比热容",
+   "problem_type": "由温变判内能 / 温度先对应平均动能",
+   "search_text": "2 In a famous experiment, a scientist showed that, when water in an insulated tub is stirred, its \ntemperature increases. \nWhat can be concluded from this experiment? \nA \nTemperature is a store of energy. \nB \nThe water absorbs heat from the surroundings. \nC \nWork done by stirring increases the internal energy of the water. \nD \nEnergy is not conserved.",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q12",
+    "caie-0625:thermal:0625-s24-qp-13-Q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_thermal_0625-s24-qp-13-Q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:thermal:0625-s24-qp-13-Q13",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "13",
+   "chapter": "专题2 热学",
+   "knowledge_point": "热膨胀",
+   "problem_type": "在装置中追踪膨胀 / 沿受热部件判断动作",
+   "search_text": "3 Solids expand when heated and contract when cooled. \nIn which example is there a useful application of expansion and not an unwanted effect? \nA \nbridges \nB \nrailway lines \nC \ntelephone cables \nD \nthermostats",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q13",
+    "caie-0625:thermal:0625-s24-qp-13-Q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_thermal_0625-s24-qp-13-Q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:thermal:0625-s24-qp-13-Q9",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "9",
+   "chapter": "专题2 热学",
+   "knowledge_point": "物质的状态",
+   "problem_type": "按起态终态定相变 / 单段变化先写起态终态",
+   "search_text": "In which process does a gas turn into a liquid? \nA \nboiling \nB \ncondensing \nC \nfreezing \nD \nmelting",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q9",
+    "caie-0625:thermal:0625-s24-qp-13-Q9"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_thermal_0625-s24-qp-13-Q9.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:waves:0625-s24-qp-13-Q17",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "17",
+   "chapter": "专题3 波",
+   "knowledge_point": "波的一般性质",
+   "problem_type": "判断反射折射衍射 / 按速率变化画折射",
+   "search_text": "7 Waves on the surface of water travel from deep water to shallow water. \nWhich diagram shows the correct path of the waves in the shallow water? \ndeep\nwater\nA\nshallow\nwater\ndeep\nwater\nB\nshallow\nwater\ndeep\nwater\nC\nshallow\nwater\ndeep\nwater\nD\nshallow\nwater",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q17",
+    "caie-0625:waves:0625-s24-qp-13-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_waves_0625-s24-qp-13-Q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:waves:0625-s24-qp-13-Q19",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "19",
+   "chapter": "专题3 波",
+   "knowledge_point": "光的反射",
+   "problem_type": "找法线并用反射定律 / 从法线认角和光线",
+   "search_text": "9 A student reads the following relationship in his physics book. \ni = r \nWhat is the student reading about? \nA \ndiffraction due to a gap \nB \ndispersion of light by a prism \nC \nreflection in a plane mirror \nD \nrefraction as light enters glass",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q19",
+    "caie-0625:waves:0625-s24-qp-13-Q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_waves_0625-s24-qp-13-Q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:waves:0625-s24-qp-13-Q20",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "20",
+   "chapter": "专题3 波",
+   "knowledge_point": "光的色散",
+   "problem_type": "按颜色比较频率波长 / 由颜色判断大小关系",
+   "search_text": "0 The table shows information about different colours of light. \ncolour \nof light \nfrequency / Hz \nviolet \n7.2  1014 \nblue \n6.3  1014 \nyellow \n5.2  1014 \nred \n4.5  1014 \nUsing the data, what is the frequency of orange light? \nA \n4.0  1014\n Hz \nB \n5.0  1014\n Hz \nC \n6.0  1014\n Hz \nD \n7.0  1014\n Hz",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q20",
+    "caie-0625:waves:0625-s24-qp-13-Q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_waves_0625-s24-qp-13-Q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:waves:0625-s24-qp-13-Q21",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "21",
+   "chapter": "专题3 波",
+   "knowledge_point": "电磁波谱",
+   "problem_type": "按顺序读电磁波谱 / 按频率顺序定位波段",
+   "search_text": "The table gives the wavelengths of three electromagnetic waves. \nelectromagnetic \nwave \nwavelength / m \nP \n3.2  10–3 \nQ \n5.0  10–9 \nR \n2.6  103 \nWhich row correctly identifies P, Q and R? \n \nP \nQ \nR \nA \nmicrowave \nradio wave \nX-ray \nB \nmicrowave \nX-ray \nradio wave \nC \nradio wave \nmicrowave \nX-ray \nD \nradio wave \nX-ray \nmicrowave",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q21",
+    "caie-0625:waves:0625-s24-qp-13-Q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_waves_0625-s24-qp-13-Q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:waves:0625-s24-qp-13-Q22",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "22",
+   "chapter": "专题3 波",
+   "knowledge_point": "声音",
+   "problem_type": "由频率振幅判断听感 / 用 20 Hz–20 kHz 判听阈",
+   "search_text": "2 A healthy human ear is able to hear a range of frequencies. \nWhat is this approximate range? \nA \n10 Hz to 1000 Hz \nB \n20 Hz to 2000 Hz \nC \n20 Hz to 20 000 Hz \nD \n200 Hz to 200 000 Hz",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s24-qp-13-Q22",
+    "caie-0625:waves:0625-s24-qp-13-Q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_waves_0625-s24-qp-13-Q22.md"
+  }
+ ]
+}

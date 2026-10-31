@@ -1,0 +1,1269 @@
+{
+ "group": "live-poshenloh-amc12-2002b-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "重复数字除法按位累加 / 重复9数逐项除9成重复1相加",
+   "search_text": "The arithmetic mean of the nine numbers in the set \\(\\{9,\\) \\(99,\\) \\(999,\\) \\(9999,\\) \\(\\ldots,\\) \\(999999999\\}\\) is a \\(9\\)-digit number \\(M,\\) all of whose digits are distinct. The number \\(M\\) does not contain the digit",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q01",
+    "live-poshenloh-amc12-2002b-question_paper__q01",
+    "AMC12-2002B-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The arithmetic mean of the nine numbers in the set \\(\\{9,\\) \\(99,\\) \\(999,\\) \\(9999,\\) \\(\\ldots,\\) \\(999999999\\}\\) is a \\(9\\)-digit number \\(M,\\) all of whose digits are distinct. The number \\(M\\) does not contain the digit"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "提取共同因式求整体值 / 共同因式局部相消再代值",
+   "search_text": "What is the value of \\[ \\begin{aligned} &(3x-2)(4x+1) \\\\ &\\quad {}-(3x-2)4x+1 \\end{aligned} \\] when \\(x=4?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q02",
+    "live-poshenloh-amc12-2002b-question_paper__q02",
+    "AMC12-2002B-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the value of \\[ \\begin{aligned} &(3x-2)(4x+1) \\\\ &\\quad {}-(3x-2)4x+1 \\end{aligned} \\] when \\(x=4?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "因式分解后素数迫使小因子为一 / 二次整数式分解后素数迫使因子1",
+   "search_text": "For how many positive integers \\(n\\) is \\(n^2-3n+2\\) a prime number?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q03",
+    "live-poshenloh-amc12-2002b-question_paper__q03",
+    "AMC12-2002B-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For how many positive integers \\(n\\) is \\(n^2-3n+2\\) a prime number?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整数条件先用取值范围夹定 / 若干单位分数和为整数用范围定值",
+   "search_text": "Let \\(n\\) be a positive integer such that \\(\\dfrac12+\\dfrac13+\\dfrac17+\\dfrac1n\\) is an integer. Which of the following statements is not true:",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q04",
+    "live-poshenloh-amc12-2002b-question_paper__q04",
+    "AMC12-2002B-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(n\\) be a positive integer such that \\(\\dfrac12+\\dfrac13+\\dfrac17+\\dfrac1n\\) is an integer. Which of the following statements is not true:"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等差数列中项与平均数 / 奇数项等差序列中项等于平均数",
+   "search_text": "Let \\(v,\\) \\(w,\\) \\(x,\\) \\(y,\\) and \\(z\\) be the degree measures of the five angles of a pentagon. Suppose \\(v\\lt w\\lt x\\lt y\\lt z\\) and \\(v,\\) \\(w,\\) \\(x,\\) \\(y,\\) \\(z\\) form an arithmetic sequence. Find the value of \\(x.\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q05",
+    "live-poshenloh-amc12-2002b-question_paper__q05",
+    "AMC12-2002B-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(v,\\) \\(w,\\) \\(x,\\) \\(y,\\) and \\(z\\) be the degree measures of the five angles of a pentagon. Suppose \\(v\\lt w\\lt x\\lt y\\lt z\\) and \\(v,\\) \\(w,\\) \\(x,\\) \\(y,\\) \\(z\\) form an arithmetic sequence. Find the value of \\(x.\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "根的和积与系数互相转换 / 二次方程根与系数同名反求参数",
+   "search_text": "Suppose that \\(a\\) and \\(b\\) are nonzero real numbers, and that the equation \\(x^2+ax+b=0\\) has solutions \\(a\\) and \\(b.\\) Then the pair \\((a,b)\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q06",
+    "live-poshenloh-amc12-2002b-question_paper__q06",
+    "AMC12-2002B-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose that \\(a\\) and \\(b\\) are nonzero real numbers, and that the equation \\(x^2+ax+b=0\\) has solutions \\(a\\) and \\(b.\\) Then the pair \\((a,b)\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续整数以中间项或长度参数化 / 以中间数设连续三数简化乘积",
+   "search_text": "The product of three consecutive positive integers is \\(8\\) times their sum. What is the sum of their squares?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q07",
+    "live-poshenloh-amc12-2002b-question_paper__q07",
+    "AMC12-2002B-Q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The product of three consecutive positive integers is \\(8\\) times their sum. What is the sum of their squares?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "星期日期按模七平移 / 连续31天月份重复星期集合交集",
+   "search_text": "Suppose July of year \\(N\\) has five Mondays. Which of the following must occur five times in August of year \\(N?\\) (Note: Both months have \\(31\\) days.)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q08",
+    "live-poshenloh-amc12-2002b-question_paper__q08",
+    "AMC12-2002B-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose July of year \\(N\\) has five Mondays. Which of the following must occur five times in August of year \\(N?\\) (Note: Both months have \\(31\\) days.)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等差等比混合用中项关系 / 四项等差中三项等比",
+   "search_text": "If \\(a,\\) \\(b,\\) \\(c,\\) \\(d\\) are positive real numbers such that \\(a,\\) \\(b,\\) \\(c,\\) \\(d\\) form an increasing arithmetic sequence and \\(a,\\) \\(b,\\) \\(d\\) form a geometric sequence, then \\(\\dfrac{a}{d}\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q09",
+    "live-poshenloh-amc12-2002b-question_paper__q09",
+    "AMC12-2002B-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "If \\(a,\\) \\(b,\\) \\(c,\\) \\(d\\) are positive real numbers such that \\(a,\\) \\(b,\\) \\(c,\\) \\(d\\) form an increasing arithmetic sequence and \\(a,\\) \\(b,\\) \\(d\\) form a geometric sequence, then \\(\\dfrac{a}{d}\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等差集合和值区间无缺口证明 / 等差集合三异元素和值去重",
+   "search_text": "How many different integers can be expressed as the sum of three distinct members of the set \\(\\{1,4,7,10,13,16,19\\}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q10",
+    "live-poshenloh-amc12-2002b-question_paper__q10",
+    "AMC12-2002B-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "How many different integers can be expressed as the sum of three distinct members of the set \\(\\{1,4,7,10,13,16,19\\}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "奇偶迫使素数等于二 / 四个和差数同素数逼唯一偶素数及模3",
+   "search_text": "The positive integers \\(A,\\) \\(B,\\) \\(A-B,\\) and \\(A+B\\) are all prime numbers. The sum of these four primes is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q11",
+    "live-poshenloh-amc12-2002b-question_paper__q11",
+    "AMC12-2002B-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The positive integers \\(A,\\) \\(B,\\) \\(A-B,\\) and \\(A+B\\) are all prime numbers. The sum of these four primes is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定整数乘积枚举因数分配并检范围 / 有理式为整数平方转约数筛选",
+   "search_text": "For how many integers \\(n\\) is \\[\\dfrac{n}{20-n}\\] the square of an integer?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q12",
+    "live-poshenloh-amc12-2002b-question_paper__q12",
+    "AMC12-2002B-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For how many integers \\(n\\) is \\[\\dfrac{n}{20-n}\\] the square of an integer?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续整数以中间项或长度参数化 / 偶数个连续整数和为平方取最小",
+   "search_text": "The sum of \\(18\\) consecutive positive integers is a perfect square. The smallest possible value of this sum is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q13",
+    "live-poshenloh-amc12-2002b-question_paper__q13",
+    "AMC12-2002B-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The sum of \\(18\\) consecutive positive integers is a perfect square. The smallest possible value of this sum is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "枚举无序配对并校正重复 / 圆两两交点最大数与一般位置构造",
+   "search_text": "Four distinct circles are drawn in a plane. What is the maximum number of points where at least two of the circles intersect?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q14",
+    "live-poshenloh-amc12-2002b-question_paper__q14",
+    "AMC12-2002B-Q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按位值展开数字方程 / 删千位后余数为原数固定份额",
+   "search_text": "How many four-digit numbers \\(N\\) have the property that the three-digit number obtained by removing the leftmost digit is one ninth of \\(N?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q15",
+    "live-poshenloh-amc12-2002b-question_paper__q15",
+    "AMC12-2002B-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "How many four-digit numbers \\(N\\) have the property that the three-digit number obtained by removing the leftmost digit is one ninth of \\(N?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "补集计至少一个事件 / 乘积被素数整除用两因子均不整除补集",
+   "search_text": "Juan rolls a fair regular octahedral die marked with the numbers \\(1\\) through \\(8.\\) Then Amal rolls a fair six-sided die. What is the probability that the product of the two rolls is a multiple of \\(3?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q16",
+    "live-poshenloh-amc12-2002b-question_paper__q16",
+    "AMC12-2002B-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Juan rolls a fair regular octahedral die marked with the numbers \\(1\\) through \\(8.\\) Then Amal rolls a fair six-sided die. What is the probability that the product of the two rolls is a multiple of \\(3?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "工作量等于效率乘时间 / 工作量与效率相对比例比较用时",
+   "search_text": "Andy’s lawn has twice as much area as Beth’s lawn and three times as much area as Carlos’ lawn. Carlos’ lawn mower cuts half as fast as Beth’s mower and one third as fast as Andy’s mower. If they all start to mow their lawns at the same time, who will finish first?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q17",
+    "live-poshenloh-amc12-2002b-question_paper__q17",
+    "AMC12-2002B-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "垂直平分线划分远近区域 / 距两点远近用垂直平分线截矩形",
+   "search_text": "A point \\(P\\) is randomly selected from the rectangular region with vertices \\((0,0),\\) \\((2,0),\\) \\((2,1),\\) \\((0,1).\\) What is the probability that \\(P\\) is closer to the origin than it is to the point \\((3,1)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q18",
+    "live-poshenloh-amc12-2002b-question_paper__q18",
+    "AMC12-2002B-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A point \\(P\\) is randomly selected from the rectangular region with vertices \\((0,0),\\) \\((2,0),\\) \\((2,1),\\) \\((0,1).\\) What is the probability that \\(P\\) is closer to the origin than it is to the point \\((3,1)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "选新未知量将乘积方程线性化 / 两两乘积为未知把非线性方程线性化",
+   "search_text": "If \\(a,\\) \\(b,\\) and \\(c\\) are positive real numbers such that \\(a(b+c)=152,\\) \\(b(c+a)=162,\\) and \\(c(a+b)=170,\\) then \\(abc\\) is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q19",
+    "live-poshenloh-amc12-2002b-question_paper__q19",
+    "AMC12-2002B-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "If \\(a,\\) \\(b,\\) and \\(c\\) are positive real numbers such that \\(a(b+c)=152,\\) \\(b(c+a)=162,\\) and \\(c(a+b)=170,\\) then \\(abc\\) is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角形中线平方关系求边长 / 两条中线长求斜边平方用方程相加",
+   "search_text": "Let \\(\\triangle XOY\\) be a right-angled triangle with \\(m\\angle XOY=90^\\circ.\\) Let \\(M\\) and \\(N\\) be the midpoints of legs \\(OX\\) and \\(OY,\\) respectively. Given that \\(XN=19\\) and \\(YM=22,\\) find \\(XY.\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q20",
+    "live-poshenloh-amc12-2002b-question_paper__q20",
+    "AMC12-2002B-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(\\triangle XOY\\) be a right-angled triangle with \\(m\\angle XOY=90^\\circ.\\) Let \\(M\\) and \\(N\\) be the midpoints of legs \\(OX\\) and \\(OY,\\) respectively. Given that \\(XN=19\\) and \\(YM=22,\\) find \\(XY.\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按互素因数倍数分组计权 / 分段按两因子共同倍数计权",
+   "search_text": "For all positive integers \\(n\\) less than \\(2002,\\) let \\[a_n=\\begin{cases} 11, & \\text{if } n \\text{ is divisible by } 13 \\text{ and } 14;\\\\ 13, & \\text{if } n \\text{ is divisible by } 14 \\text{ and } 11;\\\\ 14, & \\text{if } n \\text{ is divisible by } 11 \\text{ and } 13;\\\\ 0, & \\text{otherwise}. \\end{cases}\\] Calculate \\(\\displaystyle\\sum_{n=1}^{2001} a_n.\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q21",
+    "live-poshenloh-amc12-2002b-question_paper__q21",
+    "AMC12-2002B-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For all positive integers \\(n\\) less than \\(2002,\\) let \\[a_n=\\begin{cases} 11, & \\text{if } n \\text{ is divisible by } 13 \\text{ and } 14;\\\\ 13, & \\text{if } n \\text{ is divisible by } 14 \\text{ and } 11;\\\\ 14, & \\text{if } n \\text{ is divisible by } 11 \\text{ and } 13;\\\\ 0, & \\text{otherwise}. \\end{cases}\\] Calculate \\(\\displaystyle\\sum_{n=1}^{2001} a_n.\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "换底或指数化统一对数关系 / 倒数对数换底后和差合并乘除",
+   "search_text": "For all integers \\(n\\) greater than \\(1,\\) define \\[a_n=\\dfrac{1}{\\log_n 2002}.\\] Let \\(b=a_2+a_3+a_4+a_5\\) and \\(c=a_{10}+a_{11}+a_{12}+a_{13}+a_{14}.\\) Then \\(b-c\\) equals",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q22",
+    "live-poshenloh-amc12-2002b-question_paper__q22",
+    "AMC12-2002B-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For all integers \\(n\\) greater than \\(1,\\) define \\[a_n=\\dfrac{1}{\\log_n 2002}.\\] Let \\(b=a_2+a_3+a_4+a_5\\) and \\(c=a_{10}+a_{11}+a_{12}+a_{13}+a_{14}.\\) Then \\(b-c\\) equals"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角形中线平方关系求边长 / 中线长等于对应边用中线平方公式",
+   "search_text": "In \\(\\triangle ABC,\\) we have \\(AB=1\\) and \\(AC=2.\\) Side \\(BC\\) and the median from \\(A\\) to \\(BC\\) have the same length. What is \\(BC?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q23",
+    "live-poshenloh-amc12-2002b-question_paper__q23",
+    "AMC12-2002B-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In \\(\\triangle ABC,\\) we have \\(AB=1\\) and \\(AC=2.\\) Side \\(BC\\) and the median from \\(A\\) to \\(BC\\) have the same length. What is \\(BC?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "取非负项上界并强迫逐项取等 / 给内点到四顶点距离与总面积逼取等",
+   "search_text": "A convex quadrilateral \\(ABCD\\) with area \\(2002\\) contains a point \\(P\\) in its interior such that \\(PA=24,\\) \\(PB=32,\\) \\(PC=28,\\) and \\(PD=45.\\) Find the perimeter of \\(ABCD.\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q24",
+    "live-poshenloh-amc12-2002b-question_paper__q24",
+    "AMC12-2002B-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A convex quadrilateral \\(ABCD\\) with area \\(2002\\) contains a point \\(P\\) in its interior such that \\(PA=24,\\) \\(PB=32,\\) \\(PC=28,\\) and \\(PD=45.\\) Find the perimeter of \\(ABCD.\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2002b-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "不等式配方转圆盘或直线区域 / 两二次式和差不等式配方成圆盘与扇区",
+   "search_text": "Let \\(f(x)=x^2+6x+1,\\) and let \\(R\\) denote the set of points \\((x,y)\\) in the coordinate plane such that \\[f(x)+f(y)\\le0\\] and \\[f(x)-f(y)\\le0.\\] The area of \\(R\\) is closest to",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2002-B-Q25",
+    "live-poshenloh-amc12-2002b-question_paper__q25",
+    "AMC12-2002B-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(f(x)=x^2+6x+1,\\) and let \\(R\\) denote the set of points \\((x,y)\\) in the coordinate plane such that \\[f(x)+f(y)\\le0\\] and \\[f(x)-f(y)\\le0.\\] The area of \\(R\\) is closest to"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2002b-question_paper__q25.md"
+  }
+ ]
+}

@@ -1,0 +1,773 @@
+{
+ "group": "live-poshenloh-aime-2022ii-question_paper",
+ "course_id": "AIME",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 15,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q01",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "51.  Adults made up                                                                              ​ of the crowd of people at a concert. After a bus carrying 50 more                      12\n                                       11    ​   people arrived, adults made up   of the people at the concert. Find the minimum                                       25\n   number of adults who could have been at the concert after the bus arrived.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q02",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "2.  Azar, Carl, Jon, and Sergey are the four players left in a singles tennis tournament. They\n   are randomly assigned opponents in the semifinal matches, and the winners of those\n   matches play each other in the final match to determine the winner of the tournament.\n                                                                       2   When Azar plays Carl, Azar will win the match with probability    ​. When either Azar or                                                                       3\n                                                                                         3    Carl plays either Jon or Sergey, Azar or Carl will win the match with probability    ​.                                                                                         4\n   Assume that outcomes of different matches are independent. The probability that\n                                     p\n    Carl will win the tournament is                             where p and q are relatively prime positive integers.                                          q ​,\n   Find p + q.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q03",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3. A right square pyramid with volume 54 has a base with side length 6. The five vertices\n                              m   of the pyramid all lie on a sphere with radius     ​, where m and n are relatively prime                                            n\n    positive integers. Find m + n.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q04",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "利用指数或对数关系求未知量",
+   "search_text": "1                                                             1                  ​                                                      or                                                   such that4. There is a positive real number x not equal to either                                                             20      ​2\n                             log 20x ​(22x) = log 2x ​(202x).\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ​                                                                           , where m and n are relatively prime   The value log 20x ​(22x)                     can be written as log 10                                          ( m)n\n    positive integers. Find m + n.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q05",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. Twenty distinct points are marked on a circle and labeled 1 through 20 in clockwise\n    order. A line segment is drawn between every pair of points whose labels differ by a\n   prime number. Find the number of triangles formed whose vertices are among the\n    original 20 points.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q06",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ​6.  Let x 1     ≤ x 2        ≤ ⋯≤x 100                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​ be real numbers such that ∣x 1 ​∣+ ∣x 2 ​∣+ ⋯+ ∣x 100 ​∣= 1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                          ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​               = 0. Among all such 100 -tuples of numbers, the greatest   and x 1     + x 2 + ⋯+ x 100\n                        m\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ​ can achieve is                                                                                           ​, where m and n are relatively prime positive    value that x 76         − x 16                                    n\n    integers. Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q07",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "7. A circle with radius 6 is externally tangent to a circle with radius 24. Find the area of the\n    triangular region bounded by the three common tangent lines of these two circles.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q08",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "8. Find the number of positive integers n ≤600 whose value can be uniquely\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​   determined among all positive integers when the values of                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​  are                                                 ⌊4n⌋                                                                                             , ⌊5n⌋                                                                                                     , and ⌊6n⌋\n    given, where ⌊x⌋ denotes the greatest integer less than or equal to the real number x.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q09",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "​ be two distinct parallel lines. For positive integers m and n, distinct9.  Let ℓ A                                                                                                                                                                                                                                                                                                          ​ and ℓ B\n   points A 1 ​, A 2 ​, A 3 ​, … ,A m                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ​ lie on ℓ A ​, and distinct points B 1 ​, B 2 ​, B 3 ​, … ,B ​n lie on ℓ B ​.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ​​ are drawn for all i = 1,2,3,… ,m and j = 1,2,3,    Additionally, when segments A i ​B j\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​                                                                                                                                                                                                                         ​ … ,n, no point strictly between ℓ A and ℓ B lies on more than two of the segments.\n   Find the number of bounded regions into which this figure divides the plane when\n  m = 7 and n = 5. The figure shows that there are 8 regions when m = 3 and n = 2.\n\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q10",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "10. Find the remainder when\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                                                                                                                                                                                                                                                                                                                  ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​                              (2                                        ​       (2                                        ​           ( 2                                                     ​                  +    + ⋯+               ( 23))  ( 24))     ( 40))2\n\n     is divided by 1000.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q11",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "11. Let ABCD be a convex quadrilateral with AB = 2,AD = 7, and CD = 3 such that\n   the bisectors of acute angles ∠DAB and ∠ADC intersect at the midpoint of BC .\n   Find the square of the area of ABCD.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q12",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "12. Let a,b,x, and y be real numbers with a > 4 and b > 1 such that\n\n                          x2      y2      (x −20)2\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                                                                                                                                                                                                                                                                                                                                                                    ​                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                 +     =\n                            a2   a 2 −16     b 2 −1\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​     (y −11)2             ​\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                        +\n                                                        b2\n                       = 1.\n\n   Find the least possible value of a + b.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q13",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "13. There is a polynomial P(x) with integer coefficients such that\n\n                       P(x) = (x 2310 −1) 6\n                                        1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​                                                       ⋅\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                                 (x 105 −1)(x 70 −1)\n                                       1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                                                       ⋅\n                                 (x 42 −1)(x 30 −1)\n\n   holds for every 0 < x < 1. Find the coefficient of x2022 in P(x).\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q14",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "14. For positive integers a,b, and c with a < b < c, consider collections of postage\n   stamps in denominations a,b, and c cents that contain at least one stamp of each\n   denomination. If there exists such a collection that contains sub-collections worth\n   every whole number of cents up to 1000 cents, let f(a, b, c) be the minimum number\n   of stamps in such a collection. Find the sum of the three least values of c such that\n   f(a, b, c) = 97 for some choice of a and b.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2022ii-question_paper",
+   "year": 2022,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2022ii-question_paper__q15",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "从圆的方程或几何条件求圆与直线关系",
+   "search_text": "15. Two externally tangent circles ω ​1 and ω ​2 have centers O ​1 and O 2 ​, respectively. A third\n      circle Ω passing through O ​1 and O ​2 intersects ω ​1 at B and C and ω ​2 at A and D, as\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​ is a convex    shown. Suppose that AB = 2,O 1 ​O 2                      = 15,CD = 16, and ABO 1 ​CDO 2\n     hexagon. Find the area of this hexagon.\n\n\n\n\n\n      Answer\n\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/aime/2022II/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-answers.pdf"
+    },
+    {
+     "title": "2022 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2022II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2022ii-question_paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2022ii-question_paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2022ii-question_paper__q15.md"
+  }
+ ]
+}

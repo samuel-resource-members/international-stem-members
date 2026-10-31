@@ -1,0 +1,337 @@
+{
+ "group": "mat-2021-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2021-mat-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2021-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "1. For ALL APPLICANTS.\n\nFor each part of the question on pages 3-7 you will be given ﬁve possible answers, just\none of which is correct. Indicate for each part A-J which answer (a), (b), (c), (d), or\n(e) you think is correct with a tick (!) in the corresponding column in the table below.\nPlease show any rough working in the space provided between the parts.\n\n\n\n\n                         (a)          (b)           (c)          (d)           (e)\n\n\n\n      A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n       E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n         J\n\n\n\n\n\n                                      2\n\nA. A regular dodecagon is a 12-sided polygon with all sides the same length and all\ninternal angles equal. If I construct a regular dodecagon by connecting 12 equally-spaced\npoints on a circle of radius 1, then the area of this polygon is\n         √       √       √       √\n       (a)   6 + 3  3,     (b)   2  2,     (c)   3  2,     (d)   3  3,     (e)   3.\n\n\n\n\n\nB. The positive number a satisﬁes\n                                        a √x + x2  dx = 5\n                                         0\n\nif\n            √             √\n             (a)   a =   21 −1 1/3,     (b)   a =   3,     (c)   a = 32/3,\n                  √\n                      (d)   a = (  6 −1)2/3,     (e)   a = 52/3.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      3\n\nC. Tangents to y = ex are drawn at (p, ep) and (q, eq). These tangents cross the x-axis\nat a and b respectively. It follows that, for all p and q,\n\n(a) pa = qb,\n\n(b) p −a < q −b,\n\n(c) p −a = q −b,\n\n(d) p −a > q −b,\n\n(e) p + q = a + b.\n\n\n\n\n\nD. The area of the region bounded by the curve y = ex, the curve y = 1 −ex, and the\ny-axis equals\n\n                     (a)   0,     (b)   1 −ln 2,     (c)    1 −1 ln 2,                                                                      2    2\n                           (d)   ln 2 −1,     (e)   1 −ln 12.\n\n[Note that ln x is alternative notation for loge x.]\n\n\n\n\n\n                                      4\n\n1      3\nE. Six vectors v1, v2, v3, v4, v5, v6 are each chosen to be either      or      with\n                                                              1      2\nequal probability, with each choice made independently. The probability that the sum\n                                              10\nv1 + v2 + v3 + v4 + v5 + v6 is equal to the vector         is\n                                              8\n\n                            3           15          1           5\n             (a)   0,     (b)   64,     (c)   64,     (d)   6,     (e)   16.\n\n\n\n\n\nF. The tangent to the curve y = x3 −3x at the point (a, a3 −3a) also passes through\nthe point (2, 0) for precisely\n\n(a) no values of a,\n\n(b) one value of a,\n\n(c) two values of a,\n\n(d) three values of a,\n\n(e) all values of a.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      5\n\nG. The sum\n\n                sin2(1◦) + sin2(2◦) + sin2(3◦) + · · · + sin2(89◦) + sin2(90◦)\n\nis equal to\n\n           (a)   44,     (b)   44 12,     (c)   45,     (d)   45 12,     (e)   46.\n\n\n\n\n\nH. Which of the following graphs shows\n\n                         y = log2 9 −8 sin x −6 cos2 x\n\nin the range 0 ⩽x ⩽360◦?\n\n            (a)                           (b)                             (c)\n                               y                          y\n   y\n\n\n\n              x\n                                      x                      x\n                 360◦\n                                              360◦                         360◦\n\n\n                          (d)                             (e)\n                 y                          y\n\n\n\n                                                 x                          x\n                                                            360◦                               360◦\n\n\n\n\n\n                                      6\n\nI. A sequence is deﬁned by a0 = 2 and then for n ⩾1, an is one more than the product\nof all previous terms (so a1 = 3 and a2 = 7, for example). It follows that for all n ⩾1,\n\n(a) an = 4an−1 −5,\n\n(b) an = an−1 (an−1 −1) + 1,\n\n(c) an = 2an−1(an−1 −3) + 7,\n         3  −1 + 2,(d) an =        2n2  2n\n\n(e) None of the above.\n\n\n\n\n\nJ. Four distinct real numbers a, b, c, and d are used to deﬁne four points\n\n           A = (a, b),  B = (b, c),  C = (c, d), D = (d, a).\n\nThe quadrilateral ABCD has all four sides the same length\n\n(a)  if and only if (a −b)2 = (c −d)2,\n\n(b)  if and only if (a −c)2 = (b −d)2,\n\n(c)  if and only if (a −d)2 = (b −c)2,\n\n(d)  if and only if a −b + c −d = 0,\n\n(e) for no values of a, b, c, d.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2021",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions21_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2021-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2021-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2021-mat-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2021-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "利用指数或对数关系求未知量",
+   "search_text": "2. For ALL APPLICANTS.\n\nIn this question you may use without proof the following fact:\n\n         ln(1 −x) = −x −x2 −x3 −x4 · · · −xn . . .   for any x with |x| < 1.\n                        2    3    4     n\n\n[Note that ln x is alternative notation for loge x.]\n\n  (i) By choosing a particular value of x with |x| < 1, show that\n\n                        1     1       1       1       1\n                     ln 2 =  +    +    +    +    + . . . .\n                        2   2 × 22   3 × 23   4 × 24   5 × 25\n\n  (ii) Use part (i) and the fact that\n\n                               1      1\n                      <           for n ⩾4\n                             n2n   3 × 2n\n\n                               k         k + 1\n     to ﬁnd the integer k such that  < ln 2 <          .\n                                24          24\n\n (iii) Show that\n\n                    3     1     1       1       1       1\n                   ln   =  −    +    −    +     −. . . .\n                    2     2   2 × 22   3 × 23   4 × 24   5 × 25\n\n    and deduce that\n\n                                  1       1       1\n                          ln 3 = 1 +    +    +    + . . . .\n                               3 × 22   5 × 24   7 × 26\n\n                13         11\n (iv) Deduce that  < ln 3 <                12          10.\n\n (v) Which is larger: 317 or 413? Without calculating either number, justify your answer.\n\n\n\n\n\n                                      8\n\nTurn over\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            11\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2021",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions21_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2021-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2021-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2021-mat-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2021-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "3.           ⎧                          ⎫\n            ⎪ MATHEMATICS                ⎪            ⎪                          ⎪            ⎨                          ⎬\n                MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n            ⎪ MATHEMATICS & PHILOSOPHY      ⎪            ⎪                          ⎪            ⎩                          ⎭\n                MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science and Computer Science & Philosophy applicants should turn to\npage 20.\n\nThe degree of a polynomial is the highest exponent that appears among its terms. For\nexample, 2x6 −3x2 + 1 is a polynomial of degree 6.\n\n  (i) A polynomial p(x) has a turning point at (0, 0). Explain why p(0) = 0 and why\n      p′(0) = 0, and explain why there is a polynomial q(x) such that\n\n                                     p(x) = x2q(x).                               (∗)\n\n\n  (ii) A polynomial r(x) has a turning point at (a, 0) for some real number a. Write\n    down an expression for r(x) that is of a similar form to the expression (∗) above.\n      Justify your answer in terms of a transformation of a graph.\n\n (iii) You are now given that f(x) is a polynomial of degree 4, and that it has two\n     turning points at (a, 0) and at (−a, 0) for some positive number a.\n\n      (a) Write down the most general possible expression for f(x). Justify your answer.\n\n     (b) Describe a symmetry of the graph of f(x), and prove algebraically that f(x)\n         does have this symmetry.\n\n      (c) Write down the x-coordinate of the third turning point of f(x).\n\n (iv) Is there a polynomial of degree 4 which has turning points at (0, 0), at (1, 3), and\n     at (2, 0)? Justify your answer.\n\n (v) Is there a polynomial of degree 4 which has turning points at (1, 6), at (2, 3), and\n     at (4, 6)? Justify your answer.\n\n\n\n\n\n                                     12\n\n13\nTurn over\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2021",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions21_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2021-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2021-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2021-mat-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2021-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "4.            ⎧                     ⎫\n             ⎨ MATHEMATICS           ⎬\nFor APPLICANTS IN                MATHEMATICS & STATISTICS  ⎭ONLY.             ⎩\n                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 20.\n\nCharlie is trying to cut a cake. The cake is a square with side length 2, and its corners\nare at (0, 0), (2, 0), (2, 2), and (0, 2). Charlie’s ﬁrst cut is a straight line segment from\nthe point (x, y) to (x, 0), where 0 ⩽x ⩽2 and 0 ⩽y ⩽2.\n   Charlie plans to make a second straight cut from the point (x, y) to a point (0, k)\nsomewhere on the left-hand edge of the cake. This will make a slice of cake which is\nbounded to the left of the ﬁrst cut and bounded below the second cut.\n\n                             2\n\n\n\n                                (0, k)\n                                                  (x, y)\n\n\n\n\n                             0\n                               0            (x, 0)    2\n\n\n  (i) Find the area of the slice of cake in terms of x, y, and k. Check your expression\n    by verifying that if x = 1 and y = 1, then choosing k = 1 gives a slice of cake with\n     area 1.\n\n  (ii) Find another point (x, y) on the cake such that choosing k = 1 gives a slice of cake\n     with area 1.\n\n (iii) Show that it is only possible to choose a value of k that gives a slice of cake with\n     area 1 if both xy ⩽2 and x(2 + y) ⩾2.\n\n (iv) Sketch the region R of the cake for which both inequalities in part  (iii) hold,\n     indicating any relevant points on the edges of the cake.\n\n (v) Charlie may instead plan to make the second straight cut from (x, y) to a point\n     (m, 2) on the top edge of the cake in order to make a slice bounded to the left of\n     the two cuts. Find two necessary and suﬃcient inequalities for x and y which must\n     both hold in order for this to give a slice of area 1 for some value of m. Sketch the\n     region of the cake for which both inequalities hold.\n\n\n\n\n\n                                     16\n\n17\nTurn over\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            19\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2021",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions21_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2021-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2021-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2021-mat-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2021-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For ALL APPLICANTS.\n\nA triangular triple is a triple of positive integers (a, b, c) such that we can construct a\ntriangle with sides of length a, b and c. This means that the sum of any two of the\nnumbers is strictly greater than the third; so  if a ⩽b ⩽c, then it is equivalent to\nrequiring a + b > c. For example, (3, 3, 3) and (4, 5, 3) are triangular triples, but (1, 3, 2)\nand (3, 3, 6) are not. For any positive integer P, we deﬁne f(P) to be the number of\ntriangular triples such that the perimeter a + b + c is equal to P. Triples with the same\nnumbers, but in a diﬀerent order, are counted as being distinct. So f(12) = 10, because\nthere are 10 triangular triples with perimeter 12, shown below:\n\n                  (3, 4, 5)   (3, 5, 4)   (4, 3, 5)   (4, 5, 3)   (5, 3, 4)   (5, 4, 3)\n                  (2, 5, 5)   (5, 2, 5)   (5, 5, 2)\n                  (4, 4, 4)\n\n\n  (i) Write down the values of f(3), f(4), f(5) and f(6).\n\n  (ii)  If (a, b, c) is a triangular triple, show that (a + 1, b + 1, c + 1) is also a triangular\n      triple.\n\n (iii)  If (x, y, z) is a triangular triple, with x + y + z equal to an even number greater\n     than or equal to 6, show that each of x, y, z is at least 2 and that (x−1, y−1, z−1)\n       is also a triangular triple.\n\n (iv) Using the previous two parts, prove that for any positive integer k ⩾3,\n\n                                f(2k −3) = f(2k).\n\n\n (v) We will now consider the case where P ⩾6 is even, and we will write P = 2S.\n\n      (a) Show that in this case (a, b, c) is a triangular triple with a + b + c = P  if and\n         only if each of a, b, c is strictly smaller than S.\n\n     (b) For any a such that 2 ⩽a ⩽S −1, show that the number of possible values\n          of b such that (a, b, P −a −b) is a triangular triple is a −1. Hence ﬁnd an\n         expression for f(P) for any even P ⩾6.\n\n (vi) Find f(21).\n\n\n\n\n\n                                     20\n\n21\nTurn over\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            23\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2021",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions21_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2021-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2021-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2021-mat-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2021-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "6.           ⎧                          ⎫\n            ⎨ COMPUTER SCIENCE            ⎬\nFor APPLICANTS IN                MATHEMATICS & COMPUTER SCIENCE ⎭ONLY.            ⎩\n               COMPUTER SCIENCE & PHILOSOPHY\n\nDistinct numbers are arranged in an m×n rectangular table with m rows and n columns\nso that in each row the numbers are in increasing order (left to right), and in each column\nthe numbers are in increasing order (top to bottom). Such a table is called a sorted table\nand each location of the table containing a number is called a cell. Two examples of\nsorted tables with 3 rows and 4 columns (and thus 3 × 4 = 12 cells) are shown below.\n\n           3   12  33  64                     5   22  53  68\n          15  26  37  78                     18  36  67  78\n          19  40  51  92                     19  45  81  92\n\n\nWe index the cells of the table with a pair of integers (i, j), with the top-left corner\nbeing (1, 1) and the bottom-right corner being (m, n). Observe that the smallest entry\nin a sorted table can only occur in cell (1, 1); however, note that the second smallest\nentry can appear either in cell (1, 2), as in the ﬁrst example above, or in cell (2, 1) as in\nthe second example above.\n\n  (i) (a) Assuming that m, n ⩾3, where in an m×n sorted table can the third-smallest\n         entry appear?\n     (b) For any k ⩾4 satisfying m, n ⩾k, where in an m × n sorted table can the kth\n         smallest entry appear? Justify your answer.\n\n  (ii) Given an m × n sorted table, consider the problem of determining whether a\n      particular number y appears in the table.  Outline a procedure that inspects at\n    most m + n −1 cells in the table, and that correctly determines whether or not y\n     appears in the table. Brieﬂy justify why your procedure terminates correctly in no\n    more than m + n −1 steps.\n      [Hint: As the ﬁrst step, consider inspecting the top-right cell.]\n\n (iii) Consider an m × n table, say A, which might not be sorted; an example is shown\n     below. Obtain table B from A by re-arranging the entries in each row so that they\n     are in sorted order. Then obtain table C from B by re-arranging the entries in\n     each column so that they are in sorted order. Fill in tables B and C here:\n\n         A:                   B:                   C:\n           33  92  46  24\n           25  26  37   8  →          →\n           49  40  81  22\n\n (iv) Show that for any m × n table A, performing the two operations from part (iii)\n      results in a sorted table C.\n\n\n\n                                     24\n\n25\nTurn over\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            27\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2021",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions21_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2021-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2021-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2021-mat-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2021-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2021",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions21_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2021-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2021-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2021-mat-question-paper__q07.md"
+  }
+ ]
+}

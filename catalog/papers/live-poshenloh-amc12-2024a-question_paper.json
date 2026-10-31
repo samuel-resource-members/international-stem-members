@@ -1,0 +1,1333 @@
+{
+ "group": "live-poshenloh-amc12-2024a-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "展开或提出共同因子抵消相同部分 / 近整百乘积差：改写后抵消大项",
+   "search_text": "1.  What is the value of 9901 ⋅101 −99 ⋅10101?\n\n     A   2\n\n    B   20\n\n    C   21\n\n    D   200\n\n     E   2020\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q01",
+    "live-poshenloh-amc12-2024a-question_paper__q01",
+    "AMC12-2024A-Q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数量与总额联立消元 / 双因素线性模型：两组等时条件消元",
+   "search_text": "2. A model used to estimate the time it will take to hike to the top of a mountain on a trail\n     is of the form T = aL + bG, where a and b are constants, T is the time in minutes, L is\n   the length of the trail in miles, and G is the altitude gain in feet. The model estimates\n    that it will take 69 minutes to hike to the top if a trail is 1.5 miles long and ascends 800\n    feet, as well as if a trail is 1.2 miles long and ascends 1100 feet.\n\n  How many minutes does the model estimate it will take to hike to the top if the trail is\n   4.2 miles long and ascends 4000 feet?\n\n     A   240\n\n    B   246\n\n    C   252\n\n    D   258\n\n     E   264\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q02",
+    "live-poshenloh-amc12-2024a-question_paper__q02",
+    "AMC12-2024A-Q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "单位价值界加整数可达构造 / 固定总和最少两位加数：最大单项下界与构造",
+   "search_text": "3. The number 2024 is written as the sum of not necessarily distinct two-digit numbers.\n   What is the least number of two-digit numbers needed to write this sum?\n\n     A   20\n\n    B   21\n\n    C   22\n\n    D   23\n\n     E   24\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q03",
+    "live-poshenloh-amc12-2024a-question_paper__q03",
+    "AMC12-2024A-Q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "累计质因数指数判断整除 / 阶乘整除最小参数：找最大必要素数",
+   "search_text": "4. What is the least value of n such that n! is a multiple of 2024?\n\n     A   11\n\n    B   21\n\n    C   22\n\n    D   23\n\n     E   253\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q04",
+    "live-poshenloh-amc12-2024a-question_paper__q04",
+    "AMC12-2024A-Q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平均数还原总量列方程 / 删同值数据后均值：总和同时扣值与人数",
+   "search_text": "5. A data set containing 20 numbers, some of which are 6, has mean 45. When all the 6 s\n   are removed, the data set has mean 66. How many 6 s were in the original data set?\n\n     A   4\n\n    B   5\n\n    C   6\n\n    D   7\n\n     E   8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q05",
+    "live-poshenloh-amc12-2024a-question_paper__q05",
+    "AMC12-2024A-Q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定整数乘积枚举因数分配并检范围 / 整数乘积固定求最小正和：必须含负因数分支",
+   "search_text": "6. The product of three integers is 60. What is the least possible positive sum of the three\n    integers?\n\n     A   2\n\n    B   3\n\n    C   5\n\n    D   6\n\n     E   13\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q06",
+    "live-poshenloh-amc12-2024a-question_paper__q06",
+    "AMC12-2024A-Q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "向量",
+   "knowledge_point": "向量分量",
+   "problem_type": "重心中点向量相减消公共点 / 等分线段向量和：对称点两两合中点向量",
+   "search_text": "​ lie on7.  In △ABC,∠ABC = 90∘ and BA = BC =    ​.2 Points P 1 ​, P 2 ​, … ,P 2024\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​                                                                                                                                                                                                                                                                        ​                                                                                                                                                                                                                                                             ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ​   hypotenuse AC so that AP 1 = P 1 ​P 2 = P 2 ​P 3 = ⋯= P 2023 ​P 2024 = P 2024 ​C.\n\n   What is the length of the vector sum\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ​                                                                                                                                                                                                                                             ​                                                                                                                                                                                                                                             ​                   BP ​1 + BP ​2 + BP ​3\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ​\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                    + ⋯+ BP 2024 ​?\n\n\n     A   1011\n\n    B   1012\n\n    C   2023\n\n    D   2024\n\n     E   2025\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q07",
+    "live-poshenloh-amc12-2024a-question_paper__q07",
+    "AMC12-2024A-Q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "三角对数上界等号相容性 / 对数三角方程：正真数上界迫使同时取1",
+   "search_text": "8. How many angles θ with 0 ≤θ ≤2π satisfy log(sin(3θ)) + log(cos(2θ)) = 0?\n\n     A   0\n\n    B   1\n\n    C   2\n\n    D   3\n\n     E   4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q08",
+    "live-poshenloh-amc12-2024a-question_paper__q08",
+    "AMC12-2024A-Q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平方差或立方差分解求因数 / 两平移数同为平方：平方差因数对取极值",
+   "search_text": "9.  Let M be the greatest integer such that both M + 1213 and M + 3773 are perfect\n   squares. What is the units digit of M?\n\n     A   1\n\n    B   2\n\n    C   3\n\n    D   6\n\n     E   8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q09",
+    "live-poshenloh-amc12-2024a-question_paper__q09",
+    "AMC12-2024A-Q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "三角",
+   "knowledge_point": "弧度与扇形",
+   "problem_type": "三角恒等式统一为一个三角量 / 两勾股三角形锐角关系：倍角与余角匹配",
+   "search_text": "10. Let α be the radian measure of the smallest angle in a 3-4-5 right triangle. Let β be the\n    radian measure of the smallest angle in a 7-24-25 right triangle. In terms of α, what is\n   β?\n\n       α\n     A\n              ​3\n\n           π\n    B   α −\n                     ​8\n\n        π\n    C                                                                                                                                                                                      ​ − 2α\n         2\n\n       α\n    D\n              ​2\n\n     E   π −4α\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q10",
+    "live-poshenloh-amc12-2024a-question_paper__q10",
+    "AMC12-2024A-Q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "位值式取模求余数 / 进制数整除16：展开后按底数模8分类",
+   "search_text": "11. There are exactly K positive integers b with 5 ≤b ≤2024 such that the base- b\n    integer 2024 ​b is divisible by 16 (where 16 is in base ten). What is the sum of the digits of\n  K?\n\n     A   16\n\n    B   17\n\n    C   18\n\n    D   20\n\n     E   21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q11",
+    "live-poshenloh-amc12-2024a-question_paper__q11",
+    "AMC12-2024A-Q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "代数",
+   "knowledge_point": "等比数列",
+   "problem_type": "固定整数乘积枚举因数分配并检范围 / 整数等比三项最小末项：平方的相邻因数",
+   "search_text": "12. The first three terms of a geometric sequence are the integers a,720, and b, where\n   a < 720 < b. What is the sum of the digits of the least possible value of b?\n\n     A   9\n\n    B   12\n\n    C   16\n\n    D   18\n\n     E   21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q12",
+    "live-poshenloh-amc12-2024a-question_paper__q12",
+    "AMC12-2024A-Q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "交换指数定位函数对称轴 / 对称指数和图像：交换指数定位对称轴",
+   "search_text": "13. The graph of y = e x+1 + e −x − 2 has an axis of symmetry. What is the reflection of\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​  over this axis?   the point ( −1, 1)2\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​     A    ( −1, − 3)2\n\n    B   (−1, 0)\n\n    C   ( −1, 1)2    ​\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​    D   ( 0, 1)2\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​     E    ( 3, 1)2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q13",
+    "live-poshenloh-amc12-2024a-question_paper__q13",
+    "AMC12-2024A-Q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "双向等差数表双线性插值 / 双向等差数表：双线性通项插值",
+   "search_text": "14. The numbers, in order, of each row and the numbers, in order, of each column of a 5 ×\n   5 array of integers form an arithmetic progression of length 5. The numbers in\n    positions (5, 5),(2, 4),(4, 3), and (3, 1) are 0,48,16, and 12, respectively. What\n   number is in position (1, 2)?\n\n                                                    ⋅   ?     ⋅      ⋅     ⋅\n                                                    ⋅     ⋅     ⋅   48    ⋅\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​                                                                            ​                                                                                                                 ​                                                                                                                                                          ​                                                                                                                                                          ​                                                                                                                   ​                                                   ​                            12    ⋅     ⋅      ⋅     ⋅\n                                                    ⋅     ⋅  16     ⋅     ⋅\n                                                    ⋅     ⋅     ⋅      ⋅   0\n\n\n     A   19\n\n    B   24\n\n    C   29\n\n    D   34\n\n     E   39\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q14",
+    "live-poshenloh-amc12-2024a-question_paper__q14",
+    "AMC12-2024A-Q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "根的二次式乘积转共轭点多项式值 / 多项式根平方加常数乘积：在共轭虚数点求值",
+   "search_text": "15. The roots of x 3 + 2x 2 − x + 3 are p , q , and r . What is the value of\n\n                             (p 2 + 4)(q 2 + 4)(r 2 + 4)?\n\n\n     A   64\n\n    B   75\n\n    C   100\n\n    D   125\n\n     E   144\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q15",
+    "live-poshenloh-amc12-2024a-question_paper__q15",
+    "AMC12-2024A-Q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按角色分配与多项计数求概率 / 分色筹码定人整组概率：先指定接收角色",
+   "search_text": "16. A set of 12 tokens — 3 red, 2 white, 1 blue, and 6 black — is to be distributed at random\n   to 3 game players, 4 tokens per player. The probability that some player gets all the\n   red tokens, another gets all the white tokens, and the remaining player gets the blue\n            m\n   token can be written as       ​, where m and n are relatively prime positive integers. What\n                  n\n     is m + n?\n\n     A   387\n\n    B   388\n\n    C   389\n\n    D   390\n\n     E   391\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q16",
+    "live-poshenloh-amc12-2024a-question_paper__q16",
+    "AMC12-2024A-Q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "方程作差因式分解筛整数 / 整数对称方程组：作差因式给小因数枚举",
+   "search_text": "17. Integers a,b, and c satisfy ab + c = 100,bc + a = 87, and ca + b = 60. What is\n   ab + bc + ca?\n\n     A   212\n\n    B   247\n\n    C   258\n\n    D   276\n\n     E   284\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q17",
+    "live-poshenloh-amc12-2024a-question_paper__q17",
+    "AMC12-2024A-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "周期角度累计后取模确定重合 / 共对角线叠矩形：固定圆心连续转角",
+   "search_text": "18. On top of a rectangular card with sides of length 1 and 2 +    ​,3 an identical card is\n   placed so that two of their diagonals line up, as shown ( AC, in this case).\n\n\n\n\n\n   Continue the process, adding a third card to the second, and so on, lining up\n   successive diagonals after rotating clockwise. In total, how many cards must be used\n    until a vertex of a new card lands exactly on the vertex labeled B in the figure?\n\n     A   6\n\n    B   8\n\n    C   10\n\n    D   12\n\n     E   No new vertex will land on B.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q18",
+    "live-poshenloh-amc12-2024a-question_paper__q18",
+    "AMC12-2024A-Q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "圆内接四边形用托勒密 / 圆内接四边形短对角线：余弦定理配托勒密",
+   "search_text": "19. Cyclic quadrilateral ABCD has lengths BC = CD = 3 and DA = 5 with\n  ∠CDA = 120 ∘ . What is the length of the shorter diagonal of ABCD?\n\n         31\n     A                                                                                                                                                                                                                        ​\n         7\n\n         33\n    B                                                                                                                                                                                                                       ​\n         7\n\n    C   5\n\n         39\n    D                                                                                                                                                                                                                      ​\n         7\n\n         41\n     E                                                                                                                                                                                                                          ​\n         7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q19",
+    "live-poshenloh-amc12-2024a-question_paper__q19",
+    "AMC12-2024A-Q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "乘积阈值概率转双曲线下面积 / 两边随机截点面积比例：乘积小于阈值",
+   "search_text": "20. Points P and Q are chosen uniformly and independently at random on sides AB and\n  AC , respectively, of equilateral triangle △ABC. Which of the following intervals\n    contains the probability that the area of △APQ is less than half the area of △ABC?\n\n              3\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ​     A    [ 8 ​, 1]2\n\n              1\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ​     B    ( 2 ​, 2]3\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ​    C   ( 23 ​, 3]4\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ​    D   ( 34 ​, 7]8\n\n              7\n      E    ( 8 ​, 1 ]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q20",
+    "live-poshenloh-amc12-2024a-question_paper__q20",
+    "AMC12-2024A-Q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "递推相邻相减或乘辅助因子后求通项 / 带n系数一次递推：乘n后差分求通项",
+   "search_text": "​          = 2 and the sequence (a n ​) satisfies the recurrence relation21. Suppose that a 1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​                          a n −1    a n−1 + 1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                     =\n                       n −1    (n −1) + 1\n\n    for all n ≥2. What is the greatest integer less than or equal to\n\n                                                100\n                                                     2                                                        ​a n ​?           ∑\n                                      n=1\n\n\n     A   338,550\n\n    B   338,551\n\n    C   338,552\n\n    D   338,553\n\n     E    338,554\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q21",
+    "live-poshenloh-amc12-2024a-question_paper__q21",
+    "AMC12-2024A-Q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "局部顶点度约束配单连通闭环计数 / 单闭环格边拼图：中排唯一边选择配顶点度约束",
+   "search_text": "22. The figure below shows a dotted grid 8 cells wide and 3 cells tall consisting of 1 ′′ × 1′′\n    squares. Carl places 1 -inch toothpicks along some of the sides of the squares to\n    create a closed loop that does not intersect itself. The numbers in the cells indicate\n   the number of sides of that square that are to be covered by toothpicks, and any\n\n   number of toothpicks are allowed if no number is written. In how many ways can Carl\n   place the toothpicks?\n\n\n\n\n\n     A   130\n\n     B   144\n\n    C   146\n\n    D   162\n\n     E   196\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q22",
+    "live-poshenloh-amc12-2024a-question_paper__q22",
+    "AMC12-2024A-Q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角恒等式统一为一个三角量 / 互余正切平方乘积和：分组为两因子",
+   "search_text": "23. What is the value of\n\n                           π                                    3π                                          2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ​      2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ​                           tan    ⋅tan\n                               16      16\n                               π                                                2                                                           2 5π\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ​                                                                                                                                                                                                                                                                                                                           ​                  + tan    ⋅tan\n                                   16      16\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​          2 3π       2 7π                                                 ​\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ​                                                                                                                                                                                                                                                                                                                           ​                  + tan    ⋅tan\n                                   16      16\n                                                2 5π       ​      2 7π                  + tan    ⋅tan       ​?\n                                   16      16\n\n\n     A   28\n\n     B   68\n\n    C   70\n\n    D   72\n\n     E   84\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q23",
+    "live-poshenloh-amc12-2024a-question_paper__q23",
+    "AMC12-2024A-Q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "几何",
+   "knowledge_point": "面积与体积",
+   "problem_type": "整数三角形面积下界与立体可实现性 / 全等面四面体最小整数面积：先判面必须锐角",
+   "search_text": "24. A disphenoid is a tetrahedron whose triangular faces are congruent to one another.\n   What is the least total surface area of a disphenoid whose faces are scalene triangles\n    with integer side lengths?\n\n     A          ​3\n\n\n     B                                                                                                                                                                                                                                                                                                                 ​         3  15\n\n    C   15\n\n    D   15   ​7\n\n\n     E         24   ​6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q24",
+    "live-poshenloh-amc12-2024a-question_paper__q24",
+    "AMC12-2024A-Q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024a-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "A",
+   "id": "live-poshenloh-amc12-2024a-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "函数复合为恒等式比较系数 / 分式线性函数关于y=x对称：反函数等于自身",
+   "search_text": "25. A graph is symmetric about a line if the graph remains unchanged after reflection in\n     that line. For how many quadruples of integers (a, b, c, d), where ∣a∣,∣b∣,∣c∣,∣d∣≤5\n    and c and d are not both 0, is the graph of\n\n                                 ax + b\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​                                 y =\n                                    cx + d\n\n     symmetric about the line y = x?\n\n      A   1282\n\n      B   1292\n\n     C   1310\n\n     D   1320\n\n       E   1330\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/amc12/2024A/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12A — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12A — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024A-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-A-Q25",
+    "live-poshenloh-amc12-2024a-question_paper__q25",
+    "AMC12-2024A-Q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024a-question_paper__q25.md"
+  }
+ ]
+}

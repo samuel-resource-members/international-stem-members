@@ -1,0 +1,702 @@
+{
+ "schema_version": 1,
+ "repository": "https://github.com/samuel-resource-members/international-stem-members",
+ "guide": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/README.md",
+ "question_count": 27284,
+ "course_count": 68,
+ "subjects": {
+  "math": 9251,
+  "biology": 4061,
+  "chemistry": 3108,
+  "physics": 8473,
+  "science": 2391
+ },
+ "url_patterns": {
+  "course": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/<course_id>.json",
+  "paper": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/<paper_id>.json",
+  "question": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/<course_id>/<question_id>.md",
+  "store_shard": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/<shard>.zip"
+ },
+ "courses": [
+  {
+   "course_id": "AIME",
+   "subject": "math",
+   "exam_id": "AIME",
+   "question_count": 180,
+   "paper_count": 12,
+   "years": "2021–2026",
+   "classified": 72,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AIME.json"
+  },
+  {
+   "course_id": "AMC10",
+   "subject": "math",
+   "exam_id": "AMC10",
+   "question_count": 1300,
+   "paper_count": 52,
+   "years": "2000–2025",
+   "classified": 1300,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AMC10.json"
+  },
+  {
+   "course_id": "AMC12",
+   "subject": "math",
+   "exam_id": "AMC12",
+   "question_count": 1300,
+   "paper_count": 52,
+   "years": "2000–2025",
+   "classified": 1300,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AMC12.json"
+  },
+  {
+   "course_id": "AMC8",
+   "subject": "math",
+   "exam_id": "AMC8",
+   "question_count": 1025,
+   "paper_count": 41,
+   "years": "1985–2026",
+   "classified": 1025,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AMC8.json"
+  },
+  {
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "exam_id": "AP-BIOLOGY",
+   "question_count": 24,
+   "paper_count": 4,
+   "years": "2023–2026",
+   "classified": 24,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AP-BIOLOGY.json"
+  },
+  {
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "exam_id": "AP-CALCULUS-AB",
+   "question_count": 24,
+   "paper_count": 4,
+   "years": "2023–2026",
+   "classified": 22,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AP-CALCULUS-AB.json"
+  },
+  {
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "exam_id": "AP-CALCULUS-BC",
+   "question_count": 24,
+   "paper_count": 4,
+   "years": "2023–2026",
+   "classified": 21,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AP-CALCULUS-BC.json"
+  },
+  {
+   "course_id": "AP-CHEMISTRY",
+   "subject": "chemistry",
+   "exam_id": "AP-CHEMISTRY",
+   "question_count": 28,
+   "paper_count": 4,
+   "years": "2023–2026",
+   "classified": 28,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AP-CHEMISTRY.json"
+  },
+  {
+   "course_id": "AP-PHYSICS-1",
+   "subject": "physics",
+   "exam_id": "AP-PHYSICS-1",
+   "question_count": 18,
+   "paper_count": 4,
+   "years": "2023–2026",
+   "classified": 18,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AP-PHYSICS-1.json"
+  },
+  {
+   "course_id": "AP-PHYSICS-2",
+   "subject": "physics",
+   "exam_id": "AP-PHYSICS-2",
+   "question_count": 16,
+   "paper_count": 4,
+   "years": "2023–2026",
+   "classified": 16,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AP-PHYSICS-2.json"
+  },
+  {
+   "course_id": "AP-PHYSICS-C-EM",
+   "subject": "physics",
+   "exam_id": "AP-PHYSICS-C-EM",
+   "question_count": 20,
+   "paper_count": 6,
+   "years": "2023–2026",
+   "classified": 20,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AP-PHYSICS-C-EM.json"
+  },
+  {
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "question_count": 20,
+   "paper_count": 6,
+   "years": "2023–2026",
+   "classified": 20,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AP-PHYSICS-C-MECHANICS.json"
+  },
+  {
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "exam_id": "AP-STATISTICS",
+   "question_count": 24,
+   "paper_count": 4,
+   "years": "2023–2026",
+   "classified": 22,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/AP-STATISTICS.json"
+  },
+  {
+   "course_id": "BBO",
+   "subject": "biology",
+   "exam_id": "BBO",
+   "question_count": 1173,
+   "paper_count": 13,
+   "years": "2017–2026",
+   "classified": 1173,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/BBO.json"
+  },
+  {
+   "course_id": "BMO",
+   "subject": "math",
+   "exam_id": "BMO",
+   "question_count": 127,
+   "paper_count": 19,
+   "years": "1973–1991",
+   "classified": 35,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/BMO.json"
+  },
+  {
+   "course_id": "BMO1",
+   "subject": "math",
+   "exam_id": "BMO1",
+   "question_count": 197,
+   "paper_count": 35,
+   "years": "1992–2026",
+   "classified": 64,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/BMO1.json"
+  },
+  {
+   "course_id": "BMO2",
+   "subject": "math",
+   "exam_id": "BMO2",
+   "question_count": 226,
+   "paper_count": 53,
+   "years": "1972–2026",
+   "classified": 77,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/BMO2.json"
+  },
+  {
+   "course_id": "CEMC-CAYLEY",
+   "subject": "math",
+   "exam_id": "CEMC-CAYLEY",
+   "question_count": 275,
+   "paper_count": 11,
+   "years": "2016–2026",
+   "classified": 41,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-CAYLEY.json"
+  },
+  {
+   "course_id": "CEMC-CIMC",
+   "subject": "math",
+   "exam_id": "CEMC-CIMC",
+   "question_count": 90,
+   "paper_count": 10,
+   "years": "2016–2025",
+   "classified": 90,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-CIMC.json"
+  },
+  {
+   "course_id": "CEMC-CSMC",
+   "subject": "math",
+   "exam_id": "CEMC-CSMC",
+   "question_count": 63,
+   "paper_count": 10,
+   "years": "2016–2025",
+   "classified": 26,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-CSMC.json"
+  },
+  {
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "exam_id": "CEMC-EUCLID",
+   "question_count": 110,
+   "paper_count": 11,
+   "years": "2016–2026",
+   "classified": 54,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-EUCLID.json"
+  },
+  {
+   "course_id": "CEMC-FERMAT",
+   "subject": "math",
+   "exam_id": "CEMC-FERMAT",
+   "question_count": 275,
+   "paper_count": 11,
+   "years": "2016–2026",
+   "classified": 50,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-FERMAT.json"
+  },
+  {
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "exam_id": "CEMC-FRYER",
+   "question_count": 44,
+   "paper_count": 11,
+   "years": "2016–2026",
+   "classified": 13,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-FRYER.json"
+  },
+  {
+   "course_id": "CEMC-GALOIS",
+   "subject": "math",
+   "exam_id": "CEMC-GALOIS",
+   "question_count": 44,
+   "paper_count": 11,
+   "years": "2016–2026",
+   "classified": 14,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-GALOIS.json"
+  },
+  {
+   "course_id": "CEMC-GAUSS7",
+   "subject": "math",
+   "exam_id": "CEMC-GAUSS7",
+   "question_count": 275,
+   "paper_count": 11,
+   "years": "2016–2026",
+   "classified": 30,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-GAUSS7.json"
+  },
+  {
+   "course_id": "CEMC-GAUSS8",
+   "subject": "math",
+   "exam_id": "CEMC-GAUSS8",
+   "question_count": 275,
+   "paper_count": 11,
+   "years": "2016–2026",
+   "classified": 53,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-GAUSS8.json"
+  },
+  {
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "exam_id": "CEMC-HYPATIA",
+   "question_count": 44,
+   "paper_count": 11,
+   "years": "2016–2026",
+   "classified": 14,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-HYPATIA.json"
+  },
+  {
+   "course_id": "CEMC-PASCAL",
+   "subject": "math",
+   "exam_id": "CEMC-PASCAL",
+   "question_count": 275,
+   "paper_count": 11,
+   "years": "2016–2026",
+   "classified": 51,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CEMC-PASCAL.json"
+  },
+  {
+   "course_id": "CIE-0580",
+   "subject": "math",
+   "exam_id": "CIE-0580",
+   "question_count": 296,
+   "paper_count": 12,
+   "years": "2025–2025",
+   "classified": 94,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CIE-0580.json"
+  },
+  {
+   "course_id": "CIE-0610",
+   "subject": "biology",
+   "exam_id": "CIE-0610",
+   "question_count": 294,
+   "paper_count": 18,
+   "years": "2025–2025",
+   "classified": 255,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CIE-0610.json"
+  },
+  {
+   "course_id": "CIE-0620",
+   "subject": "chemistry",
+   "exam_id": "CIE-0620",
+   "question_count": 306,
+   "paper_count": 18,
+   "years": "2025–2025",
+   "classified": 271,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CIE-0620.json"
+  },
+  {
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "exam_id": "CIE-0625",
+   "question_count": 6184,
+   "paper_count": 315,
+   "years": "2021–2026",
+   "classified": 5678,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CIE-0625.json"
+  },
+  {
+   "course_id": "CIE-0654",
+   "subject": "science",
+   "exam_id": "CIE-0654",
+   "question_count": 2391,
+   "paper_count": 13,
+   "years": "2022–2026",
+   "classified": 2391,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CIE-0654.json"
+  },
+  {
+   "course_id": "CIE-9700",
+   "subject": "biology",
+   "exam_id": "CIE-9700",
+   "question_count": 246,
+   "paper_count": 23,
+   "years": "2025–2025",
+   "classified": 222,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CIE-9700.json"
+  },
+  {
+   "course_id": "CIE-9701",
+   "subject": "chemistry",
+   "exam_id": "CIE-9701",
+   "question_count": 967,
+   "paper_count": 90,
+   "years": "2024–2025",
+   "classified": 967,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CIE-9701.json"
+  },
+  {
+   "course_id": "CIE-9702",
+   "subject": "physics",
+   "exam_id": "CIE-9702",
+   "question_count": 262,
+   "paper_count": 24,
+   "years": "2025–2026",
+   "classified": 232,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CIE-9702.json"
+  },
+  {
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "exam_id": "CIE-9709",
+   "question_count": 198,
+   "paper_count": 24,
+   "years": "2025–2025",
+   "classified": 170,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/CIE-9709.json"
+  },
+  {
+   "course_id": "DSE-BIOLOGY",
+   "subject": "biology",
+   "exam_id": "DSE-BIOLOGY",
+   "question_count": 287,
+   "paper_count": 10,
+   "years": "2023–2026",
+   "classified": 287,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/DSE-BIOLOGY.json"
+  },
+  {
+   "course_id": "DSE-CHEMISTRY",
+   "subject": "chemistry",
+   "exam_id": "DSE-CHEMISTRY",
+   "question_count": 398,
+   "paper_count": 11,
+   "years": "2022–2026",
+   "classified": 398,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/DSE-CHEMISTRY.json"
+  },
+  {
+   "course_id": "DSE-CORE",
+   "subject": "math",
+   "exam_id": "DSE-CORE",
+   "question_count": 999,
+   "paper_count": 31,
+   "years": "2012–2026",
+   "classified": 656,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/DSE-CORE.json"
+  },
+  {
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "exam_id": "DSE-M1",
+   "question_count": 271,
+   "paper_count": 18,
+   "years": "2012–2026",
+   "classified": 262,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/DSE-M1.json"
+  },
+  {
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "exam_id": "DSE-M2",
+   "question_count": 220,
+   "paper_count": 16,
+   "years": "2012–2026",
+   "classified": 192,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/DSE-M2.json"
+  },
+  {
+   "course_id": "DSE-PHYSICS",
+   "subject": "physics",
+   "exam_id": "DSE-PHYSICS",
+   "question_count": 735,
+   "paper_count": 20,
+   "years": "2018–2026",
+   "classified": 735,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/DSE-PHYSICS.json"
+  },
+  {
+   "course_id": "EDEXCEL-UK",
+   "subject": "math",
+   "exam_id": "EDEXCEL-UK",
+   "question_count": 43,
+   "paper_count": 4,
+   "years": "2025–2025",
+   "classified": 35,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/EDEXCEL-UK.json"
+  },
+  {
+   "course_id": "EGMO",
+   "subject": "math",
+   "exam_id": "EGMO",
+   "question_count": 92,
+   "paper_count": 30,
+   "years": "2012–2026",
+   "classified": 33,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/EGMO.json"
+  },
+  {
+   "course_id": "FMA",
+   "subject": "physics",
+   "exam_id": "FMA",
+   "question_count": 575,
+   "paper_count": 23,
+   "years": "2008–2026",
+   "classified": 511,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/FMA.json"
+  },
+  {
+   "course_id": "IAL-BIOLOGY-UNIT-1",
+   "subject": "biology",
+   "exam_id": "IAL-BIOLOGY-UNIT-1",
+   "question_count": 113,
+   "paper_count": 14,
+   "years": "2021–2025",
+   "classified": 110,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IAL-BIOLOGY-UNIT-1.json"
+  },
+  {
+   "course_id": "IAL-CHEMISTRY-UNIT-1",
+   "subject": "chemistry",
+   "exam_id": "IAL-CHEMISTRY-UNIT-1",
+   "question_count": 304,
+   "paper_count": 14,
+   "years": "2021–2025",
+   "classified": 217,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IAL-CHEMISTRY-UNIT-1.json"
+  },
+  {
+   "course_id": "IAL-MATH-P3",
+   "subject": "math",
+   "exam_id": "IAL-MATH-P3",
+   "question_count": 134,
+   "paper_count": 14,
+   "years": "2021–2025",
+   "classified": 64,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IAL-MATH-P3.json"
+  },
+  {
+   "course_id": "IAL-PHYSICS-UNIT-1",
+   "subject": "physics",
+   "exam_id": "IAL-PHYSICS-UNIT-1",
+   "question_count": 263,
+   "paper_count": 14,
+   "years": "2021–2025",
+   "classified": 226,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IAL-PHYSICS-UNIT-1.json"
+  },
+  {
+   "course_id": "IB-AA-HL",
+   "subject": "math",
+   "exam_id": "IB-AA-HL",
+   "question_count": 78,
+   "paper_count": 9,
+   "years": "2025–2025",
+   "classified": 69,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IB-AA-HL.json"
+  },
+  {
+   "course_id": "IB-AA-SL",
+   "subject": "math",
+   "exam_id": "IB-AA-SL",
+   "question_count": 54,
+   "paper_count": 6,
+   "years": "2025–2025",
+   "classified": 48,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IB-AA-SL.json"
+  },
+  {
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "exam_id": "IB-AI-HL",
+   "question_count": 74,
+   "paper_count": 9,
+   "years": "2025–2025",
+   "classified": 60,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IB-AI-HL.json"
+  },
+  {
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "exam_id": "IB-AI-SL",
+   "question_count": 51,
+   "paper_count": 6,
+   "years": "2025–2025",
+   "classified": 37,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IB-AI-SL.json"
+  },
+  {
+   "course_id": "IB-BIOLOGY-HL",
+   "subject": "biology",
+   "exam_id": "IB-BIOLOGY-HL",
+   "question_count": 162,
+   "paper_count": 9,
+   "years": "2025–2025",
+   "classified": 135,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IB-BIOLOGY-HL.json"
+  },
+  {
+   "course_id": "IB-BIOLOGY-SL",
+   "subject": "biology",
+   "exam_id": "IB-BIOLOGY-SL",
+   "question_count": 125,
+   "paper_count": 9,
+   "years": "2025–2025",
+   "classified": 107,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IB-BIOLOGY-SL.json"
+  },
+  {
+   "course_id": "IB-CHEMISTRY-HL",
+   "subject": "chemistry",
+   "exam_id": "IB-CHEMISTRY-HL",
+   "question_count": 151,
+   "paper_count": 9,
+   "years": "2025–2025",
+   "classified": 121,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IB-CHEMISTRY-HL.json"
+  },
+  {
+   "course_id": "IB-CHEMISTRY-SL",
+   "subject": "chemistry",
+   "exam_id": "IB-CHEMISTRY-SL",
+   "question_count": 116,
+   "paper_count": 9,
+   "years": "2025–2025",
+   "classified": 100,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IB-CHEMISTRY-SL.json"
+  },
+  {
+   "course_id": "IB-PHYSICS-HL",
+   "subject": "physics",
+   "exam_id": "IB-PHYSICS-HL",
+   "question_count": 152,
+   "paper_count": 9,
+   "years": "2025–2025",
+   "classified": 136,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IB-PHYSICS-HL.json"
+  },
+  {
+   "course_id": "IB-PHYSICS-SL",
+   "subject": "physics",
+   "exam_id": "IB-PHYSICS-SL",
+   "question_count": 99,
+   "paper_count": 9,
+   "years": "2025–2025",
+   "classified": 89,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IB-PHYSICS-SL.json"
+  },
+  {
+   "course_id": "IBO",
+   "subject": "biology",
+   "exam_id": "IBO",
+   "question_count": 1637,
+   "paper_count": 26,
+   "years": "2017–2019",
+   "classified": 1637,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IBO.json"
+  },
+  {
+   "course_id": "IMO",
+   "subject": "math",
+   "exam_id": "IMO",
+   "question_count": 6,
+   "paper_count": 1,
+   "years": "2026–2026",
+   "classified": 0,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/IMO.json"
+  },
+  {
+   "course_id": "MAT",
+   "subject": "math",
+   "exam_id": "MAT",
+   "question_count": 178,
+   "paper_count": 25,
+   "years": "2007–2025",
+   "classified": 104,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/MAT.json"
+  },
+  {
+   "course_id": "TMUA",
+   "subject": "math",
+   "exam_id": "TMUA",
+   "question_count": 360,
+   "paper_count": 18,
+   "years": "2016–2023",
+   "classified": 185,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/TMUA.json"
+  },
+  {
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "exam_id": "USAPHO",
+   "question_count": 117,
+   "paper_count": 20,
+   "years": "2008–2026",
+   "classified": 117,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/USAPHO.json"
+  },
+  {
+   "course_id": "USAPHO-QUARTERFINAL",
+   "subject": "physics",
+   "exam_id": "USAPHO-QUARTERFINAL",
+   "question_count": 8,
+   "paper_count": 2,
+   "years": "2008–2009",
+   "classified": 8,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/USAPHO-QUARTERFINAL.json"
+  },
+  {
+   "course_id": "USAPHO-TRAINING",
+   "subject": "physics",
+   "exam_id": "USAPHO-TRAINING",
+   "question_count": 4,
+   "paper_count": 2,
+   "years": "2022–2022",
+   "classified": 4,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/USAPHO-TRAINING.json"
+  },
+  {
+   "course_id": "USNCO",
+   "subject": "chemistry",
+   "exam_id": "USNCO",
+   "question_count": 838,
+   "paper_count": 24,
+   "years": "2021–2026",
+   "classified": 640,
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/courses/USNCO.json"
+  }
+ ]
+}

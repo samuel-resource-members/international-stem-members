@@ -1,0 +1,290 @@
+{
+ "group": "ap-biology-2023-frq-question-paper",
+ "course_id": "AP-BIOLOGY",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-biology-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2023-frq-question-paper__q01",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "1",
+   "chapter": "Biological molecules",
+   "knowledge_point": "Biological molecules and food tests",
+   "problem_type": "辨认分子或解释食物检验",
+   "search_text": "1. In eukaryotic microorganisms, the PHO signaling pathway regulates the expression of certain genes. These\n   genes, Pho target genes, encode proteins involved in regulating phosphate homeostasis. When the level of\n   extracellular inorganic phosphate (Pi) is high, a transcriptional activator Pho4 is phosphorylated by a complex\n   of two proteins, Pho80–Pho85. As a result, the Pho target genes are not expressed. When the level of\n   extracellular Pi is low, the activity of the Pho80–Pho85 complex is inhibited by another protein, Pho81,\n   enabling Pho4 to induce the expression of these target genes. A simplified model of this pathway is shown in\n   Figure 1.\n\n\n\n\n\n    Figure 1. A simplified model of the regulation of expression of Pho target genes in (A) a\n    high-phosphate (high-Pi) environment and (B) a low-phosphate (low-Pi) environment\n\n  To study the role of the different proteins in the PHO pathway, researchers used a wild-type strain of yeast to\n   create a strain with a mutant form of Pho81 (pho81mt) and a strain with a mutant form of Pho4 (pho4mt). In\n   each of these mutant strains, researchers measured the activity of a particular enzyme, APase, which removes\n   phosphates from its substrates and is encoded by PHO1, a Pho target gene (Table 1). They then determined the\n   level of PHO1 mRNA relative to that of the wild-type yeast strain, which was set to 10.\n\nTABLE 1. APase ACTIVITY AND RELATIVE AMOUNTS OF PHO1 mRNA IN WILD-TYPE AND MUTANT\n            STRAINS OF YEAST IN HIGH- AND LOW-PHOSPHATE ENVIRONMENTS\n\n                        APase Activity in    APase Activity in   Relative Amounts of  Relative Amounts of\n                          High-Pi Environment Low-Pi Environment  PHO1 mRNA in    PHO1 mRNA in\nYeast Strain   Mutation\n                                      (mU/mL/OD600)       (mU/mL/OD600)   High-Pi Environment Low-Pi Environment\n                           ±2SEx            ±2SEx            ±2SEx            ±2SEx\n\n Wild-type     None            0.5 ± 0.1            17.3 ± 0.9             0.1 ± 0.0           10 ± 2.0\n            Nonfunctional\n pho81mt                        0.4 ± 0.1             0.6 ± 0.1             0.7 ± 0.2             0.9 ± 0.8\n              Pho81\n            Nonfunctional\n  pho4mt                         0.5 ± 0.0             0.8 ± 0.2             0.6 ± 0.4             0.3 ± 0.1\n              Pho4\n\n     (a) Describe the effect that the addition of a charged phosphate group can have on a protein that would cause\n        the protein to become inactive. Explain how a signal can be amplified during signal transduction in a\n       pathway such as the PHO signaling pathway.\n\n     (b) Based on Table 1, identify a dependent variable in the researchers’ experiment. Justify the researchers’\n       using the wild-type strain for the creation of the mutant strains. Justify the researchers’ using mutant strains\n        in which only a single component of the pathway was mutated in each strain.\n\n     (c) Based on the data in Table 1, identify the yeast strain and growth conditions that lead to the highest relative\n      amount of PHO1 mRNA. Calculate the percent change in APase activity in wild-type yeast cells in a\n        high-Pi environment compared with that of wild-type cells in a low-Pi environment.\n\n     (d) In a follow-up experiment, researchers created a strain of yeast with a mutation that resulted in a\n        nonfunctional Pho85 protein. Based on Figure 1, predict the effects of this mutation on PHO1 expression\n        in the mutant strain in a high-Pi environment. Provide reasoning to justify your prediction.\n\n                 __________________________________________________________\n\n Write your responses to this question only on the designated pages in the separate Free Response booklet.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2023-frq-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2023-frq-question-paper__q01.md"
+  },
+  {
+   "paper_id": "ap-biology-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2023-frq-question-paper__q02",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "2",
+   "chapter": "Characteristics and classification of living organisms",
+   "knowledge_point": "Classification",
+   "problem_type": "用特征辨认生物或分类",
+   "search_text": "2. Elevated levels of CO2 increase the rate of photosynthesis and growth in plants. Scientists studying the\n    mechanisms involved in these increases examined a variety of species and found that when plants are exposed\n      to elevated levels of CO2, there is an increase in the number of chloroplasts per cell. To investigate whether the\n     elevated levels of CO2 have a similar effect on the number of mitochondria in plant cells, the scientists then\n     selected six of these species to quantify the number of mitochondria per cell when the plants were exposed to\n     both normal and elevated levels of CO2 (Table 1).\n\n\nTABLE 1. AVERAGE NUMBER OF MITOCHONDRIA IN PLANTS EXPOSED TO NORMAL AND ELEVATED\n                                LEVELS OF CO2\n\n                                 Mitochondria at Normal   Mitochondria at Elevated\n                               CO2               CO2\n                         Species             2                           2\n                                    (per 100 μm  of cell area)  (per 100 μm  of cell area)\n                                  ±2SEx                ±2SEx\n\n                        1            1.0 ± 0.10                 1.6 ± 0.10\n\n                        2            0.4 ± 0.05                 0.9 ± 0.08\n\n                        3            0.5 ± 0.07                 0.9 ± 0.10\n\n                        4            0.3 ± 0.03                 0.6 ± 0.06\n\n                        5            0.7 ± 0.06                 1.5 ± 0.22\n\n                        6            1.3 ± 0.15                 2.4 ± 0.22\n\n(a) Describe the role of the inner mitochondrial membrane in cellular respiration.\n\n   (b) Using the template in the space provided for your response, construct an appropriately labeled graph that\n      represents the data in Table 1. Determine which species show(s) a difference in the number of\n      mitochondria between normal and elevated levels of CO2.\n\n   (c) Based on the data in Table 1, describe the relationship between the level of CO2 and the average number of\n      mitochondria per unit area of a cell.\n\n   (d) The leaves of a particular plant species are typically green, but scientists notice a plant in which the leaves\n      have white stripes. They determine that the stripes result from a mutation in mitochondrial DNA that\n       interferes with the development of chloroplasts. The scientists crossed plants using pollen from the plant\n      with white-striped leaves and ovules from a plant with green leaves. Predict the phenotype(s) of the leaves\n      of offspring produced from this cross. Provide reasoning to justify your prediction. Explain why plants\n      with the same genotype are able to differ in the structure and/or number of certain organelles in response to\n      changes in atmospheric levels of CO2.\n\n                __________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2023-frq-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2023-frq-question-paper__q02.md"
+  },
+  {
+   "paper_id": "ap-biology-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2023-frq-question-paper__q03",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "3",
+   "chapter": "Organisms and their environment",
+   "knowledge_point": "Ecology and energy flow",
+   "problem_type": "用食物关系、能量流或种群数据推理",
+   "search_text": "3. Sand lances of the genus Ammodytes are small fish that function as keystone organisms in several coastal\n   ecosystems. These sand lances are prey fish that support organisms at higher trophic levels. Scientists\n   performed experiments to examine how sand lance populations are likely to be affected by the rising\n   temperatures and CO2 levels associated with climate change.\n\n  Sand lance embryos typically develop and mature into adult fish at low temperatures (approximately 5°C) and\n   stable, low CO2 levels (approximately 400 μatm). Over the course of two years, the scientists measured the\n   survival rate of sand lance embryos allowed to develop and mature in a laboratory at three different\n   temperatures, 5°C, 7°C, and 10°C, with the level of CO2 maintained at 400 μatm, 1,000 μatm, and\n   2,100 μatm for each temperature.\n\n\n   (a) Describe the effect of increased biodiversity on the resilience of an ecosystem in a changing environment.\n\n   (b) Justify the scientists’ selecting 5°C as the lowest temperature and 400 μatm as the lowest CO2 level in\n       their study of sand lance embryo survival.\n\n   (c) State a null hypothesis for the experiment.\n\n   (d) The scientists claim that a reduction in the population size of the Ammodytes sand lances will affect the\n       stability of the entire coastal ecosystem. Provide reasoning to support the scientists’ claim.\n\n                __________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2023-frq-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2023-frq-question-paper__q03.md"
+  },
+  {
+   "paper_id": "ap-biology-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2023-frq-question-paper__q04",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "4",
+   "chapter": "Plant nutrition",
+   "knowledge_point": "Photosynthesis",
+   "problem_type": "解释光合作用或限制因素实验",
+   "search_text": "4. Noncyclic electron flow and cyclic electron flow are two major pathways of the light-dependent reactions of\n   photosynthesis. In noncyclic electron flow, electrons pass through photosystem II, then components of a\n                                                                                      +\n   chloroplast electron transport chain, and then photosystem I before finally reducing NADP  to NADPH. In\n   cyclic electron flow, electrons cycle through photosystem I and some components of the electron transport\n   chain (Figure 1).\n\n\n\n\n\n             Figure 1. The pathways of noncyclic and cyclic (heavy arrows) electron flow. The\n            cytochrome complex is a component of the electron transport chain between the\n           two photosystems.\n\n\n   (a) Describe the role of chlorophyll in the photosystems of plant cells.\n\n   (b) Based on Figure 1, explain why an increase in the ratio of NADPH to NADP+ will cause an increase in\n      the flow of electrons through the cyclic pathway.\n\n   (c) Using rice plants, scientists examined the effect of a mutation that results in the loss of the protein CRR6.\n    CRR6 is a part of the photosystem I complex, and its absence reduces the activity of photosystem I.\n      Predict the effect of the mutation on the rate of biomass (dry weight) accumulation.\n\n   (d) Justify your prediction in part (c).\n\n                __________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2023-frq-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2023-frq-question-paper__q04.md"
+  },
+  {
+   "paper_id": "ap-biology-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2023-frq-question-paper__q05",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "5",
+   "chapter": "Variation and selection",
+   "knowledge_point": "Variation and natural selection",
+   "problem_type": "解释变异、选择与适应",
+   "search_text": "5. Ruminants are hoofed animals, including cattle and sheep, that have a unique four-chambered stomach\n   specialized to digest tough, fiber-filled grasses. Researchers studying ruminants are investigating the\n   morphological and molecular characteristics of different ruminant families in order to determine the\n   evolutionary relationships among the families. Cladograms of several ruminant families were constructed based\n  on morphological data (Figure 1A) and molecular data (Figure 1B). Table 1 shows a sample of the\n   morphological characteristics present in each family used to construct the cladogram in Figure 1A.\n\n\n\n\n\n                 Figure 1. Cladogram of six ruminant families based on (A) morphological\n                  data and (B) molecular data\n\n\n    TABLE 1. MORPHOLOGICAL CHARACTERISTICS FOUND IN EACH RUMINANT FAMILY\n\n  Characteristic   Morphological\n                                    Tragulidae Giraffidae Bovidae Moschidae Antilocapridae Cervidae\n    Number       Characteristic\n       1       Extra tooth material                X             X\n       2         Third stomach           X     X     X       X      X\n               Double opening for\n       3                                             X      X\n                        tear ducts\n\n(a) Describe how a scientist would use a comparison of the DNA sequences of different organisms to suggest\n      the most likely evolutionary relationship among the organisms.\n\n   (b) Based on Figure 1, explain why Bovidae is likely to be more closely related to Moschidae than it is to\n       Giraffidae.\n\n   (c) Using the template in the space provided for your response, represent the point(s) at which characteristic 1,\n       listed in Table 1, evolved by marking “X” on the line(s) of the cladogram in the correct location(s).\n\n   (d) Based on Figure 1A, explain why a characteristic found only in the Cervidae and Bovidae families is more\n       likely evidence of convergent evolution than it is of common ancestry.\n\n                __________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2023-frq-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2023-frq-question-paper__q05.md"
+  },
+  {
+   "paper_id": "ap-biology-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2023-frq-question-paper__q06",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "6",
+   "chapter": "Organisation of the organism",
+   "knowledge_point": "Cells, tissues and organs",
+   "problem_type": "辨认结构并解释功能",
+   "search_text": "6. Housekeeping genes encode proteins involved in universally important processes such as transcription,\n   translation, and glycolysis. Because these genes appear to be expressed in all cells at constant levels, the\n   expression of housekeeping genes is often used as a control when comparing how the expression of other genes\n   varies under different conditions.\n\n   Researchers studying the effect of pesticides on declining bee populations wanted to determine whether the\n   expression of four housekeeping genes (GAPDH, RPL32, RPS5, and TBP-AF) was in fact constant in bees\n   across different variables. The researchers collected samples of mRNA for each of the four genes and compared\n  how their expression varied across the developmental stage of the bee, the sex of the bee, and the cell type from\n  which the sample was taken. The mRNA from the samples was reverse transcribed to produce DNA copies of\n   each gene. PCR was then used to amplify the DNA, and the Cq value was determined. The Cq value is the\n  number of PCR cycles needed to produce a specified number of DNA copies. A high Cq value for a sample\n   indicates the gene was expressed at a low level.\n\n  To analyze whether any of the examined variables affected expression of the housekeeping genes, researchers\n  examined the range of Cq values for each gene in response to each variable. Genes with a wide range of Cq\n   values were determined to be affected by the variable, while genes with a narrow range of Cq values were\n   determined to be unaffected by the variable.\n\n\n\n\n\n                 Figure 1. The effect of developmental stage, sex, and cell type on the Cq\n                 value of four housekeeping genes\n\n(a) Based on the data in Figure 1, identify the gene that had the lowest median Cq value when bees of different\n      developmental stages were compared.\n\n   (b) The Cq value is inversely proportional to the amount of mRNA from that gene in the starting sample. Based\n     on the data in Figure 1, identify the gene that has the lowest level of gene expression regardless of variable.\n\n   (c) The scientists investigated the effect of pesticides on the expression of other genes in one cell type of a\n     group of bees containing males and females of the same developmental stage. They hypothesized that\n     TBP-AF would serve as the best control gene for this experiment. Use the data to evaluate their hypothesis.\n\n   (d) Explain how expression of a gene such as GAPDH can vary from one cell type to another within the same\n      bee.\n\n                __________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n\nSTOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2023-frq-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2023-frq-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2023-frq-question-paper__q06.md"
+  }
+ ]
+}

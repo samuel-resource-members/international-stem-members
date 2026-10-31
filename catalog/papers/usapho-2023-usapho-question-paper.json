@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2023-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2023-usapho-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2023-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question A1\n\nCircus Act\n\nIn this problem we consider a small ball bouncing back and forth between two points. In all parts\nbelow, the acceleration of gravity is g, collisions are perfectly elastic, air resistance is negligible, and\nthe impact points are at the same height. The diagrams are not drawn to scale.\n\na. Consider a ball bouncing between two inclined planes, which each make an angle ✓< 90◦to the\n   horizontal. The ball has speed v0 at the impact points, which are separated by a distance D.\n\n      i. The ball can bounce back and forth along the same path, as shown.\n\n\n\n\n\n                               ✓                                  ✓\n\n                           D\n     For what values of ✓is this motion possible? For these values, what is v0?\n\n     ii. The ball can also take one trajectory while traveling to the right, and a separate trajectory\n     when traveling back. Let φ 6= 0 be the angle between the paths at the impact points.\n\n\n\n\n\n                               ✓                                  ✓\n\n                           D\n     For what values of ✓and φ is this motion possible? For these values, what is v0?\n\nb. Now suppose the ball bounces within a hemispherical well of radius of curvature R. As in part\n    a.ii, it alternates between two distinct paths, with ﬂight times t1 and t2 6= t1.\n\n\n\n\n\n                               R\n\n\n\n   Find all of the possible values of R, in terms of t1 and t2.\n                                                                             &     '\nc. Finally, suppose the well has a sinusoidal shape, described by y(x) = −L sin 2x/L  . The ball\n   takes two distinct paths with ﬂight times t1 and t2 6= t1, and the horizontal distance between the\n   impact points is less than ⇡L. Find all of the possible values of L, in terms of t1 and t2.\n\n2023 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2023-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2023-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2023-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2023-usapho-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2023-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "Question A2\n\nTime is a Flat Circle\nA particle of mass m and negative charge −q is constrained to move in a horizontal plane. In the\nsituations described below, this particle can either oscillate back and forth in a straight line or move\nin a circle. (These two modes of motion are interesting because they generate linearly and circularly\npolarized radiation, respectively, but in this problem you may ignore any energy lost to radiation.)\n\na. A large positive charge Q ≫q is ﬁxed in place a distance R directly below the origin of the plane.\n      i. When the particle is a distance r ⌧R from the origin, ﬁnd an approximate expression for its\n      potential energy due to the charge Q to second order in r/R, up to an arbitrary constant.\n     You may use this result for the rest of the problem.\n     ii.  If the particle oscillates linearly with amplitude a ⌧R, what is its angular frequency !`?\n    iii.  If the particle performs circular motion with radius r ⌧R, what is its angular frequency !c?\nb. Now an additional negative charge −q is ﬁxed in place at the origin of the plane.\n\n      i. What is the equilibrium distance r0 of the particle from the origin?\n     ii.  If the particle oscillates linearly with amplitude a ⌧r0, what is its angular frequency ⌦`? Is\n        it higher or lower than !`?\n    iii. Now suppose the particle performs circular motion with radius r = r0 + δr, where δr ⌧r0.\n    What is its angular frequency ⌦c, in terms of !c, r, and δr? Is it higher or lower than !c?\n\n2023 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2023-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2023-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2023-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2023-usapho-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2023-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "Question A3\n\nThe Motive Power of Ice\n\nIn the Carnot cycle, a gas is heated at constant temperature TH and cooled at constant temperature\nTC. Furthermore, no other heat transfer occurs, and all other steps of the cycle are reversible. The\nlaws of thermodynamics state that any such cycle must have eﬃciency ⌘= W/Qin = 1 −(TC/TH).\nBelow we will explore two other heat engines, which recover this eﬃciency in certain limits.\n\na. Consider the following heat engine involving one mole of ideal monatomic gas. The gas begins at\n   temperature T0, pressure P0, and volume V0, and undergoes four reversible steps.\n\n\n                         P\n\n                           P0\n\n\n                                                     (1 + β)T0\n\n                                       T0\n\n                       P0/↵\n\n\n                                                    V\n\n                                     V0\n\n\n      1. The gas is expanded at constant pressure until its temperature rises to (1 + β)T0.\n      2. The gas is expanded at constant temperature until its pressure falls to P0/↵.\n      3. The gas is contracted at constant pressure until its temperature falls back to T0.\n      4. The gas is contracted at constant temperature until its pressure rises back to P0.\n\n      i. Which steps require heat to be transferred to the gas? For each such step, give the total heat\n      input in terms of P0, V0, ↵, and β.\n\n     ii. Under what conditions on ↵and β would we expect the eﬃciency of this heat engine to approach\n      that of a Carnot cycle working between the same maximum and minimum temperatures?\n\n    iii. Find the eﬃciency of this heat engine for general ↵and β.\n\nThe second half of the problem is on the next page.\n\n2023 USAPhO                            Part A                                       7\n\n\n\n\nb. Now consider a heat engine built around the freezing and melting of water, which occurs at a\n   pressure-dependent temperature Tc(P). Initially, a volume of V of water is squeezed underneath\n   a piston, so that it experiences a total pressure P1, and the water is on the edge of freezing, with\n   temperature Tc(P1). The engine then undergoes four reversible steps.\n\n\n                    P2            P2            P1            P1\n\n\n\n\n                                    Tc(P2)          Tc(P2)\n                    Tc(P1)                                          Tc(P1)\n\n\n                     1              2              3              4\n\n\n      1. A mass is slowly placed on the piston, raising the total pressure to P2.\n      2. The water is cooled to temperature Tc(P2) and frozen.\n      3. The mass is slowly removed from the piston, lowering the pressure back to P1.\n      4. The ice is heated back to temperature Tc(P1) and melted.\n\n  Assume that water and ice are incompressible, with ﬁxed densities ⇢w and ⇢i.\n\n      i. What is the net work done by this engine, in terms of P1, P2, V , and the densities?\n\n     ii. Assume the latent heat per unit mass L to melt ice is large, so that freezing and melting\n      account for essentially all of the heat transfer in the cycle. What is the eﬃciency of the engine,\n      in terms of P1, P2, L, and the densities?\n\n    iii. Since we assumed all heat transfer occurs during melting or freezing, this cycle has the same\n     eﬃciency as a Carnot cycle. In the limit where P1 and P2 are very close, use this fact to infer\n     an expression for dTc/dP in terms of Tc, L, and the densities.\n\n2023 USAPhO                            Part A                                       8\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\nIf there is still time remaining for Part A, you can review your work for Part\nA, but do not continue to Part B until instructed by your exam supervisor.\n\n\n\n\n\n     Once you start Part B, you will not be able to return to Part A.\n\n2023 USAPhO Part B\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2023-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2023-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2023-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2023-usapho-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2023-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "Question B1\n\nElectric Roulette\nConsider a cylindrical solenoid with radius r, length ` ≫r, and n turns per unit length. It is made\nof one continuous wire, with the top connecting back to the bottom as shown at left.\n\n                                    r                                                                    ring\n                                                                                                                                                                                                                                                                                                                                                 conducting\n\n\n                   I                      `\n                                                              rod\n                                                                                                                                                                      rotating\n                                                                       I\n\n\nIn the middle of the solenoid, part of the wire is replaced with the assembly shown at right. A\nuniform conducting rod of mass m and radius r is connected to the bottom half of the solenoid,\nand is free to rotate about the solenoid’s axis of symmetry. The end of the rod slides on a ﬁxed\nconducting ring, which is attached to the top half of the solenoid. This assembly and the solenoid\nform one continuous conductor, carrying total current I.\n\na. What is the inductance of this system? Assume nr ≫1, so that the magnetic ﬁeld produced by\n   the current in the rod and ring is negligible.\n\nb. When the rod is within a uniform vertical magnetic ﬁeld B, ﬁnd the torque it experiences in\n   terms of I, B, and r.\n\nc. If the rod rotates with angular velocity !, the electrons inside have a tangential velocity. Find\n   the electromotive force across the rod in terms of !, B, and r.\n\nNow we will consider the dynamics of this system in some simple situations. For all the parts below,\nneglect energy losses due to friction, resistance, and radiation.\n\nd. First, suppose the system initially carries no current, and the entire system is inside a uniform\n   external magnetic ﬁeld B0 parallel to the axis of the solenoid. If the rod is given a small initial\n   angular velocity, its angular velocity will oscillate in time. Find the period of these oscillations.\n\ne. Next, suppose there is no external magnetic ﬁeld, B0 = 0, and at time t = 0, the system carries\n   current I0 and the rod has zero angular velocity.\n\n      i. The rod’s angular velocity !(t) approaches a value !0 after a long time. What is !0?\n     ii. Find !(t)/!0 in terms of !0, t, n, and `. You may use the integrals on the reference sheet.\n\n2023 USAPhO\nPart B\n10\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2023-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2023-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2023-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2023-usapho-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2023-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question B2\n\nFast and Furious\n\nA space program wants to accelerate a spaceship of ﬁnal mass m = 100 kg to relativistic speeds to\nobserve distant stars. They have two proposals to evaluate.\n\na. Their ﬁrst proposal is to use traditional rocket propulsion. A rocket of initial mass m0 and ﬁnal\n   mass m that expels propellant with exhaust speed u relative to the rocket will reach a speed\n                                ✓m0 ◆\n                                      v = u ln            .\n                           m\n\n   Suppose the desired ﬁnal speed is vf = 3c/5. In the subparts below, neglect relativistic e↵ects\n   and give your answers in the form 10n, where n has at least two signiﬁcant ﬁgures.\n\n      i.  If the rocket has exhaust speed u = 3.5 km/s, what must its starting mass be in kilograms?\n\n     ii.  If the propellant is exhausted at rate 7.0 kg/s, how long does the acceleration take, in centuries?\n    iii.  If the energy density of the fuel is 2.0⇥107 J/kg, how much total energy is required, in Joules?\n\nFor the rest of this problem, you should account for special relativity.\n\nb. Another option is to use a spaceship with constant mass m, propelled by light produced by lasers\n   on Earth, with total power P = 6 ⇥1012 W. The light evenly impacts a sail on the spaceship,\n   and reﬂects o↵the sail directly back towards the Earth. Neglect the orbital motion of the Earth,\n   and give all your answers in the frame of the Earth.\n\n      i. What is the force on the spaceship when the spaceship has speed v?\n\n     ii. How long will it take to accelerate the spaceship to speed vf = 3c/5, in seconds? You may\n      use the integrals on the reference sheet.\n\n    iii. At the moment the spaceship reaches this speed, how much total energy has been used to\n     power the lasers, in Joules?\n\nThe following results from relativity may be helpful:\n                    p\n   • The Lorentz factor is deﬁned as γ = 1/  1 −v2/c2.\n   • An object of mass m and velocity v has momentum p = γmv and energy E = γmc2. The\n      force is deﬁned by F = dp/dt.\n\n   • The momentum and energy of light are related by E = pc.\n\n   • In a frame S0 with velocity vˆx relative to a frame S, the energy and momentum are\n                            E0 = γ(E −vpx),   p0                                                     x = γ(px −vE/c2).\n\n2023 USAPhO\nPart B\n11\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2023-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2023-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2023-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2023-usapho-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2023-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question B3\n\nStarry Messengers\n\nIn 1987, light from supernova SN1987A was detected by telescopes on Earth. The supernova\noccurred in the Large Magellanic Cloud, a distance d = 1.5 ⇥1021 m away, making it the closest in\ncenturies. Observations of this event tell us a remarkable amount about elementary particles.\n\na. Both light and neutrinos were produced in the core of the supernova. Neutrinos are elementary\n   particles which interact extremely weakly with ordinary matter. Detectors on Earth saw a few\n   dozen of these neutrinos, in a burst which occurred about T = 3 hours before the light arrived.\n\n      i. One explanation of these observations is that the neutrinos’ speed v was faster than the speed\n       of light c, violating special relativity. If this is the case, ﬁnd v −c in m/s.\n     ii. Another explanation is that the light was slowed down by the gas in the solar system, while\n      the neutrinos always moved at speed c. Suppose the solar system has a uniform index of\n       refraction n within a radius D = 1013 m. What would n have to be to explain the time delay?\n\n   Neither of these explanations seem plausible; the modern accepted explanation is that the\n   light was trapped for some time inside the supernova, while the neutrinos were able to leave\n   immediately. Therefore, for the rest of this problem you should assume special relativity holds.\n  The results listed on the previous page may be helpful.\n\nThe neutrinos did not all arrive at once. The ﬁrst arrived with an energy of about E1 = 40 MeV,\nand the last arrived about t = 10 s later with an energy of about E2 = 20 MeV.\n\nb. One explanation of these observations is that neutrinos have a small mass m, so that when they\n   have energy E ≫mc2, their speed v is slightly slower than the speed of light.\n      i. Find an approximate expression for c −v, to leading nontrivial order in mc2/E.\n     ii. Using the information above, numerically estimate the neutrino mass m, in units of eV/c2.\n\nc. Another explanation is that the neutrinos did not travel in straight lines, but rather were deﬂected\n   by the intergalactic magnetic ﬁeld. Suppose this ﬁeld is uniform, B = 10−13 T, and directed\n   perpendicular to the line joining Earth and the supernova, and that neutrinos have charge q = ✏e.\n\n      i. If a neutrino has momentum p, then in the presence of the magnetic ﬁeld, it travels in a\n       circle of radius r = p/(qB) ≫d, and its path to the Earth has a total length `. Find an\n     approximate expression for ` −d, to leading nontrivial order in d/r.\n     ii. Using the information above, and assuming the neutrino mass is very small so that the e↵ect\n      in part b is negligible, numerically estimate ✏.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2023-USAPhO-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2023-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2023-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2023-usapho-question-paper__q06.md"
+  }
+ ]
+}

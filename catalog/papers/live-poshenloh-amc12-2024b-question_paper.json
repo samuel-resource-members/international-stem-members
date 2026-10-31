@@ -1,0 +1,1333 @@
+{
+ "group": "live-poshenloh-amc12-2024b-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "双向名次相加扣重复本人 / 双向名次总人数：重复本人减一",
+   "search_text": "1.  In a long line of people arranged left to right, the 1013 th person from the left is also the\n   1010 th person from the right. How many people are in the line?\n\n     A   2021\n\n    B   2022\n\n    C   2023\n\n    D   2024\n\n     E   2025\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q01",
+    "live-poshenloh-amc12-2024b-question_paper__q01",
+    "AMC12-2024B-Q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "提取共同因式求整体值 / 阶乘乘积抵消：把较大阶乘截出短乘积",
+   "search_text": "2. What is 10! −7! ⋅6!?\n\n     A   −120\n\n    B   0\n\n    C   120\n\n    D   600\n\n     E   720\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q02",
+    "live-poshenloh-amc12-2024b-question_paper__q02",
+    "AMC12-2024B-Q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "绝对值不等式化区间计整数 / 绝对值整数区间：取端点内最近整数",
+   "search_text": "3. For how many integer values of x is ∣2x∣≤7π?\n\n     A   16\n\n    B   17\n\n    C   19\n\n    D   20\n\n     E   21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q03",
+    "live-poshenloh-amc12-2024b-question_paper__q03",
+    "AMC12-2024B-Q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "累积三角数定位批次 / 逐批增量循环分箱：三角数定位批次",
+   "search_text": "4.  Balls numbered 1,2,3,… are deposited in 5 bins, labeled A,B,C,D, and E, using\n   the following procedure. Ball 1 is deposited in bin A, and balls 2 and 3 are deposited in\n   B. The next three balls are deposited in bin C, the next 4 in bin D, and so on, cycling\n   back to bin A after balls are deposited in bin E. (For example, 22,23,… ,28 are\n   deposited in bin B at step 7 of this process.) In which bin is ball 2024 deposited?\n\n     A  A\n\n\n    B  B\n\n\n    C  C\n\n\n    D  D\n\n\n     E  E\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q04",
+    "live-poshenloh-amc12-2024b-question_paper__q04",
+    "AMC12-2024B-Q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "总量与各项上下界求可达极值 / 最少变号使总和负：优先翻最大项",
+   "search_text": "5.  In the following expression, Melanie changed some of the plus signs to minus signs:\n\n                        1 + 3 + 5 + 7 + ⋯+ 97 + 99\n\n\n   When the new expression was evaluated, it was negative. What is the least number of\n    plus signs that Melanie could have changed to minus signs?\n\n     A   14\n\n    B   15\n\n    C   16\n\n    D   17\n\n     E   18\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q05",
+    "live-poshenloh-amc12-2024b-question_paper__q05",
+    "AMC12-2024B-Q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "取对数估计进制位数 / 进制位数估计：对数取整加一",
+   "search_text": "6. The national debt of the United States is on track to reach 5 ⋅1013 dollars by 2033.\n  How many digits does this number of dollars have when written as a numeral in base 5?\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                         5 as 0.7 is sufficient for this problem.)    (The approximation of log 10\n\n     A   18\n\n    B   20\n\n    C   22\n\n    D   24\n\n     E   26\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q06",
+    "live-poshenloh-amc12-2024b-question_paper__q06",
+    "AMC12-2024B-Q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "点线距离或垂直点积条件列坐标方程 / 矩形内直角三角形：等面积先建立线性位置关系",
+   "search_text": "7.  In the figure below WXY Z is a rectangle with WX = 4 and WZ = 8. Point M lies\n   on XY , point A lies on Y Z , and ∠WMA is a right angle. The areas of △WXM and\n  △WAZ are equal. What is the area of △WMA?\n\n\n\n\n\n     A   13\n\n    B   14\n\n    C   15\n\n    D   16\n\n     E   17\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q07",
+    "live-poshenloh-amc12-2024b-question_paper__q07",
+    "AMC12-2024B-Q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "换底或指数化统一对数关系 / 对数商和方程：取倒数合并换底",
+   "search_text": "8. What value of x satisfies\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                                                                                                                                                                                                                                                   ​                                 log 2 x ⋅log 3 x\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​                          = 2?\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ​                                                                                                                                                                                                                                                                                          ​                                 log 2 x + log 3 x\n\n     A   25\n\n    B   32\n\n    C   36\n\n    D   42\n\n     E   48\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q08",
+    "live-poshenloh-amc12-2024b-question_paper__q08",
+    "AMC12-2024B-Q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "半径平方限制转圆环面积概率 / 菱形内圆环概率：平方不等式化半径区间",
+   "search_text": "9. A dartboard is the region B in the coordinate plane consisting of points (x, y) such\n                                                             2     2        2    that ∣x∣+ ∣y∣≤8. A target T is the region where (x + y − 25) ≤ 49. A dart is\n   thrown and lands at a random point in B. The probability that the dart lands in T can be\n        m\n   expressed as                                                                                            ​ ⋅ π, where m and n are relatively prime positive integers. What is\n            n\n  m + n?\n\n     A   39\n\n    B   71\n\n    C   73\n\n    D   75\n\n     E   135\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q09",
+    "live-poshenloh-amc12-2024b-question_paper__q09",
+    "AMC12-2024B-Q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "函数",
+   "knowledge_point": "定义域与值域",
+   "problem_type": "排序后按新极值位置筛统计量 / 极差均值中位数整数：按新增极值分类",
+   "search_text": "10. A list of 9 real numbers consists of 1,2.2,3.2,5.2,6.2, and 7, as well as x,y,z with\n   x ≤y ≤z. The range of the list is 7, and the mean and median are both positive\n    integers. How many ordered triples (x, y, z) are possible?\n\n     A   1\n\n    B   2\n\n    C   3\n\n    D   4\n\n\n     E     infinitely many\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q10",
+    "live-poshenloh-amc12-2024b-question_paper__q10",
+    "AMC12-2024B-Q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角互余配对求和 / 互余角平方正弦平均：配对和为1",
+   "search_text": "​11. Let x n     = sin 2 (n ∘ ). What is the mean of x 1 ​, x 2 ​, x 3 ​, … ,x 90 ​?\n\n         11\n     A                                                                                                                                                                                                                        ​\n         45\n\n         22    B                                                                                                                                                                                                                       ​\n         45\n\n         89\n    C                                                                                                                                                                                                                                                            ​\n         180\n\n         1\n    D\n         2\n\n         91\n     E                                                                                                                                                                                                                                                                 ​\n         180\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q11",
+    "live-poshenloh-amc12-2024b-question_paper__q11",
+    "AMC12-2024B-Q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "代数",
+   "knowledge_point": "复数",
+   "problem_type": "复数坐标转为多边形边长与面积 / 复数连续幂四边形面积：极坐标相邻叉积",
+   "search_text": "12. Suppose z is a complex number with positive imaginary part, with real part greater\n                                                                               2   than 1, and with ∣z∣= 2. In the complex plane, the four points 0,z,z  , and z3 are the\n    vertices of a quadrilateral with area 15. What is the imaginary part of z?\n\n         3     A\n         4\n\n    B   1\n\n         4    C\n         3\n\n         3    D\n         2\n\n         5\n     E\n         3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q12",
+    "live-poshenloh-amc12-2024b-question_paper__q12",
+    "AMC12-2024B-Q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "代数",
+   "knowledge_point": "联立方程",
+   "problem_type": "配方成非负平方和 / 两个二次式和最小：先相加再配方",
+   "search_text": "13. There are real numbers x,y,h, and k that satisfy the system of equations\n\n\n                                        2     2                       x + y − 6x −8y = h\n\n\n\n                                       2     2                       x + y − 10x + 4y = k.\n\n\n   What is the minimum possible value of h + k?\n\n     A   −54\n\n    B   −46\n\n    C   −34\n\n    D   −16\n\n     E   16\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q13",
+    "live-poshenloh-amc12-2024b-question_paper__q13",
+    "AMC12-2024B-Q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "模周期计算大指数 / 百次幂模125：按是否含5分支",
+   "search_text": "14. How many different remainders can result when the 100 th power of an integer is\n   divided by 125?\n\n     A   1\n\n    B   2\n\n    C   5\n\n    D   25\n\n     E   125\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q14",
+    "live-poshenloh-amc12-2024b-question_paper__q14",
+    "AMC12-2024B-Q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "多边形顶点坐标用鞋带求面积 / 对数坐标三角形面积：先化纵坐标为整数",
+   "search_text": "​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ​                                                                                  4),15. A triangle in the coordinate plane has vertices A(log 2                                                         1, log 2                                                                2), B(log 2                                                                           3, log 2\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​                       8). What is the area of △ABC?   and C(log 2                7, log 2\n\n                         ​3\n     A    log 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​ 7                                    ​\n\n             3\n    B    log 2\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​    ​7​\n\n             7\n    C                                                                                                                                                                                                                                                             ​                                                                                                                                ​          log 2\n                         ​3\n\n             11\n    D    log 2\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​    ​7​\n\n             11\n     E    log 2\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​    ​3​\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q15",
+    "live-poshenloh-amc12-2024b-question_paper__q15",
+    "AMC12-2024B-Q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "累计质因数指数判断整除 / 无标号委员会含两个职务：组合总数的素因子指数",
+   "search_text": "16. A group of 16 people will be partitioned into indistinguishable 4 -person committees.\n   Each committee will have one chairperson and one secretary. The number of different\n                                                                    r   ways to make these assignments can be written as 3 M, where r and M are positive\n    integers and M is not divisible by 3. What is r?\n\n     A   5\n\n    B   6\n\n    C   7\n\n    D   8\n\n     E   9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q16",
+    "live-poshenloh-amc12-2024b-question_paper__q16",
+    "AMC12-2024B-Q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "概率",
+   "knowledge_point": "树状图与分类",
+   "problem_type": "固定整数乘积枚举因数分配并检范围 / 三次整数根概率：常数定根积后筛系数",
+   "search_text": "17. Integers a and b are randomly chosen without replacement from the set of integers\n    with absolute value not exceeding 10. What is the probability that the polynomial\n      3       2   x + ax + bx + 6 has 3 distinct integer roots?\n\n          1\n     A                                                                                                                                                                                                                                                               ​\n         240\n\n          1\n    B                                                                                                                                                                                                                                                              ​\n         221\n\n          1\n    C                                                                                                                                                                                                                                                            ​\n         105\n\n         1\n    D                                                                                                                                                                                                                      ​\n         84\n\n         1\n     E                                                                                                                                                                                                                          ​\n         63\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q17",
+    "live-poshenloh-amc12-2024b-question_paper__q17",
+    "AMC12-2024B-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数列倍指标恒等式化和 / 斐波那契倍数项比：倍指标恒等式转卢卡斯和",
+   "search_text": "​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​ for                           = 1, and F n18. The Fibonacci numbers are defined by F 1                       = 1,F 2                                 = F n−1                                      + F n−2\n  n ≥3. What is\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​                   F ​2  F ​4  F ​6      F 20\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ​                                                                                                                                                                                                 ​                                                                                                                                                                                                 ​                 +  +  + ⋯+       ​?\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​                   F ​1  F ​2  F ​3      F 10\n\n     A   318\n\n    B   319\n\n    C   320\n\n    D   321\n\n     E   322\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q18",
+    "live-poshenloh-amc12-2024b-question_paper__q18",
+    "AMC12-2024B-Q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "中心扇形面积转三角和差 / 同心旋转等边三角形凸六边形：中心扇形面积",
+   "search_text": "19. Equilateral △ABC with side length 14 is rotated about its center by angle θ, where\n   0 < θ < 60 ∘ , to form △DEF. See the figure. The area of hexagon ADBECF is\n   91   ​.3 What is tan θ?\n\n\n\n\n\n         3\n     A\n         4\n\n         5   ​3    B                                                                                                                                                                                                                                                                                        ​\n          11\n\n         4\n    C\n         5\n\n         11\n    D                                                                                                                                                                                                                      ​\n         13\n\n         7   ​3     E                                                                                                                                                                                                                                                                                          ​\n          13\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q19",
+    "live-poshenloh-amc12-2024b-question_paper__q19",
+    "AMC12-2024B-Q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "两定边夹角参数求面积与中线范围 / 两边定长中线参数面积极值：向量和界与夹角",
+   "search_text": "20. Suppose A,B, and C are points in the plane with AB = 40 and AC = 42, and let x\n   be the length of the line segment from A to the midpoint of BC . Define a function f\n   by letting f(x) be the area of △ABC. Then the domain of f is an open interval (p, q),\n   and the maximum value r of f(x) occurs at x = s. What is p + q + r + s?\n\n     A   909\n\n     B   910\n\n    C   911\n\n    D   912\n\n      E   913\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q20",
+    "live-poshenloh-amc12-2024b-question_paper__q20",
+    "AMC12-2024B-Q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角恒等式统一为一个三角量 / 三个勾股小角和90：正切和确定原始边比",
+   "search_text": "21. The measures of the smallest angles of three different right triangles sum to 90 ∘ . All\n   three triangles have side lengths that are primitive Pythagorean triples. Two of them\n   are 3 - 4 - 5 and 5 - 12 - 13. What is the perimeter of the third triangle?\n\n     A   40\n\n    B   126\n\n    C   154\n\n    D   176\n\n     E   208\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q21",
+    "live-poshenloh-amc12-2024b-question_paper__q21",
+    "AMC12-2024B-Q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "正弦倍角余弦合成整数边关系 / 整数三角形倍角：正弦与余弦合成边关系",
+   "search_text": "22. Let △ABC be a triangle with integer side lengths and the property that ∠B = 2∠A.\n   What is the least possible perimeter of such a triangle?\n\n     A   13\n\n     B   14\n\n    C   15\n\n    D   16\n\n     E   17\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q22",
+    "live-poshenloh-amc12-2024b-question_paper__q22",
+    "AMC12-2024B-Q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "空间向量点积求夹角 / 正八边形棱锥两侧棱垂直：点积求高平方",
+   "search_text": "23. A right pyramid has regular octagon ABCDEFGH with side length 1 as its base and\n   apex V . Segments AV and DV are perpendicular. What is the square of the height of\n   the pyramid?\n\n     A   1\n\n         1 +    ​2     B                                                                                                                                                                                                                                                                                                                                                                                       ​\n            2\n\n    C         ​2\n\n         3    D\n                ​2\n\n         2 +    ​2     E                                                                                                                                                                                                                                                                                                                                                                                         ​\n            3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q23",
+    "live-poshenloh-amc12-2024b-question_paper__q23",
+    "AMC12-2024B-Q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "倒数和约束排序枚举整数 / 整数高与整数内切半径：倒数和加三角不等式",
+   "search_text": "24. What is the number of ordered triples (a, b, c) of positive integers, with a ≤b ≤c ≤\n    9, such that there exists a (non-degenerate) triangle △ABC with an integer inradius\n    for which a,b, and c are the lengths of the altitudes from A to BC , B to AC , and C to\n  AB , respectively? (Recall that the inradius of a triangle is the radius of the largest\n    possible circle that can be inscribed in the triangle.)\n\n     A   2\n\n     B   3\n\n    C   4\n\n    D   5\n\n     E   6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q24",
+    "live-poshenloh-amc12-2024b-question_paper__q24",
+    "AMC12-2024B-Q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc12-2024b-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AMC12",
+   "variant": "B",
+   "id": "live-poshenloh-amc12-2024b-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "列联表独立条件按退化与非退化计数 / 随机二维属性独立：列联表行列式零计数",
+   "search_text": "25. Pablo will decorate each of 6 identical white balls with either a striped or a dotted\n    pattern, using either red or blue paint. He will decide on the color and pattern for each\n    ball by flipping a fair coin for each of the 12 decisions he must make. After the paint\n    dries, he will place the 6 balls in an urn. Frida will randomly select one ball from the urn\n   and note its color and pattern. The events “the ball Frida selects is red” and “the ball\n    Frida selects is striped” may or may not be independent, depending on the outcome\n    of Pablo’s coin flips. The probability that these two events are independent can be\n      m\n    written as       ​, where m and n are relatively prime positive integers. What is m? (Recall\n         n\n    that two events A and B are independent if P(A and B) = P(A) ⋅P(B). )\n\n     A   243\n\n     B   245\n\n    C   247\n\n    D   249\n\n     E   251\n\nSolutions: https://live.poshenloh.com/past-contests/amc12/2024B/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AMC 12B — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-answers.pdf"
+    },
+    {
+     "title": "2024 AMC 12B — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc12-2024B-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC12-2024-B-Q25",
+    "live-poshenloh-amc12-2024b-question_paper__q25",
+    "AMC12-2024B-Q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2024b-question_paper__q25.md"
+  }
+ ]
+}

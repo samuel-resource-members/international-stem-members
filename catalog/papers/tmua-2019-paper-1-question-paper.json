@@ -1,0 +1,948 @@
+{
+ "group": "tmua-2019-paper-1-question-paper",
+ "course_id": "TMUA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 20,
+ "questions": [
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q01",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "1     f(x) is a quadratic function in x.\n\n     The graph of y = f(x) passes through the point (1, −1) and has a turning point at\n      (−1, 3).\n\n     Find an expression for f(x).\n\n\n   A −x2 −2x + 2\n\n   B  −x2 + 2x + 3\n\n   C  x2 −2x\n\n   D  x2 + 2x −4\n\n    E  2x2 + 4x + 1\n\n    F  −2x2 −4x + 5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q01.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q02",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2    Find the complete set of values of the real constant k for which the expression\n\n\n                                    x2 + kx + 2x + 1 −2k\n\n\n        is positive for all real values of x.\n\n\n   A −12 < k < 0\n\n   B  k < −12  or  k > 0\n      √      √\n   C −  6 −3 < k <  6 −3\n        √        √\n   D  k < −  6 −3  or  k >  6 −3\n\n    E −2 < k < 1                         2\n\n    F  k < −2  or  k > 1                                  2\n\n   G  0 < k < 4\n\n   H  k < 0  or  k > 4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q02.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q03",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3    Find the coeﬃcient of x in the expression:\n\n              (1 + x)0 + (1 + x)1 + (1 + x)2 + (1 + x)3 + · · · + (1 + x)79 + (1 + x)80\n\n\n   A  80\n\n   B  81\n\n   C  324\n\n   D  628\n\n    E  3240\n\n    F  3321\n\n   G  6480\n\n   H  6642\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q03.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q04",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4    The sequence xn is given by:\n\n                                     x1 = 10\n\n                                  xn+1 = √xn  for n ≥1\n\n\n    What is the value of x100 ?\n\n      [Note that abc means a(bc)]\n\n   A  10299\n\n   B  102100\n\n   C  102−99\n\n   D  102−100\n\n    E  10−299\n\n    F  10−2100\n\n   G  10−2−99\n\n   H  10−2−100\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q04.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q05",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "代数",
+   "knowledge_point": "等比数列",
+   "problem_type": "利用公比求项、有限和或无穷和",
+   "search_text": "5    S is a geometric sequence.\n\n     The sum of the ﬁrst 6 terms of S is equal to 9 times the sum of the ﬁrst 3 terms of S.\n\n     The 7th term of S is 360.\n\n     Find the 1st term of S.\n\n\n   A   40             27\n\n   B   40             9\n\n   C   40             3\n\n   D   45             16\n\n    E   45             8\n\n    F   45             4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q05.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q06",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6    The circles with equations\n\n                           (x + 4)2 + (y + 1)2 = 64  and\n\n\n                           (x −8)2 + (y −4)2 = r2  where r > 0\n\n\n      have exactly one point in common.\n\n     Find the diﬀerence between the two possible values of r.\n\n\n   A  4\n\n   B  10\n\n   C  16\n\n   D  26\n\n    E  50\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q06.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q07",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "7   A curve has equation\n\n\n                                  y = (2q −x2)(2qx + 3)\n\n\n     The gradient of the curve at x = −1 is a function of q.\n\n     Find the value of q which minimises the gradient of the curve at x = −1.\n\n\n   A −1\n\n   B −3               4\n\n   C −1               2\n\n   D   0\n\n    E     1               2\n\n    F     3               4\n\n   G   1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q07.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q08",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "8    The function f is such that 0 < f(x) < 1 for 0 ≤x ≤1.\n\n\n                                                                                     1\n     The trapezium rule with n equal intervals is used to estimate    f(x) dx and                                                                                    0\n      produces an underestimate.\n\n     Using the same number of equal intervals, for which one of the following does the\n      trapezium rule produce an overestimate?\n\n\n              1\n   A     (f(x) + 1) dx              0\n\n              1\n   B     2f(x) dx              0\n\n              0\n   C      f(x + 1) dx           −1\n\n              0\n   D     f(−x) dx           −1\n\n              1\n    E     (1 −f(x)) dx              0\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q08.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q09",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "9    p is a positive constant.\n     Find the area enclosed between the curves y = p√x and x = p√y\n\n   A   23p 5                  2 −12p2\n\n                  2 −p2   B   43p 5\n\n             p4\n   C             6\n\n             p4\n   D             3\n\n    E   23p3 −12p4\n\n    F   43p3 −p4\n\n   G  2p4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q09.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q10",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "函数",
+   "knowledge_point": "反函数",
+   "problem_type": "求反函数并确定适用定义域",
+   "search_text": "10   Evaluate\n\n\n\n                                                    3\n                                                |x|(1 −x) dx\n                                        −1\n\n   A     17               3\n\n   B  −17               3\n\n   C     16               3\n\n   D  −16               3\n\n    E     11               3\n\n    F  −11               3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q10.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q11",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "代数",
+   "knowledge_point": "联立方程",
+   "problem_type": "联立条件求未知量",
+   "search_text": "11   Find the sum of the real values of x that satisfy the simultaneous equations:\n\n\n                                            log3(xy2) = 1\n\n                                         (log3 x)(log3 y) = −3\n\n   A   1             3\n\n   B  1\n\n   C  3\n\n   D  3 1              9\n\n    E  9 1              27\n\n    F  9 1              3\n\n   G  27\n\n   H  27 1               9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q11.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q12",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "12    It is given that\n\n\n                           dV    24π(t −1)\n                      =   √     for t ≥1\n                                  dt    (1 +   t )\n\n\n     and V = 7 when t = 1.\n\n     Find the value of V when t = 9.\n\n\n   A  208π + 7\n\n   B  216π + 7\n\n   C  224π + 7\n\n   D  416π + 7\n\n    E  608π + 7\n\n    F  744π + 7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q12.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q13",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "13   Find the maximum value of\n\n\n                                                4sin x −4 × 2sin x + 17                                                                      4\n       for real x.\n\n   A   1             4\n\n   B   5             2\n\n   C   13             2\n\n   D   21             2\n\n    E   65             4\n\n    F  There is no maximum value.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q13.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q14",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "代数",
+   "knowledge_point": "联立方程",
+   "problem_type": "联立条件求未知量",
+   "search_text": "14   x satisﬁes the simultaneous equations\n                       √\n                                       sin 2x +  3 cos 2x = −1\n\n     and                   √          √\n                                  3 sin 2x −cos 2x =  3\n\n     where 0◦≤x ≤360◦.\n\n     Find the sum of the possible values of x.\n\n\n   A  210◦\n\n   B  330◦\n\n   C  390◦\n\n   D  660◦\n\n    E  780◦\n\n    F  930◦\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q14.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q15",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "15   Find the real non-zero solution to the equation\n\n                                                     2(9x)   1\n                            =\n                                                     8(3x)   4\n\n   A  log3 2\n\n   B  2 log3 2\n\n   C  1\n\n   D  2\n\n    E  log2 3\n\n    F  2 log2 3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q15.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q16",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "16   Given that\n                                            1                 2\n                             2    f(x) dx + 5    f(x) dx = 14\n                                           0                 1\n     and\n                                                   1\n                                             f(x + 1) dx = 6\n                                                 0\n     ﬁnd the value of\n\n\n\n                                                        2\n                                                  f(x) dx\n                                                      0\n\n\n   A −8\n\n   B −4\n\n   C −2\n\n   D  2\n\n    E  4\n\n    F   29             5\n\n   G   32             5\n\n   H  14\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q16/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q16/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q16.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q17",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "代数",
+   "knowledge_point": "不等式",
+   "problem_type": "求满足不等式的范围",
+   "search_text": "17   Find the fraction of the interval 0 ≤θ ≤π for which the inequality\n\n                                   sin(2θ) −1   sin θ −cos θ ≥0                                                     2\n\n        is satisﬁed.\n\n\n   A   1             12\n\n   B   1             6\n\n   C   1             4\n\n   D   5             12\n\n    E   7             12\n\n    F   3             4\n\n   G   5             6\n\n   H   11             12\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q17/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q17/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q17.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q18",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "18   Find the shortest distance between the curve y = x2 + 4 and the line y = 2x −2.\n\n\n   A  2\n     √\n   B   5\n\n        √\n   C   6  5              5\n\n   D  3\n\n        √\n    E   5  5              3\n\n    F  5\n\n   G  6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q18/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q18/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q18.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q19",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "19   Find the value of\n                                                 90\n                                            sin(10 + 90k)◦\n\n                                        k=0\n\n   A  0\n\n   B  sin 10◦\n\n   C  sin 100◦\n\n   D  sin 190◦\n\n    E  sin 280◦\n\n    F  1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q19/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q19/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q19.md"
+  },
+  {
+   "paper_id": "tmua-2019-paper-1-question-paper",
+   "year": 2019,
+   "session": "Historic",
+   "paper": "Paper 1",
+   "variant": "",
+   "id": "tmua-2019-paper-1-question-paper__q20",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "函数",
+   "knowledge_point": "定义域与值域",
+   "problem_type": "从条件确定定义域或值域",
+   "search_text": "20   What is the complete range of values of k for which the curves with equations\n\n\n                                      y = x3 −12x\n\n     and\n                                    y = k −(x −2)2\n\n\n       intersect at three distinct points, of which exactly two have positive x-coordinates?\n\n\n   A −4 < k < 0\n\n   B −4 < k < 4\n\n   C −4 < k < 16\n\n   D −16 < k < 0\n\n    E  −16 < k < 4\n\n    F  −16 < k < 16\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2019 TMUA Paper 1 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07140826/TMUA-2019-paper-1-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2019-paper-1-question-paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q20/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2019-paper-1-question-paper__q20/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2019-paper-1-question-paper__q20.md"
+  }
+ ]
+}

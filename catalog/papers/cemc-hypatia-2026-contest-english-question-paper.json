@@ -1,0 +1,176 @@
+{
+ "group": "cemc-hypatia-2026-contest-english-question-paper",
+ "course_id": "CEMC-HYPATIA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-hypatia-2026-contest-english-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2026-contest-english-question-paper__q01",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.      If points are collinear, then they lie on the same straight line.\n\n          (a) If the points A(1, 2), B(2, 5) and C(3, c) are collinear, what is the value of c?\n\n         (b) Three distinct points D(0, 7), E and F(14, 0) are collinear. If the coordinates of\n            point E are positive integers, how many such points are possible?\n\n          (c) Determine the value of n so that the points P(15, 12), Q(6, n −4) and R(18, n)\n             are collinear.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2026-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2026-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2026-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2026-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2026-contest-english-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2026-contest-english-question-paper__q02",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2.   A peak number is a 5-digit positive integer, ABCBA, with digits 0 < A < B < C < 10.\n      For example, 27 872 is a peak number with A = 2, B = 7 and C = 8, but 52 625 and\n      46 954 are not peak numbers.\n\n          (a) What is the positive diﬀerence between the largest and smallest peak numbers?\n\n         (b) How many peak numbers are greater than 36 245 and less than 45 932?\n\n          (c) Determine all peak numbers that are a multiple of 15.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2026-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2026-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2026-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2026-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2026-contest-english-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2026-contest-english-question-paper__q03",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "3.    In the diagram, the circles with centres P and Q are externally tangent to one another\n      at V , the circles with centres P and R are internally tangent to one another at W, and\n    ST is tangent to the circle with centre Q at U.\n      Fact 1: The line through the centres of two circles\n      that are tangent to one another passes through their\n      point of tangency.  For example, in the diagram, the\n       line through P and Q passes through V , and the line        P    V    Q\n      through P and R passes through W.                                         T\n                                                       R\n      Fact 2: A line tangent to a circle  is perpendicular   W             U\n      to the radius drawn to the point of tangency.  For                   S\n      example, in the diagram, ST is perpendicular to QU.\n\n          (a) In Figure 1 below, a small circle with centre A and radius 10 is drawn inside a\n             large circle with centre B and radius 36. The two circles are internally tangent\n             to one another at C.  Diameter CD of the large circle passes through A and\n              intersects the small circle at E. What is the length of DE?\n\n         (b) In Figure 2 below, a small circle with centre G and radius 12 is drawn inside a\n             large circle with centre F and radius 49. The two circles are internally tangent to\n           one another at K. Diameter HI of the large circle is tangent to the small circle\n             at J. Determine the length of FJ.\n\n          (c) In Figure 3 below, a small circle with centre X and radius 5 is drawn inside a\n             large circle with centre Z and radius 18. These two circles are internally tangent\n             to one another at L. Diameter UV  of the large circle is tangent to the small\n               circle at M. A medium circle with radius r is externally tangent to the small\n               circle at N, internally tangent to the large circle at V , and has centre Y on UV .\n           Determine the value of r.\n\n                           D                                L   X\n                                 H                                              F                  N                         B                                                                     J       U               V\n                                                  M   Z  Y                     A  E                                         G       I\n                  C                                               K\n                                 Figure 1                     Figure 2                     Figure 3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2026-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2026-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2026-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2026-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2026-contest-english-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2026-contest-english-question-paper__q04",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "4.   A positive integer n is a sum of two positive squares if there exist integers a > 0 and\n       b > 0 for which n = a2 + b2. For example, 29 is a sum of two positive squares since\n      29 = 22 + 52. However, each of 11 and 16 is not a sum of two positive squares.\n\n    A Sorensen number, S, is a positive integer that can be written as a sum of two positive\n      squares in the following three distinct ways:\n\n                 S = m2 + x2 = (m + 1)2 + y2 = (m + 2)2 + z2   (∗)\n\n       for some positive integers m, x, y, and z. In the questions that follow, x, y and z are\n       positive integers satisfying (∗).\n          (a) If y2 −z2 = x2 −y2 + k, what is the value of the constant k?\n\n         (b) The expression y2 −z2 can be written as a sum of p consecutive odd integers,\n            the largest of which is 2y −1.  Similarly, x2 −y2 can be written as a sum of q\n             consecutive odd integers, the largest of which is 2x −1. Determine an expression\n              for y written in terms of p and q.\n\n          (c) Determine two diﬀerent Sorensen numbers.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2026-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2026-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2026-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2026-contest-english-question-paper__q04.md"
+  }
+ ]
+}

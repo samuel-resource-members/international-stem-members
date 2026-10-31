@@ -1,0 +1,1283 @@
+{
+ "group": "live-poshenloh-amc10-2019a-question_paper",
+ "course_id": "AMC10",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q01",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "含括号与乘方的数值式：由内至外逐层求值 / 嵌套乘方按括号由内向外计算",
+   "search_text": "What is the value of \\[2^{\\left(0^{\\left(1^9\\right)}\\right)}+\\left(\\left(2^0\\right)^1\\right)^9?\\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q01",
+    "live-poshenloh-amc10-2019a-question_paper__q01",
+    "AMC10-2019A-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the value of \\[2^{\\left(0^{\\left(1^9\\right)}\\right)}+\\left(\\left(2^0\\right)^1\\right)^9?\\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q02",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "阶乘末尾零：比较因子2与5的数量 / 阶乘末尾零数：分别检查被1000整除",
+   "search_text": "What is the hundreds digit of \\((20!-15!)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q02",
+    "live-poshenloh-amc10-2019a-question_paper__q02",
+    "AMC10-2019A-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the hundreds digit of \\((20!-15!)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q03",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "年龄关系：所有人同增减年数后列倍数等式 / 年龄差不变：去年倍数与今年平方联立",
+   "search_text": "Ana and Bonita were born on the same date in different years, \\(n\\) years apart. Last year Ana was \\(5\\) times as old as Bonita. This year Ana’s age is the square of Bonita’s age. What is \\(n?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q03",
+    "live-poshenloh-amc10-2019a-question_paper__q03",
+    "AMC10-2019A-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Ana and Bonita were born on the same date in different years, \\(n\\) years apart. Last year Ana was \\(5\\) times as old as Bonita. This year Ana’s age is the square of Bonita’s age. What is \\(n?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q04",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "保证某类数量：给分类盒子设安全容量再加一 / 保证同色数量：先装满各色安全上限",
+   "search_text": "A box contains \\(28\\) red balls, \\(20\\) green balls, \\(19\\) yellow balls, \\(13\\) blue balls, \\(11\\) white balls, and \\(9\\) black balls. What is the minimum number of balls that must be drawn from the box without replacement to guarantee that at least \\(15\\) balls of a single color will be drawn?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q04",
+    "live-poshenloh-amc10-2019a-question_paper__q04",
+    "AMC10-2019A-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A box contains \\(28\\) red balls, \\(20\\) green balls, \\(19\\) yellow balls, \\(13\\) blue balls, \\(11\\) white balls, and \\(9\\) black balls. What is the minimum number of balls that must be drawn from the box without replacement to guarantee that at least \\(15\\) balls of a single color will be drawn?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q05",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续整数和：首项与项数参数化后用整除筛项数 / 连续整数和最大项数：允许负数并用因数界",
+   "search_text": "What is the greatest number of consecutive integers whose sum is \\(45?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q05",
+    "live-poshenloh-amc10-2019a-question_paper__q05",
+    "AMC10-2019A-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the greatest number of consecutive integers whose sum is \\(45?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q06",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "四点共圆：使用同弧角、补角或托勒密关系 / 四顶点等距点：判定圆内接四边形",
+   "search_text": "For how many of the following types of quadrilaterals does there exist a point in the plane of the quadrilateral that is equidistant from all four vertices of the quadrilateral?\n\n• a square\n\n• a rectangle that is not a square\n\n• a rhombus that is not a square\n\n• a parallelogram that is not a rectangle or a rhombus\n\n• an isosceles trapezoid that is not a parallelogram",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q06",
+    "live-poshenloh-amc10-2019a-question_paper__q06",
+    "AMC10-2019A-Q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q07",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平面交线围面积：设坐标求交点再算面积 / 两直线与第三线围面积：联立顶点坐标",
+   "search_text": "Two lines with slopes \\(\\frac{1}{2}\\) and \\(2\\) intersect at \\((2, 2).\\) What is the area of the triangle enclosed by these two lines and the line \\(x + y = 10?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q07",
+    "live-poshenloh-amc10-2019a-question_paper__q07",
+    "AMC10-2019A-Q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Two lines with slopes \\(\\frac{1}{2}\\) and \\(2\\) intersect at \\((2, 2).\\) What is the area of the triangle enclosed by these two lines and the line \\(x + y = 10?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q08",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "图形刚体对称：逐方向检查变换后是否重合 / 周期图案刚体对称：分别检验方向与小尾线",
+   "search_text": "The figure below shows line \\(\\ell\\) with a regular, infinite, recurring pattern of squares and line segments.\n\n\n\nHow many of the following four kinds of rigid motion transformations of the plane in which this figure is drawn, other than the identity transformation, will transform this figure into itself?\n\n• some rotation around a point of line \\(\\ell\\)\n\n• some translation in the direction parallel to line \\(\\ell\\)\n\n• the reflection across line \\(\\ell\\)\n\n• some reflection across a line perpendicular to line \\(\\ell\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q08",
+    "live-poshenloh-amc10-2019a-question_paper__q08",
+    "AMC10-2019A-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The figure below shows line \\(\\ell\\) with a regular, infinite, recurring pattern of squares and line segments.\n\n\n\nHow many of the following four kinds of rigid motion transformations of the plane in which this figure is drawn, other than the identity transformation, will transform this figure into itself?\n\n• some rotation around a point of line \\(\\ell\\)\n\n• some translation in the direction parallel to line \\(\\ell\\)\n\n• the reflection across line \\(\\ell\\)\n\n• some reflection across a line perpendicular to line \\(\\ell\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q09",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "阶乘整除关系：约去公共因子后检查质因数指数 / 等差和整除阶乘：约分后检查n+1的素因子",
+   "search_text": "What is the greatest three-digit positive integer \\(n\\) for which the sum of the first \\(n\\) positive integers is not a divisor of the product of the first \\(n\\) positive integers?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q09",
+    "live-poshenloh-amc10-2019a-question_paper__q09",
+    "AMC10-2019A-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the greatest three-digit positive integer \\(n\\) for which the sum of the first \\(n\\) positive integers is ",
+     {
+      "tag": "span",
+      "children": [
+       "not"
+      ]
+     },
+     " a divisor of the product of the first \\(n\\) positive integers?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q10",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "网格对角线经过格数：横竖穿线扣共同格点",
+   "search_text": "A rectangular floor that is \\(10\\) feet wide and \\(17\\) feet long is tiled with \\(170\\) one-foot square tiles. A bug walks from one corner to the opposite corner in a straight line. Including the first and the last tile, how many tiles does the bug visit?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q10",
+    "live-poshenloh-amc10-2019a-question_paper__q10",
+    "AMC10-2019A-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A rectangular floor that is \\(10\\) feet wide and \\(17\\) feet long is tiled with \\(170\\) one-foot square tiles. A bug walks from one corner to the opposite corner in a straight line. Including the first and the last tile, how many tiles does the bug visit?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q11",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "幂的约数为平方或立方：指数格点容斥",
+   "search_text": "How many positive integer divisors of \\(201^9\\) are perfect squares or perfect cubes (or both)?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q11",
+    "live-poshenloh-amc10-2019a-question_paper__q11",
+    "AMC10-2019A-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "How many positive integer divisors of \\(201^9\\) are perfect squares or perfect cubes (or both)?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q12",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "频数或频率表：加权求均值并累计定位中位数 / 频数表的均值中位数众数比较",
+   "search_text": "Melanie computes the mean \\(\\mu,\\) the median \\(M,\\) and the modes of the \\(365\\) values that are the dates in the months of \\(2019.\\) Thus her data consist of \\(12\\) copies of \\(1,\\) \\(12\\) copies of \\(2,\\) and so on through \\(12\\) copies of \\(28,\\) then \\(11\\) copies of \\(29,\\) \\(11\\) copies of \\(30,\\) and \\(7\\) copies of \\(31.\\) Let \\(d\\) be the median of the modes. Which of the following statements is true?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q12",
+    "live-poshenloh-amc10-2019a-question_paper__q12",
+    "AMC10-2019A-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Melanie computes the mean \\(\\mu,\\) the median \\(M,\\) and the modes of the \\(365\\) values that are the dates in the months of \\(2019.\\) Thus her data consist of \\(12\\) copies of \\(1,\\) \\(12\\) copies of \\(2,\\) and so on through \\(12\\) copies of \\(28,\\) then \\(11\\) copies of \\(29,\\) \\(11\\) copies of \\(30,\\) and \\(7\\) copies of \\(31.\\) Let \\(d\\) be the median of the modes. Which of the following statements is true?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q13",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆周角、圆心角与同弧：统一所对弧追角 / 直径所对直角：转化两条高的夹角",
+   "search_text": "Let \\(\\triangle ABC\\) be an isosceles triangle with \\(BC = AC\\) and \\(\\angle ACB = 40^{\\circ}.\\) Construct the circle with diameter \\(\\overline{BC},\\) and let \\(D\\) and \\(E\\) be the other intersection points of the circle with the sides \\(\\overline{AC}\\) and \\(\\overline{AB},\\) respectively. Let \\(F\\) be the intersection of the diagonals of the quadrilateral \\(BCDE.\\) What is the degree measure of \\(\\angle BFC ?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q13",
+    "live-poshenloh-amc10-2019a-question_paper__q13",
+    "AMC10-2019A-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(\\triangle ABC\\) be an isosceles triangle with \\(BC = AC\\) and \\(\\angle ACB = 40^{\\circ}.\\) Construct the circle with diameter \\(\\overline{BC},\\) and let \\(D\\) and \\(E\\) be the other intersection points of the circle with the sides \\(\\overline{AC}\\) and \\(\\overline{AB},\\) respectively. Let \\(F\\) be the intersection of the diagonals of the quadrilateral \\(BCDE.\\) What is the degree measure of \\(\\angle BFC ?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q14",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "四直线交点数：区分平行和共点",
+   "search_text": "For a set of four distinct lines in a plane, there are exactly \\(N\\) distinct points that lie on two or more of the lines. What is the sum of all possible values of \\(N?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q14",
+    "live-poshenloh-amc10-2019a-question_paper__q14",
+    "AMC10-2019A-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For a set of four distinct lines in a plane, there are exactly \\(N\\) distinct points that lie on two or more of the lines. What is the sum of all possible values of \\(N?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q15",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "倒数递推线性化：分式乘积转等差",
+   "search_text": "A sequence of numbers is defined recursively by \\(a_1 = 1,\\) \\(a_2 = \\frac{3}{7},\\) and \\[a_n=\\dfrac{a_{n-2} \\cdot a_{n-1}}{2a_{n-2} - a_{n-1}}\\] for all \\(n \\geq 3.\\) Then \\(a_{2019}\\) can be written as \\(\\frac{p}{q},\\) where \\(p\\) and \\(q\\) are relatively prime positive integers. What is \\(p+q ?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q15",
+    "live-poshenloh-amc10-2019a-question_paper__q15",
+    "AMC10-2019A-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A sequence of numbers is defined recursively by \\(a_1 = 1,\\) \\(a_2 = \\frac{3}{7},\\) and \\[a_n=\\dfrac{a_{n-2} \\cdot a_{n-1}}{2a_{n-2} - a_{n-1}}\\] for all \\(n \\geq 3.\\) Then \\(a_{2019}\\) can be written as \\(\\frac{p}{q},\\) where \\(p\\) and \\(q\\) are relatively prime positive integers. What is \\(p+q ?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q16",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相切等圆环绕：圆心构成正多边形，外半径补小圆半径 / 相切等圆排列：圆心等边三角高求大半径",
+   "search_text": "The figure below shows \\(13\\) circles of radius \\(1\\) within a larger circle. All the intersections occur at points of tangency. What is the area of the region, shaded in the figure, inside the larger circle but outside all the circles of radius \\(1?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q16",
+    "live-poshenloh-amc10-2019a-question_paper__q16",
+    "AMC10-2019A-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The figure below shows \\(13\\) circles of radius \\(1\\) within a larger circle. All the intersections occur at points of tangency. What is the area of the region, shaded in the figure, inside the larger circle but outside all the circles of radius \\(1?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q17",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "含重复元素的排列：选同类位置或除内部交换 / 重集排列少用一件：按遗漏颜色分类",
+   "search_text": "A child builds towers using identically shaped cubes of different colors. How many different towers with a height \\(8\\) cubes can the child build with \\(2\\) red cubes, \\(3\\) blue cubes, and \\(4\\) green cubes? (One cube will be left out.)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q17",
+    "live-poshenloh-amc10-2019a-question_paper__q17",
+    "AMC10-2019A-Q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A child builds towers using identically shaped cubes of different colors. How many different towers with a height \\(8\\) cubes can the child build with \\(2\\) red cubes, \\(3\\) blue cubes, and \\(4\\) green cubes? (One cube will be left out.)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q18",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "循环小数换进制：等比和求分母",
+   "search_text": "For some positive integer \\(k,\\) the repeating base-\\(k\\) representation of the (base-ten) fraction \\(\\dfrac{7}{51}\\) is \\[0.\\overline{23}_k = 0.232323..._k.\\] What is \\(k?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q18",
+    "live-poshenloh-amc10-2019a-question_paper__q18",
+    "AMC10-2019A-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For some positive integer \\(k,\\) the repeating base-\\(k\\) representation of the (base-ten) fraction \\(\\dfrac{7}{51}\\) is \\[0.\\overline{23}_k = 0.232323..._k.\\] What is \\(k?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q19",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "二次或可降阶对称式：配完全平方以求值或判下界 / 连续四因式配对：化同一二次式配方",
+   "search_text": "What is the least possible value of \\[ \\begin{aligned} &(x+1)(x+2)(x+3)(x+4)\\\\ &\\quad+2019, \\end{aligned} \\] where \\(x\\) is a real number?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q19",
+    "live-poshenloh-amc10-2019a-question_paper__q19",
+    "AMC10-2019A-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the least possible value of \\[ \\begin{aligned} &(x+1)(x+2)(x+3)(x+4)\\\\ &\\quad+2019, \\end{aligned} \\] where \\(x\\) is a real number?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q20",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "方格位置奇偶：棋盘染色或行列奇偶分组 / 奇偶格局计数：只选择五个奇数位置",
+   "search_text": "The numbers \\(1,\\) \\(2,\\) \\(\\dots,\\) \\(9\\) are randomly placed into the \\(9\\) squares of a \\(3 \\times 3\\) grid. Each square gets one number, and each of the numbers is used once. What is the probability that the sum of the numbers in each row and each column is odd?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q20",
+    "live-poshenloh-amc10-2019a-question_paper__q20",
+    "AMC10-2019A-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The numbers \\(1,\\) \\(2,\\) \\(\\dots,\\) \\(9\\) are randomly placed into the \\(9\\) squares of a \\(3 \\times 3\\) grid. Each square gets one number, and each of the numbers is used once. What is the probability that the sum of the numbers in each row and each column is odd?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q21",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "球与平面截圆：三角内切半径结合空间勾股",
+   "search_text": "A sphere with center \\(O\\) has radius \\(6.\\) A triangle with sides of length \\(15,\\) \\(15,\\) and \\(24\\) is situated in space so that each of its sides is tangent to the sphere. What is the distance between \\(O\\) and the plane determined by the triangle?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q21",
+    "live-poshenloh-amc10-2019a-question_paper__q21",
+    "AMC10-2019A-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A sphere with center \\(O\\) has radius \\(6.\\) A triangle with sides of length \\(15,\\) \\(15,\\) and \\(24\\) is situated in space so that each of its sides is tangent to the sphere. What is the distance between \\(O\\) and the plane determined by the triangle?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q22",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "先分条件再随机：分支概率乘条件概率后相加 / 离散连续混合概率：按抽样分支加权",
+   "search_text": "Real numbers between \\(0\\) and \\(1,\\) inclusive, are chosen in the following manner. A fair coin is flipped. If it lands heads, then it is flipped again and the chosen number is \\(0\\) if the second flip is heads, and \\(1\\) if the second flip is tails. On the other hand, if the first coin flip is tails, then the number is chosen uniformly at random from the closed interval \\([0,1].\\) Two random numbers \\(x\\) and \\(y\\) are chosen independently in this manner. What is the probability that \\(|x-y| > \\tfrac{1}{2}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q22",
+    "live-poshenloh-amc10-2019a-question_paper__q22",
+    "AMC10-2019A-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Real numbers between \\(0\\) and \\(1,\\) inclusive, are chosen in the following manner. A fair coin is flipped. If it lands heads, then it is flipped again and the chosen number is \\(0\\) if the second flip is heads, and \\(1\\) if the second flip is tails. On the other hand, if the first coin flip is tails, then the number is chosen uniformly at random from the closed interval \\([0,1].\\) Two random numbers \\(x\\) and \\(y\\) are chosen independently in this manner. What is the probability that \\(|x-y| > \\tfrac{1}{2}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q23",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "递增长度分组：累计块长夹住目标序号 / 轮流报连续数：先定位个人累计段数",
+   "search_text": "Travis has to babysit the terrible Thompson triplets. Knowing that they love big numbers, Travis devises a counting game for them. First Tadd will say the number \\(1,\\) then Todd must say the next two numbers (\\(2\\) and \\(3\\)), then Tucker must say the next three numbers (\\(4,\\) \\(5,\\) \\(6\\)), then Tadd must say the next four numbers (\\(7,\\) \\(8,\\) \\(9,\\) \\(10\\)), and the process continues to rotate through the three children in order, each saying one more number than the previous child did, until the number \\(10{,}000\\) is reached. What is the \\(2019\\)th number said by Tadd?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q23",
+    "live-poshenloh-amc10-2019a-question_paper__q23",
+    "AMC10-2019A-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Travis has to babysit the terrible Thompson triplets. Knowing that they love big numbers, Travis devises a counting game for them. First Tadd will say the number \\(1,\\) then Todd must say the next two numbers (\\(2\\) and \\(3\\)), then Tucker must say the next three numbers (\\(4,\\) \\(5,\\) \\(6\\)), then Tadd must say the next four numbers (\\(7,\\) \\(8,\\) \\(9,\\) \\(10\\)), and the process continues to rotate through the three children in order, each saying one more number than the previous child did, until the number \\(10{,}000\\) is reached. What is the \\(2019\\)th number said by Tadd?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q24",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "部分分式系数倒数：代根转多项式导数 / 部分分式系数倒数：代根得导数再韦达",
+   "search_text": "Let \\(p,\\) \\(q,\\) and \\(r\\) be the distinct roots of the polynomial \\[x^3 - 22x^2 + 80x - 67.\\] There exist real numbers \\(A,\\) \\(B,\\) and \\(C\\) such that \\[ \\begin{gathered} \\frac{1}{s^3-22s^2+80s-67}\\\\ =\\frac{A}{s-p}+\\frac{B}{s-q}\\\\ \\quad+\\frac{C}{s-r} \\end{gathered} \\] for all real numbers \\(s\\) with \\(s\\notin\\{p,q,r\\}.\\) What is \\[\\dfrac1A+\\dfrac1B+\\dfrac1C?\\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q24",
+    "live-poshenloh-amc10-2019a-question_paper__q24",
+    "AMC10-2019A-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(p,\\) \\(q,\\) and \\(r\\) be the distinct roots of the polynomial \\[x^3 - 22x^2 + 80x - 67.\\] There exist real numbers \\(A,\\) \\(B,\\) and \\(C\\) such that \\[ \\begin{gathered} \\frac{1}{s^3-22s^2+80s-67}\\\\ =\\frac{A}{s-p}+\\frac{B}{s-q}\\\\ \\quad+\\frac{C}{s-r} \\end{gathered} \\] for all real numbers \\(s\\) with \\(s\\notin\\{p,q,r\\}.\\) What is \\[\\dfrac1A+\\dfrac1B+\\dfrac1C?\\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2019a-question_paper__q25",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "阶乘整除关系：约去公共因子后检查质因数指数 / 阶乘商整性：逐质数比较阶乘赋值",
+   "search_text": "For how many integers \\(n\\) between \\(1\\) and \\(50,\\) inclusive, is \\[\\dfrac{(n^2-1)!}{(n!)^n}\\] an integer? (Recall that \\(0! = 1.\\))",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2019-A-Q25",
+    "live-poshenloh-amc10-2019a-question_paper__q25",
+    "AMC10-2019A-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For how many integers \\(n\\) between \\(1\\) and \\(50,\\) inclusive, is \\[\\dfrac{(n^2-1)!}{(n!)^n}\\] an integer? (Recall that \\(0! = 1.\\))"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2019a-question_paper__q25.md"
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "group": "ap-biology-2024-frq-question-paper",
+ "course_id": "AP-BIOLOGY",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-biology-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2024-frq-question-paper__q01",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理变量、观察、数据和实验误差",
+   "search_text": "1. Crossing over in meiosis I is required for homologous chromosomes to properly align during metaphase and\n   segregate during the first cell division.\n\n\n   (a)\n\n           (i) Describe the function of S phase of interphase.\n\n  Some regions of a chromosome called hotspots display a higher frequency of crossing over than other regions\n   do. Crossing over is suppressed in chromosomal regions near the centromeres. The centromere region of a\n   duplicated chromosome includes a collection of proteins that form a structure called the kinetochore. Scientists\n   hypothesized that one or more of these kinetochore proteins are responsible for suppressing crossing over\n   around the centromere.\n\n\n  To investigate their hypothesis, scientists modified chromosome 8 in yeast such that, in each cell, one\n  chromosome from the pair of homologous chromosome 8s contained the gene encoding red fluorescent protein\n   (RFP), while the other chromosome from the pair contained the gene encoding green fluorescent protein\n   (GFP). Cells expressing RFP emit (give off) red light, and cells expressing GFP emit green light. Models of the\n   modified chromosome 8 both before and after crossing over are shown in Figure 1.\n\n\n\n\n\n           Figure 1. Models of modified chromosome 8 used in the experiment (A) before and (B)\n             after crossing over occurs at the hotspot\n\n              (ii) Explain why some haploid cells formed after meiosis in this experiment will have only one\n              fluorescent marker.\n\nThe scientists then investigated whether attaching individual kinetochore proteins to a specific DNA sequence\npresent in a known crossing-over hotspot on chromosome 8 affected the frequency of crossing over at this\nlocation. In their first experiment, they examined three groups of yeast cells containing the modified\nchromosome 8. Group 1 contained no kinetochore proteins attached to the hotspot, group 2 contained the\nkinetochore protein CTF attached to the hotspot, and group 3 contained the kinetochore protein IML attached\nto the hotspot. For each group, the scientists determined the frequency of crossing over between the RFP and\nGFP genes. To determine the frequency, the scientists added the number of cells emitting both red and green\nlight to the number of cells that emitted no light and divided by the total number of cells (Figure 2).\n\n\n\n\n\n                             Figure 2. The frequency of crossing over\n                                 in a hotspot on yeast chromosome 8 for\n                                   cell groups treated with different\n                              kinetochore proteins. Error bars represent\n                      ±2SE x .\n\n(b)\n\n       (i) Identify the control group for the scientists’ first experiment, shown in Figure 2.\n\n      (ii) In a follow-up experiment, the scientists created a modified version of CTF in which the\n       DNA-binding portion had been removed. They compared the frequency of crossing over in yeast cells\n          in the presence and absence of unmodified CTF with that in yeast cells in the presence and absence of\n         the modified CTF protein (data not shown). In the follow-up experiment, justify why the scientists\n        used a modified CTF protein that is unable to bind to DNA as a control.\n\n      (iii) Identify the independent variable in the follow-up experiment.\n\n(c) Based on Figure 2, describe the effect on the frequency of crossing over when CTF is attached to the\n   chromosome 8 hotspot compared with the effect when IML is attached to the hotspot.\n\n\n(d)\n\n       (i) Predict the effect on the number of copies of chromosome 8 likely to be present in the resulting\n         daughter cells when CTF is attached to the hotspot.\n\n      (ii) Provide reasoning to justify your prediction.\n\n      (iii) Explain how the presence of hotspots (Figure 1) could increase the likelihood that a population will\n         survive in the presence of selective pressures.\n\n__________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n\n             If there are multiple parts to this question, write the part letter with your response.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2024-frq-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2024-frq-question-paper__q01.md"
+  },
+  {
+   "paper_id": "ap-biology-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2024-frq-question-paper__q02",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "2",
+   "chapter": "Biological molecules",
+   "knowledge_point": "Biological molecules and food tests",
+   "problem_type": "辨认分子或解释食物检验",
+   "search_text": "2. To investigate how increases in environmental temperatures affect the metabolism of certain organisms,\n   researchers incubated liver cells from toads at different temperatures and measured two markers of metabolic\n    activity (Table 1): the rate of oxygen consumption and the rate of ATP synthesis.\n\n\n    (a) Describe the role of water in the hydrolysis of ATP.\n\n\nTABLE 1. RATE OF OXYGEN CONSUMPTION AND ATP SYNTHESIS AT DIFFERENT TEMPERATURES\n                          Metabolic Marker     20° C     25° C     30°C\n\n\n                           Rate of Oxygen\n                          Consumption\n                         (nmol / min / mg of  12.8 ± 2.2 16.5 ± 2.0  22.1 ± 0.7\n                          mitochondrial protein\n                       ±2SE x )\n\n                        Rate of ATP Synthesis\n                         (nmol / min / mg of                                               12.6 ± 1.6 16.8 ± 2.0 21.07 ± 0.8\n                          mitochondrial protein\n                       ±2SE x )\n\n\n\n\n    (b)\n\n           (i) Using the template in the space provided for your response, construct a bar graph that represents the\n            data shown in Table 1. Your graph should be appropriately plotted and labeled.\n           (ii) Based on the data provided, determine the temperature in °C at which the rate of oxygen\n           consumption is different from the rate of oxygen consumption at 25° C .\n\n    (c)\n\n           (i) Based on the data in Table 1, describe the effect of temperature on the rate of ATP synthesis in liver\n              cells from toads.\n\n           (ii) Based on the data in Table 1, calculate the average amount of oxygen consumed, in nmol, for 10 mg\n            of mitochondrial protein after 10 minutes at 25° C .\n\n    (d)\n\n           (i) Oligomycin is a compound that can block the channel protein function of ATP synthase. Predict the\n              effects of using oligomycin on the proton gradient across the inner mitochondrial membrane.\n\n           (ii) Justify your prediction.\n\n                __________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n\n              If there are multiple parts to this question, write the part letter with your response.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2024-frq-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2024-frq-question-paper__q02.md"
+  },
+  {
+   "paper_id": "ap-biology-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2024-frq-question-paper__q03",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "3",
+   "chapter": "Transport in animals",
+   "knowledge_point": "Circulation and blood",
+   "problem_type": "连接心脏、血管和血液功能",
+   "search_text": "3. To investigate whether red blood cells of animals lose the ability to take in glucose from their environment as\n   they age, scientists collected red blood cells from guinea pigs that ranged in age from one day old to seven\n  months old. Scientists incubated an equal number of red blood cells in separate culture dishes that contained a\n  300 nM solution of radioactively labeled glucose. The amount of radioactively labeled glucose present inside\n   the red blood cells of each group was measured over time.\n\n\n   (a) Describe a difference between passive transport and active transport.\n\n\n   (b) Justify why the scientists used an equal number of red blood cells in each culture dish as a control.\n\n\n   (c) Glucose transporters are required for the facilitated diffusion of glucose into red blood cells. The scientists\n      claim that the expression of the gene encoding these transporters decreases as guinea pigs age. If the\n       scientists’ claim is supported by experimental data, predict the effect of increased age on the amount of\n      radioactively labeled glucose present inside the cells of each group.\n\n\n   (d) Justify your prediction in part (c).\n\n                __________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n\n             If there are multiple parts to this question, write the part letter with your response.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2024-frq-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2024-frq-question-paper__q03.md"
+  },
+  {
+   "paper_id": "ap-biology-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2024-frq-question-paper__q04",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "4",
+   "chapter": "Characteristics and classification of living organisms",
+   "knowledge_point": "Classification",
+   "problem_type": "用特征辨认生物或分类",
+   "search_text": "4. The common wild oat is native to regions of Europe and Asia but is an invasive species in central California\n   grasslands. In California, the common wild oat has almost completely replaced some species of native\n   bunchgrass. Researchers found that aphids, a type of small insect that often carries plant viruses, have a much\n   higher reproductive rate in grasslands that include the common wild oat than in grasslands composed of only\n   native bunchgrass species. Additionally, the viruses carried by the aphids appear to affect only the native\n   bunchgrasses and not the common wild oat. Native bunchgrasses infected by the virus have much higher death\n   rates than do native bunchgrasses that are not infected.\n\n\n   (a) Describe the change in the resilience of an ecosystem when there is a decrease in the number of species.\n\n\n   (b) Explain how the addition of the common wild oat affects the number of native bunchgrass plants that can\n      be supported by the California grasslands ecosystem.\n\n\n   (c) Researchers suggest adding ladybugs, predators of aphids, to the California grasslands. Predict the effect of\n      adding ladybugs on the abundance of the native bunchgrass population.\n\n\n   (d) Justify your prediction in part (c).\n\n                __________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n\n             If there are multiple parts to this question, write the part letter with your response.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2024-frq-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2024-frq-question-paper__q04.md"
+  },
+  {
+   "paper_id": "ap-biology-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2024-frq-question-paper__q05",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "5",
+   "chapter": "Biological molecules",
+   "knowledge_point": "Biological molecules and food tests",
+   "problem_type": "辨认分子或解释食物检验",
+   "search_text": "5. Researchers study mechanisms that enable or prevent speciation.\n\n\n   (a) Describe a post-zygotic mechanism that prevents gene flow and thus enables speciation.\n\n\n  New genes can evolve from noncoding regions of DNA. It is not until certain regulatory elements are present in\n   the DNA that a noncoding region becomes a new, functional gene that encodes a protein. These regulatory\n   elements include a promoter, a 5′ untranslated region (UTR) followed by a start codon, and a 3′ UTR\n   following a stop codon (Figure 1).\n\n\n\n\n\n                                 Figure 1. Basic structure of a functional\n                             ag gene\n\nResearchers studied the evolution of the family of antifreeze-glycoprotein (AG) encoding genes in Gadidae, a\n   family of marine fish known as cods. When present in the fish, these glycoproteins reduce the freezing\n   temperature of the fish. The researchers compared genomic sequences in nine cod species and one non-cod fish\n   species, B. brosme. They recorded the presence or absence of the elements of functional ag genes as well as\n   ag-like sequences that are similar to a functional gene but have undergone mutation and do not contain all the\n   elements required to enable protein production (Figure 2).\n\n\n\n\n\n         Figure 2. Phylogenetic tree showing the evolution of ag genes\n\n\n   (b) Based on the data in Figure 2, explain how changes to the genome enabled cods to survive and reproduce\n       after a period of freezing temperatures between 10 and 15 million years ago.\n\n\n   (c) Using the template in the space provided for your response, place an “X” on the phylogenetic tree to\n      represent the origin of the functional ag gene.\n\n\n   (d) Based on Figure 2, explain how genetic differences among the species in the Gadidae family determine the\n       habitats in which they can survive.\n\n                __________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n\n             If there are multiple parts to this question, write the part letter with your response.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2024-frq-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2024-frq-question-paper__q05.md"
+  },
+  {
+   "paper_id": "ap-biology-2024-frq-question-paper",
+   "year": 2024,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2024-frq-question-paper__q06",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "6",
+   "chapter": "Variation and selection",
+   "knowledge_point": "Variation and natural selection",
+   "problem_type": "解释变异、选择与适应",
+   "search_text": "6. Scientists can quantify the rate of translation as ribosomes move along an mRNA from one codon to the next.\n  Using a procedure called ribosome profiling, the scientists measured how long a ribosome remains stationary at\n   each codon of each mRNA. They determined the average translation rate across all codons is 5.2 amino acids\n   per second but that the average translation rate for specific codons in different mRNA sequences can vary\n   widely. These variations in translation rates are thought to facilitate correct folding of the protein being\n   produced. The rate at which three different codons were translated was measured in 100 different mRNAs. The\n   scientists determined the distribution of rate (number of times each rate was recorded) for each of the three\n   codons: GAC (Figure 1A), AUU (Figure 1B), and UGG (Figure 1C).\n\n\n\n\n\n  Figure 1. The distribution of translation rates for three different codons (A) GAC, (B) AUU, and (C) UGG\n\n(a) Using the data in Figure 1, graph A, identify the rate (in ms/codon) that was recorded the greatest number\n      of times for the GAC codon.\n\n\n   (b) Using the data in Figure 1, graphs B and C, describe the variation in translation rate of the AUU codon\n     compared with that of the UGG codon.\n\n\n   (c) Scientists hypothesize that tRNA molecules that bind to UGG codons are available in lower abundance than\n      are tRNAs that bind to AUU codons. Support the scientists’ hypothesis using the data in Figure 1.\n\n\n   (d) Amino acids can be encoded by multiple codons. In many organisms, certain codons for the same amino\n      acid occur more frequently in an mRNA than do other codons. Based on the data provided, explain why the\n      use of one codon over another for the same amino acid might result in increased levels of protein production\n     from a particular mRNA.\n\n                __________________________________________________________\n\nWrite your responses to this question only on the designated pages in the separate Free Response booklet.\n\n             If there are multiple parts to this question, write the part letter with your response.\n\nSTOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 ap-biology Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap24-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2024-frq-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2024-frq-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2024-frq-question-paper__q06.md"
+  }
+ ]
+}

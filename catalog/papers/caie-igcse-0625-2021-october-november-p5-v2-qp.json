@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2021-october-november-p5-v2-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p5-v2-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2021-october-november-p5-v2-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1    In this experiment, you will determine the density of a block of wood.\n\n     (a)   (i)  Measure the length l, width w and height h of the block of wood.\n\n                                                                                                  l =  .................................................... cm\n\n                                     w =  .................................................... cm\n\n                                                 h =  .................................................... cm\n                                                                                                                       [1]\n\n             (ii)  Calculate the volume V of the block of wood using the equation V = l × w × h.\n\n                                        V =  ............................................. cm3 [1]\n\n            (iii)  Measure the mass m of the block of wood using the balance provided.\n\n                                m =  ................................................. g [1]\n                                        m\n          (iv)  Calculate the density ρ of the wood using the equation ρ = V. Give your answer to a\n              suitable number of significant figures for this experiment and include the unit.\n\n\n\n                                ρ =  ....................................................  [2]\n\n     (b)  Place the block of wood, largest face down, carefully in the water in the container.\n\n             (i)  Estimate, without taking a measurement, the volume V1 of wood that is below the water\n              surface.\n                                                 V1 =  ............................................. cm3 [1]\n             (ii)  Calculate mW , the mass of water with volume V1, using the equation mW = ρW × V1,\n           where ρW = 1.00 in the same units as ρ in part (a)(iv).\n\n\n                                  mW =  ....................................................  [1]\n     (c) A student suggests that the mass m of the block of wood is equal to the mass mW of the water\n         with volume V1.\n             (i)  Calculate the difference d between your values of m and mW.\n                                                 d =  ....................................................  [1]\n\n             (ii)  Discuss whether the difference d is small enough to conclude that m = mW.\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n\n\n© UCLES 2021                                         0625/52/O/N/21\n\n(d)  Another student wants to obtain a more accurate value for V1. He uses the method of floating\n         the block of wood in water as described in (b).\n\n        Suggest how the student could obtain a more accurate value by taking a measurement.\n\n       You are not required to do this part of the experiment.\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2021                                         0625/52/O/N/21                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p5-v2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p5-v2-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p5-v2-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2021-october-november-p5-v2-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2    In this experiment, you will investigate the resistances of a resistor and a lamp.\n\n     Fig. 2.1 shows the first circuit arrangement. The circuit has been set up for you.\n\n                                 power supply\n\n\n\n                                                  A\n\n                      R\n\n\n\n\n\n                       V\n\n                                               Fig. 2.1\n\n     (a)  Switch on.\n\n             (i)  Record VS, the potential difference (p.d.) across resistor R.\n                                             VS =  ....................................................  [1]\n             (ii)  Record IS , the current in the circuit and then switch off the power supply.\n                                                          IS =  ....................................................  [1]\n\n                                                             VS\n            (iii)  Calculate RS, the resistance of resistor R, using the equation RS =      .                                                                              IS\n\n\n                                           RS =  ....................................................  [1]\n     (b)  •   Disconnect the voltmeter.\n\n            •   Replace the resistor with the lamp.\n\n            •   Connect the voltmeter across the lamp.\n\n            •   Switch on.\n\n             (i)  Record VL, the potential difference across the lamp.\n                                                VL=  ..........................................................\n            Record IL, the current in the circuit and then switch off the power supply.\n                                                                IL =  ..........................................................\n                                                                                                                       [1]\n\n\n\n© UCLES 2021                                         0625/52/O/N/21\n\nVL\n             (ii)  Calculate RL, the resistance of the lamp, using the equation RL =       .                                                                                    IL\n\n\n                                               RL =  ....................................................  [1]\n     (c)  •   Disconnect the voltmeter.\n\n            •   Connect the resistor R in series with the lamp.\n\n            •   Connect the voltmeter to record VC, the potential difference across the series combination\n               of the resistor and the lamp.\n\n             (i)  Draw the circuit diagram for this arrangement.\n\n\n\n\n\n                                                                                                                       [2]\n\n             (ii)  Switch on. Record VC, the potential difference across the resistor and the lamp in series.\n                                            VC =  ..........................................................\n            Record IC, the current in the circuit and then switch off the power supply.\n                                                       IC =  ..........................................................\n                                                                                                                       [1]\n\n            (iii)  Calculate RC, the combined resistance of the resistor and the lamp connected in series,\n                            VC\n             using the equation RC =      .                                    IC\n\n\n                                          RC =  ....................................................  [1]\n\n\n© UCLES 2021                                         0625/52/O/N/21                              [Turn over\n\n(d)  State and explain briefly whether your results show that RS + RL = RC within the limits of\n         experimental accuracy.\n\n        statement ..................................................................................................................................\n\n         explanation  ...............................................................................................................................\n\n               ...................................................................................................................................................\n                                                                                                                       [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2021                                         0625/52/O/N/21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p5-v2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p5-v2-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p5-v2-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2021-october-november-p5-v2-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3    In this experiment, you will investigate the image produced by a lens.\n\n    Carry out the following instructions, referring to Fig. 3.1.\n\n       illuminated\n         object\n                      u                           v                      screen\n\n                                     lens\n\n\n\n                                                                bench\n\n                                               Fig. 3.1\n\n     (a)  •   Place the lens a distance u = 20.0 cm from the illuminated object.\n\n            •   Move the screen until a clearly focused image is formed on the screen.\n\n            •   Measure the distance v between the centre of the lens and the screen.\n\n             (i)  Record v in Table 3.1.                                                                            [1]\n                                       u             (ii)  Calculate, and record in Table 3.1,     .                                                         [1]                                            v\n            (iii)  Repeat the procedure for u = 25.0 cm, u = 30.0 cm, u = 35.0 cm and u = 40.0 cm.      [1]\n\n                                        Table 3.1\n\n                                                  u\n                            u / cm       v / cm                                                        v\n\n                                20.0\n                                25.0\n                                30.0\n                                35.0\n                                40.0\n\n\n\n\n\n© UCLES 2021                                         0625/52/O/N/21                              [Turn over\n\nu     (b)  Plot a graph of u / cm (y-axis) against   (x-axis). Start the y-axis at u = 15.0 cm.                                          v\n\n\n\n\n\n                                                                                                                       [4]\n                                            u     (c) Use your graph to find the value of u when   = 1.0. Show clearly on the graph how you                                                 v         obtained the necessary information.\n\n                                                 u =  ....................................................  [2]\n\n     (d) Suggest one practical difficulty with this experiment. Explain briefly how you would try to\n        overcome this difficulty in order to obtain accurate results.\n\n         suggestion  ................................................................................................................................\n\n               ...................................................................................................................................................\n\n         explanation  ...............................................................................................................................\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n                                                                                                                       [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2021                                         0625/52/O/N/21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p5-v2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p5-v2-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p5-v2-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2021-october-november-p5-v2-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the strengths of wires made from different metals by measuring the force\n    required to break the wires.\n\n    The apparatus is shown in Fig. 4.1. A wire is held by a clamp at one end and a load is suspended\n    from the other end. The load is increased until the wire breaks. The student takes all the necessary\n     safety precautions.\n\n\n\n                                clamp\n\n                                                         wire\n\n\n\n                                                        load\n\n                                               Fig. 4.1\n\n    Plan an experiment to investigate the force required to break wires made from different metals.\n    You are not required to do the investigation.\n\n    The following apparatus is available:\n\n        clamps and stands\n       a selection of masses with a suitable hanger\n        metre rule\n       a selection of wires made from different metals.\n\n    You can also use other apparatus and materials that are usually available in a school laboratory.\n\n     In your plan, you should:\n\n     •    write a list of suitable metals for the wires you would investigate\n\n     •    explain briefly how you would do the investigation\n\n     •    state the key variables that you would keep constant\n\n     •   draw a table, or tables, with column headings, to show how you would display your readings\n        (you are not required to enter any readings in the table)\n\n     •    explain how you would use the results to reach a conclusion.\n\n\n\n\n\n© UCLES 2021                                         0625/52/O/N/21                              [Turn over\n\nYou may add to the diagram if it helps your explanation.\n\n    You are not required to write about the safety precautions that the student should take.\n\n\n\n\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ..........................................................................................................................................................\n\n        ....................................................................................................................................................  [7]\n\n\n\n© UCLES 2021                                         0625/52/O/N/21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p5-v2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p5-v2-qp__q04.md"
+  }
+ ]
+}

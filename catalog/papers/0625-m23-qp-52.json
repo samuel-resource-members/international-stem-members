@@ -1,0 +1,51 @@
+{
+ "group": "0625-m23-qp-52",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 1,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:practical:0625-m23-qp-52-Q4",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "专题P 实验技能",
+   "knowledge_point": "实验规划",
+   "problem_type": "规划力学实验 / 改释放条件测落距或回升",
+   "search_text": "A student investigates the motion of a ball through the air.\nPlan an experiment which will enable him to investigate how the range of the ball depends on the \nangle at which it is launched.\nThe range is the horizontal distance that the ball travels after leaving the end of the channel \nshown in Fig. 4.1 and before hitting the ground.\nYou are not required to do the experiment.\nThe apparatus available includes:\n• \na flexible channel, as shown in Fig. 4.1, which can be bent at different angles\n• \na selection of balls, each of different diameter and mass.\nIn your plan, you should:\n• \nlist any additional apparatus needed\n• \nexplain briefly how to do the experiment – you may add to Fig. 4.1 if it helps your explanation \n• \nstate the key variables to keep constant\n• \ndraw a table with column headings, to show how to display the readings (you are not required \nto enter any readings in the table)\n• \nexplain how to use the results to reach a conclusion.\nflexible channel\nfloor\nvariable angle\nFig. 4.1",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-m23-qp-52-Q4",
+    "caie-0625:practical:0625-m23-qp-52-Q4"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_practical_0625-m23-qp-52-Q4.md"
+  }
+ ]
+}

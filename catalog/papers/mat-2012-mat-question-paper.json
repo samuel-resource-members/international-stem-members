@@ -1,0 +1,337 @@
+{
+ "group": "mat-2012-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2012-mat-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2012-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "1. For ALL APPLICANTS.\n\n\n   For each part of the question on pages 3—7 you will be given four possible answers,\n   just one of which is correct. Indicate for each part A—J which answer (a), (b), (c),\n   or (d) you think is correct with a tick (X) in the corresponding column in the table\n   below. Please show any rough working in the space provided between the parts.\n\n\n\n\n                           (a)           (b)            (c)           (d)\n\n\n\n       A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n        E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n          J\n\nA. Which of the following lines is a tangent to the circle with equation\n\n                                   x2 + y2 = 4 ?\n\n    (a)  x + y = 2;     (b)  y = x  √2;     (c)  x = √2;     (d)  y = √2                    −2                            −x.\n\n\n\n\n\nB. Let N = 2k × 4m × 8n where k, m, n are positive whole numbers. Then N will\ndeﬁnitely be a square number whenever\n\n   (a) k is even;\n   (b) k + n is odd;\n    (c) k is odd but m + n is even;\n   (d) k + n is even.\n\nC. Which is the smallest of the following numbers?\n   (a)  √3  3 ,    (b)   log3  92  ,     (c)    3 sin π  2 ,     (d)   log2  log2  85    .\n                                              3\n\n\n\n\n\nD. Shown below is a diagram of the square with vertices (0, 0) , (0, 1) , (1, 1) , (1, 0) and\nthe line y = x + c. The shaded region is the region of the square which lies below the\nline; this shaded region has area A(c).\n\n\n                                                        y\n\n                                                                                                     1.5\n\n                                                                          y=x+c\n\n                                                                                                     1.0\n\n\n\n\n\n                                                                                                     0.5\n\n\n\n                                                                                       x\n                                                                           -0.5                                0.5               1.0               1.5\n\n\n\n                                                                                        -0.5\n\nWhich of the following graphs shows A(c) as c varies?\n\n\n                                                 AHcL                                               AHcL\n\n                                                                                  1.0                                                                                    1.0\n\n\n\n                                                                                  0.8                                                                                    0.8\n\n\n\n                                                                                  0.6                                                                                    0.6\n\n\n\n                                                                                  0.4                                                                                    0.4\n\n\n\n                                                                                  0.2                                                                                    0.2\n\n                                         -1.5       -1.0       -0.5                    0.5         1.0         1.5 c      -1.5       -1.0       -0.5                    0.5         1.0         1.5 c\n                (a)                          (b)\n                                                 AHcL                                               AHcL\n\n                                                                                  1.0                                                                                    1.0\n\n\n\n                                                                                  0.8                                                                                    0.8\n\n\n\n                                                                                  0.6                                                                                    0.6\n\n\n\n                                                                                  0.4                                                                                    0.4\n\n\n\n                                                                                  0.2                                                                                    0.2\n\n                                         -1.5       -1.0       -0.5                    0.5         1.0         1.5 c      -1.5       -1.0       -0.5                    0.5         1.0         1.5 c\n                 (c)                          (d)\n\nE. Which one of the following equations could possibly have the graph given below?\n\n   (a) y = (3                   (3 + x)2 (1          −x)2                        −x);\n   (b) y = −x2 (x −9) (x2 −3) ;    (c) y = (x     (x      (x + 2)2 ;          −6)  −2)2\n   (d) y = (x2 −1)2                     (3 −x) .\n\n                                      y\n\n\n\n\n\n                                                                  x\n\n\n\n\n\nF. Let\n                          π/2                   2π                   π/8  dx\n          T =        cos x dx            sin x dx                                .                      −π/2      ×    π       ×    0    cos 3x\n\nWhich of the following is true?\n\n        (a)  T = 0;     (b)  T < 0;     (c)  T > 0;     (d)  T is not deﬁned.\n\nG. There are positive real numbers x and y which solve the equations\n\n                       2x + ky = 4,       x + y = k\n\nfor\n\n(a)   all values of k;     (b)  no values of k;     (c)  k = 2 only;    (d)   only k > −2.\n\n\n\n\n\nH. In the region 0 < x ⩽2π, the equation\n\n                                       x\n                                         sin(sin t) dt = 0\n                                          0\n\nhas\n\n(a)  no solution;    (b)  one solution;     (c)  two solutions;    (d)   three solutions.\n\nI. The vertices of an equilateral triangle are labelled X, Y and Z. The points X, Y and\nZ lie on a circle of circumference 10 units. Let P and A be the numerical values of the\ntriangle’s perimeter and area, respectively. Which of the following is true?\n\n       A    5                    P   10                2\n      (a)   =         (b)  P < A;     (c)   =         (d)  P   is rational.        P   4π;                A   3π;\n\n\n\n\n\nJ. If two chords QP and RP on a circle of radius 1 meet in an angle θ at P, for example\nas drawn in the diagram below,\n\n\n\n\n\n                                                       Q\n\n\n\n\n                                      P   Θ\n\n\n\n\n\n                                             R\n\nthen the largest possible area of the shaded region RPQ is\n\n                    θ                           π\n    (a)  θ  1 + cos            ;     (b)  θ + sin θ;     (c)     (1      θ) ;     (d)   θ.                   2                              2  −cos\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2012",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions12.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2012-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2012-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2012-mat-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2012-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "2. For ALL APPLICANTS.\n\nLet\n                       f(x) = x + 1    and    g(x) = 2x.\n\nWe will, for example, write fg to denote the function \"perform g then perform f\" so\nthat\n                           fg(x) = f(g(x)) = 2x + 1.\n\nIf i ⩾0 is an integer we will, for example, write f i to denote the function which performs\nf i times, so that\n                          f i(x) = fff · · · f (x) = x + i.\n                                                                     i times\n\n(i) Show that\n                               f 2g(x) = gf(x).\n\n(ii) Note that\n                               gf2g(x) = 4x + 4.\n\nFind all the other ways of combining f and g that result in the function 4x + 4.\n\n(iii) Let i, j, k ⩾0 be integers. Determine the function\n\n                                  figf jgf k(x).\n\n(iv) Let m ⩾0 be an integer. How many diﬀerent ways of combining the functions f\nand g are there that result in the function 4x + 4m?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2012",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions12.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2012-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2012-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2012-mat-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2012-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "3.                                     \n             MATHEMATICS                                                                                            \n               MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n             MATHEMATICS & PHILOSOPHY                                                                                  \n               MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science and Computer Science & Philosophy applicants should turn to\npage 14.\n\nLet f(x) = x3 + ax2 + bx + c, where the coeﬃcients a, b and c are real numbers. The\nﬁgure below shows a section of the graph of y = f(x). The curve has two distinct turning\npoints; these are located at A and B, as shown. (Note that the axes have been omitted\ndeliberately.)\n\n\n\n\n                          A\n\n\n\n                                      B\n\n\n\n\n(i) Find a condition on the coeﬃcients a, b, c such that the curve has two distinct turning\npoints if, and only if, this condition is satisﬁed.\n\nIt may be assumed from now on that the condition on the coeﬃcients in (i) is satisﬁed.\n\n(ii) Let x1 and x2 denote the x coordinates of A and B, respectively. Show that\n                                      2 √a2                               x2   =                        −x1   3    −3b.\n\n(iii) Suppose now that the graph of y = f(x) is translated so that the turning point at\nA now lies at the origin. Let g(x) be the cubic function such that y = g(x) has the\ntranslated graph. Show that\n                            g(x) = x2 x √a2           .                        −   −3b\n\n(iv) Let R be the area of the region enclosed by the x-axis and the graph y = g(x).\nShow that if a and b are rational then R is also rational.\n\n(v) Is it possible for R to be a non-zero rational number when a and b are both irrational?\nJustify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2012",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions12.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2012-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2012-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2012-mat-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2012-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "从圆的方程或几何条件求圆与直线关系",
+   "search_text": "4.                                 \n              MATHEMATICS           \nFor APPLICANTS IN  MATHEMATICS & STATISTICS                                     ONLY.\n                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 14.\n\nThe diagram below shows the parabola y = x2 and a circle with centre (0, 2) just ‘resting’\non the parabola. By ‘resting’ we mean that the circle and parabola are tangential to\neach other at the points A and B.\n\n\n                                                                 y\n\n                                                                                                     4\n\n\n\n\n\n                                                                                                     3\n\n\n\n\n\n                                                                                                     2\n\n\n                                    A                  B\n                                                                                                     1\n\n\n\n                                                                                       x\n                                                              -2           -1                             1              2\n\n(i) Let (x, y) be a point on the parabola such that x ̸= 0. Show that the gradient of the\nline joining this point to the centre of the circle is given by\n                                      x2 −2 .\n                                 x\n\n(ii) With the help of the result from part (i), or otherwise, show that the coordinates of\nB are given by\n                                    3   3\n                                                                     ,        .\n                                    2   2\n\n(iii) Show that the area of the sector of the circle enclosed by the radius to A, the minor\narc AB and the radius to B is equal to\n\n                               7        1\n                                     cos−1            .                               4    √7\n\n(iv) Suppose now that a circle with centre (0, a) is resting on the parabola, where a > 0.\nFind the range of values of a for which the circle and parabola touch at two distinct\npoints.\n\n(v) Let r be the radius of a circle with centre (0, a) that is resting on the parabola.\nExpress a as a function of r, distinguishing between the cases in which the circle is, and\nis not, in contact with the vertex of the parabola.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2012",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions12.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2012-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2012-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2012-mat-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2012-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "利用指数或对数关系求未知量",
+   "search_text": "5. For ALL APPLICANTS.\n\nA particular robot has three commands:\n   F: Move forward a unit distance;\n   L: Turn left 90o;\n   R: Turn right 90o.\n\nA program is a sequence of commands. We consider particular programs Pn (for n ⩾0)\nin this question. The basic program P0 just instructs the robot to move forward:\n\n                                  P0 = F.\n\nThe program Pn+1 (for n ⩾0) involves performing Pn, turning left, performing Pn again,\nthen turning right:\n                              Pn+1 = Pn L Pn R.\nSo, for example, P1 = F L F R.\n\n(i) Write down the program P2.\n\n(ii) How far does the robot travel during the program Pn? In other words, how many F\ncommands does it perform?\n\n(iii) Let ln be the total number of commands in Pn; so, for example, l0 = 1 and l1 = 4.\n\nWrite down an equation relating ln+1 to ln. Hence write down a formula for ln in terms\nof n. No proof is required. Hint: consider ln + 2.\n\n(iv) The robot starts at the origin, facing along the positive x-axis. What direction is\nthe robot facing after performing the program Pn?\n\n(v) The left-hand diagram on the opposite page shows the path the robot takes when it\nperforms the program P1. On the right-hand diagram opposite, draw the path it takes\nwhen it performs the program P4.\n\n(vi) Let (xn, yn) be the position of the robot after performing the program Pn, so\n(x0, y0) = (1, 0) and (x1, y1) = (1, 1). Give an equation relating (xn+1, yn+1) to (xn, yn).\n\nWhat is (x8, y8)? What is (x8k, y8k)?\n\n4                                                                         4\n\n\n\n\n\n                         2                                                                         2\n\n\n\n\n\n-4         -2                        2            4                   -4         -2                        2            4\n\n\n\n                     -2                                                               -2\n\n\n\n\n                     -4                                                               -4\n\n\n             P1                                      P4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2012",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions12.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2012-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2012-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2012-mat-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2012-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6.                                     \n             COMPUTER SCIENCE            \nFor APPLICANTS IN  MATHEMATICS & COMPUTER SCIENCE                                          ONLY.\n               COMPUTER SCIENCE & PHILOSOPHY\n\n                           Alice       Bob        Charlie\n\n\n\n\n\nAlice, Bob and Charlie are well-known expert logicians; they always tell the truth.\n\nThey are sat in a row, as illustrated above. In each of the scenarios below, their father\nputs a red or blue hat on each of their heads. Alice can see Bob’s and Charlie’s hats,\nbut not her own; Bob can see only Charlie’s hat; Charlie can see none of the hats. All\nthree of them are aware of this arrangement.\n\n(i) Their father puts a hat on each of their heads and says: “Each of your hats is either\nred or blue. At least one of you has a red hat.” Alice then says “I know the colour of\nmy hat.” What colour is each person’s hat? Explain your answer.\n\n(ii) Their father puts a new hat on each of their heads and again says: “Each of your\nhats is either red or blue. At least one of you has a red hat.” Alice then says “I don’t\nknow the colour of my hat.” Bob then says “I don’t know the colour of my hat.” What\ncolour is Charlie’s hat? Explain your answer.\n\n(iii) Their father puts a new hat on each of their heads and says: “Each of your hats\nis either red or blue. At least one of you has a red hat, and at least one of you has a\nblue hat.” Alice says “I know the colour of my hat.” Bob then says “Mine is red.” What\ncolour is each person’s hat? Explain your answer.\n\n(iv) Their father puts a new hat on each of their heads and says: “Each of your hats is\neither red or blue. At least one of you has a red hat, and at least one of you has a blue\nhat.” Alice then says “I don’t know the colour of my hat.” Bob then says “My hat is\nred”. What colour is Charlie’s hat? Explain your answer.\n\n(v) Their father puts a new hat on each of their heads and says: “Each of your hats\nis either red or blue. Two of you who are seated adjacently both have red hats.\" Alice\nthen says “I don’t know the colour of my hat.” What colour is Charlie’s hat? Explain\nyour answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2012",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions12.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2012-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2012-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2012-mat-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2012-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "7.\n              COMPUTER SCIENCE\nFor APPLICANTS IN                                   ONLY.\n              COMPUTER SCIENCE & PHILOSOPHY\n\nAmy and Brian play a game together, as follows. They take it in turns to write down a\nnumber from the set {0, 1, 2}, with Amy playing ﬁrst. On each turn (except Amy’s ﬁrst\nturn), the player must not repeat the number just played by the previous player.\n\nIn their ﬁrst version of the game, Brian wins if, after he plays, the sum of all the numbers\nplayed so far is a multiple of 3. For example, Brian will win after the sequence\n\n                                       2,0 1,2 1,0\n\n(where we draw a box around each round) because the sum of the numbers is 6. Amy\nwins if Brian has not won within ﬁve rounds; for example, Amy wins after the sequence\n\n                                  2,0 1,2 1,2 0,2 1,2\n\n(i) Show that if Amy starts by playing either 1 or 2, then Brian can immediately win.\n\n(ii) Suppose, instead, Amy starts by playing 0. Show that Brian can always win within\ntwo rounds.\n\nThey now decide to change the rules so that Brian wins if, after he plays, the sum of all\nthe numbers played so far is one less than a multiple of 3. Again, Amy wins if Brian has\nnot won within ﬁve rounds. It is still the case that a player must not repeat the number\njust played previously.\n\n(iii) Show that if Amy starts by playing either 0 or 2, then Brian can immediately win.\n\n(iv) Suppose, instead, Amy starts by playing 1. Explain why it cannot beneﬁt Brian to\nplay 2, assuming Amy plays with the best strategy.\n\n(v) So suppose Amy starts by playing 1, and Brian then plays 0. How should Amy play\nnext?\n\n(vi) Assuming both play with the best strategies, who will win the game? Explain your\nanswer.\n\nEnd of last question\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2012",
+     "url": "https://www.maths.ox.ac.uk/system/files/media/websolutions12.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2012-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2012-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2012-mat-question-paper__q07.md"
+  }
+ ]
+}

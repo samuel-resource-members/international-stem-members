@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2014-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2014-usapho-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2014-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question A1\n\nInspired by: http://www.wired.com/wiredscience/2012/04/a-leaning-motorcycle-on-a-vertical-wall/\n  A unicyclist of total height h goes around a circular track of radius R while leaning inward at\nan angle θ to the vertical. The acceleration due to gravity is g.\n\n   a. Suppose h ≪R. What angular velocity ω must the unicyclist sustain?\n\n   b. Now model the unicyclist as a uniform rod of length h, where h is less than R but not\n      negligible. This reﬁned model introduces a correction to the previous result. What is the new\n      expression for the angular velocity ω? Assume that the rod remains in the plane formed by\n     the vertical and radial directions, and that R is measured from the center of the circle to the\n     point of contact at the ground.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2014 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2014-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2014-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2014-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2014-usapho-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2014-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "Question A2\n\nA room air conditioner is modeled as a heat engine run in reverse: an amount of heat QL  is\nabsorbed from the room at a temperature TL into cooling coils containing a working gas; this gas is\ncompressed adiabatically to a temperature TH; the gas is compressed isothermally in a coil outside\nthe house, giving oﬀan amount of heat QH; the gas expands adiabatically back to a temperature\nTL; and the cycle repeats. An amount of energy W  is input into the system every cycle through\nan electric pump. This model describes the air conditioner with the best possible eﬃciency.\n\n\n                        pump\n                   heating coil\n\n\n\n                                                room\n\n\n\n                                           cooling coil                                 valve\n\n   Assume that the outside air temperature is TH and the inside air temperature is TL. The\nair-conditioner unit consumes electric power P. Assume that the air is suﬃciently dry so that no\ncondensation of water occurs in the cooling coils of the air conditioner. Water boils at 373 K and\nfreezes at 273 K at normal atmospheric pressure.\n\n   a. Derive an expression for the maximum rate at which heat is removed from the room in terms\n      of the air temperatures TH, TL, and the power consumed by the air conditioner P. Your\n      derivation must refer to the entropy changes that occur in a Carnot cycle in order to receive\n       full marks for this part.\n\n   b. The room is insulated, but heat still passes into the room at a rate R = k∆T, where ∆T is\n     the temperature diﬀerence between the inside and the outside of the room and k is a constant.\n     Find the coldest possible temperature of the room in terms of TH, k, and P.\n\n    c. A typical room has a value of k = 173 W/◦C.  If the outside temperature is 40◦C, what\n    minimum power should the air conditioner have to get the inside temperature down to 25◦C?\n\n2014 USA Physics Olympiad Exam         Part A                                       4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2014 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2014-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2014-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2014-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2014-usapho-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2014-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question A3\n\nWhen studying problems in special relativity it is often the invariant distance ∆s between two\nevents that is most important, where ∆s is deﬁned by\n\n                        (∆s)2 = (c∆t)2 − (∆x)2 + (∆y)2 + (∆z)2\n\nwhere c = 3 × 108 m/s is the speed of light.1\n\n   a. Consider the motion of a projectile launched with initial speed v0 at angle of θ0 above the\n      horizontal. Assume that g, the acceleration of free fall, is constant for the motion of the\n      projectile.\n\n             i. Derive an expression for the invariant distance of the projectile as a function of time t as\n         measured from the launch, assuming that it is launched at t = 0. Express your answer\n           as a function of any or all of θ0, v0, c, g, and t.\n\n            ii. The radius of curvature of an object’s trajectory can be estimated by assuming that\n          the trajectory is part of a circle, determining the distance between the end points, and\n         measuring the maximum height above the straight line that connects the endpoints. As-\n         suming that we mean “invariant distance” as deﬁned above, ﬁnd the radius of curvature\n            of the projectile’s trajectory as a function of any or all of θ0, v0, c, and g. Assume that\n          the projectile lands at the same level from which it was launched, and assume that the\n         motion is not relativistic, so v0 ≪c, and you can neglect terms with v/c compared to\n          terms without.\n\n   b. A rocket ship far from any gravitational mass is accelerating in the positive x direction at a\n     constant rate g, as measured by someone inside the ship. Spaceman Fred at the right end\n      of the rocket aims a laser pointer toward an alien at the left end of the rocket. The two are\n     separated by a distance d such that dg ≪c2; you can safely ignore terms of the form (dg/c2)2.\n\n             i. Sketch a graph of the motion of both Fred and the alien on the space-time diagram\n          provided in the answer sheet. The graph is not meant to be drawn to scale. Note that t\n         and x are reversed from a traditional graph. Assume that the rocket has velocity v = 0\n           at time t = 0 and is located at position x = 0. Clearly indicate any asymptotes, and the\n           slopes of these asymptotes.\n\n            ii. If the frequency of the laser pointer as measured by Fred is f1, determine the frequency\n            of the laser pointer as observed by the alien. It is reasonable to assume that f1 ≫c/d.\n\n\n\n\n\n  1We are using the convention used by Einstein\n\n2014 USA Physics Olympiad Exam         Part A                                       5\n\n2014 USA Physics Olympiad Exam     Answer Sheets                                   10\n\n\n\n\n   Answer for Part A, Question 3\n\n\nSpace-time graph for accelerated rocket. The positions of Fred and the Alien at t = 0 are shown.\n\n\n\n\n\nct\n\n\n\n\n\nt = 0\n                                                                  x\n                Alien                                    Fred\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2014 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2014-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2014-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2014-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2014-usapho-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2014-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A4",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical charge",
+   "problem_type": "判断电荷相互作用与充放电",
+   "search_text": "Question A4\n\nA positive point charge q is located inside a neutral hollow spherical conducting shell. The shell\nhas inner radius a and outer radius b; b −a is not negligible. The shell is centered on the origin.\n\n\n                                            y\n\n\n\n\n                                                  b\n\n                                            a\n\n                                                     x\n\n\n\n\n\n   a. Assume that the point charge q is located at the origin in the very center of the shell.\n\n             i. Determine the magnitude of the electric ﬁeld outside the conducting shell at x = b.\n\n            ii. Sketch a graph for the magnitude of the electric ﬁeld along the x axis on the answer\n           sheet provided.\n\n           iii. Determine the electric potential at x = a.\n\n         iv. Sketch a graph for the electric potential along the x axis on the answer sheet provided.\n\n   b. Assume that the point charge q is now located on the x axis at a point x = 2a/3.\n\n             i. Determine the magnitude of the electric ﬁeld outside the conducting shell at x = b.\n\n            ii. Sketch a graph for the magnitude of the electric ﬁeld along the x axis on the answer\n           sheet provided.\n\n           iii. Determine the electric potential at x = a.\n\n         iv. Sketch a graph for the electric potential along the x axis on the answer sheet provided.\n\n        v. Sketch a ﬁgure showing the electric ﬁeld lines (if any) inside, within, and outside the\n          conducting shell on the answer sheet provided. You should show at least eight ﬁeld lines\n           in any distinct region that has a non-zero ﬁeld.\n\n2014 USA Physics Olympiad Exam         Part A                                       6\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\n If there is still time remaining for Part A, you should review your work for\n   Part A, but do not continue to Part B until instructed by your exam\n                                 supervisor.\n\n2014 USA Physics Olympiad Exam         Part B                                       7\n\n\n\nPart B\n\n2014 USA Physics Olympiad Exam     Answer Sheets                                   11\n\n\n\n\n   Answer for Part A, Question 4\n\n\n                          E\n\n\n\n\n\n                   −b  −a            0            a    b        x\n\n\n\n\n\n   Answer for Part A, Question 4\n\n\n                                 V\n\n\n\n\n\n                   −b  −a                        a    b        x\n\n2014 USA Physics Olympiad Exam     Answer Sheets                                   12\n\n\n\n\n   Answer for Part A, Question 4\n\n\n                          E\n\n\n\n\n\n                   −b  −a            0            a    b        x\n\n\n\n\n\n   Answer for Part A, Question 4\n\n\n                                 V\n\n\n\n\n\n                   −b  −a                        a    b        x\n\n2014 USA Physics Olympiad Exam     Answer Sheets                                   13\n\n\n\n\n   Answer for Part A, Question 4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2014 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2014-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2014-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2014-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2014-usapho-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2014-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question B1\n\nA block of mass M has a hole drilled through it so that a ball of mass m can enter horizontally\nand then pass through the block and exit vertically upward. The ball and block are located on a\nfrictionless surface; the block is originally at rest.\n\n\n\n\n\n                                M\n\n               m\n                                   v\n\n\n                                   frictionless horizontal surface\n\n   a. Consider the scenario where the ball is traveling horizontally with a speed v0. The ball enters\n     the block and is ejected out the top of the block. Assume there are no frictional losses as the\n      ball passes through the block, and the ball rises to a height much higher than the dimensions\n      of the block. The ball then returns to the level of the block, where it enters the top hole\n     and then is ejected from the side hole. Determine the time t for the ball to return to the\n      position where the original collision occurs in terms of the mass ratio β = M/m, speed v0,\n     and acceleration of free fall g.\n\n   b. Now consider friction. The ball has moment of inertia I = 25mr2 and is originally not rotating.\n    When it enters the hole in the block it rubs against one surface so that when it is ejected\n     upwards the ball is rolling without slipping. To what height does the ball rise above the\n     block?\n\n2014 USA Physics Olympiad Exam         Part B                                       8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2014 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2014-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2014-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2014-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2014-usapho-question-paper",
+   "year": 2014,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2014-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question B2\n\nIn parts a and b of this problem assume that velocities v are much less than the speed of light c,\nand therefore ignore relativistic contraction of lengths or time dilation.\n\n   a. An inﬁnite uniform sheet has a surface charge density σ and has an inﬁnitesimal thickness.\n    The sheet lies in the xy plane.\n\n             i. Assuming the sheet is at rest, determine the electric ﬁeld ⃗E (magnitude and direction)\n         above and below the sheet.\n\n            ii. Assuming the sheet is moving with velocity ⃗v = vˆx (parallel to the sheet), determine\n          the electric ﬁeld ⃗E (magnitude and direction) above and below the sheet.\n           iii. Assuming the sheet is moving with velocity ⃗v = vˆx, determine the magnetic ﬁeld ⃗B\n         (magnitude and direction) above and below the sheet.\n\n         iv. Assuming the sheet is moving with velocity ⃗v = vˆz (perpendicular to the sheet), deter-\n         mine the electric ﬁeld ⃗E (magnitude and direction) above and below the sheet.\n        v. Assuming the sheet is moving with velocity ⃗v = vˆz, determine the magnetic ﬁeld ⃗B\n         (magnitude and direction) above and below the sheet.\n\n   b. In a certain region there exists only an electric ﬁeld ⃗E = Exˆx + Eyˆy + Ezˆz (and no magnetic\n      ﬁeld) as measured by an observer at rest. The electric and magnetic ﬁelds ⃗E′ and ⃗B′ as mea-\n     sured by observers in motion can be determined entirely from the local value of ⃗E, regardless\n      of the charge conﬁguration that may have produced it.\n\n             i. What would be the observed electric ﬁeld ⃗E′ as measured by an observer moving with\n           velocity ⃗v = vˆz?\n            ii. What would be the observed magnetic ﬁeld ⃗B′ as measured by an observer moving with\n           velocity ⃗v = vˆz?\n\n    c. An inﬁnitely long wire wire on the z axis is composed of positive charges with linear charge\n      density λ which are at rest, and negative charges with linear charge density −λ moving with\n     speed v in the z direction.\n\n             i. Determine the electric ﬁeld ⃗E (magnitude and direction) at points outside the wire.\n            ii. Determine the magnetic ﬁeld ⃗B (magnitude and direction) at points outside the wire.\n\n           iii. Now consider an observer moving with speed v parallel to the z axis so that the negative\n          charges appear to be at rest. There is a symmetry between the electric and magnetic\n           ﬁelds such that a variation to your answer to part b can be applied to the magnetic\n          ﬁeld in this part. You will need to change the multiplicative constant to something\n          dimensionally correct and reverse the sign. Use this fact to ﬁnd and describe the electric\n          ﬁeld measured by the moving observer, and comment on your result. (Some familiarity\n          with special relativity can help you verify the direction of your result, but is not necessary\n           to obtain the correct answer.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2014 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2014-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2014-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2014-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2014-usapho-question-paper__q06.md"
+  }
+ ]
+}

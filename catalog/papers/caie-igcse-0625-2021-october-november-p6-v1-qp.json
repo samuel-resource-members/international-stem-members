@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2021-october-november-p6-v1-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p6-v1-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-october-november-p6-v1-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "1  A student investigates the stretching of a spring.\n\n     Fig. 1.1 shows the apparatus.\n\n                                0 cm mark\n\n\n\n\n\n                                                                   44\n          spring\n\n                                                                   45\n         clamp\n          stand\n\n\n                                     metre rule\n      bench\n\n                                100 cm mark\n\n                                               Fig. 1.1\n\n     (a) The metre rule is clamped in position near to the spring.\n\n             (i)  Write down the scale readings in mm from the metre rule at the top and bottom of the\n              spring, as shown in Fig. 1.1.\n\n                                                 top reading =  ................................................... mm\n\n                                         bottom reading =  ................................................... mm\n                                                                                                                       [2]\n\n             (ii)  Using the two readings, calculate the length l 0 of the spring in mm. Record l 0 in Table 1.1.\n           The value l 0 is the length of the spring when the load L = 0.00 N.                         [1]\n     (b) The student suspends a load L = 0.20 N from the spring. He records the new length l of the\n         spring in Table 1.1.\n\n             (i)  Use the equation e = (l – l 0) to calculate the extension e of the spring. Record the value\n               of e in Table 1.1.                                                                                  [1]\n\n\n\n\n\n© UCLES 2021                                         0625/61/O/N/21\n\n(ii)  Complete the extension column heading in Table 1.1.                                       [1]\n\n     (c) The student repeats the procedure using loads L = 0.40 N, L = 0.60 N, L = 0.80 N and L =\n        1.00 N. He records the readings and results in Table 1.1.\n\n                                        Table 1.1\n\n                             L / N             l / mm      e /\n                                 0.00                  0\n                                 0.20        17\n                                 0.40        20         5\n                                 0.60        23         8\n                                 0.80        25        10\n                                 1.00        28        13\n\n          Plot a graph of e / mm (y-axis) against L / N (x-axis).\n\n\n\n\n\n                                                                                                                       [4]\n\n\n\n© UCLES 2021                                         0625/61/O/N/21                              [Turn over\n\n(d)  Fig. 1.2 shows the unstretched spring and the spring with a load. On Fig. 1.2, show clearly\n         the distances l 0, l and e.\n\n\n\n\n\n                                               Fig. 1.2\n                                                                                                                       [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2021                                         0625/61/O/N/21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p6-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p6-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p6-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p6-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p6-v1-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-october-november-p6-v1-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2  A student investigates the resistance of resistors in different circuit arrangements.\n\n     Fig. 2.1 shows the first circuit arrangement.\n\n                                 power supply\n\n\n\n                                                  A\n\n                       X             Y\n\n\n\n\n\n                       V\n\n                                               Fig. 2.1\n\n     (a) She measures the potential difference (p.d.) VX across the resistor X and the current IX in the\n           circuit. The meters are shown in Fig. 2.2 and Fig. 2.3.\n\n             (i)  Write down the readings. Include the units for potential difference, current or resistance\n           where appropriate in all parts of the question.\n\n\n               3  4  5  6 7                                  0.4    0.6\n             2               8                        0.2                0.8\n           1                    9\n        0                       10            0                            1.0\n                 V                               A\n\n\n\n\n                        Fig. 2.2                                      Fig. 2.3\n\n                                             VX =  ..........................................................\n                                                          IX =  ..........................................................\n                                                                                                                       [2]\n                                                             VX\n             (ii)  Calculate RX, the resistance of resistor X, using the equation RX =      .                                                                              IX\n\n\n                                           RX =  ....................................................  [2]\n\n\n\n\n© UCLES 2021                                         0625/61/O/N/21                              [Turn over\n\n(b) The student connects the voltmeter to record VXY, the potential difference across the two\n          resistors X and Y in series. She calculates RXY, the combined resistance of resistors X and Y\n        connected in series.\n\n                                                                          10.4\n                                             RXY =  ..........................................................\n       She calculates the resistance RY of resistor Y.\n\n                                                                          5.78\n                                           RY =  ..........................................................\n         State and explain whether RX and RY can be considered to be equal within the limits of\n         experimental accuracy.\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n     (c) The student connects a resistor Z in parallel with resistor X. She connects the voltmeter to\n         record VXZ, the potential difference across the parallel combination of resistor X and resistor Z.\n\n       Draw the circuit diagram for this arrangement. Label the resistors X, Y and Z.\n\n\n\n\n\n                                                                                                                       [3]\n\n     (d) The student records VXZ, the potential difference across the two resistors X and Z in parallel,\n       and IXZ, the current in the circuit.\n\n                                                                              0.8\n                                                VXZ =  ..........................................................\n\n                                                                          0.36\n                                                         IXZ =  ..........................................................\n         Calculate RXZ, the combined resistance of resistors X and Z connected in parallel, using the\n                     VXZ         equation RXZ =        . Give your answer to 2 significant figures.                         IXZ\n\n\n                                              RXZ =  ....................................................  [1]\n\n\n\n\n\n© UCLES 2021                                         0625/61/O/N/21\n\n(e)  Another student does this experiment using a set of three identical resistors. His results show\n           that, within the limits of experimental accuracy, the combined resistance of two identical\n          resistors connected in series is four times the combined resistance of the same two resistors\n        connected in parallel. To test whether his results are true for other values of resistance, he\n        does the same procedure with other sets of three identical resistors.\n\n        Suggest the values of resistance he could use to reach a conclusion during a 1 hour practical\n         lesson.\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2021                                         0625/61/O/N/21                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p6-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p6-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p6-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p6-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p6-v1-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-october-november-p6-v1-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3  A student investigates the position of the image in a plane mirror.\n\n     Fig. 3.1 shows the ray-trace sheet.\n\n\n\n\n\n          M                                     R                                               P5\n                                                 P3                     P6\n\n                                                                          P4\n\n\n\n\n\n                                               Fig. 3.1\n\n     (a)  •   On Fig. 3.1, draw a normal to the line MR that passes through its centre. Label the\n            normal NL. Label the point at which NL crosses MR with the letter B.\n\n           •   Draw a line 7.0 cm long from B at an angle of incidence i = 70° to the normal below MR\n           and to the left of the normal. Label the end of this line A.\n\n           •   Draw another line 7.0 cm long from B at an angle θ = 40° to the normal below MR and to\n             the left of the normal. Label the end of this line C.\n                                                                                                                       [3]\n\n     (b)  Mark, with two neat crosses, positions for two pins, P1 and P2, on line AB at a suitable\n         distance apart for this type of ray-trace experiment.                                               [1]\n\n\n\n\n\n© UCLES 2021                                         0625/61/O/N/21\n\n(c) The student places a plane mirror on line MR and views the images of pins P1 and P2 in the\n          mirror. He places two pins, P3 and P4, so that pins P3 and P4 and the images of P2 and P1 all\n        appear exactly one behind the other. The positions of P3 and P4 are marked on Fig. 3.1.\n       Draw a line through the positions of P3 and P4. Continue the line until it meets MR.\n       Measure the angle α between the line and the normal NL below MR. Include the unit.\n\n                             α =  ....................................................  [1]\n\n     (d) The student places the reflecting face of the mirror vertically on the line AB with the centre of\n         the mirror at B.\n\n      He places pins P1 and P2 on line CB. He places pins P5 and P6 so that pins P5 and P6 and\n         the images of P2 and P1 all appear exactly one behind the other.\n       Draw a line through the positions of P5 and P6. Continue the line until it meets NL.\n       Measure the angle β between the line and NL below MR. Include the unit.\n\n                                β =  ....................................................  [1]\n\n     (e) A student investigates a possible relationship between angles α and β. The angle θ remains\n         constant at θ = 40°. Suggest values of the angle of incidence i that he could use.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n      (f)  A student does this experiment with care. Suggest one practical reason why the results may\n        not be exactly those that the theory of reflection predicts.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n     (g)  Tick the boxes that indicate relevant precautions that the student should take with this type of\n         ray-trace experiment.\n\n                carry out the experiment in a darkened room\n\n             draw thin lines\n\n             keep one eye closed\n\n             keep room temperature constant\n\n              view the bases of the pins\n\n              view the tops of the pins\n                                                                                                                       [2]\n\n                                                                                                           [Total: 11]\n© UCLES 2021                                         0625/61/O/N/21                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p6-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p6-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p6-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p6-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p6-v1-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-october-november-p6-v1-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the time taken to heat water in different uninsulated containers. The\n    containers all have the same volume and shape. The water is heated with an electric immersion\n     heater.\n\n    The following apparatus is available:\n\n    a selection of containers\n    measuring cylinder\n    thermometer\n    supply of cold water\n    immersion heater with power supply.\n\n    Plan an experiment to investigate the time taken to heat water in different uninsulated containers.\n\n    You should:\n\n     •     list any additional apparatus that is required\n\n     •    explain briefly how you would carry out the investigation\n\n     •    state the key variables that you would keep constant\n\n     •   draw a table, or tables, with column headings to show how you would display your readings\n        (you are not required to enter any readings in the table)\n\n     •    explain briefly how you would use your readings to reach a conclusion.\n\n\n\n\n\n© UCLES 2021                                         0625/61/O/N/21\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p6-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p6-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p6-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p6-v1-qp__q04.md"
+  }
+ ]
+}

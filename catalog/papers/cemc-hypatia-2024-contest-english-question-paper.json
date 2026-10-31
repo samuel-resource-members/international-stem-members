@@ -1,0 +1,176 @@
+{
+ "group": "cemc-hypatia-2024-contest-english-question-paper",
+ "course_id": "CEMC-HYPATIA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-hypatia-2024-contest-english-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2024-contest-english-question-paper__q01",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.    At Radford Motors, 4050 trucks were sold.  Of the trucks sold, 32% were white,\n     24% were grey, and 44% were black.\n\n          (a) How many white trucks were sold?\n\n         (b) If 1 of the grey trucks sold were electric, how many trucks sold were both grey                 4\n           and electric?\n          (c) In addition to the 4050 trucks that were sold, there were k unsold trucks, all\n              of which were black.  In total, 46% of all trucks, sold and unsold, were black.\n           Determine the value of k.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2024-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2024-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2024-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2024-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2024-contest-english-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2024-contest-english-question-paper__q02",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2.    For a positive 3-digit integer n, f(n) is equal to the sum of n and the digits of n. For\n      example, f(351) = 351 + 3 + 5 + 1 = 360.\n\n      Note: The decimal representation of the 3-digit number abc is a · 102 + b · 10 + c.\n      For example, 836 = 8 · 102 + 3 · 10 + 6.\n\n          (a) What is the value of f(132)?\n\n         (b) If f(n) = 175, what is the value of n?\n\n          (c) If f(n) = 204, determine all possible values of n.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2024-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2024-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2024-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2024-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2024-contest-english-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2024-contest-english-question-paper__q03",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "y\n3.    In the diagram, ABCD is a square with side length 12.\n     The midpoint of AD is E, and BE intersects AC at F.  D (0, 12)          C (12, 12)\n     The circle with diameter BE passes through A, and             G\n       intersects AC at G.\n                                                   E (0, 6)    F\n      Note: A  circle with centre (h, k) and radius r has\n      equation (x −h)2 + (y −k)2 = r2.                                                                                                                x\n                                                   A (0, 0)           B (12, 0)\n          (a) What are the coordinates of F?\n\n         (b) What is the area of △AEF?\n\n          (c) Determine the area of quadrilateral GDEF.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2024-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2024-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2024-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2024-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2024-contest-english-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2024-contest-english-question-paper__q04",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.   A Hewitt number is a positive integer that is the sum of the cubes of three consecutive\n       positive integers. The smallest Hewitt number is 13 + 23 + 33 = 36.\n\n          (a) How many Hewitt numbers between 10 000 and 100 000 are divisible by 10?\n\n         (b) Determine how many of the smallest 2024 Hewitt numbers are divisible by 216.\n\n          (c) Consider the following statement:\n\n                There are two distinct Hewitt numbers whose sum is equal to 9 · 2k\n                    for some positive integer k.\n\n          Show that this statement is true by ﬁnding two such Hewitt numbers or prove\n            that it is false by demonstrating that there cannot be two such Hewitt numbers.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2024-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2024-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2024-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2024-contest-english-question-paper__q04.md"
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "group": "bmo2-2023-round-2-question-paper",
+ "course_id": "BMO2",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "bmo2-2023-round-2-question-paper",
+   "year": 2023,
+   "session": "25 January 2023",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-2023-round-2-question-paper__q01",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "从圆的方程或几何条件求圆与直线关系",
+   "search_text": "1. Let 𝐴𝐵𝐶be a triangle with an obtuse angle 𝐴and incentre 𝐼. Circles 𝐴𝐵𝐼and 𝐴𝐶𝐼intersect\n  𝐵𝐶again at 𝑋and 𝑌respectively. The lines 𝐴𝑋and 𝐵𝐼meet at 𝑃, and the lines 𝐴𝑌and 𝐶𝐼\n  meet at 𝑄. Prove that 𝐵𝐶𝑄𝑃is cyclic.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-2023-round-2-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-2023-round-2-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-2023-round-2-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-2023-round-2-question-paper__q01.md"
+  },
+  {
+   "paper_id": "bmo2-2023-round-2-question-paper",
+   "year": 2023,
+   "session": "25 January 2023",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-2023-round-2-question-paper__q02",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. For an integer 𝑛> 1, the numbers 1, 2, 3, . . . , 𝑛are written in order on a blackboard. The\n   following moves are possible:\n     (i) Take three adjacent numbers 𝑥, 𝑦, 𝑧whose sum is a multiple of 3 and replace them with\n         𝑦, 𝑧, 𝑥.\n     (ii) Take two adjacent numbers 𝑥, 𝑦whose difference is a multiple of 3 and replace them\n       with 𝑦, 𝑥.\n                                                                   (𝑖)                 (𝑖𝑖)\n   For example we could take: 1, 2, 3, 4 →2, 3, 1, 4 →2, 3, 4, 1\n   Find all 𝑛such that the initial list can be transformed into 𝑛, 1, 2, . . . , 𝑛−1 after a finite\n  number of moves.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-2023-round-2-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-2023-round-2-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-2023-round-2-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-2023-round-2-question-paper__q02.md"
+  },
+  {
+   "paper_id": "bmo2-2023-round-2-question-paper",
+   "year": 2023,
+   "session": "25 January 2023",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-2023-round-2-question-paper__q03",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3. For an integer 𝑛≥3, we say that 𝐴= (𝑎1, 𝑎2, . . . , 𝑎𝑛) is an 𝑛-list if every 𝑎𝑘is an integer in\n   the range 1 ≤𝑎𝑘≤𝑛. For each 𝑘= 1, . . . , 𝑛−1, let 𝑀𝑘be the minimal possible non-zero\n                𝑎1+...+𝑎𝑘+1   value of                       −𝑎1+...+𝑎𝑘𝑘       , across all 𝑛-lists. We say that an 𝑛-list 𝐴is ideal if                𝑘+1\n                          𝑎1 + . . . + 𝑎𝑘+1 −𝑎1 + . . . + 𝑎𝑘 = 𝑀𝑘\n                     𝑘+ 1            𝑘\n   for each 𝑘= 1, . . . , 𝑛−1.\n   Find the number of ideal 𝑛-lists.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-2023-round-2-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-2023-round-2-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-2023-round-2-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-2023-round-2-question-paper__q03.md"
+  },
+  {
+   "paper_id": "bmo2-2023-round-2-question-paper",
+   "year": 2023,
+   "session": "25 January 2023",
+   "paper": "Round 2",
+   "variant": "",
+   "id": "bmo2-2023-round-2-question-paper__q04",
+   "exam_id": "BMO2",
+   "course_id": "BMO2",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "4. The side lengths 𝑎, 𝑏, 𝑐of a triangle 𝐴𝐵𝐶are positive integers such that the highest common\n   factor of 𝑎, 𝑏and 𝑐is 1. Given that ∠𝐴= 3∠𝐵prove that at least one of 𝑎, 𝑏and 𝑐is a cube.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo2-2023-round-2-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo2-2023-round-2-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo2-2023-round-2-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO2/bmo2-2023-round-2-question-paper__q04.md"
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "group": "ap-physics-1-2025-frq",
+ "course_id": "AP-PHYSICS-1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "ap-physics-1-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-1-2025-frq__q01",
+   "exam_id": "AP-PHYSICS-1",
+   "course_id": "AP-PHYSICS-1",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "Question 1: Version J\n\n                                                1\n1. A student has a cart of mass mc and a block of mass 5 mc, as shown in Figure 1.\n        •  At time t = 0 , the cart is moving to the right across a horizontal surface with constant\n        speed vc, and the student releases the block from rest.\n        •  At t = t1 , the block collides with and sticks to the top of the cart. The block does not slide\n       on the cart.\n        •  At t = t2 , the block-cart system continues to move to the right with constant speed vf .\n                                       Figure 1\n\n\n\n\n\n  A.\n            i. On the axes shown in Figure 2, sketch a graph of the magnitude px of the x-component\n         of the momentum of the block-cart system as a function of time t from t = 0 until t > t2.\n\nii. Derive an expression for the speed vf of the block-cart system after time t = t2 in terms\n       of mc, vc, and physical constants, as appropriate. Begin your derivation by writing a\n      fundamental physics principle or an equation from the reference information.\n     iii. Derive an expression for the change in the kinetic energy TK in the block-cart system\n      from t = 0 to t = t2 in terms of mc, vc, and physical constants, as appropriate. Begin your\n       derivation by writing a fundamental physics principle or an equation from the reference\n       information.\nB. Consider the case where a new block is dropped and collides with the top of the cart. The\n  new block slides along the cart during the collision but does not slide off the cart. The time\n   interval from when the new block collides with the cart and moves together with the cart\n    is Tt . During Tt there is a frictional force between the new block and the cart.\n   Indicate whether the x-component of the momentum of the new block-cart system increases,\n   decreases, or remains constant during Tt .\n   ______ Increases\n   ______ Decreases\n   ______ Remains constant\n   Justify your response.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics 1: Algebra-Based - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-1-2025-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-1-2025-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-1-2025-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-1/ap-physics-1-2025-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-physics-1-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-1-2025-frq__q02",
+   "exam_id": "AP-PHYSICS-1",
+   "course_id": "AP-PHYSICS-1",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "Question 2: Version J\n\n2. A block of mass M is released from rest at position x = 0 near the top of a ramp. The ramp\n  makes an angle of i with the horizontal. The block slides down the ramp with negligible\n   friction. At x = 8D the block makes contact with an uncompressed spring with spring\n  constant k. The spring is then compressed and the block momentarily comes to rest at x = 12 D .\n  Figure 1 shows the instants when the block is at x = 0 , x = 6D , and x = 10 D , respectively.\n\n\n\n\n\n  A. Figure 4 shows an energy bar chart that represents the kinetic energy K of the block, the\n     gravitational potential energy Ug of the block-spring-Earth system, and the spring potential\n     energy Us of the block-spring-Earth system at the instant that the block is at x = 10 D . The\n     gravitational potential energy Ug of the block-spring-Earth system is defined to be zero when\n     the block momentarily comes to rest at x = 12 D .\n    Draw shaded bars that represent K, Ug, and Us to complete the energy bar charts in\n     Figure 2 and Figure 3 for when the block is released from rest at x = 0 and for when the\n     block is at x = 6D , respectively.\n        •  Shaded bars should start at the dashed line that represents zero energy.\n        •  Represent any energy that is equal to zero with a distinct line on the zero-energy line.\n        •  The relative heights of each shaded bar should reflect the magnitude of the respective\n        energy consistent with the scale used in Figure 4.\n\nB. Figure 5 shows the block at x = 0 when the block is released from rest and the block at\n   x = 12 D when the block momentarily comes to rest against the compressed spring.\n\n                                    Figure 5\n\n\n\n\n\n   Starting with conservation of energy, derive an equation for the spring constant k. Express\n  your answer in terms of M, i, D, and physical constants, as appropriate. Begin your\n   derivation by writing a fundamental physics principle or an equation from the reference\n   information.\nC. Figure 6 shows a graph of the energy of the system as a function of the position of the block\n  from x = 8D to x = 12 D . The spring potential energy Us of the block-spring-Earth system is\n  shown on the graph.\n  On the axes shown in Figure 6, do the following.\n        i. Sketch and label a line or curve that represents the total mechanical energy E for the\n       block-spring-Earth system as a function of the position of the block from x = 8D\n       to x = 12 D .\n       ii. Sketch and label a line or curve that represents the gravitational potential energy Ug for\n      the block-spring-Earth system as a function of the position of the block from x = 8D\n       to x = 12 D .\n\nD. Indicate whether the speed v9D of the block at x = 9D is greater than, less than, or equal to\n   the speed v8D of the block at x = 8D .\n   ______ v9D > v8D\n   ______ v9D < v8D\n   ______ v9D = v8D\n   Justify how your response is consistent with the energy lines or curves you drew in Figure 6\n   in part C.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics 1: Algebra-Based - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-1-2025-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-1-2025-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-1-2025-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-1/ap-physics-1-2025-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-physics-1-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-1-2025-frq__q03",
+   "exam_id": "AP-PHYSICS-1",
+   "course_id": "AP-PHYSICS-1",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "Question 3: Version J\n\n3. Students are investigating balancing systems using the following setup. The students have a\n  spring scale of negligible mass that is fixed to one end of a uniform meterstick. The center of the\n  meterstick is attached to a stand on which the meterstick can pivot. There is a hook of negligible\n  mass fixed to the top of a block of mass m0. The hook can be attached to the meterstick through\n  one of the small holes in the meterstick, as shown in Figure 1. The students do not have a direct\n  way to measure the mass of the block. The block cannot be attached to the spring scale.\n\n                                       Figure 1\n\n\n\n\n\n  The students are asked to take measurements that will allow the students to create a linear\n  graph whose slope could be used to determine the mass m0 of the block.\n  A. Describe an experimental procedure to collect data that would allow the students to\n     determine m0. Include any steps necessary to reduce experimental uncertainty.\n  B. Describe how the data collected in part A could be graphed and how that graph would be\n     analyzed to determine m0.\n\n  The students have an identical meterstick of mass M that is now attached to an axle that is fixed\n  to a wall. The meterstick is free to rotate with negligible friction about the axle. The meterstick\n   is suspended horizontally by a string that is connected to a spring scale of negligible mass, as\n  shown in Figure 2.\n\nFigure 2\n\n\n\n\n\nThe angle i that the string makes with the meterstick can be varied by attaching the string to\none of the pegs located along the wall. The students use the spring scale to measure the\ntension FT required to hold the meterstick horizontal. Table 1 shows the measured values of i\nand FT.\n\n                                       Table 1\n\n                            i (degrees)   FT (N)\n                                  22        21\n\n                                  31        17\n\n                                  36        13\n\n                                  45        12\n\n                                  80         8\n\nThe students correctly determine that the relationship between FT and i is given by\n                                         5 Mg\n                             FT = 6 sin i .\n                               1\nThe students create a graph with sin i plotted on the horizontal axis.\nC.\n        i. Indicate what measured or calculated quantity could be plotted on the vertical axis to\n       yield a linear graph whose slope can be used to calculate an experimental value for the\n     mass M of the meterstick.\n                                           1\n       Vertical axis: ______     Horizontal axis: sin i\n       ii. On the blank grid provided, create a graph of the quantities indicated in part C (i) that\n      can be used to determine M.\n         •  Use Table 2 to record the data points or calculated quantities that you will plot.\n         •   Clearly label the vertical axis, including units as appropriate.\n         •   Plot the points you recorded in Table 2.\n\n\n\n\n\n     iii. Draw a straight best-fit line for the data graphed in part C (ii).\nD. Using the best-fit line that you drew in part C (iii), calculate an experimental value for the\n  mass M of the meterstick.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics 1: Algebra-Based - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-1-2025-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-1-2025-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-1-2025-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-1/ap-physics-1-2025-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-physics-1-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-1-2025-frq__q04",
+   "exam_id": "AP-PHYSICS-1",
+   "course_id": "AP-PHYSICS-1",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question 4\n\n4. In Scenario 1, a swimmer holds a block of mass m at rest in a tank of freshwater with\n  density t1 , as shown in Figure 1. The block is released from rest and accelerates upward with\n  an initial acceleration a1. All frictional forces are negligible.\n                                       Figure 1\n\n\n\n\n\n  In Scenario 2, the swimmer holds the same block at rest in a tank of salt water with\n  density t 2 , where t 2 > t1 . The swimmer again releases the block from rest, and the block\n  accelerates upward with initial acceleration a2. All frictional forces are negligible.\n\nA. Indicate whether a1 is greater than, less than, or equal to a2 by writing one of the following\n   in your answer booklet.\n     •  a1 > a2\n     •  a1 < a2\n     •  a1 = a2\n   Justify your answer in terms of ALL forces exerted on the block in each scenario. Use\n   qualitative reasoning beyond referencing equations.\nB. Consider the general case where a block of mass m and volume V is completely submerged in\n  a fluid of density t.\n   Starting with Newton’s second law, derive an expression for the initial upward\n   acceleration a of the block when the block is released from rest. Express your answer in\n  terms of m, V, t, and physical constants, as appropriate. Begin your derivation by writing a\n  fundamental physics principle or an equation from the reference information.\nC. Indicate whether the expression for the acceleration a you derived in part B is or is not\n   consistent with the claim made in part A. Briefly justify your answer by referencing your\n   derivation in part B.\n\n\n\n                            STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Physics 1: Algebra-Based - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-physics-1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-1-2025-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-1-2025-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-1-2025-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-1/ap-physics-1-2025-frq__q04.md"
+  }
+ ]
+}

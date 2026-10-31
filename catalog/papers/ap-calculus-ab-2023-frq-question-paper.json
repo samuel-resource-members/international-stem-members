@@ -1,0 +1,290 @@
+{
+ "group": "ap-calculus-ab-2023-frq-question-paper",
+ "course_id": "AP-CALCULUS-AB",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-calculus-ab-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2023-frq-question-paper__q01",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "t\n                                         0     60    90    120   135   150\n                          (seconds)\n\n                                             f t( )\n                                         0     0.1    0.15    0.1    0.05    0\n                       (gallons per second)\n\n\n1. A customer at a gas station is pumping gasoline into a gas tank. The rate of flow of gasoline is modeled by a\n   differentiable function  f , where  f (t) is measured in gallons per second and t is measured in seconds since\n  pumping began. Selected values of  f (t) are given in the table.\n\n                                                    135\n   (a) Using correct units, interpret the meaning of        f (t) dt in the context of the problem. Use a right                                                      ∫60\n\n     Riemann sum with the three subintervals [60, 90], [90, 120], and [120, 135] to approximate the value of\n\n        135\n                f (t) dt .       ∫60\n\n   (b) Must there exist a value of c, for 60 < c < 120, such that  f ¢(c) = 0 ? Justify your answer.\n\n                                                                                                      ⎛                                                                                           ⎛   t  ⎞    ⎜⎛   t  ⎞2⎞                                                                                           ⎜                                                                                                                 for   (c) The rate of flow of gasoline, in gallons per second, can also be modeled by g(t) =                                                                                                                                                                                                                        ⎟⎟                                                                                           ⎜                                                                                                                                                                                                  ⎟⎟ cos⎜⎜⎜⎜                                                                                           ⎝                                                                         500 ⎟⎠                                                                                    ⎜⎝120⎝                                                                                                                                                                                                                         ⎠⎟    ⎟⎟⎟⎟⎟⎠\n\n     0 £ t £ 150. Using this model, find the average rate of flow of gasoline over the time interval 0 £ t £ 150.\n\n\n     Show the setup for your calculations.\n\n\n   (d) Using the model g defined in part (c), find the value of g¢(140). Interpret the meaning of your answer in\n       the context of the problem.\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2023-frq-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2023-frq-question-paper__q01.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2023-frq-question-paper__q02",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "力学",
+   "knowledge_point": "运动学",
+   "problem_type": "连接位移、速度、加速度和时间",
+   "search_text": "2. Stephen swims back and forth along a straight path in a 50-meter-long pool for 90 seconds. Stephen’s velocity\n\n                               −0.02t    p    is modeled by v(t) = 2.38e                          , where t is measured in seconds and v(t) is measured in meters per                                 sin( 56 t)\n\n   second.\n\n\n   (a) Find all times t in the interval 0 < t < 90 at which Stephen changes direction. Give a reason for your\n      answer.\n\n   (b) Find Stephen’s acceleration at time t = 60 seconds. Show the setup for your calculations, and indicate units\n       of measure. Is Stephen speeding up or slowing down at time t = 60 seconds? Give a reason for your\n      answer.\n\n   (c) Find the distance between Stephen’s position at time t = 20 seconds and his position at time t = 80\n      seconds. Show the setup for your calculations.\n\n   (d) Find the total distance Stephen swims over the time interval 0 £ t £ 90 seconds. Show the setup for your\n       calculations.\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n\nEND OF PART A\n\nCALCULUS AB\n\n\n             SECTION II, Part B\n\n\n                  Time—1 hour\n\n                       4 Questions\n\n\nNO CALCULATOR IS ALLOWED FOR THESE QUESTIONS.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2023-frq-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2023-frq-question-paper__q02.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2023-frq-question-paper__q03",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分方程",
+   "knowledge_point": "微分方程",
+   "problem_type": "解微分方程并代入初始条件",
+   "search_text": "3. A bottle of milk is taken out of a refrigerator and placed in a pan of hot water to be warmed. The increasing\n\n   function M models the temperature of the milk at time t, where M(t) is measured in degrees Celsius (°C)\n\n  and t is the number of minutes since the bottle was placed in the pan. M satisfies the differential equation\n\n  dM   1\n      =   (40 − M). At time t = 0, the temperature of the milk is 5°C. It can be shown that M(t) < 40 for all\n    dt    4\n\n   values of t.\n\n                             dM   1\n   (a) A slope field for the differential equation    =   (40 − M) is shown. Sketch the solution curve through\n                                                   dt    4\n       the point (0, 5).\n\n\n\n\n\n   (b) Use the line tangent to the graph of M at t = 0 to approximate M(2), the temperature of the milk at\n      time t = 2 minutes.\n\n                                 2                         2\n                         d M                 d M\n   (c) Write an expression for       in terms of M . Use       to determine whether the approximation from\n                               dt2                      dt2\n\n       part (b) is an underestimate or an overestimate for the actual value of M(2). Give a reason for your answer.\n\n\n   (d) Use separation of variables to find an expression for M(t), the particular solution to the differential\n\n          dM   1\n      equation    =   (40 − M) with initial condition M(0) = 5.\n                  dt    4\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2023-frq-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2023-frq-question-paper__q03.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2023-frq-question-paper__q04",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "4. The function  f  is defined on the closed interval [−2, 8] and satisfies  f (2) = 1. The graph of  f ¢, the derivative\n   of  f , consists of two line segments and a semicircle, as shown in the figure.\n\n   (a) Does  f have a relative minimum, a relative maximum, or neither at x = 6 ? Give a reason for your\n      answer.\n\n   (b) On what open intervals, if any, is the graph of  f concave down? Give a reason for your answer.\n\n                        6 f (x) − 3x\n   (c) Find the value of lim                      , or show that it does not exist. Justify your answer.\n                  x→2 x2 − 5x + 6\n\n   (d) Find the absolute minimum value of  f on the closed interval [−2, 8]. Justify your answer.\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2023-frq-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2023-frq-question-paper__q04.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2023-frq-question-paper__q05",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "x     0     2     4     7\n                                                       f (x)   10     7     4     5\n                                      3\n                                                       f ¢(x)       −8    3     6\n                                      2\n                                   g(x)    1     2   −3    0\n                                     g¢(x)    5     4     2     8\n\n\n5. The functions  f and g are twice differentiable. The table shown gives values of the functions and their first\n   derivatives at selected values of x.\n\n   (a) Let h be the function defined by h(x) = f (g(x)). Find h¢(7). Show the work that leads to your answer.\n\n                                                                 2   (b) Let k be a differentiable function such that k¢(x) = ( f (x))   · g(x). Is the graph of k concave up or concave\n\n     down at the point where x = 4 ? Give a reason for your answer.\n\n                                                               x                                                   3   (c) Let m be the function defined by m(x) = 5x +     f ¢()t dt . Find m(2). Show the work that leads to your                                                         ∫0\n\n      answer.\n\n   (d) Is the function m defined in part (c) increasing, decreasing, or neither at x = 2 ? Justify your answer.\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2023-frq-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2023-frq-question-paper__q05.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2023-frq-question-paper__q06",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "3\n6. Consider the curve given by the equation 6xy = 2 + y  .\n\n               dy     2y\n   (a) Show that   =               .\n               dx    y2 − 2x\n\n   (b) Find the coordinates of a point on the curve at which the line tangent to the curve is horizontal, or explain\n     why no such point exists.\n\n   (c) Find the coordinates of a point on the curve at which the line tangent to the curve is vertical, or explain why\n     no such point exists.\n\n                                                                         1     ⎞\n   (d) A particle is moving along the curve. At the instant when the particle is at the point ⎜   , −2⎟⎟, its horizontal                                                                                                                                                                                                                                                                                                                                                                                 ⎛⎜⎜⎝ 2          ⎟⎠\n                                  dx   2                                 dy\n       position is increasing at a rate of   =    unit per second. What is the value of      , the rate of change of\n                                          dt   3                                        dt\n\n       the particle’s vertical position, at that instant?\n\n\n\n\n\n                 __________________________________________________________\n\n     Write your responses to this question only on the designated pages in the separate Free Response\n                booklet. Write your solution to each part in the space provided for that part.\n\nSTOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-calculus-ab Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2023-frq-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2023-frq-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2023-frq-question-paper__q06.md"
+  }
+ ]
+}

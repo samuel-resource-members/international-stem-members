@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2024-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2024-usapho-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2024-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "Question A1\n\nPing Pong\n\nA thin wire of negligible resistance and total length D is wound to form a thin cylindrical solenoid\nof length ` ⌧D. A conducting sphere of radius R ⌧` is attached to each end of the solenoid.\nInitially there is no current in the wire, and the spheres have charges Q and −Q. Give all youranswers in terms of R, `, D, and the speed of light c = 1/pµ0✏0.\n\na. Assume this system can be modeled as an LC circuit. What is the angular frequency of its\n   oscillations?\n\nThis system loses energy because it emits electromagnetic radiation. Consider an electric dipole\nconsisting of charges ±q0 cos(!t) separated by distance d, whose dipole moment oscillates with\namplitude p0 = q0d. If d is much smaller than the wavelength λ of the radiation produced, then it\ncan be shown that the power radiated is roughly (i.e. up to an order-one dimensionless factor)\n\n                              P        0 .                                ⇠!4p2✏0c3\n\nFor the rest of the problem, your answers only need to be similarly rough estimates.\n\nb. For this setup, the above formula applies if D ≫D0. Find a rough estimate for D0.\nc. Assuming D ≫D0, estimate the number of oscillations that occurs until half the energy is lost.\n\n2024 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2024-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2024-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2024-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2024-usapho-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2024-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Pressure",
+   "problem_type": "从力、面积或液柱高度求压强",
+   "search_text": "Question A2\n\nStellar Stability\n\nA star in hydrostatic equilibrium has inward gravitational forces balanced by pressure gradients.\nThough the material in a star is not simply an ideal gas, in many cases its pressure P and density ⇢\nare simply related by P = K⇢γ for constants K and γ. Throughout this problem, assume the star\nis spherically symmetric, its mass is conserved, and relativistic e↵ects can be neglected.\n\na. A thin shell of the star at radius r0 has density ⇢0 and thickness ∆r, and experiences an inward\n   gravitational ﬁeld of magnitude g0.\n\n      i. What is the pressure di↵erence ∆P0 across the shell in equilibrium?\n\n     ii. Suppose the entire star expands uniformly by a factor 1 + x, so that the shell now has radius\n      r = r0(1 + x). In terms of ∆P0, x, and γ, what is the new pressure di↵erence across it?\n    iii. By considering the forces on the shell, write an expression for d2r/dt2 valid when x is small,\n      in terms of g0, γ, and x. For what values of γ will the star be stable?\n\nNext, we consider some simple models of stars, where γ can be computed.\n\nb. In a giant star, the pressure is P = Pgas + Prad, where Pgas is due to the gas, which obeys the\n   ideal gas law, and Prad / T 4 is due to blackbody radiation. In the star’s “radiation zone”, Prad\n    is much larger than Pgas, but the two have a constant ratio. In this case, what is the value of γ?\n\nc. A white dwarf is composed of electrons and nuclei. The electrons provide the outward pressure,\n   while the nuclei cancel the electrons’ charge, and are responsible for most of the mass density.\n   Consider a region of a white dwarf where the number density of electrons is ne.\n\n      i. The electrons obey the Heisenberg uncertainty principle, ∆p ∆x & ~, where ∆x is the spacing\n     between them, and ∆p is the typical momentum that quantum mechanics implies they must\n      have. Find a rough estimate for ∆p in terms of ne and ~.\n     ii. Using this result, ﬁnd γ for a white dwarf.\n    iii. A white dwarf has total mass M, radius R, and a relatively uniform density of order ⇢⇠M/R3.\n     The radius is related to the mass by R / Mn for a constant n. Find the value of n.\n\n2024 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2024-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2024-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2024-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2024-usapho-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2024-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Waves",
+   "knowledge_point": "Light",
+   "problem_type": "用折射、反射或透镜关系处理光路",
+   "search_text": "Question A3\n\nTilt Shift\n\nAn ideal converging lens of focal length f is centered at x = y = 0 with its axis of symmetry aligned\nwith the x-axis. A light ray incident at height y ⌧f will be tilted inward by an angle ✓= y/f. In\nthis problem, we will consider objects at x = −o, where o > f. The lens will produce a real image\nof the object at x = i, where 1/o + 1/i = 1/f.\n\n\n\n\n\nEven for an ideal lens, the image of a ﬁnite-sized object will generally be distorted.\n\na. Consider a pointlike object at x = −o and y = 0. If it moves to the right a small distance δx, its\n   image moves to the right a distance mx δx. If it moves up a small distance δy, its image moves\n  up a distance my δy. Find mx and my in terms of i and o.\n\nb. Suppose the object is a short stick, tilted an angle ✓o to the x-axis. In terms of i, o, and ✓o, what\n    is the angle ✓i its image makes with the x-axis?\n\nTo produce a simple camera, we put the lens right next to a circular aperture of diameter D ⌧f,\nand place a movable screen behind the lens. Suppose the location of the screen is chosen so that\nlight from very distant objects will be focused to a point on the screen.\n\nc. The light from a pointlike object at ﬁnite distance o will produce a ﬁnite-sized spot of radius r\n   on the screen. Find r in terms of f, D, and o, assuming o ≫f.\nd.  If the camera primarily sees light of wavelength λ ⌧f, D, ﬁnd a rough estimate for the additional\n   spread rd of any image on the screen due to di↵raction, in terms of f, D, and o.\n\ne. Assuming the typical numbers f = 5.0 cm, D = 5.0 mm, and λ = 500 nm, ﬁnd the numeric values\n   of o for which the blurring due to geometric e↵ects exceeds the blurring due to di↵raction.\n\nReal photos are noisy because light is made of discrete photons, with energy E = hc/λ. Suppose\nthe camera is illuminated uniformly with light of intensity I = 1 W/m2, its sensor has N = 107\npixels, and every photon passing through the aperture is detected, with equal probability, by one\npixel in the sensor. This implies that if the expected number of photons arriving at a pixel on the\nsensor is n, the standard deviation of that number is pn.\n\n f. If the aperture opens for time ⌧to take a photo, ﬁnd the numeric value of ⌧for which the\n   standard deviation of the brightness of each pixel is 1% of the mean.\n\n2024 USAPhO                            Part A                                       7\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\nIf there is still time remaining for Part A, you can review your work for Part\nA, but do not continue to Part B until instructed by your exam supervisor.\n\n\n\n\n\n     Once you start Part B, you will not be able to return to Part A.\n\n2024 USAPhO Part B\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2024-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2024-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2024-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2024-usapho-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2024-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "Question B1\n\nThe Muon Shot\n\nIn 2023, American particle physicists recommended developing a muon collider to investigate the\nnature of fundamental particles. Such a collider requires much less space then other options because\nof the muon’s high mass m, which makes it easier to accelerate to a very high energy E ≫mc2.\n\na. When a muon colides head-on with an antimuon, which has the same energy and mass, a new\n   particle of mass 2E/c2 can be produced. If the antimuon was instead at rest, what energy would\n   the muon need to produce such a particle?\n\nUnfortunately, muons and antimuons are unstable, with lifetime ⌧. That is, if one such particle\nexists at time t = 0, then in its rest frame, the probability it has not decayed by time t is e−t/⌧.\n\nb. Suppose the muons begin at rest, and are accelerated so that each muon’s energy increases at a\n   very large, constant rate ↵in the lab frame. Find the fraction f of muons that have decayed by\n   the time each muon has energy E, assuming f is small.\n\nThe collider produces a “bunch” of muons with energy E, uniformly distributed in a thin disc\nof radius R = 10−6 m. It also simultaneously produces a similar “antibunch” of antimuons. For\nsimplicity, model each muon and antimuon as a sphere of radius r = 10−21 m, and suppose a\nmuon-antimuon collision occurs whenever two such spheres touch.\n\nc. Initially, the bunch and antibunch each contain N = 1014 particles. If they immediately collide\n   head-on, what is the average number of muon-antimuon collisions, to one signiﬁcant ﬁgure?\n\nd. The bunch travels clockwise along a ring of circumference ` = 10 km, while the antibunch travels\n   along the same path in the opposite direction. Assume all particles maintain a constant energy\n  E = 105 mc2, and that the muon lifetime is ⌧= 2.2 ⇥10−6 s. To one signiﬁcant ﬁgure, what is\n   the average number of muon-antimuon collisions that occur before all of the particles decay?\n\n2024 USAPhO Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2024-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2024-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2024-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2024-usapho-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2024-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Thermal properties",
+   "problem_type": "从加热条件求热量或比热容",
+   "search_text": "Question B2\n\nSolid Heat\n\nIn classical thermodynamics, a solid containing N atoms has a heat capacity CV = 3NkB. The two\nparts of this question are independent. In both parts, we assume the solid has constant volume.\n\na. In a simple quantum model of a solid, the energy is E = ~!m, where m is the number of quanta\n  and ! is a constant. Einstein showed that the entropy of such a solid is\n\n                       S\n                    = (3N + m) ln(3N + m) −m ln(m)                         kB\n\n  up to a constant. According to the ﬁrst law of thermodynamics, dE = T dS for this system.\n\n      i. Find an expression for m in terms of N and the quantity ↵= ~!/kBT.\n     ii. We want to see how quantum e↵ects modify the familiar classical result in the limit ↵⌧1,\n     where the quantum corrections are small. Write an approximate expression for m, including\n     terms of order ↵but neglecting terms of order ↵2 or higher.\n    iii. The heat capacity, with its leading quantum correction, is CV ⇡3NkB(1 + b↵n) for some\n      constants b and n. Find the values of b and n.\n\nb. A vertical cylinder is ﬁlled with a monatomic ideal gas, and capped by a movable piston. The\n   temperature is high enough for the piston to be modeled as a classical solid. The gas and piston\n   contain the same number of atoms, but the mass of the gas is negligible compared to that of the\n   piston. Assume the entire cylinder is in vacuum, and that the gas and piston do not transfer\n   heat to their environment, but always remain in thermal equilibrium with each other.\n\n      i. When the piston is in mechanical equilibrium, the column of gas has height h and pressure\n    P = P0. At this point, ﬁnd dP/dh in terms of P0 and h.\n\n     ii.  If the piston is given a small vertical impulse, what is the angular frequency of its subsequent\n       oscillations? Give your answer solely in terms of h and the gravitational acceleration g.\n\n2024 USAPhO\nPart B\n10\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2024-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2024-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2024-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2024-usapho-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2024-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B3",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "Question B3\n\nQuality Quest\n\nThe quality factor is a dimensionless number which quantiﬁes how eﬃciently a system stores energy\nand how strongly it responds on resonance. For a circuit consisting of a capacitor C, an inductor L,\nand a small resistance R in series, the resonant frequency is approximately !0 = 1/ p LC, and the\nquality factor, assumed to be large throughout this problem, is\n                      r\n                                          1  L\n                        Q =            .\n                            R  C\nIn this problem, we explore several ways to measure Q. Uncertainty analysis is not required.\n\na. Alice measures Q by seeing how oscillations in the circuit damp over time. Suppose that initially,\n   the charge on the capacitor is q and the current is zero. The next time the current is zero, the\n   charge is −q(1 −δ). Find an approximate expression for δ, in terms of !0 and Q.\nb. Bob and Charles drive their circuits with a sinusoidal voltage V (t) = V0 cos !t. It can be shown\n   that in the steady state, the voltage across the capacitor oscillates with amplitude\n                                               V0\n                                Vc = p                                        .\n                                         (1 −!2/!20)2 + (!/!0Q)2\n  The circuits Bob and Charles have are similar, but are not precisely the same.\n\n      i. Bob ﬁxes the value of V0 so that the highest value of Vc at any frequency is precisely 10.00 V.\n      His equipment can precisely compare the amplitudes of a small DC and AC voltage. He thus\n      performs two very accurate voltage measurements.\n\n                           ! (rad/s)     0.0     183.3\n                                     Vc (Volts)  0.1219  0.1219\n     Using this data, ﬁnd the numeric values of Q and !0 as accurately as possible.\n     ii. Charles can precisely tune !, but cannot precisely measure small voltages. He thus ﬁxes V0\n      to some other value and takes data near the resonance, where Vc is relatively large.\n         ! (rad/s)   133.0  133.5  134.0  134.5  135.0  135.5  136.0  136.5  137.0\n            Vc (Volts)   3.64    4.76    6.52    8.53    8.18    6.06    4.44    3.42    2.75\n\n     Using this data, ﬁnd the numeric values of Q and !0 as accurately as possible. (Hint: you\n    may use the graph paper in the answer sheets, but full credit is attainable without graphing.\n     To ﬁnd Q, you should ﬁrst ﬁnd !0, then simplify the equation above using ! ⇡!0.)\nc. The gain function of this circuit is deﬁned as G = VR/V0, where VR is the amplitude of the\n   voltage across the resistor, as shown below.\n\n\n\n\n\n      i. Find an expression for G in terms of !, !0, and Q.\n     ii. This setup can be used to reject voltages at certain frequencies. Qualitatively describe the\n      range(s) of frequencies for which G is small.\n\nPage      Problem      Student Name:                              Student AAPT number:\n\n\n\n\n\n                                 Additional page: start additional page numbers from 14\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2024-USAPhO-Exam_solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2024-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2024-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2024-usapho-question-paper__q06.md"
+  }
+ ]
+}

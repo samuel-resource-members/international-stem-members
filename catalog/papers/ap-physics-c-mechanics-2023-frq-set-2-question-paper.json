@@ -1,0 +1,149 @@
+{
+ "group": "ap-physics-c-mechanics-2023-frq-set-2-question-paper",
+ "course_id": "AP-PHYSICS-C-MECHANICS",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 3,
+ "questions": [
+  {
+   "paper_id": "ap-physics-c-mechanics-2023-frq-set-2-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "Set 2",
+   "id": "ap-physics-c-mechanics-2023-frq-set-2-question-paper__q01",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "Begin your response to QUESTION 1 on this page.\n\n\n\n                            PHYSICS C: MECHANICS\n\n                                SECTION II\n\n                                 Time—45 minutes\n\n                                          3 Questions\n\n\nDirections: Answer all three questions. The suggested time is about 15 minutes for answering each of the questions,\nwhich are worth 15 points each. The parts within a question may not have equal weight. Show all your work in this\nbooklet in the spaces provided after each part.\n\n\n\n\n\n1. Scientists have created a new type of lightweight foam and are performing experiments to investigate the\n   properties of the foam. The mass of Cart A is 1000 kg and the mass of Cart B is 2000 kg. A piece of foam with\n   negligible mass is attached to the front of Cart A, as shown. Cart A moves with a constant speed toward Cart B,\n  which is initially at rest. At time t = 0 s, the foam connected to Cart A makes contact with Cart B. The foam\n   remains in contact with Cart B for 0.5 s, after which the carts separate and both carts move with constant\n   velocities.\n\nContinue your response to QUESTION 1 on this page.\n\n\n\n\n\n(a) The graph shows the velocity v of Cart A as a function of time t for the time interval when the foam and\n   Cart B are in contact.\n\n        i. What feature(s) of the graph could be used to estimate the displacement of Cart A during the collision?\n\n\n\n\n\n        ii. Using the information shown in the graph, determine the speed of Cart B at t = 0.5 s.\n\n\n\n\n\n        iii. On the following grid, draw a smooth curve of the velocity of Cart B as a function of time.\n\nContinue your response to QUESTION 1 on this page.\n\n                                                                                            3      2(b) For 0 £ t £ 0.50 s, the velocity v of Cart A can be described by the function v(t) = 64t − 48t + 5.\n\n        i. Calculate the magnitude of the maximum net force acting on Cart A during this interval.\n\n\n\n\n\n        ii. On the following grid, draw a smooth curve of the magnitude of the force acting on Cart A as a function\n      of time. Clearly indicate the value of the maximum force on the vertical axis.\n\nContinue your response to QUESTION 1 on this page.\n\nThe foam is removed from the front of Cart A and the experiment is repeated. The carts collide, with both Cart A\nand Cart B having the same initial and final velocities as in the original collision. The time intervals during which\nthe carts are in contact are different in the collision with the foam and the collision without the foam. In the\ncollision without the foam, Cart A is in contact with Cart B for a shorter duration than in the original collision,\nwhen the foam was present.\n\nFor the original collision when the foam is present, the magnitude of the average net force exerted on Cart B is F1.\nFor the collision without the foam, the magnitude of the average net force exerted on Cart B is F2.\n\n(c) What is the relationship between the magnitude of the average net force F1 exerted on Cart B for the collision\n   with the foam and the magnitude of the average net force F2 exerted on Cart B for the collision without the\n   foam?\n\n    _____ F1 > F2     _____ F1 < F2     _____ F1 = F2\n      Justify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-physics-c-mechanics Scoring Guidelines - Set 2",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-mech-set-2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2023-frq-set-2-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2023-frq-set-2-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2023-frq-set-2-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2023-frq-set-2-question-paper__q01.md"
+  },
+  {
+   "paper_id": "ap-physics-c-mechanics-2023-frq-set-2-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "Set 2",
+   "id": "ap-physics-c-mechanics-2023-frq-set-2-question-paper__q02",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "Begin your response to QUESTION 2 on this page.\n\n\n\n\n\n2. A student conducts an investigation to determine the relationship between the period of oscillation T of a system\n   consisting of a block and N attached springs. The student starts with a block of mass m attached to a single ideal\n   spring of spring constant k , as shown in Figure 1. The student holds the block so that the spring is neither\n   stretched nor compressed at a vertical height 1.00 m above a motion detector. The student releases the block from\n   rest and records the period of oscillation for the system consisting of the single spring and block. An additional\n   identical spring is attached in parallel, as shown in Figure 2, and the procedure is repeated for N = 2 springs.\n   This procedure is repeated through N = 10 springs.\n\n   (a) Derive an expression for T as a function of N . Express your answer in terms of m, k, N , and physical\n      constants as appropriate.\n\nContinue your response to QUESTION 2 on this page.\n\n(b) On the following axes, sketch a graph of T as a function of N for N ≥ 1.\n\nContinue your response to QUESTION 2 on this page.\n\n                                   2              −1\n(c) The student plots the data for T  as a function of N     , as shown.\n\n\n\n\n\n        i. Draw the best-fit line for the data.\n\n\n        ii. The mass of the block is measured to be m = 1.5 kg. Using the graph, calculate an experimental value for\n      the spring constant k for a single spring.\n\n\n\n\n\n        iii. The student finds that the value given by the manufacturer for the spring constant is larger than the value\n     determined experimentally in part (c)(ii). Determine a single source of experimental error that could result\n      in the observed difference in the value for k . Briefly justify your answer.\n\nContinue your response to QUESTION 2 on this page.\n\n\n\n\n\n(d) The student conducts a similar investigation to determine the relationship between the period of oscillation T\n   of a system consisting of a block and a number N of identical springs but arranges the block-spring system\n    horizontally on a table, as shown in Figure 3. Frictional forces between the table and the block are negligible.\n   In each trial, the block is displaced the same horizontal distance from equilibrium and released from rest.\n\n                           2                     1\n        i. The student plots T  as a function of N    for this new data. Would the slope of the best-fit line from this\n    new investigation be greater than, less than, or the same as the slope of the best-fit line in part (c)(i) ?\n\n    ___ greater than     ___ less than      ___the same as\n\n     Briefly justify your answer.\n\n\n\n\n\n        ii. When N = 1, the maximum speed of the block is found to be vmax . When N increases, will vmax\n      increase, decrease, or stay the same?\n\n    ____ increase     ____ decrease     ____ stay the same\n\n      Justify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-physics-c-mechanics Scoring Guidelines - Set 2",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-mech-set-2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2023-frq-set-2-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2023-frq-set-2-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2023-frq-set-2-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2023-frq-set-2-question-paper__q02.md"
+  },
+  {
+   "paper_id": "ap-physics-c-mechanics-2023-frq-set-2-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "Set 2",
+   "id": "ap-physics-c-mechanics-2023-frq-set-2-question-paper__q03",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Begin your response to QUESTION 3 on this page.\n\n\n\n\n\n3. A wind turbine includes a three-blade system that rotates about an axis through the end of each blade, as shown in\n\n                                                                     L\n   Figure 1. Each blade has a length L and mass M , with a center of mass located at a distance   from the axis of\n                                                                             3\n\n   rotation, as shown in Figure 2.\n\n\n   (a) Derive an expression for the rotational inertia of the three-blade system. Express your answer in terms of M ,\n\n      L, and physical constants, as appropriate. The rotational inertia of each blade about an axis through its center\n\n                                     1\n      of mass is given by the equation Icm =   ML2 .\n                                     18\n\nContinue your response to QUESTION 3 on this page.\n\n(b) While the wind blows, the three-blade system operates at a constant angular speed w0 = 2.6 rad/s. The length\n\n   of one blade is L = 36 m. The numerical value of the rotational inertia of the system is\n    Isys = 6 . 7 ¥ 106 kg·m2. Calculate the time T  it takes the outer edge of a single blade to complete one\n\n    revolution.\n\n\n\n\n\n(c) When the wind stops blowing, the angular speed of the system decreases. The angular speed w of the system\n                                                                    −b0 t, where   while slowing down is given as a function of time t by the equation w = w0 e                                                                               b0 is a constant with\n   appropriate units, as shown on the graph in Figure 3.\n\n\n\n\n\n        i. Calculate the amount of energy dissipated from t = 0, when the wind stops blowing, until the system\n     comes to rest.\n\nContinue your response to QUESTION 3 on this page.\n\n        ii. Derive an expression for the net torque exerted on the system as a function of t as the system slows down.\n     Express your answers in terms of b 0, w0 , M , L, Isys, and physical constants, as appropriate.\n\n\n\n\n\n        iii. Derive an expression for the angular displacement of the system Δq as a function of t. Express your\n     answer in terms of b 0, w0, M , L, Isys, and physical constants, as appropriate.\n\n\n\n\n\nThe three-blade system is now replaced with a second three-blade system identical to the first, except that the\nsecond three-blade system slows down according to the equation w = w0 e−bt, where w0 = 2.6 rad/s and b > b0.\nThe original angular speed function is shown as a dashed line in Figure 4.\n\n\n\n\n\n(d) On the graph in Figure 4, sketch the angular speed of the second three-blade system as a function of time t.\n\nSTOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-physics-c-mechanics Scoring Guidelines - Set 2",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-physics-c-mech-set-2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2023-frq-set-2-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2023-frq-set-2-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2023-frq-set-2-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2023-frq-set-2-question-paper__q03.md"
+  }
+ ]
+}

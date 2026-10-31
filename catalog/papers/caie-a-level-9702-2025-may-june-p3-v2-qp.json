@@ -1,0 +1,102 @@
+{
+ "group": "caie-a-level-9702-2025-may-june-p3-v2-qp",
+ "course_id": "CIE-9702",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 2,
+ "questions": [
+  {
+   "paper_id": "caie-a-level-9702-2025-may-june-p3-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-a-level-9702-2025-may-june-p3-v2-qp__q01",
+   "exam_id": "CIE-9702",
+   "course_id": "CIE-9702",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1    In this experiment, you will investigate a light-dependent resistor (LDR).\n\n     (a)  •   Connect the circuit shown in Fig. 1.1.\n\n                   1.5 V\n                                                    cardboard\n                                                      tube\n                       S\n                               LDR leads\n\n\n\n\n\n                                                tape           LDR (inside tube)\n              A\n\n\n                                               Fig. 1.1\n\n           •   Ensure that the switch S is open.\n\n           •    Slide the LDR leads into the tube until the front of the LDR is just level with the open end\n               of the tube, as shown in Fig. 1.1.\n\n           •   With the LDR in this position, attach a piece of adhesive tape to the leads as a marker at\n             the other end of the tube, as shown in Fig. 1.1.\n\n           •    Slide the tube until the LDR is approximately half-way along it, as shown in Fig. 1.2.\n\n                                       x\n\n\n\n\n\n                        tape\n\n\n                                               Fig. 1.2\n\n•   The distance between the tape and the tube is x.\n\n    Measure and record x.\n\n\n\n                                           x =  ...............................................................\n\n•   Close S and record the ammeter reading I.\n\n\n\n                                                   I =  ...............................................................\n\n•   Open S.\n                                                                                                            [2]\n\n(b) Change x by moving the LDR to a new position inside the tube, with x in the range 4 cm to\n    18 cm. Record x and I.\n\n    Repeat until you have six sets of values of x and I.\n\n    Record your results in a table. Include values of  I in your table.\n\n\n\n\n\n                                                                                                   [10]\n\n(c)   (i)  Plot a graph of  I on the y-axis against x on the x-axis.                                    [3]\n\n      (ii)  Draw the straight line of best fit.                                                                [1]\n\n     (iii)  Determine the gradient and y-intercept of this line.\n\n\n\n\n\n                                             gradient =  ...............................................................\n\n                                              y-intercept =  ...............................................................\n                                                                                                                 [2]\n\n(d)   It is suggested that the quantities I and x are related by the equation\n\n                                            I = ax + b\n\n    where a and b are constants.\n\n    Using your answers in (c)(iii), determine the values of a and b.\n    Give appropriate units.\n\n\n\n\n\n                                          a =  ...............................................................\n\n                                          b =  ...............................................................\n                                                                                                                 [2]\n\n                                                                                                      [Total: 20]\n\nYou may not need to use all of the materials provided.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Physics 9702 — May/June 2025 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9702_s25_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9702-2025-may-june-p3-v2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p3-v2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p3-v2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9702/caie-a-level-9702-2025-may-june-p3-v2-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-a-level-9702-2025-may-june-p3-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "2",
+   "id": "caie-a-level-9702-2025-may-june-p3-v2-qp__q02",
+   "exam_id": "CIE-9702",
+   "course_id": "CIE-9702",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "2    In this experiment, you will investigate the elastic properties of rubber cord.\n\n     (a)   (i)  You are provided with a wire with a clip and two slotted masses attached, as shown in\n               Fig. 2.1.\n\n                                                                                clip\n\n                                                                  wire\n\n                                                       mass\n\n                 mass\n\n\n\n                                 B\n\n\n                                               Fig. 2.1\n\n           The distance between the centres of the two slotted masses is B, as shown in Fig. 2.1.\n\n           Measure and record B.\n\n\n\n\n\n                                      B =  .........................................................  [1]\n\n             (ii)  Estimate the percentage uncertainty in your value of B. Show your working.\n\n\n\n\n\n                                percentage uncertainty =  ......................................................% [1]\n\n(b)   (i)   •   You are provided with two lengths of rubber cord. Select the longer cord.\n\n           •   The diameter of the cord is d.\n\n           Measure and record d.\n\n\n\n                                          d =  .........................................................  [1]\n\n      (ii)   •   Suspend the clip, wire and masses using the longer cord secured in the two clips,\n            as shown in Fig. 2.2.\n\n\n\n                                                          stand\n\n      jaws of clamp\n                                                       boss\n\n\n\n\n\n            upper clip\n\n                                             L\n        rubber cord\n\n\n\n\n          lower clip\n\n\n       wire with masses\n       attached                                               bench\n\n\n\n\n\n                                   Fig. 2.2 (not to scale)\n\n           •   The length of cord between the two clips is L, as shown in Fig. 2.2.\n\n           Measure and record L.\n\n\n\n                                          L =  .........................................................  [1]\n\n(iii)   •   Keeping the cord vertical, rotate the lower clip through approximately 180° and\n             release the clip. The clip will rotate with a small number of oscillations.\n\n           •   Take measurements to determine the period T of these oscillations.\n\n\n\n\n\n                                       T =  ....................................................... s [2]\n\n(c)  Using the shorter length of rubber cord, repeat (b).\n\n\n\n\n                                          d =  ...............................................................\n\n\n\n\n                                          L =  ...............................................................\n\n\n\n\n\n                                      T =  ............................................................. s\n                                                                                                                 [3]\n\n(d)   It is suggested that the relationship between T, B, L and d is\n\n                                              2  B2L\n                              T =    4                                       kd\n\n    where k is a constant.\n\n       (i)  Using your data, calculate two values of k.\n\n\n\n\n\n                                                        first value of k =  ...............................................................\n\n                              second value of k =  ...............................................................\n                                                                                                                 [1]\n\n      (ii)   Justify the number of significant figures that you have given for your values of k.\n\n                ...........................................................................................................................................\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n(e)   It is suggested that the percentage uncertainty in the values of k is 20%.\n\n    Using this uncertainty, explain whether your results support the relationship in (d).\n\n\n\n\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n(f)    (i)  Describe four sources of uncertainty or limitations of the procedure for this experiment.\n\n        For any uncertainties in measurement that you describe, you should state the quantity\n        being measured and a reason for the uncertainty.\n\n       1  ........................................................................................................................................\n\n                ...........................................................................................................................................\n\n       2  ........................................................................................................................................\n\n                ...........................................................................................................................................\n\n       3  ........................................................................................................................................\n\n                ...........................................................................................................................................\n\n       4  ........................................................................................................................................\n\n                ...........................................................................................................................................\n                                                                                                                 [4]\n\n      (ii)  Describe four improvements that could be made to this experiment. You may suggest\n         the use of other apparatus or different procedures.\n\n       1  ........................................................................................................................................\n\n                ...........................................................................................................................................\n\n       2  ........................................................................................................................................\n\n                ...........................................................................................................................................\n\n       3  ........................................................................................................................................\n\n                ...........................................................................................................................................\n\n       4  ........................................................................................................................................\n\n                ...........................................................................................................................................\n                                                                                                                 [4]\n\n                                                                                                      [Total: 20]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Physics 9702 — May/June 2025 — Paper 3 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9702_s25_ms_32.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9702-2025-may-june-p3-v2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p3-v2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p3-v2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9702/caie-a-level-9702-2025-may-june-p3-v2-qp__q02.md"
+  }
+ ]
+}

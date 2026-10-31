@@ -1,0 +1,337 @@
+{
+ "group": "mat-2013-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2013-mat-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2013-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "1. For ALL APPLICANTS.\n\n\n   For each part of the question on pages 3—7 you will be given four possible answers,\n   just one of which is correct. Indicate for each part A—J which answer (a), (b), (c),\n   or (d) you think is correct with a tick (X) in the corresponding column in the table\n   below. Please show any rough working in the space provided between the parts.\n\n\n\n\n                           (a)           (b)            (c)           (d)\n\n\n\n       A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n        E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n          J\n\n\n\n\n\n                                  2\n\nA. For what values of the real number a does the quadratic equation\n\n                                 x2 + ax + a = 1\n\nhave distinct real roots?\n\n          (a)  a ̸= 2;     (b)  a > 2;     (c)  a = 2;     (d)   all values of a.\n\n\n\n\n\nB. The graph of y = sin x is reﬂected ﬁrst in the line x = π and then in the line y = 2.\nThe resulting graph has equation\n\n (a)  y = cos x;     (b)  y = 2 + sin x;     (c)  y = 4 + sin x;     (d)  y = 2 −cos x.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                     3\n\nC. The functions f, g and h are related by\n\n                     f ′(x) = g(x + 1),     g′(x) = h(x                                              −1).\nIt follows that f ′′(2x) equals\n\n          (a)  h(2x + 1);     (b)  2h′(2x);     (c)  h(2x);     (d)  4h(2x).\n\n\n\n\n\n                                = 2y + 1?D. Which of the following sketches is a graph of x4 −y2\n\n                            y                                   y\n\n\n\n                                                                                 x\n                                             x\n\n\n\n\n                          (a)                              (b)\n                            y                                   y\n\n\n\n\n                                             x                                   x\n\n\n\n\n                           (c)                              (d)\n\n\n\n\n\n                                     4\n\nE. The expression\n\n                  d2                   d                          2                     (2x      (1    +     (2x + 1)4 3x2                dx2    −1)4  −x)5   dx         −2\n\nis a polynomial of degree\n\n                  (a)   9;     (b)   8;     (c)   7;     (d)   less than 7.\n\n\n\n\n\nF. Three positive numbers a, b, c satisfy\n\n                    logb a = 2,     logb(c −3) = 3,     loga(c + 5) = 2.\nThis information\n\n   (a) speciﬁes a uniquely.\n   (b) is satisﬁed by two values of a.\n    (c) is satisﬁed by inﬁnitely many values of a.\n   (d) is contradictory.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                     5\n\nG. Let n ⩾2 be an integer and pn(x) be the polynomial\n\n                     pn(x) = (x −1) + (x −2) + · · · + (x −n).\nWhat is the remainder when pn(x) is divided by pn−1(x)?\n\n               n        n + 1          n2 + n                (a)         (b)             ;     (c)              ;     (d)  −n .                    2;           2              2             2\n\n\n\n\n\nH. The area bounded by the graphs\n                  y = √2        and   x + √2     y = √2                   −x2             −1\n\nequals\n                    sin √2         π               π            π2\n                                                                      ;     (c)              (a)  √2   ;     (b)  4 −1√2                                                2 √2 ;     (d)   6 .\n\n\n\n\n\n                                     6\n\nI. The function F(k) is deﬁned for positive integers by F(1) = 1, F(2) = 1, F(3) = −1\nand by the identities\n\n                     F(2k) = F(k),    F(2k + 1) = F(k)\n\nfor k ⩾2. The sum\n                      F(1) + F(2) + F(3) + · · · + F(100)\nequals\n                   (a)  −15;     (b)  28;     (c)  64;     (d)  81.\n\n\n\n\n\nJ. For a real number x we denote by [x] the largest integer less than or equal to x.\n\nLet n be a natural number. The integral\n\n                                        n\n                                                 [2x] dx\n                                               0\n\nequals\n\n  (a)   log2((2n            (b)  n2n                    (c)  n2n;     (d)   log2((2n)!),              −1)!);              −log2((2n)!);\nwhere k! = 1 × 2 × 3 × · · · × k for a positive integer k.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                     7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2013",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions13_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2013-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2013-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2013-mat-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2013-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. For ALL APPLICANTS.\n\n(i) Let k ̸= ±1. The function f(t) satisﬁes the identity\n                                  f(t) −kf(1 −t) = t\nfor all values of t. By replacing t with 1 −t, determine f(t).\n(ii) Consider the new identity\n\n                                 f(t) −f(1 −t) = g(t).                              (∗)\n(a) Show that no function f(t) satisﬁes (∗) when g(t) = t.\n(b) What condition must the function g(t) satisfy for there to be a solution f(t) to (∗)?\n(c) Find a solution f(t) to (∗) when g(t) = (2t −1)3.\n\n\n\n\n\n                                     8\n\nTurn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2013",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions13_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2013-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2013-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2013-mat-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2013-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "3.                                     \n             MATHEMATICS                                                                                            \n               MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n             MATHEMATICS & PHILOSOPHY                                                                                  \n               MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science and Computer Science & Philosophy applicants should turn to\npage 14.\n\nLet 0 < k < 2. Below is sketched a graph of y = fk(x) where fk(x) = x(x −k)(x −2).\nLet A(k) denote the area of the shaded region.\n\n                       y\n\n\n\n\n\n                                                   x                      0                  2                                k\n\n\n\n\n(i) Without evaluating them, write down an expression for A(k) in terms of two integrals.\n\n(ii) Explain why A(k) is a polynomial in k of degree 4 or less. [You are not required to\ncalculate A(k) explicitly.]\n\n(iii) Verify that fk(1 + t) = −f2−k(1 −t) for any t.\n(iv) How can the graph of y = fk(x) be transformed to the graph of y = f2−k(x)?\n\nDeduce that A(k) = A(2 −k).\n(v) Explain why there are constants a, b, c such that\n\n                       A(k) = a(k    + b(k    + c.                              −1)4     −1)2\n[You are not required to calculate a, b, c explicitly.]\n\n\n\n\n\n                                     10\n\n11\nTurn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2013",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions13_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2013-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2013-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2013-mat-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2013-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "代数",
+   "knowledge_point": "比例与变化",
+   "problem_type": "按比例或正反比关系求量",
+   "search_text": "4.                                 \n              MATHEMATICS           \nFor APPLICANTS IN  MATHEMATICS & STATISTICS                                     ONLY.\n                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 14.\n\n(i) Let a > 0. On the axes opposite, sketch the graph of\n\n                          a + x\n                        y =            for    < x < a.                          a        −a                  −x\n(ii) Let 0 < θ < π/2. In the diagram below is the half-disc given by x2 + y2 ⩽1 and\ny ⩾0. The shaded region A consists of those points with −cos θ ⩽x ⩽sin θ. Theregion B is the remainder of the half-disc.\n\nFind the area of A.\n\n\n\n\n                   A\n\n             B               B\n\n            -1                          1\n                   -cosΘ     0          sinΘ\n\n(iii) Assuming only that sin2 θ + cos2 θ = 1, show that sin θ cos θ ⩽1/2.\n\n(iv) What is the largest that the ratio\n\n                                     area of A\n                                     area of B\n\ncan be, as θ varies?\n\n\n\n\n\n                                     12\n\n13\nTurn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2013",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions13_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2013-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2013-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2013-mat-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2013-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For ALL APPLICANTS.\n\n  We deﬁne the digit sum of a non-negative integer to be the sum of its digits. For\nexample, the digit sum of 123 is 1 + 2 + 3 = 6.\n\n(i) How many positive integers less than 100 have digit sum equal to 8?\n\n   Let n be a positive integer with n < 10.\n\n(ii) How many positive integers less than 100 have digit sum equal to n?\n\n(iii) How many positive integers less than 1000 have digit sum equal to n?\n\n(iv) How many positive integers between 500 and 999 have digit sum equal to 8?\n\n(v) How many positive integers less than 1000 have digit sum equal to 8, and one digit\nat least 5?\n\n(vi) What is the total of the digit sums of the integers from 0 to 999 inclusive?\n\n\n\n\n\n                                     14\n\n15\nTurn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2013",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions13_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2013-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2013-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2013-mat-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2013-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6.                                     \n             COMPUTER SCIENCE            \nFor APPLICANTS IN  MATHEMATICS & COMPUTER SCIENCE                                          ONLY.\n               COMPUTER SCIENCE & PHILOSOPHY\n\nAlice, Bob and Charlie are well-known expert logicians; they always tell the truth.\n\nIn each of the scenarios below, Charlie writes a whole number on Alice and Bob’s fore-\nheads. The diﬀerence between the two numbers is one: either Alice’s number is one\nlarger than Bob’s, or Bob’s number is one larger than Alice’s. Each of Alice and Bob\ncan see the number on the other’s forehead, but can’t see their own number.\n\n(i) Charlie writes a number on Alice and Bob’s foreheads, and says “Each of your\nnumbers is at least 1. The diﬀerence between the numbers is 1.”\n\nAlice then says “I know my number.”\n\nExplain why Alice’s number must be 2. What is Bob’s number?\n\n(ii) Charlie now writes new numbers on their foreheads, and says “Each of your numbers\nis between 1 and 10 inclusive. The diﬀerence between the numbers is 1. Alice’s number\nis a prime.” (A prime number is a number greater than 1 that is divisible only by 1 and\nitself.)\n\nAlice then says “I don’t know my number.”\n\nBob then says “I don’t know my number.”\n\nWhat is Alice’s number? Explain your answer.\n\n(iii) Charlie now writes new numbers on their foreheads, and says “Each of your numbers\nis between 1 and 10 inclusive. The diﬀerence between the numbers is 1.”\n\nAlice then says “I don’t know my number. Is my number a square number?”\n\nCharlie then says “If I told you that, you would know your number.”\n\nBob then says “I don’t know my number.”\n\nWhat is Alice’s number? Explain your answer.\n\n\n\n\n\n                                     16\n\n17\nTurn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2013",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions13_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2013-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2013-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2013-mat-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2013-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7.\n              COMPUTER SCIENCE\nFor APPLICANTS IN                                   ONLY.\n              COMPUTER SCIENCE & PHILOSOPHY\n\nAB-words are “words” formed from the letters A and B according to certain rules. The\nrules are applied starting with the empty word, containing no letters. The basic rules\nare:\n\n   (1) If the current word is x, then it can be replaced with the word that starts with\nA, followed by x and ending with B, written AxB.\n\n   (2) If the current word ends with B, the ﬁnal B can be removed.\n\n(i) Show how the word AAAB can be produced.\n\n(ii) Describe precisely all the words that can be produced with these two rules. Justify\nyour answer. You might like to write Ai for the word containing just i consecutive copies\nof A, and similarly for B; for example A3B2 = AAABB.\n\nWe now add a third rule:\n\n   (3) Reverse the word, and replace every A by B, and every B by A.\n\nFor example, applying this rule to AAAB would give ABBB.\n\n(iii) Describe precisely all the words that can be produced with these three rules. Justify\nyour answer.\n\nFinally, we add a fourth rule:\n\n   (4) Reverse the word.\n\n(iv) Show that every word consisting of As and Bs can be formed using these four rules.\nHint: show how, if we have produced the word w, we can produce (a) the word Aw, and\n(b) the word Bw; hence deduce the result.\n\n\n\n\n\n                                     18\n\n19\nEnd of last question\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2013",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions13_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2013-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2013-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2013-mat-question-paper__q07.md"
+  }
+ ]
+}

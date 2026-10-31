@@ -1,0 +1,46 @@
+# FMA · 2023 · Annual · F=ma · Q2
+
+- id: fma-2023-f-ma-question-paper__q02
+- course: FMA
+- exam: FMA
+- subject: physics
+- year: 2023
+- session: Annual
+- paper: F=ma
+- question_number: 2
+- paper_id: fma-2023-f-ma-question-paper
+- chapter: Motion, forces and energy
+- knowledge_point: Motion
+- problem_type: 从运动条件或图像求速度和加速度
+- topic_tags: fma-2023-f-ma-question-paper__q02
+
+## Text (OCR)
+
+```text
+2. A mass on an ideal pendulum is released from rest at point I. When it reaches point II, which of the
+   following shows the direction of its acceleration?
+
+
+
+
+
+                                              I     (A)
+                                                      (B)
+
+                                                   II
+                                         (E)
+
+                                                      (C)
+
+                                             (D)
+```
+
+## Answer / mark scheme candidates
+
+- [2023 F=ma  Solutions](https://www.aapt.org/physicsteam/upload/F-ma-2023-Solutions.pdf)
+
+## Source files
+
+- package `question-bank-physics-part-007.zip` (release `subject-resources`) · member `question-corpus/questions/fma-2023-f-ma-question-paper__q02/question.pdf`: https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

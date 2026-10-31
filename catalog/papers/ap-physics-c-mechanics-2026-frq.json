@@ -1,0 +1,196 @@
+{
+ "group": "ap-physics-c-mechanics-2026-frq",
+ "course_id": "AP-PHYSICS-C-MECHANICS",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "ap-physics-c-mechanics-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-mechanics-2026-frq__q01",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question 1: Version J\n\n1. A box of mass M slides to the right on a horizontal surface. A small cube, also of mass M, is\n  inside the box. The cube is against the right wall of the box and above the bottom of the box, as\n  shown in Figure 1. The coefficients of static and kinetic friction between the cube and the wall\n  of the box are n s and n k , respectively, where n s > n k .\n\n                                       Figure 1\n\n\n\n\n\n  The speed of the box is decreasing as a result of a resistive force that is exerted on the box. The\n   resistive force FR is modeled by FR = -bv , where b is a positive constant and v is the velocity of\n  the box. Friction between the box and horizontal surface is negligible.\n  Consider the motion of the box and cube for the following times.\n        •  At time t = 0 , the box-cube system slides to the right with speed v0.\n        •  For 0 # t < tcrit , the cube remains in contact with the wall of the box at a constant height\n        above the bottom of the box.\n        •  At t = tcrit , the cube begins to slide downward along the wall of the box.\n\nPart A\nThe magnitude of the normal force exerted on the cube by the wall of the box is FN .\n        i. Determine an expression for the magnitude of the acceleration of the cube. Express your\n      answer in terms of M, FN , and physical constants, as appropriate.\n       ii. Derive an expression for FN as a function of t from t = 0 until immediately before the\n      cube reaches the bottom of the box. Express your answer in terms of M, b, v0, t, and\n       physical constants, as appropriate. Begin your derivation with a fundamental physics\n       principle or an equation from the reference information.\n     iii. On the axes shown in Figure 2, sketch a graph of the magnitude Ff of the frictional force\n      exerted on the cube by the wall of the box as a function of t from t = 0 until immediately\n      before the cube reaches the bottom of the box.\n\n                                    Figure 2\n\n\n\n\n\nPart B\nDerive an expression for tcrit in terms of M, b, n s , v0, and physical constants, as appropriate.\nBegin your derivation with a fundamental physics principle or an equation from the reference\ninformation.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Physics C: Mechanics ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-mech.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2026-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2026-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2026-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2026-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-physics-c-mechanics-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-mechanics-2026-frq__q02",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "Question 2: Version J\n\n2. A projectile of total mass 4M is launched from the ground at position x = 0 and time t = 0  . The\n  projectile is launched with an initial speed v0 at an angle i above the horizontal. When the\n  projectile is at the highest point in its trajectory, it breaks into Pieces Q and R of masses M and\n  3M , respectively.\n  The motion of the projectile is described for the following times.\n        •  At t = t1 , immediately after the projectile breaks apart, the two pieces are moving away\n       from each other horizontally.\n        •  At t = t2 , Piece Q reaches the ground at x = 0 and Piece R reaches the ground at x = x2 , as\n       shown in Figure 1.\n\n                                       Figure 1\n\nPart A\nThe horizontal and vertical components of a momentum vector are represented by px and py ,\nrespectively. The shaded bars in Figure 2 represent px and py of the projectile immediately\nafter t = 0 .\n\n\n\n\n\nOn Figure 3, draw shaded bars to represent px and py of Pieces Q and R at t = t1 .\n     •   Start the shaded bars at the dashed line that represents zero momentum.\n     •  Represent the magnitudes of the components of the momentum by using the heights of\n      the shaded bars, consistent with the scale used in Figure 2.\n     •  Represent any momentum component that is equal to zero by drawing a distinct line on\n      the zero-momentum line.\n\nPart B\nDerive an expression for x2 in terms of v0, i, and physical constants, as appropriate. Begin\nyour derivation by writing a fundamental physics principle or an equation from the reference\ninformation.\n\nPart C\nThe horizontal component of a velocity vector is represented by vx. Figure 4 shows the\nhorizontal component v ,x cm of the velocity of the center of mass of the projectile as a function of\nt during the time interval 0 < t < t1.\n\n                                    Figure 4\n\n\n\n\n\nOn Figure 4, sketch a line or curve to represent vx as a function of t for the time interval\nt1 < t < t2 for each of the following.\n     •   Piece Q\n     •   Piece R\n     •   The center of mass of the two-piece system\nClearly label all lines or curves.\n\nPart D\nConsider a case in which the projectile is launched at the same angle and initial speed as\ninitially described. When the projectile breaks into Pieces Q and R, Piece Q falls straight down.\nIn this case, Piece R reaches the ground at x = xnew .\nIndicate whether xnew is greater than, less than, or equal to x2 by writing one of the following.\n     •   x new > x2\n     •   x new < x2\n     •   x new = x2\nBriefly justify your answer either by referencing a feature of the representations you drew in\npart A or C or by using conceptual reasoning beyond algebraic solutions.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Physics C: Mechanics ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-mech.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2026-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2026-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2026-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2026-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-physics-c-mechanics-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-mechanics-2026-frq__q03",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "Question 3\n  The following information applies to parts A and B.\n\n\n3. A horizontal spring of known spring constant k is attached to a wall. A block of known mass m\n   is placed on a horizontal surface next to but not attached to the spring. The spring is at its\n  relaxed length when the block is at position x = 0 , as shown in Figure 1. There is friction\n  between the block and the surface only for positions x > 0 .\n\n                                       Figure 1\n\n\n\n\n\n  A student is asked to experimentally determine the coefficient of kinetic friction n k between\n  the block and the surface using a graph. The student is permitted to use only measurements\n  from a meterstick.\n\n  Part A\n\n            i. Indicate quantities that could be measured by the student that would allow them to\n        determine n k using a graph.\n          ii. Briefly describe a method to reduce experimental uncertainty for the measured\n          quantities.\n\n  Part B\n\n            i. Indicate what quantities the student could graph on the horizontal and vertical axes to\n         create a graph that can be used to determine n k .\n          ii. Briefly describe the relationship between n k and a feature of the graph from part B\n              (i). Your answer may include an equation that relates n k and the chosen feature of the\n         graph.\n\nThe following information applies to parts C and D.\nIn a different experiment, the student is asked to determine the spring constant knew of a new\nspring that is attached to a wall. A block of mass .20 kg is placed next to the spring on a surface\nwhere frictional forces are negligible. The surface is horizontal near the spring and slopes\nupward into a ramp to the right of the initial position of the block, as shown in Figure 2.\n\n                                    Figure 2\n\n\n\n\n\nThe student pushes the block, compressing the spring a distance s, as shown in Figure 3. The\nblock is released from rest.\n\n                                    Figure 3\n\n\n\n\n\nThe student uses a meterstick to measure the maximum height h of the block on the ramp. The\nexperiment is repeated several times with different compression distances s. The student’s\nmeasurements of s and h are shown in Table 1.\n\n                                    Table 1\n\n                                        s (m)    h (m)\n\n                                     0.020      0.02\n\n                                     0.040      0.04\n\n                                     0.060      0.13\n\n                                     0.080      0.18\n\n                                     0.100      0.33\n\nPart C\n\n        i. Label the axes of the grid provided with measured or calculated quantities. Include\n       units, as appropriate. The graphed quantities should yield a linear graph that can be used\n       to determine knew.\n       ii. On the grid provided, create a graph of the quantities indicated in part C (i).\n              •   Clearly label the vertical and horizontal axes with numerical scales.\n              •   Plot the corresponding data points on the grid.\n              •  Table 2 is provided in your booklet for scratch work and will not be scored.\n\n\n\n\n\n     iii. Draw a best-fit line for the data graphed in part C (ii).\n\nPart D\nUsing the best-fit line that you drew in part C (iii), calculate an experimental value for knew.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Physics C: Mechanics ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-mech.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2026-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2026-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2026-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2026-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-physics-c-mechanics-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-physics-c-mechanics-2026-frq__q04",
+   "exam_id": "AP-PHYSICS-C-MECHANICS",
+   "course_id": "AP-PHYSICS-C-MECHANICS",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question 4\n\n4. A unicycle is placed on a stand such that the wheel does not touch the ground. The rotational\n  inertia of the wheel about the axle is IW. One end of a crank arm can be attached to the wheel,\n  as shown in the side view.\n\n\n\n\n\n  In Scenarios 1 and 2, crank arms of different lengths are connected to the wheel. In each\n  scenario, the wheel is initially at rest. A force of magnitude F is then exerted at the end of each\n  crank arm. The direction of the force remains perpendicular to each crank arm at all times. The\n  mass of each crank arm is negligible. The scenarios differ as described.\n        •  Scenario 1: The length of the crank arm is 1, . The angular speed of the wheel\n        immediately after the crank arm has been turned through one rotation is ~1 .\n        •  Scenario 2: The length of the crank arm is 2, , where , 2 > ,1 . The angular speed of the\n        wheel immediately after the longer crank arm has been turned through one rotation is\n     ~ 2 .\n\n  Part A\n  Indicate whether ~ 2 is greater than, less than, or equal to ~1 by writing one of the following.\n        •  ~ 2 > ~1\n        •  ~ 2 < ~1\n        •  ~ 2 = ~1\n  Justify your answer. Your justification may reference equations but must include conceptual\n  reasoning beyond algebraic solutions.\n\nPart B\nDerive an expression for the angular speed ~1 of the wheel in Scenario 1 immediately after\nthe crank arm has been turned through one rotation. Express your answer in terms of IW, F, 1, ,\nand physical constants, as appropriate. Begin your derivation by writing a fundamental physics\nprinciple or an equation from the reference information.\n\nPart C\nIn Scenario 3, the unicycle is placed on the ground such that the unicycle can move forward\nwithout the wheel slipping on the ground. A force of the same magnitude F is exerted at the end\nof the crank arm of length 1, , as in Scenario 1. The direction of the force remains perpendicular\nto the crank arm at all times. The resulting angular speed of the wheel immediately after the\ncrank arm has been turned through one rotation is ~ 3 .\nIndicate whether ~ 3 is greater than, less than, or equal to ~1 by writing one of the following.\n     •  ~ 3 > ~1\n     •  ~ 3 < ~1\n     •  ~ 3 = ~1\nBriefly justify your answer. Your justification may reference equations but must include\nconceptual reasoning beyond algebraic solutions.\n\n\n\n                             STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Physics C: Mechanics ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-physics-c-mech.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-physics-c-mechanics-2026-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2026-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-physics-c-mechanics-2026-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-PHYSICS-C-MECHANICS/ap-physics-c-mechanics-2026-frq__q04.md"
+  }
+ ]
+}

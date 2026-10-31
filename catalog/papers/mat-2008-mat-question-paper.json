@@ -1,0 +1,337 @@
+{
+ "group": "mat-2008-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2008-mat-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2008-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "1. For ALL APPLICANTS.\n\n\n   For each part of the question on pages 3—7 you will be given four possible answers,\n   just one of which is correct. Indicate for each part A—J which answer (a), (b), (c),\n   or (d) you think is correct with a tick (X) in the corresponding column in the table\n   below. Please show any rough working in the space provided between the parts.\n\n\n\n\n                           (a)           (b)            (c)           (d)\n\n\n\n       A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n        E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n          J\n\n\n\n\n\n                                  2\n\nA. The function\n                             | = 2{3   6{2 + 5{  7\n\nhas\n\n(a) no stationary points;\n(b) one stationary point;\n(c) two stationary points;\n(d) three stationary points.\n\n\n\n\n\nB. Which is the smallest of these values?\n                                              ¶3            p                                                1                  1\n     (a)   log10   >     (b)     log10 (  2)>     (c)                      >     (d)    s  =\n                                                         log10                  log10\n\n\n\n\n\n                               3                          Turn Over\n\nC. The simultaneous equations in {> |,\n\n                               (cos  ) {   (sin  ) | =  2\n                                 (sin  ) { + (cos  ) | =  1\n\nare solvable\n\n(a) for all values of   in the range 0 6 ? 2  ;\n(b) except for one value of   in the range 0 6 ? 2  ;\n(c) except for two values of   in the range 0 6 ? 2  ;\n(d) except for three values of   in the range 0 6 ? 2  .\n\n\n\n\n\nD. When\n                        1 + 3{ + 5{2 + 7{3 + · · · + 99{49\n\nis divided by {  1 the remainder is\n\n               (a)  2000>     (b)  2500>     (c)  3000>     (d)  3500=\n\n\n\n\n\n                                     4\n\nE. The highest power of { in\n         ½h¡        ¢3   ¡         ¢4i5   h¡              ¡      ¢4i6¾3              2{6 + 7 + 3{8   12   +  3{5   12{2¢5 + {7 + 6\n\n\nis\n                 (a)   {424>     (b)   {450>     (c)   {500>     (d)   {504=\n\n\n\n\n\nF. If the trapezium rule is used to estimate the integral\n                             Z 1\n                                    i ({) d{>\n                                              0\n\nby splitting the interval 0 6 { 6 1 into 10 intervals then an overestimate of the integral\nis produced. It follows that\n                                                   R 1\n(a) the trapezium rule with 10 intervals underestimates                                                                     0 2i ({) d{;\n                                                   R 1\n(b) the trapezium rule with 10 intervals underestimates                                                                     0 (i ({)   1) d{;\n                                                  R 2\n(c) the trapezium rule with 10 intervals underestimates                                                                     1 i ({   1) d{;\n                                                   R 1\n(d) the trapezium rule with 10 intervals underestimates                                                          (1  i ({)) d{=                                                                     0\n\n\n\n\n\n                               5                          Turn Over\n\nG. Which of the graphs below is a sketch of\n\n                                      1\n                              | =             ?\n                               4{   {2   5\n                   y                               y\n\n\n\n\n\n                                   x                               x\n                        (a)                                  (b)\n                   y                               y\n                                   x                               x\n\n\n\n\n\n                         (c)                                  (d)\n\n\nH. The equation\n                                   9{   3{+1 = n\n\nhas one or more real solutions precisely when\n\n         (a)  n >  9@4>     (b)  n A 0>     (c)  n 6   1>     (d)  n > 5@8=\n\n\n\n\n\n                                     6\n\nI. The function V (q) is de ned for positive integers q by\n\n                    V (q) = sum of the digits of q.\n\nFor example, V (723) = 7 + 2 + 3 = 12= The sum\n\n                   V (1) + V (2) + V (3) + · · · + V (99)\n\nequals\n                  (a)  746>     (b)  862>     (c)  900>     (d)  924=\n\n\n\n\n\nJ. In the range 0 6 { ? 2  the equation\n\n                              (3 + cos {)2 = 4  2 sin8 {\n\nhas\n\n    (a)  0 solutions>     (b)  1 solution>     (c)  2 solutions>     (d)  3 solutions=\n\n\n\n\n\n                               7                          Turn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2008",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions08.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2008-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2008-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2008-mat-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2008-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. For ALL APPLICANTS.\n\n(i) Find a pair of positive integers, {1 and |1> that solve the equation\n\n                                   ({1)2   2 (|1)2 = 1=\n\n(ii) Given integers d> e> we de ne two sequences {1> {2> {3> = = = and |1> |2> |3> = = = by setting\n\n              {q+1 = 3{q + 4|q>     |q+1 = d{q + e|q>     for q > 1=\n\nFind positive values for d> e such that\n\n                         ({q+1)2   2 (|q+1)2 = ({q)2   2 (|q)2 =\n\n(iii) Find a pair of integers [> \\ which satisfy [2  2\\ 2 = 1 such that [ A \\ A 50=\n\n(iv) (Using the values of d and e found in part (ii)) what is the approximate value of\n{q@|q as q increases?\n\n\n\n\n\n                                     8\n\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2008",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions08.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2008-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2008-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2008-mat-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2008-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "3.           ;                          <\n            A MATHEMATICS                A            A                          A            ?                          @               MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n            A MATHEMATICS & PHILOSOPHY      A            A                          A            =                          >\n               MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science applicants should turn to page 14.\n\n(i) The graph | = i ({) of a certain function has been plotted below.\n\n                                           y\n\n\n\n                                                          x\n\n\n\n\n\nOn the next three pairs of axes (A), (B), (C) are graphs of\n\n                      | = i (  {) >    i ({   1) >      i ({)\n\nin some order. Say which axes correspond to which graphs.\n\n               y                               y                         y\n\n\n\n                                                               x                               x\n\n                              x\n\n\n\n            (A)                         (B)                         (C)\n\n(ii) Sketch, on the axes opposite, graphs of both of the following functions\n\n                        | = 23{2    and    | = 22{3{2=\n\nCarefully label any stationary points.\n\n(iii) Let f be a real number and de ne the following integral\n                              Z 1\n                                L (f) =     23({3f)2 d{=\n                                                 0\n\nState the value(s) of f for which L (f) is largest. Brie y explain your reasoning.\n[Note you are not being asked to calculate this maximum value.]\n\n\n\n\n                                    10\n\n|\n            6\n\np                                                             p                                                                                                                           p                                                             p                                                             p\n\n\n\n\n\np                                                             p                                                                                                                           p                                                             p                                                             p\n\n\n\n\n                                                                                                                                                                                                                                                                                                                       p - {\n\n\n\n\n\n                      11                          Turn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2008",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions08.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2008-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2008-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2008-mat-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2008-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "从圆的方程或几何条件求圆与直线关系",
+   "search_text": "4.            ;                     <\n             ? MATHEMATICS           @\nFor APPLICANTS IN  MATHEMATICS & STATISTICS    ONLY.\n             =                     >                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science and Computer Science applicants should turn to\npage 14.\n                           y\n\n\n                    Q\n\n                                     C\n\n\n                            q\n\n\n\n                   O             P                                                   x\n                                   p\n\nLet s and t be positive real numbers. Let S denote the point (s> 0) and T denote the\npoint (0> t) =\n\n(i) Show that the equation of the circle F which passes through S, T and the origin R\nis\n                              {2  s{ + |2   t| = 0=\n\nFind the centre and area of F.\n\n(ii) Show that\n                                area of circle F\n                             >   =\n                             area of triangle RST\n\n\n(iii) Find the angles RST and RTS  if\n\n                               area of circle F\n                             = 2  =\n                            area of triangle RST\n\n\n\n\n\n                                    12\n\n13\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2008",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions08.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2008-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2008-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2008-mat-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2008-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For ALL APPLICANTS.\n\nThe Millennium school has 1000 students and 1000 student lockers. The lockers are in\na line in a long corridor and are numbered from 1 to 1000.\n\nInitially all the lockers are closed (but unlocked).\n\nThe  rst student walks along the corridor and opens every locker.\n\nThe second student then walks along the corridor and closes every second locker, i.e.\ncloses lockers 2, 4, 6, etc. At that point there are 500 lockers that are open and 500 that\nare closed.\n\nThe third student then walks along the corridor, changing the state of every third locker.\nThus s/he closes locker 3 (which had been left open by the  rst student), opens locker\n6 (closed by the second student), closes locker 9, etc.\n\nAll the remaining students now walk by in order, with the nth student changing the\nstate of every nth locker, and this continues until all 1000 students have walked along\nthe corridor.\n\n(i) How many lockers are closed immediately after the third student has walked along\nthe corridor? Explain your reasoning.\n\n(ii) How many lockers are closed immediately after the fourth student has walked along\nthe corridor? Explain your reasoning.\n\n(iii) At the end (after all 1000 students have passed), what is the state of locker 100?\nExplain your reasoning.\n\n(iv) After the hundredth student has walked along the corridor, what is the state of\nlocker 1000? Explain your reasoning.\n\n\n\n\n\n                                    14\n\n15\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2008",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions08.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2008-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2008-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2008-mat-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2008-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6.             ½                               ¾\n              COMPUTER SCIENCE\nFor APPLICANTS IN                                    ONLY.\n               MATHEMATICS & COMPUTER SCIENCE\n\n(i) A, B and C are three people. One of them is a liar who always tells lies, another is\na saint who always tells the truth, and the third is a switcher who sometimes tells the\ntruth and sometimes lies. They make the following statements:\n\nA: I am the liar.\nB: A is the liar.\nC: I am not the liar.\n\nWho is the liar among A, B and C? Brie y explain your answer.\n\n(ii) P, Q and R are three more people, one a liar, one a saint, and the third a contrarian\nwho tells a lie if he is the  rst to speak or if the preceding speaker told the truth, but\notherwise tells the truth. They make the following statements:\n\nP: Q is the liar.\nQ: R is the liar.\nR: P is the liar.\n\nWho is the liar among P, Q and R? Brie y explain your answer.\n\n(iii) X, Y and Z are three more people, one a liar, one a switcher and one a contrarian.\nThey make the following statements:\n\nX: Y is the liar.\nY: Z is the liar.\nZ: X is the liar.\nX: Y is the liar.\nY: X is the liar.\n\nWho is the liar among X, Y and Z? Brie y explain your answer.\n\n\n\n\n\n                                    16\n\n17\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2008",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions08.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2008-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2008-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2008-mat-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2008-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7. For APPLICANTS IN COMPUTER SCIENCE ONLY.\n\nOx-words are sequences of letters d and e that are constructed according to the following\nrules:\n\n    I. The sequence consisting of no letters is an Ox-word.\n\n   II. If the sequence Z is an Ox-word, then the sequence that begins with d, followed\n     by Z and ending in e, written dZe, is an Ox-word.\n\n  III. If the sequences X and Y are Ox-words, then the sequence X followed by Y , written\n    XY , is an Ox-word.\n\nAll Ox-words are constructed using these rules. The length of an Ox-word is the number\nof letters that occur in it. For example ddee and dede are Ox-words of length 4.\n\n(i) Show that every Ox-word has an even length.\n\n(ii) List all Ox-words of length 6.\n\n(iii) Let Z be an Ox-word. Is the number of occurrences of d in Z necessarily equal to\nthe number of occurrences of e in Z? Justify your answer.\n\nYou may now assume that every Ox-word (of positive length) can be written uniquely\nin the form dZeZ 0 where Z and Z 0 are Ox-words.\n\n(iv) For q > 0, let Fq be the number of Ox-words of length 2q. Find an expression for\nFq+1 in terms of F0> F1> · · · > Fq. Explain your reasoning.\n\n\n\n\n\n                                    18\n\n19\nTurn Over\n\n20\nEnd of Last Question\n\n21\n\n22\n\n23\n\n24\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2008",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions08.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2008-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2008-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2008-mat-question-paper__q07.md"
+  }
+ ]
+}

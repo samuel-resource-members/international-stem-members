@@ -1,0 +1,773 @@
+{
+ "group": "live-poshenloh-aime-2024ii-question_paper",
+ "course_id": "AIME",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 15,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q01",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1. Among the 900 residents of Aimeville, there are 195 who own a diamond ring, 367 who\n   own a set of golf clubs, and 562 who own a garden spade. In addition, each of the 900\n    residents owns a bag of candy hearts. There are 437 residents who own exactly two of\n   these things, and 234 residents who own exactly three of these things. Find the\n   number of residents of Aimeville who own all four of these things.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q02",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "2. A list of positive integers has the following properties:\n\n   • The sum of the items in the list is 30.\n\n   • The unique mode of the list is 9.\n\n   • The median of the list is a positive integer that does not appear in the list itself.\n\n\n   Find the sum of the squares of all the items in the list.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q03",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "3. Find the number of ways to place a digit in each cell of a 2 × 3 grid so that the sum of\n   the two numbers formed by reading left to right is 999, and the sum of the three\n   numbers formed by reading top to bottom is 99. The grid below is an example of such\n   an arrangement because 8 + 991 = 999 and 9 + 9 + 81 = 99.\n\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q04",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "代数",
+   "knowledge_point": "联立方程",
+   "problem_type": "联立条件求未知量",
+   "search_text": "4. Let x,y, and z be positive real numbers that satisfy the following system of equations:\n\n                               x     1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                                                                                                                                                                ​                                   log 2    =                            (yz )     ​2\n                                    y     1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​                                                                                                                                                           ​                                   log 2    =                             (xz )     ​3\n                                      z     1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​                                   log 2    =                          (xy )     ​4\n\n\n                                4  3  2                                                            ​  m    ​                                              is                                 where m and n are relatively prime positive   Then the value of ​log 2 ​(x y z )                                    n\n    integers. Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q05",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. Let ABCDEF be a convex equilateral hexagon in which all pairs of opposite sides\n   are parallel. The triangle whose sides are extensions of segments AB , CD , and EF\n   has side lengths 200,240, and 300. Find the side length of the hexagon.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q06",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6.  Alice chooses a set A of positive integers. Then Bob lists all finite nonempty sets B of\n    positive integers with the property that the maximum element of B belongs to A.\n   Bob’s list has 2024 sets. Find the sum of the elements of A.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q07",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7.  Let N be the greatest four-digit integer with the property that whenever one of its\n    digits is changed to 1, the resulting number is divisible by 7. Let Q and R be the\n   quotient and remainder, respectively, when N is divided by 1000. Find Q + R.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q08",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "8. Torus T is the surface produced by revolving a circle with radius 3 around an axis in the\n   plane of the circle that is a distance 6 from the center of the circle (so like a donut).\n\n\n\n\n\n   Let S be a sphere with a radius 11. When T rests on the inside of S, it is internally\n   tangent to S along a circle with radius r i ​, and when T rests on the outside of S, it is\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ​    externally tangent to S along a circle with radius r o ​. The difference r i                                    − r ​o can be\n         m    written as     ​, where m and n are relatively prime positive integers. Find m + n.             n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q09",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "9.  There is a collection of 25 indistinguishable white chips and 25 indistinguishable black\n    chips. Find the number of ways to place some of these chips in a 5 × 5 grid such that:\n\n   • each cell contains at most one chip\n\n\n   • all chips in the same row and all chips in the same column have the same color, and\n\n\n   • any additional chip placed on the grid would violate one or more of the previous two\n    conditions.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q10",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "10. Let △ABC have incenter I, circumcenter O, inradius 6, and circumradius 13.\n   Suppose that IA ⊥ OI . Find AB ⋅AC.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q11",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "11. Find the number of triples of nonnegative integers (a, b, c) satisfying a + b + c = 300\n   and\n\n                                    2      2                       a b + a c\n                                           2      2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​ + b a + b c                                                                                                                                                                                                                                                                                                                                                                                                                                                       ​\n                 + c 2 a + c 2 b = 6,000,000.\n\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q12",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "12.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​ be points in the coordinate plane. Let                          and B =  0,   Let O = (0, 0),A = ( 12 ​, 0 ) ,                                                     2                            (     ​3)\n  F be the family of segments PQ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​ of unit length lying in the first quadrant with P on the\n   x -axis and Q on the y -axis. There is a unique point C on AB , distinct from A and B,\n    that does not belong to any segment from F other than AB . Then OC 2 = p ​, where p                                                                                                  q\n   and q are relatively prime positive integers. Find p + q.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q13",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "13. Let ω =1 be a 13 th root of unity. Find the remainder when\n\n                                         12\n                                                   k\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                                  ( 2 −2ω + ω 2k)           ∏\n                                 k=0\n\n     is divided by 1000.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q14",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "14. Let b ≥2 be an integer. Call a positive integer nb -eautiful if it has exactly two digits\n   when expressed in base b and these two digits sum to  n ​. For example, 81 is 13 -\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​    eautiful because 81 = 6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ​  and 6 + 3 =  81 ​. Find the least integer b ≥2 for which                            313\n   there are more than ten b -eautiful integers.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2024ii-question_paper",
+   "year": 2024,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2024ii-question_paper__q15",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "15. Find the number of rectangles that can be formed inside a fixed regular dodecagon (\n    12 -gon) where each side of the rectangle lies on either a side or a diagonal of the\n    dodecagon. The diagram below shows three of those rectangles.\n\n\n\n\n\n      Answer\n\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/aime/2024II/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-answers.pdf"
+    },
+    {
+     "title": "2024 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2024II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2024ii-question_paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2024ii-question_paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2024ii-question_paper__q15.md"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "group": "caie-a-level-9709-2025-may-june-p5-v2-qp",
+ "course_id": "CIE-9709",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-a-level-9709-2025-may-june-p5-v2-qp__q01",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "1   Rachel has three coins. The first coin is biased so that the probability of obtaining a head when it is\n    thrown is 1. The second coin is biased so that the probability of obtaining a head when it is thrown is 1.                 3                                                                                                       4\n    The third coin is fair.\n\n    Rachel throws the three coins at the same time. The random variable X is the number of tails that she\n     obtains.\n\n    Draw up the probability distribution table for X.                                                      [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p5-v2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p5-v2-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-a-level-9709-2025-may-june-p5-v2-qp__q02",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2    In Millford, 70% of the residents own a bicycle. A random sample of 160 residents is selected.\n\n    Use a suitable approximation to find the probability that more than 120 of these residents own a\n     bicycle.                                                                                               [5]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p5-v2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p5-v2-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-a-level-9709-2025-may-june-p5-v2-qp__q03",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3  A bag contains 4 blue marbles and 12 red marbles. One marble is selected at random from the bag. If\n     this marble is blue, it is replaced in the bag, but if it is red, it is not replaced. A second marble is now\n     selected at random from the bag.\n\n     (a)  Find the probability that both marbles selected are the same colour.                             [2]\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n     (b)  Find the probability that the first marble is blue given that the second marble is red.            [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p5-v2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p5-v2-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-a-level-9709-2025-may-june-p5-v2-qp__q04",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4   Vehicles approaching a certain road junction from Bromley must go either left, right or straight on.\n    Over time, it is known that 30% turn left, 25% turn right and 45% go straight on. The driver of each\n     vehicle chooses a direction independently of all other drivers.\n\n     (a)  Find the probability that the next three vehicles approaching this junction from Bromley all go in\n          different directions.                                                                             [2]\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n     (b)  Find the probability that, from the vehicles approaching this junction from Bromley today, the 1st\n          vehicle to go left is before the 9th vehicle.                                                      [2]\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n     (c)  Find the probability that, from the vehicles approaching this junction from Bromley today, the 2nd\n          vehicle to go left is the 7th vehicle.                                                              [2]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p5-v2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p5-v2-qp__q04.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-a-level-9709-2025-may-june-p5-v2-qp__q05",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "5   The times taken, t minutes, by 300 students to travel to Hollowton College are recorded. The results are\n    summarised in the table below.\n\n\n     Time (t minutes)               t G 10         t G 20         t G 30         t G 40         t G 60         t G 90\n\n     Cumulative frequency     34        86       142       208       265       300\n\n     (a) On the grid, draw a cumulative frequency graph to illustrate this information.                  [2]\n\n\n\n\n\n     (b)  120 students take more than k minutes to travel to college. Use your graph to estimate the value of k.\n                                                                                                                [2]\n\n(c)  Calculate estimates of the mean and standard deviation of the times taken to travel to college by\n     the 300 students.                                                                                [6]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p5-v2-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p5-v2-qp__q05.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-a-level-9709-2025-may-june-p5-v2-qp__q06",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6    (a)  Find the number of different ways in which the 10 letters in the word AMALGAMATE can be\n         arranged so that there is an M at the beginning, an M at the end and no As are together.        [3]\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n     (b)  Find the number of different ways in which the 10 letters in the word AMALGAMATE can be\n         arranged with exactly 3 letters between the two Ms.                                             [3]\n\n............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\nFive letters are selected from the 10 letters in the word AMALGAMATE.\n\n(c)  Find the number of different selections in which the five letters include at least one M and at least\n    two As.                                                                                          [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p5-v2-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p5-v2-qp__q06.md"
+  },
+  {
+   "paper_id": "caie-a-level-9709-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-a-level-9709-2025-may-june-p5-v2-qp__q07",
+   "exam_id": "CIE-9709",
+   "course_id": "CIE-9709",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "7    Kestrels are birds whose adult wingspans are normally distributed with mean 74.8 cm and standard\n     deviation 3.2 cm. A random sample of 120 adult kestrels is selected.\n\n     (a) How many of these 120 adult kestrels would you expect to have wingspan between 72.4 cm and\n         76.3 cm?                                                                                         [4]\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n                ............................................................................................................................................................\n\n    The masses of adult kestrels are normally distributed with mean n kg and standard deviation v kg.\n      It is known that 20% of adult kestrels have mass greater than 0.202 kg and 28% have mass less than\n    0.185 kg.\n\n     (b)  Find the value of n and the value of v.                                                          [5]\n\n............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n        ............................................................................................................................................................\n\n10 adult kestrels are selected at random.\n\n(c)  Find the probability that fewer than 3 have masses greater than 0.202 kg.                       [3]\n\nAdditional page\n\nIf you use the following page to complete the answer to any question, the question number must be clearly\nshown.\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n............................................................................................................................................................................\n\n\nPermission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every\nreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the\npublisher will be pleased to make amends at the earliest possible opportunity.\n\n\nTo avoid the issue of disclosure of answer-related information to candidates,  all copyright acknowledgements are reproduced online in the Cambridge\nAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download\nat www.cambridgeinternational.org after the live examination series.\n\n\nCambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge\nLocal Examinations Syndicate (UCLES), which is a department of the University of Cambridge.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Mathematics 9709 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9709_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9709-2025-may-june-p5-v2-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9709-2025-may-june-p5-v2-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9709/caie-a-level-9709-2025-may-june-p5-v2-qp__q07.md"
+  }
+ ]
+}

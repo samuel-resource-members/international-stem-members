@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2023-october-november-p5-v2-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2023-october-november-p5-v2-qp",
+   "year": 2023,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2023-october-november-p5-v2-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1    In this experiment, you will investigate the period of a pendulum.\n\n    Complete the following instructions, referring to Fig. 1.1 and Fig. 1.2.\n\n                              clamp                             clamp\n\n\n\n\n                        d\n\n\n               bob\n\n\n\n                                                one complete\n                                                                     oscillation\n\n                         Fig. 1.1                              Fig. 1.2\n\n   A pendulum has been set up for you as shown in Fig. 1.1.\n\n     (a) The distance d is measured from the bottom of the clamp to the centre of the bob.\n\n           •    Adjust the length of the pendulum until d = 50.0 cm.\n           •    Displace the bob slightly and release it so that it swings. Fig. 1.2 shows one complete\n               oscillation of the pendulum.\n           •   Measure, and record in Table 1.1, the time t for 10 complete oscillations.\n           •    Calculate, and record in Table 1.1, the period T of the pendulum. The period is the time\n                for one complete oscillation.\n           •    Calculate T 2 and record the value in Table 1.1.\n           •    Write the unit for T 2 in the column heading.\n                                                                                                                       [3]\n\n                                        Table 1.1\n\n            d / cm                            t / s              T / s                      T 2 /\n\n               50.0\n\n             100.0\n\n     (b) Repeat the procedure in (a) using d = 100.0 cm.                                                   [3]\n\n\n\n\n\n© UCLES 2023                                         0625/52/O/N/23\n\n(c) A student suggests that T 2 is directly proportional to d.\n\n         Explain briefly how to test the suggestion using the results in Table 1.1.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n     (d)  Describe how you measure the distance d as accurately as possible. Draw a diagram to help\n        your explanation.\n\n\n\n\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n     (e)  Explain why timing 10 oscillations gives a more accurate result for the period T than timing\n       one oscillation.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2023                                         0625/52/O/N/23                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2023 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w23_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-october-november-p5-v2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p5-v2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p5-v2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-october-november-p5-v2-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-october-november-p5-v2-qp",
+   "year": 2023,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2023-october-november-p5-v2-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2    In this experiment, you will investigate the resistance of a wire.\n\n    Complete the following instructions, referring to Fig. 2.1.\n\n\n\n                                                A\n\n\n\n                                                   l\n        B                                    C\n\n                                                                        resistance wire                V\n                                                                   sliding\n                                                           contact S\n\n                                               Fig. 2.1\n\n     (a)  Close the switch.\n\n       Measure the current I in the circuit.                          I = ......................................... [1]\n\n     (b)  Place the sliding contact at a distance l = 10.0 cm from B.\n\n        Measure, and record in Table 2.1, the potential difference (p.d.) V across the length  l of\n         resistance wire BC.\n\n       Open the switch.\n\n         Calculate, and record in Table 2.1, the resistance R of 10.0 cm of the resistance wire using\n         the equation\n\n                                   V                             R =\n                                                       I\n        where I is the current recorded in (a).\n\n        Close the switch.\n\n        Repeat the procedure using l = 20.0 cm, 30.0 cm, 40.0 cm and 50.0 cm.\n\n       Open the switch.\n\n\n\n\n\n© UCLES 2023                                         0625/52/O/N/23\n\nTable 2.1\n\n                                          l / cm            V / V           R / Ω\n                        10.0\n\n                        20.0\n\n                        30.0\n\n                        40.0\n\n                        50.0\n                                                                                                                       [4]\n\n     (c)  Plot a graph of R / Ω (y-axis) against V / V (x-axis). Start both axes at the origin (0,0).\n\n       Draw the best-fit line.\n\n\n\n\n\n                0\n                  0\n                                                                                                                       [4]\n\n     (d)  Determine the gradient G of the graph. Show clearly on the graph how you obtained the\n        necessary information.\n\n\n                                 G =  .........................................................  [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n© UCLES 2023                                         0625/52/O/N/23                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2023 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w23_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-october-november-p5-v2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p5-v2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p5-v2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-october-november-p5-v2-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-october-november-p5-v2-qp",
+   "year": 2023,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2023-october-november-p5-v2-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3    In this experiment, you will investigate the cooling of hot water.\n\n    Complete the following instructions, referring to Fig. 3.1.\n\n\n\n                      thermometer\n\n\n                  beaker\n                                                             bench\n\n\n                                               Fig. 3.1\n\n     (a) Use the thermometer to measure the room temperature θR.\n                                            θR =  .........................................................  [1]\n     (b)   (i)  Pour 200 cm3 of hot water into the beaker. Place the thermometer in the water in the\n             beaker.\n\n            Record in Table 3.1 the temperature θ of the hot water at time t = 0. Immediately start the\n             stop-watch.\n\n            Continue recording the temperature and the time in Table 3.1 at 30 s intervals until you\n           have seven sets of readings.                                                                    [2]\n\n             (ii)  Complete the column headings in Table 3.1.\n\n                                        Table 3.1\n\n                                                              t /                         θ /\n\n\n\n\n\n                                                                                                                       [1]\n\n\n\n\n\n© UCLES 2023                                         0625/52/O/N/23\n\n(c)   (i)  Calculate the decrease in temperature Δθ1 between time t = 0 and time t = 90 s.\n                                                Δθ1 =  .........................................................  [1]\n             (ii)  Calculate the difference in temperature ΔθS between the temperature at time t = 0 and\n           room temperature θR.\n\n                                              ΔθS =  .........................................................  [1]\n            (iii)  Calculate the decrease in temperature Δθ2 between time t = 90 s and time t = 180 s.\n                                                Δθ2 =  ...............................................................\n             Calculate the difference in temperature ΔθT between the temperature at time t = 90 s and\n           room temperature θR.\n\n                                              ΔθT =  ...............................................................\n                                                                                                                       [1]\n\n     (d) A student suggests that the decrease in temperature of the water in 90 s should be greater\n       when the starting temperature is greater.\n\n             (i)  State whether your results agree with this suggestion. Justify your statement by reference\n               to your results.\n\n             statement  ..........................................................................................................................\n\n                justification  ........................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n                                                                                                                       [2]\n\n             (ii)  Suggest how you would continue the experiment, using the same apparatus and method,\n               to investigate the suggestion.\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2023                                         0625/52/O/N/23                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2023 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w23_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-october-november-p5-v2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p5-v2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p5-v2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-october-november-p5-v2-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-october-november-p5-v2-qp",
+   "year": 2023,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2023-october-november-p5-v2-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the effect of changing the colour of light on the focal length of a lens.\n                                                    uv    The focal length f of a lens is given by the equation f =                                                           (u + v).\n\n    The distance u is the distance between an object and the lens. The distance v is the distance\n    between the lens and the image that is formed on a screen.\n\n    Plan an experiment to investigate the effect of changing the colour of light on the focal length of a\n     lens.\n\n    You are not required to do this experiment.\n\n    The following apparatus is available to the student:\n\n     •    illuminated object\n     •   a selection of coloured filters to change the colour of the light\n     •   converging lens\n     •   screen\n     •   metre ruler.\n\n    Other apparatus normally available in a school laboratory can also be used.\n\n     In your plan, you should:\n\n     •   draw a labelled diagram to show the arrangement of the apparatus\n     •    explain briefly how you would do the investigation, including the measurements you would\n         take\n     •   draw a suitable table, with column headings, to show how you would display your readings\n        (you are not required to enter any readings in the table)\n     •    state how you would use your results to reach a conclusion.\n\n\n\n\n\n© UCLES 2023                                         0625/52/O/N/23\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2023 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w23_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-october-november-p5-v2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p5-v2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-october-november-p5-v2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-october-november-p5-v2-qp__q04.md"
+  }
+ ]
+}

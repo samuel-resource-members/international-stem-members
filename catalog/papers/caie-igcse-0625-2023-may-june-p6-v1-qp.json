@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2023-may-june-p6-v1-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2023-may-june-p6-v1-qp",
+   "year": 2023,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2023-may-june-p6-v1-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1  A student investigates the balancing of a metre ruler.\n\n     Fig. 1.1 shows the set-up.\n\n                                                       50.0 cm\n                                                                            metre ruler\n              P                           Q\n               x                                                  y\n\n                0                                                                   100\n                                                               90.0 cm\n\n\n                                                                          bench\n                                                                pivot\n\n                                               Fig. 1.1\n\n     (a) The student places the metre ruler on the pivot at the 50.0 cm mark with the scale of the ruler\n         facing upwards.\n      He places an object Q with its centre on the metre ruler at the 90.0 cm mark.\n\n         Calculate the distance y from the centre of Q to the 100.0 cm end of the ruler.\n\n                                                   y =  ................................................... cm [1]\n\n     (b) The student places a load P of weight P = 2.0 N on the metre ruler.\n\n      He adjusts the position of the load so that the metre ruler is as near as possible to being\n         balanced. He measures the distance x from the centre of P to the zero end of the ruler.\n\n      He repeats the procedure using loads of weight P = 3.0 N, 4.0 N, 5.0 N and 6.0 N. The values\n          of P and x are shown in Table 1.1.\n\n                                        Table 1.1\n\n                           P / N          x / cm\n                                       2.0           10.2\n                                       3.0           23.1\n                                       4.0           30.0\n                                       5.0           33.8\n                                       6.0           36.8\n\n        Describe the main difficulty that a student has when doing this experiment as accurately as\n         possible.\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n\n© UCLES 2023                                          0625/61/M/J/23\n\n(c)  Plot a graph of P / N (y-axis) against x / cm (x-axis).\n\n       Draw the best-fit line.\n\n\n\n\n\n                                                                                                                       [4]\n\n     (d) Use the graph to find the value of x required to balance the ruler when P = 3.5 N. Show clearly\n       on the graph how you determined the value of x.\n\n                                                   x =  .........................................................  [3]\n\n     (e)  Using apparatus from Fig. 1.1, explain briefly how you would determine the position of the\n         centre of mass of the ruler.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2023                                          0625/61/M/J/23                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2023 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s23_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-may-june-p6-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p6-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p6-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-may-june-p6-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-may-june-p6-v1-qp",
+   "year": 2023,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2023-may-june-p6-v1-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "2  A student investigates the cooling of water under different conditions.\n\n     Fig. 2.1 shows the set-up.\n\n\n\n               thermometer\n\n\n\n\n\n       beaker                                                            bench\n\n\n                                               Fig. 2.1\n\n     (a) The thermometer in Fig. 2.2 shows the room temperature θR at the beginning of the\n         experiment. Record θR.\n\n                  –10    0    10    20    30    40    50    60    70    80    90   100   110\n                                                                                         °C\n\n\n                                               Fig. 2.2\n\n                                            θR =  .........................................................  [1]\n\n\n\n\n\n© UCLES 2023                                          0625/61/M/J/23\n\n(b) The student pours 200 cm3 of hot water into the beaker.\n\n       She records the temperature θ of the hot water at time  t = 0. She immediately starts a\n         stop-watch.\n       She continues recording the temperature at 30 s intervals. The temperature readings are\n       shown in Table 2.1.\n\n             (i)  Complete the column headings in Table 2.1.                                                  [1]\n\n             (ii)  Complete the first column of Table 2.1.\n\n                                        Table 2.1\n\n                                                                 t /         θ/\n                                               92\n                                               84\n                                               78\n                                               74\n                                               71\n                                               69\n                                               67\n                                                                                                                       [1]\n\n     (c)   (i)  Calculate the decrease in temperature Δθ between t = 0 and t = 180 s.\n\n                                     Δθ =  .........................................................  [1]\n                                                                Δθ\n             (ii)  Calculate the average rate of cooling R of the water using the equation R =      ,                                                                                                  Δt           where Δt = 180 s. Include the unit.\n\n                                   R =  .........................................................  [2]\n\n     (d) A student states that the average rate of cooling of the water decreases as the temperature\n       comes nearer to room temperature.\n\n             (i)  Suggest one change to the experiment that you could make to test the statement.\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  Suggest how to display the results to make it easier to see the trend in the rate of cooling.\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [2]\n\n\n\n© UCLES 2023                                          0625/61/M/J/23                               [Turn over\n\n(e)  Explain briefly why it is good practice to read the thermometer scale at right angles.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n      (f)  The student uses a measuring cylinder to measure 200 cm3 of hot water. She reads the scale\n          at right angles.\n\n        Suggest another precaution to obtain an accurate reading of the volume of the water.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2023                                          0625/61/M/J/23\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2023 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s23_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-may-june-p6-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p6-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p6-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-may-june-p6-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-may-june-p6-v1-qp",
+   "year": 2023,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2023-may-june-p6-v1-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3  A student investigates the refraction of light using a semicircular transparent block.\n\n     Fig. 3.1 and Fig. 3.2 show his ray-trace sheet.\n\n                                                                         eye\n\n\n\n                                                          P4\n\n\n\n\n                                        P3                   A              B              P                         Q\n\n\n\n\n\n                                               Fig. 3.1\n\n     (a)  •   On Fig. 3.1, draw the normal NL through the centre of AB.\n           •   Continue the normal so that it passes through the curved side of the block.\n           •   Label the normal NL.\n           •   Label the point C where the normal NL crosses AB.\n                                                                                                                       [1]\n\n     (b)   (i)  Draw a line DC, below line PC, at an angle  i = 30° to the normal and to the left of the\n             normal.                                                                                             [1]\n\n             (ii)  •   Mark with neat crosses (X) the positions for two pins on line DC at a suitable\n                  distance apart for this type of ray-trace experiment.\n                •   Label the positions P1 and P2.\n                                                                                                                       [1]\n\n\n\n\n© UCLES 2023                                          0625/61/M/J/23                               [Turn over\n\n(c) The student looks from the position of the eye shown in Fig. 3.1, to observe the images of P1\n       and P2 through side AB of the block.\n      He adjusts his line of sight until the images of P1 and P2 appear one behind the other.\n      He places two pins, P3 and P4, between his eye and the block so that P3, P4, and the images\n          of P1 and P2 seen through the block, appear one behind the other.\n       The positions of P3 and P4 are shown on Fig. 3.1.\n             (i)   •   Draw a line joining the positions of P3 and P4. Continue the line to AB.\n                  •   Label E, the end of the line furthest from AB.\n                                                                                                                       [1]\n\n             (ii)  Measure the acute angle α between the line NL and the line CE. (An acute angle is less\n             than 90°.)\n\n                           α =  ........................................................° [2]\n\n     (d)  State one precaution that you would take in order to produce an accurate ray trace.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n     (e) The student moves the transparent block to a new position on the ray-trace sheet, as shown\n           in Fig. 3.2.\n\n                                             F\n\n\n\n\n\n                      A       C        B         P                                        Q\n\n\n                                               Fig. 3.2\n      He places pins P1 and P2 on line DC in the same positions used in (b)(ii).\n      He observes the images of P1 and P2 through the curved side of the block.\n      He places pins P5 and P6 between his eye and the block so that P5, P6, and the images of P1\n       and P2 seen through the block, appear one behind the other.\n      He draws a line CF through the positions of P5 and P6.\n             (i)  Measure the acute angle β between the line AB and the line CF. (An acute angle is less\n             than 90°.)\n\n                              β =  ........................................................° [1]\n\n© UCLES 2023                                          0625/61/M/J/23\n\n(ii)  Calculate the angle θ between line CF and the normal to line AB. Show your working.\n\n\n                               θ =  ........................................................° [2]\n\n      (f)  A student suggests that angle α should be equal to angle θ. State whether your results\n         support the suggestion and justify your answer with reference to the results.\n\n        statement ..................................................................................................................................\n\n           justification ................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2023                                          0625/61/M/J/23                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2023 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s23_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-may-june-p6-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p6-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p6-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-may-june-p6-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2023-may-june-p6-v1-qp",
+   "year": 2023,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "1",
+   "id": "caie-igcse-0625-2023-may-june-p6-v1-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "4  A student investigates the change in resistance of a lamp filament when the current in the lamp is\n    increased.\n\n    The following apparatus is available:\n\n     •   a power supply\n     •   a low-voltage filament lamp\n     •   an ammeter\n     •   a voltmeter\n     •   connecting wires.\n\n    Other apparatus normally found in a school laboratory is also available.\n\n    Plan an experiment to investigate the change in resistance of the lamp filament when the current\n     in the lamp is increased.\n                                V\n    Resistance R is given by the equation R = I, where V is the potential difference (p.d.) across the\n    lamp and I is the current in the lamp.\n\n    You should:\n\n     •   draw a diagram of the circuit used\n     •    explain briefly how to do the investigation, including how to change the current\n     •   draw a table, or tables, with column headings, to show how to display your readings (you are\n        not required to enter any readings in the table)\n     •    explain how to use your readings to reach a conclusion.\n\n\n\n\n\n© UCLES 2023                                          0625/61/M/J/23\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2023 — Paper 6 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s23_ms_61.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2023-may-june-p6-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-004.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p6-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2023-may-june-p6-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2023-may-june-p6-v1-qp__q04.md"
+  }
+ ]
+}

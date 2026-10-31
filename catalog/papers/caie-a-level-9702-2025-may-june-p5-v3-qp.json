@@ -1,0 +1,102 @@
+{
+ "group": "caie-a-level-9702-2025-may-june-p5-v3-qp",
+ "course_id": "CIE-9702",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 2,
+ "questions": [
+  {
+   "paper_id": "caie-a-level-9702-2025-may-june-p5-v3-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "3",
+   "id": "caie-a-level-9702-2025-may-june-p5-v3-qp__q01",
+   "exam_id": "CIE-9702",
+   "course_id": "CIE-9702",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "1    Fig. 1.1 shows a thin coil of cross-sectional area A and length l connected to a resistor of resistance\n   S and two terminals.\n\n                                                                                   l\n\n\n\n\n                                           S\n\n\n\n\n                                               Fig. 1.1\n\n   An alternating voltage is applied to the terminals. The peak value of the alternating voltage is E and\n    the frequency is f. The peak value of the potential difference V across the resistor is determined\n    using an oscilloscope.\n\n       It is suggested that V is related to f by the relationship\n\n                              ES  KAN 2f\n                                     =\n                              V           l\n\n\n    where N is the number of turns on the coil and K is a constant.\n\n    Plan a laboratory experiment to test the relationship between V and f.\n\n    Draw a diagram showing the arrangement of your equipment.\n\n    Explain how the results could be used to determine a value for K.\n\n     In your plan you should include:\n\n     •    the procedure to be followed\n\n     •    the measurements to be taken\n\n     •    the control of variables\n\n     •    the analysis of the data\n\n     •   any safety precautions to be taken.\n\nDiagram\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................. [15]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Physics 9702 — May/June 2025 — Paper 5 — 3 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9702_s25_ms_53.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9702-2025-may-june-p5-v3-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p5-v3-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p5-v3-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9702/caie-a-level-9702-2025-may-june-p5-v3-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-a-level-9702-2025-may-june-p5-v3-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "3",
+   "id": "caie-a-level-9702-2025-may-june-p5-v3-qp__q02",
+   "exam_id": "CIE-9702",
+   "course_id": "CIE-9702",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "2  A student investigates an electrical circuit.\n\n    The circuit is set up as shown in Fig. 2.1.\n\n                                               Z\n\n\n\n\n                    A\n\n\n\n\n\n                          P         Q\n\n\n\n\n\n                                               Fig. 2.1\n\n   A battery of negligible internal resistance is connected to a resistor of resistance Z. Five resistors,\n    each of resistance R, are connected in parallel between P and Q.\n\n    The switch is closed. The total current I in the circuit is measured using the ammeter.\n\n    The experiment is then repeated by changing the number n of resistors, each of resistance R,\n    connected in parallel between P and Q.\n\n       It is suggested that I and n are related by the equation\n\n                               R\n                             E = I   +                                              ( n  Z)\n\n    where E is the electromotive force (e.m.f.) of the battery.\n\n                        1                  1\n     (a) A graph is plotted of  on the y-axis against  on the x-axis.\n                                I                  n\n\n        Determine expressions for the gradient and y-intercept.\n\n\n\n\n\n                                                  gradient =  ...............................................................\n\n                                                   y-intercept =  ...............................................................\n                                                                                                                       [1]\n\n1\n(b)  Values of n,   and I are given in Table 2.1.\n              n\n\n                                    Table 2.1\n\n\n                    1                             1\n           n                          I / μA                                 / 103 A–1\n                    n                                       I\n\n\n           5       0.200        455 ± 5\n\n\n\n           6       0.167        525 ± 5\n\n\n\n           7       0.143        580 ± 5\n\n\n\n           8       0.125        635 ± 5\n\n\n\n           9       0.111        685 ± 5\n\n\n\n           11      0.0909       765 ± 5\n\n\n\n                            1                                              1     Calculate and record values of    / 103 A–1 in Table 2.1. Include the absolute uncertainties in    .\n                                      I                                                             I\n                                                                                                                 [2]\n\n                    1              1                   1(c)   (i)  Plot a graph of    / 103 A–1 against   Include error bars for    .                              [2]                          I                n.                        I\n\n      (ii)  Draw the straight line of best fit and a worst acceptable straight line on your graph. Label\n        both lines.                                                                                          [2]\n\n     (iii)  Determine the gradient of the line of best  fit. Include the absolute uncertainty in your\n        answer.\n\n\n\n\n\n                                             gradient =  .........................................................  [2]\n\n2.3\n2.2\n2.1\n2.0\n174 Q3,-1\n7! 10°A\n1.9\n1.8\n1.7\n1.6\n1.5\n1.4\n1.3\n0.08 0.10 0.12 0.14 0.16 0.18 0.20 0.22\n3s[a\n\n(iv)  Determine the y-intercept of the line of best fit. Include the absolute uncertainty in your\n        answer.\n\n\n\n\n\n                                              y-intercept =  .........................................................  [2]\n\n(d) The e.m.f. E of the battery is determined twice during the experiment. The values obtained\n    are 5.6 V and 6.0 V.\n\n       (i)  Using your answers to (a), (c)(iii) and (c)(iv), determine the values of R and Z. Include\n         appropriate units.\n\n\n\n\n\n                                R =  ...............................................................\n\n                                      Z =  ...............................................................\n                                                                                                                 [2]\n\n      (ii)  Determine the percentage uncertainty in your value of R.\n\n\n\n\n\n                            percentage uncertainty =  ..................................................... % [1]\n\n(e) The experiment is repeated with 20 resistors, each of resistance R, connected in parallel\n    between P and Q. Determine the total current I in the circuit.\n\n\n\n\n\n                                                        I =  ...................................................... A [1]\n\n                                                                                                      [Total: 15]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Physics 9702 — May/June 2025 — Paper 5 — 3 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9702_s25_ms_53.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9702-2025-may-june-p5-v3-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p5-v3-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p5-v3-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9702/caie-a-level-9702-2025-may-june-p5-v3-qp__q02.md"
+  }
+ ]
+}

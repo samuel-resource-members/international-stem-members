@@ -1,0 +1,102 @@
+{
+ "group": "mat-2024-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 2,
+ "questions": [
+  {
+   "paper_id": "mat-2024-mat-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2024-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "26",
+   "chapter": "向量",
+   "knowledge_point": "向量分量",
+   "problem_type": "用向量分量求位置、长度或方向",
+   "search_text": "Question 26\n                                                       x\nIn this question we will write (x, y) for a vector instead of the usual      notation. So,\n                                                                y\nfor example, 3(2, 1) = (6, 3).\n\nThis question is about vectors (x, y) where x and y are whole numbers, and whether or\nnot such vectors can be written in the form a(5, 0) + b(0, 7) + c(2, 1) where a and b and\nc are whole numbers each greater than or equal to zero.\n\nWe will consider the set S of vectors (p, q) with 0 ≤p ≤4 and 0 ≤q ≤6, with p and q\nwhole numbers.\n\nThen, by considering the vectors (x, y), (x, y)−(2, 1), (x, y)−2(2, 1), . . . , (x, y)−34(2, 1),\nwe will find conditions on x and y that imply that (x, y) can be written in the form\na(5, 0) + b(0, 7) + c(2, 1) where a and b and c are whole numbers each greater than or\nequal to zero.\n\n  (i) Consider the set S of vectors (p, q) with 0 ≤p ≤4 and 0 ≤q ≤6, with p and q\n     whole numbers.\n\n      (a) How many vectors are in S?\n\n     (b) Explain why for any vector (x, y) with x and y whole numbers, we can find\n        whole numbers a and b, and a vector v in S such that\n\n                                     (x, y) = a(5, 0) + b(0, 7) + v.\n\n     In the rest of this question, we’ll call such a vector v the residue of (x, y), and we\n      will assume that the residue is uniquely defined for each vector (x, y).\n                                                            3 marks\n\n  (ii) Consider vectors (x, y) + k(2, 1) and (x, y) + m(2, 1) where k and m are whole\n     numbers.\n\n      (a) Prove that if these vectors have the same residue (as defined in the previous\n         part of the question), then (k −m) is a multiple of 35.\n\n     (b) Explain why the vectors (x, y), (x, y)−(2, 1), (x, y)−2(2, 1), . . . , (x, y)−34(2, 1)\n            all have different residues.                                 4 marks\n\n (iii) Hence show that if x is at least 68 and y is at least 34, with x and y whole numbers,\n     then the vector (x, y) can be written in the form a(5, 0) + b(0, 7) + c(2, 1) where a\n    and b and c are whole numbers each greater than or equal to zero.\n\n    You do not need to find the values of a and b and c.\n                                                            4 marks\n\n (iv) A student claims: “if x and y are whole numbers with x > 0 and y > 0 and x + y\n     at least 102 then (x, y) can be written in the form a(5, 0) + b(0, 7) + c(2, 1) where a\n    and b and c are whole numbers each greater than or equal to zero.”\n\n      Is the student’s claim correct? Justify your answer.\n                                                            4 marks\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2024",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions24.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2024-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2024-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2024-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2024-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2024-mat-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2024-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "27",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "Question 27\nThe faces of a cube are each painted either red or blue.\nAn ant is positioned on each of the eight corners of the cube, and each ant can only see\nthe three faces that meet at that corner of the cube.\nIn this question, the ants will be asked about the faces that they can see, and the ants\nwill always answer truthfully.\n\n\n\n\n\n  (i) The ants are each asked “Can you see an even number of red faces?”. Each ant\n     answers either yes or no. Explain why the number of ants that say yes is even.\n                                                            3 marks\n\n  (ii) Is it possible that all eight of the ants can each see exactly two red faces? Justify\n     your answer.\n                                                            2 marks\n\n (iii) The ants are each asked “Can you see at least one red face?”. Explain why it is\n     impossible for exactly five of the ants to say yes and exactly three to say no.\n                                                            3 marks\n\n (iv) Suppose that the four ants on the corners of the top face of the cube can see exactly\n      0, 1, 1, and 2 red faces each, in some order. How many blue faces might there be\n      in total? Find all possibilities, and explain your answer.\n                                                            3 marks\n\n (v) A three-dimensional shape is constructed such that each face is either a square or\n     a hexagon, with two faces meeting at each edge and three faces meeting at each\n      corner. Each face of the shape is painted either red or blue. Consider the edges\n     where a red face meets a blue face. Explain why the number of such edges is even.\n                                                            4 marks\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2024",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions24.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2024-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2024-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2024-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2024-mat-question-paper__q02.md"
+  }
+ ]
+}

@@ -1,0 +1,948 @@
+{
+ "group": "tmua-2022-paper-2-question-paper",
+ "course_id": "TMUA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 20,
+ "questions": [
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q01",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "1    Determine the number of stationary points on the curve with equation\n\n                                      y ൌ 3 x 4 + 4 x 3 + 6 x 2 – 5\n\n   A  0\n\n    B  1\n\n   C  2\n\n   D  3\n\n    E  4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q01.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q02",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "二项式展开",
+   "problem_type": "求展开式的系数或指定项",
+   "search_text": "2    Find the coefficient of the x 5 term in the expansion of\n\n\n                                                                     5\n                                                         (1+ x )5 ×   x i                   ¦\n                                                                                                                          i =0\n\n   A  1\n\n    B  5\n\n   C  16\n\n   D  25\n\n    E  32\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q02.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q03",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3    Consider the following statement about the positive integer n\n\n                                             if n is prime, then n 2 + 2 is not prime\n\n    Which of the following is a counterexample to this statement?\n\n              I   n ൌ 2\n\n              II   n ൌ 3\n\n              III  n ൌ 4\n\n\n   A  none of them\n\n    B   I only\n\n   C   II only\n\n   D   III only\n\n    E   I and II only\n\n    F   I and III only\n\n   G   II and III only\n\n   H   I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q03.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q04",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "从圆的方程或几何条件求圆与直线关系",
+   "search_text": "4    The point P has coordinates ( p, q ), and the equation of a circle is\n\n                                    x 2 + 2 f x + y 2 + 2 g y + h ൌ 0\n\n     where f, g, h, p and q are all real constants.\n\n     Let L be the distance between the centre of the circle and the point P.\n\n    Which one of the following is sufficient on its own to be able to calculate L ?\n\n   A   the values of f, g and h\n\n    B   the values of f, g, p and q\n\n   C   the values of f, h, p and q\n\n   D   the values of g, h, p and q\n\n    E  none of the options A-D is sufficient on its own\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q04.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q05",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "函数",
+   "knowledge_point": "图像与方程",
+   "problem_type": "利用交点、截距或渐近线分析图像",
+   "search_text": "5   A straight line L passes through (1, 2).\n\n     Let P be the statement\n\n                 if the y-intercept of L is negative, then the x-intercept of L is positive.\n\n    Which of the following statements must be true?\n\n              I   P\n\n              II   the converse of P\n\n              III   the contrapositive of P\n\n\n   A  none of them\n\n    B   I only\n\n   C   II only\n\n   D   III only\n\n    E   I and II only\n\n    F   I and III only\n\n   G   II and III only\n\n   H   I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q05.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q06",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "6   A list consists of n integers.\n\n     Consider the following statements:\n\n         P :   n is odd.\n\n       Q :  The median of the list is one of the numbers in the list.\n\n    Which one of the following is true?\n\n\n   A  P is necessary and sufficient for Q.\n\n    B  P is necessary but not sufficient for Q.\n\n   C  P is sufficient but not necessary for Q.\n\n   D  P is not necessary and not sufficient for Q.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q06.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q07",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "代数",
+   "knowledge_point": "二次方程",
+   "problem_type": "解二次方程或判断根的情况",
+   "search_text": "7    Consider the following claim:\n\n          The difference between two consecutive positive cube numbers is always prime.\n\n     Here is an attempted proof of this claim:\n\n              I       ( x + 1)3 ൌ x 3 + 3x 2 + 3x + 1\n\n              II    Taking x to be a positive integer, the difference between two consecutive cube\n               numbers can be expressed as  ( x + 1)3 – x 3 ൌ 3x 2 + 3x + 1\n\n              III     It is impossible to factorise 3x 2 + 3x + 1 into two linear factors with integer\n                   coefficients because its discriminant is negative.\n\n         IV    Therefore for every positive integer value of x the integer 3x 2 + 3x + 1 cannot be\n                   factorised.\n\n       V    Hence, the difference between two consecutive cube numbers will always be prime.\n\n    Which of the following best describes this proof ?\n\n   A  The proof is completely correct, and the claim is true.\n\n    B  The proof is completely correct, but there are counterexamples to the claim.\n\n   C  The proof is wrong, and the first error occurs on line I.\n\n   D  The proof is wrong, and the first error occurs on line II.\n\n    E  The proof is wrong, and the first error occurs on line III.\n\n    F  The proof is wrong, and the first error occurs on line IV.\n\n   G  The proof is wrong, and the first error occurs on line V.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q07.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q08",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "利用首项、公差和项数求项或和",
+   "search_text": "8   A selection, S, of n terms is taken from the arithmetic sequence 1, 4, 7, 10, … , 70.\n\n     Consider the following statement:\n\n                                 ( ∗ ) There are two distinct terms in S whose sum is 74.\n\n    What is the smallest value of n for which ( ∗ ) is necessarily true?\n\n   A  12\n\n    B  13\n\n   C  14\n\n   D  21\n\n    E  22\n\n    F  23\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q08.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q09",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q09.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q10",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "10   Which of the following statements is/are true?\n\n              I   For all real numbers x and for all positive integers n, x < n\n\n              II   For all real numbers x, there exists a positive integer n such that x < n\n\n              III  There exists a real number x such that for all positive integers n, x < n\n\n\n   A  none of them\n\n    B   I only\n\n   C   II only\n\n   D   III only\n\n    E   I and II only\n\n    F   I and III only\n\n   G   II and III only\n\n   H   I, II and III\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q10.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q11",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "11                                         S\n\n\n                                                        z\n                                          x            x\n                       P                      R\n                              O\n\n\n\n                                                  y\n\n\n\n\n\n                             Q\n\n     The diagram shows a kite PQRS whose diagonals meet at O.\n\n        OP ൌ x\n       OQ ൌ y\n        OR ൌ x\n         OS ൌ z\n\n    Which of the following is necessary and sufficient for angle SPQ to be a right angle?\n\n   A  x ൌ y ൌ z\n\n    B  2 x ൌ y + z\n\n   C  x 2 ൌ y z\n\n   D  y ൌ z\n\n    E  y 2 ൌ x 2 + z 2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q11.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q12",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "12   Place the following integrals in order of size, starting with the smallest.\n\n\n                                                          1\n                                                                       x\n                            P ൌ  2  dx                                          ³\n                                                          0\n\n\n                                                          1\n                                                                     x\n                        Q ൌ  2 dx                                          ³\n                                                          0\n\n\n                                                          1\n                                                                          x\n                            R ൌ                                          2 ) dx                                          ³ (\n                                                          0\n\n   A  P < Q < R\n\n    B  P < R < Q\n\n   C Q < P < R\n\n   D Q < R < P\n\n    E  R < P < Q\n\n    F  R < Q < P\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q12.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q13",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "13   Consider the statement (∗) about a real number x:\n\n                      (∗) There exists a real number y such that x – x y + y is negative.\n\n     For how many real values of x is (∗) true?\n\n   A  no values of x\n\n    B   exactly one value of x\n\n   C   exactly two values of x\n\n   D   all except exactly two values of x\n\n    E   all except exactly one value of x\n\n    F   all values of x\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q13.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q14",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "代数",
+   "knowledge_point": "不等式",
+   "problem_type": "求满足不等式的范围",
+   "search_text": "14   Consider the two inequalities:\n\n                                         x +5 < x +11\n\n                                        x +11 < x +1\n\n    Which one of the following is correct?\n\n   A  There is no real number for which both inequalities are true.\n\n    B  There is exactly one real number for which both inequalities are true.\n\n   C  The real numbers for which both inequalities are true form an interval of length 1.\n\n   D  The real numbers for which both inequalities are true form an interval of length 2.\n\n    E  The real numbers for which both inequalities are true form an interval of length 3.\n\n    F  The real numbers for which both inequalities are true form an interval of length 4.\n\n   G  The real numbers for which both inequalities are true form an interval of length 5.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q14.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q15",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "利用指数或对数关系求未知量",
+   "search_text": "15   The real numbers x, y and z are all greater than 1, and satisfy the equations\n\n                                      log x y ൌ z  and  log y z ൌ x\n\n    Which one of the following equations for log z x must be true?\n\n   A  log z x ൌ y\n\n               1    B   log z x ൌ\n                 y\n\n   C  log z x ൌ x y\n\n                1   D  log z x ൌ\n                 xy\n\n    E   log z x ൌ x z\n\n                1    F   log z x ൌ\n                   xz\n\n   G  log z x ൌ y z\n\n                1   H  log z x ൌ\n                   yz\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q15.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q16",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q16/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q16/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q16.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q17",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "17  A student answered the following question:\n\n                 a and b are non-zero real numbers.\n\n                  Prove that the equation x 3 + a x 2 + b ൌ 0 has three distinct real roots if\n                          §    4 a 3 ·\n                 27 b ¨ b +      ¸ < 0                          ©    27 ¹\n\n\n     Here is the student’s solution:\n\n                                                3      2          dy       2              I   We differentiate y ൌ x + a x + b to get   ൌ 3x + 2a x ൌ x (3x + 2a)\n                                               dx\n                     dy                                                          §  2 a     4 a 3 ·\n               Solving   ൌ 0 shows that the stationary points are at (0, b) and ¨ –      , b +     ¸                     dx                                                          ©  3      27 ¹\n\n                         §    4 a 3 ·                  4 a 3\n              II    If 27 b ¨ b +      ¸ < 0, then b and b +     must have opposite signs, and so one of                         ©    27 ¹                  27\n                 the stationary points is above the x-axis and one is below.\n\n\n              III   If the cubic has three distinct real roots, then one of the stationary points is above the\n                 x-axis and one is below.\n\n                                §    4 a 3 ·\n         IV  Hence if 27 b ¨ b +      ¸ < 0, then the equation has three distinct real roots.                                ©    27 ¹\n\n\n    Which one of the following options best describes the student’s solution?\n\n   A   It is a completely correct solution.\n\n\n    B  The student has instead proved the converse of the statement in the question.\n\n\n   C  The solution is wrong, because the student should have stated step II after step III.\n\n   D  The solution is wrong, because the student should have shown the converse of the result in\n          step II.\n\n    E  The solution is wrong, because the student should have shown the converse of the result in\n          step III.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q17/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q17/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q17.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q18",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "18   P, Q, R and S show the graphs of\n\n                    y ൌ (cos x) cos x, y ൌ (sin x) sin x, y ൌ (cos x) sin x and y ൌ (sin x) cos x\n\n               ʌ      for 0 < x <    in some order.\n               2\n\n     P                           Q\n          1                                       1\n\n\n\n          0.5                                             0.5\n\n\n\n\n          0         π        π        π          0         π        π        π\n                    6        3        2                     6        3        2\n\n\n    R                                  S\n          1                                       1\n\n\n\n          0.5                                             0.5\n\n\n\n\n          0         π        π        π          0         π        π        π\n                    6        3        2                     6        3        2\n\n\n    Which row in the following table correctly identifies the graphs?\n\n             y ൌ (cos x) cos x         y ൌ (sin x) sin x         y ൌ (cos x) sin x         y ൌ (sin x) cos x\n\n   A         P            Q             R                S\n\n    B         P            Q                S             R\n\n   C       Q                P             R                S\n\n   D       Q                P                S             R\n\n    E        R                S                P            Q\n\n    F        R                S            Q                P\n\n   G         S             R                P            Q\n\n   H         S             R            Q                P\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q18/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q18/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q18.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q19",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "坐标几何",
+   "knowledge_point": "圆",
+   "problem_type": "从圆的方程或几何条件求圆与直线关系",
+   "search_text": "",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q19/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q19/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q19.md"
+  },
+  {
+   "paper_id": "tmua-2022-paper-2-question-paper",
+   "year": 2022,
+   "session": "Historic",
+   "paper": "Paper 2",
+   "variant": "",
+   "id": "tmua-2022-paper-2-question-paper__q20",
+   "exam_id": "TMUA",
+   "course_id": "TMUA",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "三角",
+   "knowledge_point": "弧度与扇形",
+   "problem_type": "用弧长、半径和圆心角求量",
+   "search_text": "20   The functions f1 to f5 are defined on the real numbers by\n\n                                        f1(x) ൌ cos x\n                                        f2(x) ൌ sin (cos x)\n                                        f3(x) ൌ cos (sin (cos x))\n                                        f4(x) ൌ sin (cos (sin (cos x)))\n                                        f5(x) ൌ cos (sin (cos (sin (cos x))))\n\n     where all numbers are taken to be in radians.\n\n     These functions have maximum values m 1, m 2, m 3, m 4 and m 5 , respectively.\n\n    Which one of the following statements is true?\n\n   A m 1, m 2, m 3, m 4 and m 5 are all equal to 1\n\n    B  0 < m 5 < m 4 < m 3 < m 2 < m 1 ൌ 1\n\n   C m 1 ൌ m 3 ൌ m 5 ൌ 1 and 0 < m 2 ൌ m 4 < 1\n\n   D m 1 ൌ m 3 ൌ m 5 ൌ 1 and 0 < m 4 < m 2 < 1\n\n    E  m 1 ൌ m 3 ൌ 1 and 0 < m 2 ൌ m 4 < 1 and 0 < m 5 < 1\n\n    F  m 1 ൌ m 3 ൌ 1 and 0 < m 4 < m 2 < 1 and 0 < m 5 < 1\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 TMUA Paper 2 – worked answers",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/06/04105227/TMUA-2022-paper-2-worked-answers.pdf"
+    }
+   ],
+   "topic_tags": [
+    "tmua-2022-paper-2-question-paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-013.zip",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q20/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-013.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/tmua-2022-paper-2-question-paper__q20/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/TMUA/tmua-2022-paper-2-question-paper__q20.md"
+  }
+ ]
+}

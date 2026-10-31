@@ -1,0 +1,290 @@
+{
+ "group": "ap-statistics-2023-frq-question-paper",
+ "course_id": "AP-STATISTICS",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-statistics-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2023-frq-question-paper__q01",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "Begin your response to QUESTION 1 on this page.\n\n\n\n                                    STATISTICS\n\n                                SECTION II\n\n                                     Total Time—1 hour and 30 minutes\n\n                                          6 Questions\n\n\n                                               Part A\n\n                                Suggested Time—1 hour and 5 minutes\n\n                                          5 Questions\n\nDirections: Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness\nof your methods as well as on the accuracy and completeness of your results and explanations.\n\n1. As part of a study on the chemistry of Alaskan streams, researchers took water samples from many streams with\n   temperatures colder than 8°C and from many streams with temperatures warmer than 8°C. For each sample, the\n   researchers measured the dissolved oxygen concentration, in milligrams per liter (mg/l).\n\n\n\n\n\n   (a) The researchers constructed the histogram shown for the dissolved oxygen concentration in streams from the\n     sample with water temperatures colder than 8°C. Based on the histogram, describe the distribution of\n      dissolved oxygen concentration in streams with water temperatures colder than 8°C.\n\nContinue your response to QUESTION 1 on this page.\n\n\n                      Min Q1  Median Q3 Max Mean Std. Dev.\n\n                            2.10 4.39   5.43   6.12 13.45  5.54    1.64\n\n(b) The researchers computed the summary statistics shown in the table for the dissolved oxygen concentration in\n   streams from the sample with water temperatures warmer than 8°C. Use the summary statistics to construct a\n   box plot for the dissolved oxygen concentration in streams with water temperatures warmer than 8°C. Do not\n    indicate outliers.\n\n\n\n\n\n(c) The researchers believe that streams with higher dissolved oxygen concentration are generally healthier for\n    wildlife. Which streams are generally healthier for wildlife, those with water temperature colder than 8°C or\n   those with water temperature warmer than 8°C? Using characteristics of the distribution of dissolved oxygen\n   concentration for temperatures colder than 8 C and characteristics of the distribution of dissolved oxygen\n   concentration for temperatures warmer than 8 C, justify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-statistics Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2023-frq-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2023-frq-question-paper__q01.md"
+  },
+  {
+   "paper_id": "ap-statistics-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2023-frq-question-paper__q02",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "Begin your response to QUESTION 2 on this page.\n\n2. A developer wants to know whether adding fibers to concrete used in paving driveways will reduce the severity of\n   cracking, because any driveway with severe cracks will have to be repaired by the developer. The developer\n   conducts a completely randomized experiment with 60 new homes that need driveways. Thirty of the driveways\n   will be randomly assigned to receive concrete that contains fibers, and the other 30 driveways will receive\n   concrete that does not contain fibers. After one year, the developer will record the severity of cracks in each\n   driveway on a scale of 0 to 10, with 0 representing not cracked at all and 10 representing severely cracked.\n\n   (a) Based on the information provided about the developer’s experiment, identify each of the following.\n\n          • Experimental units\n\n\n\n          • Treatments\n\n\n\n          • Response variable\n\n\n\n   (b) Describe an appropriate method the developer could use to randomly assign concrete that contains fibers and\n      concrete that does not contain fibers to the 60 driveways.\n\nContinue your response to QUESTION 2 on this page.\n\nSuppose the developer finds that there is a statistically significant reduction in the mean severity of cracks in\ndriveways using the concrete that contains fibers compared to the driveways using concrete that does not contain\nfibers.\n\n(c) In terms of the developer’s conclusion, what is the benefit of randomly assigning the driveways to either the\n   concrete that contains fibers or the concrete that does not contain fibers?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-statistics Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2023-frq-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2023-frq-question-paper__q02.md"
+  },
+  {
+   "paper_id": "ap-statistics-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2023-frq-question-paper__q03",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "Begin your response to QUESTION 3 on this page.\n\n3. Bath fizzies are mineral tablets that dissolve and create bubbles when added to bathwater. In order to increase\n   sales, the Fizzy Bath Company has produced a new line of bath fizzies that have a cash prize in every bath fizzy.\n   Let the random variable, X, represent the dollar value of the cash prize in a bath fizzy. The probability distribution\n   of X is shown in the table.\n\n\n   Cash prize, x                     $1        $5        $10       $20       $50       $100\n\n    Probability of cash prize,\n                             P(X = $1)     0.2        0.05        0.05        0.01        0.01\n   P(X = x)\n\n   (a) Based on the probability distribution of X, answer the following. Show your work.\n\n    (i) Calculate the proportion of bath fizzies that contain $1.\n\n\n\n\n\n    (ii) Calculate the proportion of bath fizzies that contain at least $10.\n\n\n\n\n\n   (b) Based on the probability distribution of X, calculate the probability that a randomly selected bath fizzy\n      contains $100, given that it contains at least $10. Show your work.\n\nContinue your response to QUESTION 3 on this page.\n\n(c) Based on the probability distribution of X, calculate and interpret the expected value of the distribution of the\n   cash prize in the bath fizzies. Show your work.\n\n\n\n\n\n(d) The Fizzy Bath Company would like to sell the bath fizzies in France, where the currency is euros. Suppose\n   the conversion rate for dollars to euros is 1 dollar = 0.89 euros. Using your expected value from part (c),\n    calculate the expected value, in euros, of the distribution of the cash prize in the bath fizzies. Show your work.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-statistics Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2023-frq-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2023-frq-question-paper__q03.md"
+  },
+  {
+   "paper_id": "ap-statistics-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2023-frq-question-paper__q04",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "Begin your response to QUESTION 4 on this page.\n\n4. A medical researcher completed a study comparing an omega-3 fatty acids supplement to a placebo in the\n   treatment of irritability in patients with a certain medical condition. Nineteen patients with the medical condition\n   volunteered to participate in the study. The study was conducted using the following weekly schedule.\n\n          • Week 1: Each patient took a randomly assigned treatment, omega-3 supplement or placebo.\n          • Week 2: The patients did not take either the omega-3 supplement or the placebo. This was\n         necessary to reduce the possibility of any carryover effect from the assigned treatment taken\n         during week 1.\n          • Week 3: Each patient took the treatment, omega-3 supplement or placebo, that they did not take\n         during week 1.\n\n  At the end of week 1 and week 3, each patient’s irritability was given a score on a scale of 0 to 10, with 0\n   representing no irritability and 10 representing the highest level of irritability.\n\n   For each patient, the two irritability scores and the difference in their scores (placebo minus omega-3) were\n   recorded. The results are summarized in the table and boxplots.\n\n\n                                                   n   Mean   Standard Deviation\n\n                 Placebo                             19   5.421         2.987\n\n               Omega-3                            19   3.632         1.739\n\n                  Difference (placebo minus omega-3)      19   1.789         2.485\n\nContinue your response to QUESTION 4 on this page.\n\nThe researcher claims the omega-3 supplement will decrease the mean irritability score of all patients with the\nmedical condition similar to the volunteers who participated in the study. Is there convincing statistical evidence\nto support the researcher’s claim at a significance level of a = 0.05? Complete the appropriate inference\nprocedure to support your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-statistics Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2023-frq-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2023-frq-question-paper__q04.md"
+  },
+  {
+   "paper_id": "ap-statistics-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2023-frq-question-paper__q05",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "统计",
+   "knowledge_point": "回归与相关",
+   "problem_type": "建立回归模型并解释预测",
+   "search_text": "Begin your response to QUESTION 5 on this page.\n\n5. Wildlife biologists are interested in the health of tule elk, a species of deer found in California. An important\n  measurement of tule elk health is their weight. The weight of a tule elk is difficult to measure in the wild.\n  However, chest circumference, which is believed to be related to the weight of a tule elk, can easily be measured\n  from a safe distance using a harmless laser. A study was done to investigate whether chest circumference, in\n   centimeters (cm), could be used to accurately estimate the weight, in kilograms (kg), of male tule elk. For the\n   study, wildlife biologists captured 30 male tule elk, measured their chest circumference and weight, and then\n   released the elk. The data for the 30 male tule elk are shown in the scatterplot.\n\n\n\n\n\n   (a) Describe the relationship between chest circumference and weight of male tule elk in context.\n\nContinue your response to QUESTION 5 on this page.\n\nFollowing is the equation of the least-squares regression line relating chest circumference and weight for male tule\nelk.\n\n                           predicted weight = –350.3 + 3.7455(chest circumference)\n\n(b) The weight of one male tule elk with a chest circumference of 145.9 cm is 204.3 kg.\n\n(i) Using the equation of the least-squares regression line, calculate the predicted weight for this male tule elk.\n  Show your work.\n\n\n\n\n\n(ii) Calculate the residual for this male tule elk. Show your work.\n\nContinue your response to QUESTION 5 on this page.\n\nThe equation of the least-squares regression line relating chest circumference and weight for male tule elk is\nrepeated here.\n\n                           predicted weight = −350.3 + 3.7455(chest circumference)\n\n(c) Interpret the slope of the least-squares regression line in context.\n\n\n\n\n\n(d) The sambar, another species of deer, is similar in size to the tule elk. The slope of the population regression\n    line relating chest circumference and weight for all male sambars is 4.5 kilograms per centimeter. A wildlife\n    biologist wants to determine whether the slope of the population regression line for male tule elk is different\n   than that for male sambars. Let b represent the slope of the population regression line for male tule elk. The\n    wildlife biologist conducted a test of the following hypotheses using the sample of 30 tule elk.\n\n                             H 0 : b = 4.5\n                             H a : b π 4.5\n\nThe test statistic was calculated to be 3.408. Assume all conditions for inference were met.\n\n(i) Determine the p-value of the test.\n\nContinue your response to QUESTION 5 on this page.\n\n(ii) At a significance level of a = 0.05, what conclusion should the wildlife biologist make regarding the slope of\n    the population regression line for male tule elk? Justify your response.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-statistics Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2023-frq-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2023-frq-question-paper__q05.md"
+  },
+  {
+   "paper_id": "ap-statistics-2023-frq-question-paper",
+   "year": 2023,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2023-frq-question-paper__q06",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "Begin your response to QUESTION 6 on this page.\n\n                                    STATISTICS\n\n                              SECTION II, Part B\n\n                                     Suggested Time—25 minutes\n\n                                           1 Question\n\nDirections: Show all your work. Indicate clearly the methods you use, because you will be scored on the correctness\nof your methods as well as on the accuracy and completeness of your results and explanations.\n\n6. A jewelry company uses a machine to apply a coating of gold on a certain style of necklace. The amount of gold\n   applied to a necklace is approximately normally distributed. When the machine is working properly, the amount of\n   gold applied to a necklace has a mean of 300 milligrams (mg) and standard deviation of 5 mg.\n\n   (a) A necklace is randomly selected from the necklaces produced by the machine. Assuming that the machine is\n     working properly, calculate the probability that the amount of gold applied to the necklace is between 296mg\n     and 304mg.\n\nContinue your response to QUESTION 6 on this page.\n\nThe jewelry company wants to make sure the machine is working properly. Each day, Cleo, a statistician at the\njewelry company, will take a random sample of the necklaces produced that day. Each selected necklace will be\nmelted down and the amount of the gold applied to that necklace will be determined. Because a necklace must be\ndestroyed to determine the amount of gold that was applied, Cleo will use random samples of size n = 2\nnecklaces.\n\nCleo starts by considering the mean amount of gold being applied to the necklaces. After Cleo takes a random\nsample of n = 2 necklaces, she computes the sample mean amount of gold applied to the two necklaces.\n\n(b) Suppose the machine is working properly with a population mean amount of gold being applied of 300mg and\n   a population standard deviation of 5mg.\n\n(i) Calculate the probability that the sample mean amount of gold applied to a random sample of n = 2 necklaces\n   will be greater than 303mg.\n\n\n\n\n\n(ii) Suppose Cleo took a random sample of n = 2 necklaces that resulted in a sample mean amount of gold\n   applied of 303mg. Would that result indicate that the population mean amount of gold being applied by the\n   machine is different from 300mg? Justify your answer without performing an inference procedure.\n\nContinue your response to QUESTION 6 on this page.\n\nNow, Cleo will consider the variation in the amount of gold the machine applies to the necklaces. Because of the\nsmall sample size, n = 2, Cleo will use the sample range of the data for the two randomly selected necklaces,\nrather than the sample standard deviation.\n\nCleo will investigate the behavior of the range for samples of size n = 2. She will simulate the sampling\ndistribution of the range of the amount of gold applied to two randomly sampled necklaces. Cleo generates\n100,000 random samples of size n = 2 independent values from a normal distribution with mean m = 300 and\nstandard deviation s = 5. The range is calculated for the two observations in each sample. The simulated\nsampling distribution of the range is shown in Graph I. This process is repeated using s = 8, as shown in Graph\nII, and again using s = 12, as shown in Graph III.\n\nContinue your response to QUESTION 6 on this page.\n\n\n\n\n\n(c) Use the information in the graphs to complete the following.\n\n(i) Describe the sampling distribution of the sample range for random samples of size n = 2 from a normal\n   distribution with standard deviation s = 5, as shown in Graph I.\n\n\n\n\n\n(ii) Describe how the sampling distribution of the sample range for samples of size n = 2 changes as the value of\n    the population standard deviation s increases.\n\nContinue your response to QUESTION 6 on this page.\n\nRecall that Cleo needs to consider both the mean and standard deviation of the amount of gold applied to\nnecklaces to determine whether the machine is working properly. Suppose that one month later, Cleo is again\nchecking the machine to make sure it is working properly. Cleo takes a random sample of 2 necklaces and\ncalculates the sample mean amount of gold applied as 303mg and the sample range as 10mg.\n\n(d) Recall that the machine is working properly if the amount of gold applied to the necklaces has a mean of\n  300mg and standard deviation of 5mg.\n\n(i) Consider Cleo’s range of 10mg from the sample of size n = 2. If the machine is working properly with a\n   standard deviation of 5mg, is a sample range of 10mg unusual? Justify your answer.\n\n\n\n\n\n(ii) Do Cleo’s sample mean of 303mg and range of 10mg indicate that the machine is not working properly?\n   Explain your answer.\n\nSTOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2023 ap-statistics Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap23-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2023-frq-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2023-frq-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2023-frq-question-paper__q06.md"
+  }
+ ]
+}

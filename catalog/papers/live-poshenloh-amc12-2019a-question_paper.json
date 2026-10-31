@@ -1,0 +1,1283 @@
+{
+ "group": "live-poshenloh-amc12-2019a-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相似图形长度面积体积倍率 / 半径变化后的面积增长率：平方比减一",
+   "search_text": "The area of a pizza with radius \\(4\\) inches is \\(N\\) percent larger than the area of a pizza with radius \\(3\\) inches. What is the integer closest to \\(N?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q01",
+    "live-poshenloh-amc12-2019a-question_paper__q01",
+    "AMC12-2019A-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The area of a pizza with radius \\(4\\) inches is \\(N\\) percent larger than the area of a pizza with radius \\(3\\) inches. What is the integer closest to \\(N?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "部分整体比与共同单位 / 倍数关系改换百分数基准：目标量除新基准",
+   "search_text": "Suppose \\(a\\) is \\(150\\%\\) of \\(b.\\) What percent of \\(a\\) is \\(3b?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q02",
+    "live-poshenloh-amc12-2019a-question_paper__q02",
+    "AMC12-2019A-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose \\(a\\) is \\(150\\%\\) of \\(b.\\) What percent of \\(a\\) is \\(3b?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "抽屉容量上界加构造 / 保证同色至少十五：各色未达阈值最大数相加",
+   "search_text": "A box contains \\(28\\) red balls, \\(20\\) green balls, \\(19\\) yellow balls, \\(13\\) blue balls, \\(11\\) white balls, and \\(9\\) black balls. What is the minimum number of balls that must be drawn from the box without replacement to guarantee that at least \\(15\\) balls of a single color will be drawn?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q03",
+    "live-poshenloh-amc12-2019a-question_paper__q03",
+    "AMC12-2019A-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A box contains \\(28\\) red balls, \\(20\\) green balls, \\(19\\) yellow balls, \\(13\\) blue balls, \\(11\\) white balls, and \\(9\\) black balls. What is the minimum number of balls that must be drawn from the box without replacement to guarantee that at least \\(15\\) balls of a single color will be drawn?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等差数列求和转整除 / 连续整数和固定但可负：项数整除双倍总和",
+   "search_text": "What is the greatest number of consecutive integers whose sum is \\(45?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q04",
+    "live-poshenloh-amc12-2019a-question_paper__q04",
+    "AMC12-2019A-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the greatest number of consecutive integers whose sum is \\(45?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "直线联立求交点 / 三直线围三角形：求三个交点后行列式",
+   "search_text": "Two lines with slopes \\(\\dfrac{1}{2}\\) and \\(2\\) intersect at \\((2, 2).\\) What is the area of the triangle enclosed by these two lines and the line \\(x + y = 10?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q05",
+    "live-poshenloh-amc12-2019a-question_paper__q05",
+    "AMC12-2019A-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Two lines with slopes \\(\\dfrac{1}{2}\\) and \\(2\\) intersect at \\((2, 2).\\) What is the area of the triangle enclosed by these two lines and the line \\(x + y = 10?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "辨认平面图案的刚体对称 / 无限饰带刚性对称：周期平移与半转逐项辨认",
+   "search_text": "The figure below shows line \\(\\ell\\) with a regular, infinite, recurring pattern of squares and line segments.\n\n\n\nHow many of the following four kinds of rigid motion transformations of the plane in which this figure is drawn, other than the identity transformation, will transform this figure into itself?\n\n• some rotation around a point of line \\(\\ell\\)\n\n• some translation in the direction parallel to line \\(\\ell\\)\n\n• the reflection across line \\(\\ell\\)\n\n• some reflection across a line perpendicular to line \\(\\ell\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q06",
+    "live-poshenloh-amc12-2019a-question_paper__q06",
+    "AMC12-2019A-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The figure below shows line \\(\\ell\\) with a regular, infinite, recurring pattern of squares and line segments.\n\n\n\nHow many of the following four kinds of rigid motion transformations of the plane in which this figure is drawn, other than the identity transformation, will transform this figure into itself?\n\n• some rotation around a point of line \\(\\ell\\)\n\n• some translation in the direction parallel to line \\(\\ell\\)\n\n• the reflection across line \\(\\ell\\)\n\n• some reflection across a line perpendicular to line \\(\\ell\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "累计频数定位中位数 / 日期多重数据比较统计量：累计频数定位中位数",
+   "search_text": "Melanie computes the mean \\(\\mu,\\) the median \\(M,\\) and the modes of the \\(365\\) values that are the dates in the months of \\(2019.\\) Thus her data consist of \\(12\\) \\(1\\)s, \\(12\\) \\(2\\)s, \\(\\ldots,\\) \\(12\\) \\(28\\)s, \\(11\\) \\(29\\)s, \\(11\\) \\(30\\)s, and \\(7\\) \\(31\\)s. Let \\(d\\) be the median of the modes. Which of the following statements is true?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q07",
+    "live-poshenloh-amc12-2019a-question_paper__q07",
+    "AMC12-2019A-Q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Melanie computes the mean \\(\\mu,\\) the median \\(M,\\) and the modes of the \\(365\\) values that are the dates in the months of \\(2019.\\) Thus her data consist of \\(12\\) \\(1\\)s, \\(12\\) \\(2\\)s, \\(\\ldots,\\) \\(12\\) \\(28\\)s, \\(11\\) \\(29\\)s, \\(11\\) \\(30\\)s, and \\(7\\) \\(31\\)s. Let \\(d\\) be the median of the modes. Which of the following statements is true?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按平行共点分类数交点 / 四直线不同交点数：按平行与共点分类并构造",
+   "search_text": "For a set of four distinct lines in a plane, there are exactly \\(N\\) distinct points that lie on two or more of the lines. What is the sum of all possible values of \\(N?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q08",
+    "live-poshenloh-amc12-2019a-question_paper__q08",
+    "AMC12-2019A-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For a set of four distinct lines in a plane, there are exactly \\(N\\) distinct points that lie on two or more of the lines. What is the sum of all possible values of \\(N?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "取倒数将递推线性化 / 分式乘积递推：取倒数化二阶等差",
+   "search_text": "A sequence of numbers is defined recursively by \\(a_1 = 1,\\) \\(a_2 = \\dfrac{3}{7},\\) and\n\n\\[ a_n = \\dfrac{a_{n-2} \\cdot a_{n-1}}{2a_{n-2} - a_{n-1}} \\]\n\nfor all \\(n \\ge 3.\\) Then \\(a_{2019}\\) can be written as \\(\\dfrac{p}{q},\\) where \\(p\\) and \\(q\\) are relatively prime positive integers. What is \\(p + q?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q09",
+    "live-poshenloh-amc12-2019a-question_paper__q09",
+    "AMC12-2019A-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A sequence of numbers is defined recursively by \\(a_1 = 1,\\) \\(a_2 = \\dfrac{3}{7},\\) and\n\n\\[ a_n = \\dfrac{a_{n-2} \\cdot a_{n-1}}{2a_{n-2} - a_{n-1}} \\]\n\nfor all \\(n \\ge 3.\\) Then \\(a_{2019}\\) can be written as \\(\\dfrac{p}{q},\\) where \\(p\\) and \\(q\\) are relatively prime positive integers. What is \\(p + q?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "正多边形边长与外接圆半径 / 相切圆三角格排布：中心高度加小半径求外径",
+   "search_text": "The figure below shows \\(13\\) circles of radius \\(1\\) within a larger circle. All the intersections occur at points of tangency. What is the area of the region, shaded in the figure, inside the larger circle but outside all the circles of radius \\(1?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q10",
+    "live-poshenloh-amc12-2019a-question_paper__q10",
+    "AMC12-2019A-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The figure below shows \\(13\\) circles of radius \\(1\\) within a larger circle. All the intersections occur at points of tangency. What is the area of the region, shaded in the figure, inside the larger circle but outside all the circles of radius \\(1?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "循环小数用几何级数化分数 / 重复两位进制小数：等比和化二次方程",
+   "search_text": "For some positive integer \\(k,\\) the repeating base-\\(k\\) representation of the (base-ten) fraction \\(\\dfrac{7}{51}\\) is \\(0.\\overline{23}_k = 0.232323\\ldots_k.\\) What is \\(k?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q11",
+    "live-poshenloh-amc12-2019a-question_paper__q11",
+    "AMC12-2019A-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For some positive integer \\(k,\\) the repeating base-\\(k\\) representation of the (base-ten) fraction \\(\\dfrac{7}{51}\\) is \\(0.\\overline{23}_k = 0.232323\\ldots_k.\\) What is \\(k?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "取共同对数变量化为代数方程 / 对数互为分式且乘积固定：换变量定和定积",
+   "search_text": "Positive real numbers \\(x \\ne 1\\) and \\(y \\ne 1\\) satisfy \\(\\log_2 x = \\log_y 16\\) and \\(xy = 64.\\) What is \\(\\left(\\log_2 \\dfrac{x}{y}\\right)^2?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q12",
+    "live-poshenloh-amc12-2019a-question_paper__q12",
+    "AMC12-2019A-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Positive real numbers \\(x \\ne 1\\) and \\(y \\ne 1\\) satisfy \\(\\log_2 x = \\log_y 16\\) and \\(xy = 64.\\) What is \\(\\left(\\log_2 \\dfrac{x}{y}\\right)^2?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "由局部可连接对象传播约束 / 按整除关系三染色：先染强制三角再分相同颜色",
+   "search_text": "How many ways are there to paint each of the integers \\(2,\\) \\(3,\\) \\(\\ldots,\\) \\(9\\) either red, green, or blue so that each number has a different color from each of its proper divisors?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q13",
+    "live-poshenloh-amc12-2019a-question_paper__q13",
+    "AMC12-2019A-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "How many ways are there to paint each of the integers \\(2,\\) \\(3,\\) \\(\\ldots,\\) \\(9\\) either red, green, or blue so that each number has a different color from each of its proper divisors?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "共轭根配对与韦达关系 / 乘积多项式仅四异根：新二次根必须从旧根配对",
+   "search_text": "For a certain complex number \\(c,\\) the polynomial\n\n\\[ \\begin{aligned} P(x) &= (x^2 - 2x + 2) \\\\ &\\quad {}\\cdot (x^2 - cx + 4) \\\\ &\\quad {}\\cdot (x^2 - 4x + 8) \\end{aligned} \\]\n\nhas exactly \\(4\\) distinct roots. What is \\(|c|?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q14",
+    "live-poshenloh-amc12-2019a-question_paper__q14",
+    "AMC12-2019A-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For a certain complex number \\(c,\\) the polynomial\n\n\\[ \\begin{aligned} P(x) &= (x^2 - 2x + 2) \\\\ &\\quad {}\\cdot (x^2 - cx + 4) \\\\ &\\quad {}\\cdot (x^2 - 4x + 8) \\end{aligned} \\]\n\nhas exactly \\(4\\) distinct roots. What is \\(|c|?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "对数转幂用整数范围筛选 / 对数及平方根均整数：配方成两奇平方和",
+   "search_text": "Positive real numbers \\(a\\) and \\(b\\) have the property that\n\n\\[ \\begin{aligned} &\\sqrt{\\log a} + \\sqrt{\\log b} \\\\ &\\quad {}+ \\log \\sqrt{a} + \\log \\sqrt{b} = 100 \\end{aligned} \\]\n\nand all four terms on the left are positive integers, where \\(\\log\\) denotes the base \\(10\\) logarithm. What is \\(ab?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q15",
+    "live-poshenloh-amc12-2019a-question_paper__q15",
+    "AMC12-2019A-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Positive real numbers \\(a\\) and \\(b\\) have the property that\n\n\\[ \\begin{aligned} &\\sqrt{\\log a} + \\sqrt{\\log b} \\\\ &\\quad {}+ \\log \\sqrt{a} + \\log \\sqrt{b} = 100 \\end{aligned} \\]\n\nand all four terms on the left are positive integers, where \\(\\log\\) denotes the base \\(10\\) logarithm. What is \\(ab?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "奇偶约束转零一矩阵计数 / 每行每列奇和：只保留奇偶位置的二进制结构",
+   "search_text": "The numbers \\(1,\\) \\(2,\\) \\(\\ldots,\\) \\(9\\) are randomly placed into the \\(9\\) squares of a \\(3 \\times 3\\) grid. Each square gets one number, and each of the numbers is used once. What is the probability that the sum of the numbers in each row and each column is odd?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q16",
+    "live-poshenloh-amc12-2019a-question_paper__q16",
+    "AMC12-2019A-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The numbers \\(1,\\) \\(2,\\) \\(\\ldots,\\) \\(9\\) are randomly placed into the \\(9\\) squares of a \\(3 \\times 3\\) grid. Each square gets one number, and each of the numbers is used once. What is the probability that the sum of the numbers in each row and each column is odd?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "根幂和按多项式建立递推 / 根幂和递推：将每个根满足的多项式乘幂求和",
+   "search_text": "Let \\(s_k\\) denote the sum of the \\(k\\)th powers of the roots of the polynomial \\(x^3 - 5x^2 + 8x - 13.\\) In particular, \\(s_0 = 3,\\) \\(s_1 = 5,\\) and \\(s_2 = 9.\\) Let \\(a,\\) \\(b,\\) and \\(c\\) be real numbers such that \\(s_{k+1} = a\\,s_k + b\\,s_{k-1} + c\\,s_{k-2}\\) for \\(k = 2,\\) \\(3,\\) \\(\\ldots.\\) What is \\(a + b + c?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q17",
+    "live-poshenloh-amc12-2019a-question_paper__q17",
+    "AMC12-2019A-Q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(s_k\\) denote the sum of the \\(k\\)th powers of the roots of the polynomial \\(x^3 - 5x^2 + 8x - 13.\\) In particular, \\(s_0 = 3,\\) \\(s_1 = 5,\\) and \\(s_2 = 9.\\) Let \\(a,\\) \\(b,\\) and \\(c\\) be real numbers such that \\(s_{k+1} = a\\,s_k + b\\,s_{k-1} + c\\,s_{k-2}\\) for \\(k = 2,\\) \\(3,\\) \\(\\ldots.\\) What is \\(a + b + c?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "空间垂直投影后列勾股关系 / 球切空间三角形三边：平面截圆是内切圆",
+   "search_text": "A sphere with center \\(O\\) has radius \\(6.\\) A triangle with sides of length \\(15,\\) \\(15,\\) and \\(24\\) is situated in space so that each of its sides is tangent to the sphere. What is the distance between \\(O\\) and the plane determined by the triangle?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q18",
+    "live-poshenloh-amc12-2019a-question_paper__q18",
+    "AMC12-2019A-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A sphere with center \\(O\\) has radius \\(6.\\) A triangle with sides of length \\(15,\\) \\(15,\\) and \\(24\\) is situated in space so that each of its sides is tangent to the sphere. What is the distance between \\(O\\) and the plane determined by the triangle?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "正弦定理连接边比与角 / 三角余弦已知求最小整边：正弦定理化最简比",
+   "search_text": "In \\(\\triangle ABC\\) with integer side lengths,\n\n\\[ \\begin{aligned} \\cos A &= \\dfrac{11}{16}, \\\\ \\cos B &= \\dfrac{7}{8}, \\\\ \\cos C &= -\\dfrac{1}{4}. \\end{aligned} \\]\n\nWhat is the least possible perimeter for \\(\\triangle ABC?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q19",
+    "live-poshenloh-amc12-2019a-question_paper__q19",
+    "AMC12-2019A-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In \\(\\triangle ABC\\) with integer side lengths,\n\n\\[ \\begin{aligned} \\cos A &= \\dfrac{11}{16}, \\\\ \\cos B &= \\dfrac{7}{8}, \\\\ \\cos C &= -\\dfrac{1}{4}. \\end{aligned} \\]\n\nWhat is the least possible perimeter for \\(\\triangle ABC?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分支加权求全概率或条件概率 / 离散端点与连续均匀混合抽样：按来源组合全概率",
+   "search_text": "Real numbers between \\(0\\) and \\(1,\\) inclusive, are chosen in the following manner. A fair coin is flipped. If it lands heads, then it is flipped again and the chosen number is \\(0\\) if the second flip is heads and \\(1\\) if the second flip is tails. On the other hand, if the first coin flip is tails, then the number is chosen uniformly at random from the closed interval \\([0, 1].\\) Two random numbers \\(x\\) and \\(y\\) are chosen independently in this manner. What is the probability that \\(|x - y| \\gt \\dfrac{1}{2}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q20",
+    "live-poshenloh-amc12-2019a-question_paper__q20",
+    "AMC12-2019A-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Real numbers between \\(0\\) and \\(1,\\) inclusive, are chosen in the following manner. A fair coin is flipped. If it lands heads, then it is flipped again and the chosen number is \\(0\\) if the second flip is heads and \\(1\\) if the second flip is tails. On the other hand, if the first coin flip is tails, then the number is chosen uniformly at random from the closed interval \\([0, 1].\\) Two random numbers \\(x\\) and \\(y\\) are chosen independently in this manner. What is the probability that \\(|x - y| \\gt \\dfrac{1}{2}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "单位根共轭配对求和 / 单位复数平方指数和乘倒数和：模平方与模八周期",
+   "search_text": "Let \\[ z = \\dfrac{1 + i}{\\sqrt{2}}. \\] What is\n\n\\[ \\begin{aligned} &\\left(z^{1^2} + z^{2^2} + z^{3^2} + \\cdots + z^{12^2}\\right) \\\\ &\\quad {}\\cdot \\scriptsize \\left(\\dfrac{1}{z^{1^2}} + \\dfrac{1}{z^{2^2}} + \\dfrac{1}{z^{3^2}} + \\cdots + \\dfrac{1}{z^{12^2}}\\right)? \\end{aligned} \\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q21",
+    "live-poshenloh-amc12-2019a-question_paper__q21",
+    "AMC12-2019A-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\[ z = \\dfrac{1 + i}{\\sqrt{2}}. \\] What is\n\n\\[ \\begin{aligned} &\\left(z^{1^2} + z^{2^2} + z^{3^2} + \\cdots + z^{12^2}\\right) \\\\ &\\quad {}\\cdot \\scriptsize \\left(\\dfrac{1}{z^{1^2}} + \\dfrac{1}{z^{2^2}} + \\dfrac{1}{z^{3^2}} + \\cdots + \\dfrac{1}{z^{12^2}}\\right)? \\end{aligned} \\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "顶点在同心圆列距离平方方程 / 圆环中等边三角形与三比分点：设切线水平联立半径",
+   "search_text": "Circles \\(\\omega\\) and \\(\\gamma,\\) both centered at \\(O,\\) have radii \\(20\\) and \\(17,\\) respectively. Equilateral triangle \\(ABC,\\) whose interior lies in the interior of \\(\\omega\\) but in the exterior of \\(\\gamma,\\) has vertex \\(A\\) on \\(\\omega,\\) and the line containing side \\(BC\\) is tangent to \\(\\gamma.\\) Segments \\(AO\\) and \\(BC\\) intersect at \\(P,\\) and \\(\\dfrac{BP}{CP} = 3.\\) Then \\(AB\\) can be written in the form \\(\\dfrac{m}{\\sqrt{n}} - \\dfrac{p}{\\sqrt{q}}\\) for positive integers \\(m,\\) \\(n,\\) \\(p,\\) \\(q\\) with \\(\\gcd(m, n) = \\gcd(p, q) = 1.\\) What is \\(m + n + p + q?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q22",
+    "live-poshenloh-amc12-2019a-question_paper__q22",
+    "AMC12-2019A-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Circles \\(\\omega\\) and \\(\\gamma,\\) both centered at \\(O,\\) have radii \\(20\\) and \\(17,\\) respectively. Equilateral triangle \\(ABC,\\) whose interior lies in the interior of \\(\\omega\\) but in the exterior of \\(\\gamma,\\) has vertex \\(A\\) on \\(\\omega,\\) and the line containing side \\(BC\\) is tangent to \\(\\gamma.\\) Segments \\(AO\\) and \\(BC\\) intersect at \\(P,\\) and \\(\\dfrac{BP}{CP} = 3.\\) Then \\(AB\\) can be written in the form \\(\\dfrac{m}{\\sqrt{n}} - \\dfrac{p}{\\sqrt{q}}\\) for positive integers \\(m,\\) \\(n,\\) \\(p,\\) \\(q\\) with \\(\\gcd(m, n) = \\gcd(p, q) = 1.\\) What is \\(m + n + p + q?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "递推展开为乘积或求和 / 自定义指数操作递推：取同底对数后相邻比消去",
+   "search_text": "Define binary operations \\(\\diamondsuit\\) and \\(\\heartsuit\\) by\n\n\\[ a \\diamondsuit b = a^{\\log_7(b)} \\] and \\[ a \\heartsuit b = a^{\\frac{1}{\\log_7(b)}} \\]\n\nfor all real numbers \\(a\\) and \\(b\\) for which these expressions are defined. The sequence \\((a_n)\\) is defined recursively by \\(a_3 = 3 \\heartsuit 2\\) and \\[ a_n = (n \\heartsuit (n - 1)) \\diamondsuit a_{n-1} \\] for all integers \\(n \\ge 4.\\) To the nearest integer, what is \\(\\log_7(a_{2019})?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q23",
+    "live-poshenloh-amc12-2019a-question_paper__q23",
+    "AMC12-2019A-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Define binary operations \\(\\diamondsuit\\) and \\(\\heartsuit\\) by\n\n\\[ a \\diamondsuit b = a^{\\log_7(b)} \\] and \\[ a \\heartsuit b = a^{\\frac{1}{\\log_7(b)}} \\]\n\nfor all real numbers \\(a\\) and \\(b\\) for which these expressions are defined. The sequence \\((a_n)\\) is defined recursively by \\(a_3 = 3 \\heartsuit 2\\) and \\[ a_n = (n \\heartsuit (n - 1)) \\diamondsuit a_{n-1} \\] for all integers \\(n \\ge 4.\\) To the nearest integer, what is \\(\\log_7(a_{2019})?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "累计质因数指数判断整除 / 阶乘商整数性：逐素数比较勒让德估值",
+   "search_text": "For how many integers \\(n\\) between \\(1\\) and \\(50,\\) inclusive, is \\[ \\dfrac{(n^2 - 1)!}{(n!)^n} \\] an integer? (Recall that \\(0! = 1.\\))",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q24",
+    "live-poshenloh-amc12-2019a-question_paper__q24",
+    "AMC12-2019A-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For how many integers \\(n\\) between \\(1\\) and \\(50,\\) inclusive, is \\[ \\dfrac{(n^2 - 1)!}{(n!)^n} \\] an integer? (Recall that \\(0! = 1.\\))"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2019,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2019a-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "垂足三角形角度递推 / 连续垂足三角形首次钝角：角偏差反号倍增",
+   "search_text": "Let \\(\\triangle A_0 B_0 C_0\\) be a triangle whose angle measures are exactly \\(59.999^\\circ,\\) \\(60^\\circ,\\) and \\(60.001^\\circ.\\) For each positive integer \\(n\\) define \\(A_n\\) to be the foot of the altitude from \\(A_{n-1}\\) to line \\(B_{n-1}C_{n-1}.\\) Likewise, define \\(B_n\\) to be the foot of the altitude from \\(B_{n-1}\\) to line \\(A_{n-1}C_{n-1},\\) and \\(C_n\\) to be the foot of the altitude from \\(C_{n-1}\\) to line \\(A_{n-1}B_{n-1}.\\) What is the least positive integer \\(n\\) for which \\(\\triangle A_n B_n C_n\\) is obtuse?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2019-A-Q25",
+    "live-poshenloh-amc12-2019a-question_paper__q25",
+    "AMC12-2019A-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(\\triangle A_0 B_0 C_0\\) be a triangle whose angle measures are exactly \\(59.999^\\circ,\\) \\(60^\\circ,\\) and \\(60.001^\\circ.\\) For each positive integer \\(n\\) define \\(A_n\\) to be the foot of the altitude from \\(A_{n-1}\\) to line \\(B_{n-1}C_{n-1}.\\) Likewise, define \\(B_n\\) to be the foot of the altitude from \\(B_{n-1}\\) to line \\(A_{n-1}C_{n-1},\\) and \\(C_n\\) to be the foot of the altitude from \\(C_{n-1}\\) to line \\(A_{n-1}B_{n-1}.\\) What is the least positive integer \\(n\\) for which \\(\\triangle A_n B_n C_n\\) is obtuse?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2019a-question_paper__q25.md"
+  }
+ ]
+}

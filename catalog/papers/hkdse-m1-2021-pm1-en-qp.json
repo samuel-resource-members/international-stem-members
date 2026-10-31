@@ -1,0 +1,548 @@
+{
+ "group": "hkdse-m1-2021-pm1-en-qp",
+ "course_id": "DSE-M1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 12,
+ "questions": [
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q01",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "SECTION A (50 marks)\n\n            The table below shows the\n              constants.                    probability distribution of a discrete random variable                                                                                                where   a                                                                                                                           and  b  are                                                                                                                                                                                                                                   |                  -1    0\n           P(X = x)       0.15        0.15          b   0.05                                                                                       0.25\n                   It is given that  E(5X +1)= 100.\n              (a)     Find  a  and  b.\n             (b)     Let C be the event that X> 0 and D  be the event that                                   X s 2.  Find  P(C|D)            .\n                                                                                                                                                                 (6 marks)\n\n\n\n\n\n Answers Writen in the margins will not be marked.\n\n2021-DSE-MATH-EP(M1)-2                       2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q01"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q01/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q01/question.pdf",
+     "bytes": 544330,
+     "sha256": "0a437c44ae3e62118b8c662cf6f138b5273dbdf53f2627c82c46874f820ea1bc",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q01.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q02",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "Please stick the barcode label here.\n\n\n\n\n\n       The probability that a person has disease  D    is  0.12.  Test  T   is used  to show whethe  a person nas\n                                                                                                               has 2.                                                                                                             the                                                                                                               that                                                                          shows                                                                                                   person                                                                                                       test   7                                                                                     that                                who                                                    disease                                               has                                                                     the probability                                  person                                        D,                                a                                                                                                                            the                      For                                                                                                                            that                 or not.         disease                                                                                                                                               7                                                                                    shows                                                                                                                   test                                                                                                      that                                                               disease                                  who                                                  D, the                      0.97.                                             does                                                       not have                                                                               probability         discase  D   1S                                   person                         For                                 a\n         person does not have disease D   is 0.89\n          (a)    Find the probability that test T shows a correct result.\n          (b)    Find the probability that test  7 shows that a person has disease D.\n           (c)    Given that a person is shown to have disease D  by test T, is the probability that the person actually\n               has discase D  less than 0.6 ? Explain your answer.\n                                                                                                                (6 marks)\n\n\n\n\n\n Answers written in the margins will not be marked.\n\n2021-DSE-MATH-EP(MI3                      3                Go on to the next page\n                      Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q02"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q02/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q02/question.pdf",
+     "bytes": 544335,
+     "sha256": "a78bf9b160cfdb4f33f2422d2fe44ab9a42bc3dc82635522627de1918f24c6c3",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q02.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q03",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "概率分布",
+   "knowledge_point": "二项分布",
+   "problem_type": "用固定次数独立试验模型求概率",
+   "search_text": "Peter                                                                      knows  ow                                                                                                                                      to do the                                                                                                                        1that                                                                          he carclessly                                                                                                    a           examination, there are  10 qucstions.estions. ForFor cachcach howquestion,question,toto do,do,thethethetheprobabilitvprobabilityprobabilityprobabilitythat                                 Knows        In an                                        Peter                         cach                                                                            flor                                                                                   Swers                                                                                                                the                                             that                     For                                                         question                                           answer                              qucstion                                                             the                 0.8.                                                                                       the question that                       is                                                                                                    he knows                                                             cortecly      question                                               will                               otherwise,                                     Peter                                                                      tho                                                                           will answer                                   is 0.1;                                        how                                                                to                                      Know                                                                 do, he                                                not             wrongly                                            P'elcr      question                                     that                                     does                                                                                                                             gets                      questions                 For                  do.               to                                              corTectly                                    qucstions                           more   how                 answers                            8 or                he                                                                         if        A      grade\n            Find the probability that Peter gets grade A.       (a)                                  A                                    that Peter knows how lo do all the questions and gets grade\n       (b)    Find the probability\n           Given that Peter gets grade A, find the probability that he knows how to do all the questions,        (C)                                                                                                  (7 marks)\n\n\n\n\n\n Answers written  in the                     margins will not be marked.\n2021-DSE-MATH-EP(MI)4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q03"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q03/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q03/question.pdf",
+     "bytes": 485275,
+     "sha256": "64e36ffa8364d553e72dfac5c18c951007720a6f7b933978b165c1c2a34254ac",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q03.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q04",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "统计推断",
+   "knowledge_point": "参数估计",
+   "problem_type": "求或解释置信区间与估计",
+   "search_text": "Please stick the barcode label here.\n\n\n\n\n\n4.                                       to estimate                             a survey                                                 the      Mary conducts                                                proportion                                                                                                                                 a city who learn recorder.  In  a random      sample             of 40 children                             from                                         the city,                                             28                                                  of them learn                                                     p  ofrecorderchildren in\n\n          a)       (i)     Find the sample proportion of children who learn recorder\n               (i)    Find an approximate 90% confidence interval  for  p\n            Mary now wants to construct an approximate 99% confidence interval  for  p  such that the width of                the confidence                                     does                                  interval                                              not exceed  0.1.  Using the result of (ai). estimate the least number of               children                                 should                           that Mary                                       survey\n                                                                                                                           (6 marks)\n\n\n\n\n\n  Answers written in the margins will not be marked.\n\n 2021-DSE-MATH-EP(NMI5                              Go on to the next page\n                       Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q04"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q04/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q04/question.pdf",
+     "bytes": 485282,
+     "sha256": "3ed10d2cca9145d61640624573fc81b5002594cac637467a9b6281f5e67f4c0f",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q04.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q05",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "积分",
+   "knowledge_point": "换元积分",
+   "problem_type": "选择代换并处理积分与边界",
+   "search_text": "Let fr) = e\n\n                                                                            ax   pfx)         (a)    Let g(u)=e\"(u\" + 21 +2), where U=x*  . Find the constant   such that8u)\n                                                                                                         y-axis                                                                                              the                                          area ot the region bounaea Dy nc Curve y=I(X)  , the x-axis,                                         the                           of e,                            in terms              Express,xpre         (b)                                                                                                                                                                                                                                                                                                                                                             .                                                 x =8                                  line                    the straight             and                                                                                                                           (6                                                                                                marks)\n\n\n\n\n\n Answers written in the margins will not be marked.\n2021-DSE-MATH-EP(M16                   6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q05"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q05/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q05/question.pdf",
+     "bytes": 488927,
+     "sha256": "3d5e5204538b4f07de98601f06f1c7d5e7d26c7e3106031aca20d236c56f8a51",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q05.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q06",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "级数",
+   "knowledge_point": "麦克劳林展开",
+   "problem_type": "构造展开式并进行近似或组合",
+   "search_text": "Please stick the barcode label here.\n\n\n\n\n6.      a)    Expand ein ascending powers of x  as far as the term in\n\n       b)    Find the constant k such that the coefficient ofin the expansion of e   (1-kr*)     is -26\n                                                                                          marks)\n\n\n\n\n\n Answers written in the margins will not be marked.\n                                     7              Go on to the next page2021-DSE-MATH-EP(M1)-7\n                      Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q06"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q06/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q06/question.pdf",
+     "bytes": 488932,
+     "sha256": "4c8e85743f544e14ebc07672a785d594c95761d3442e6caccb17a481000970b1",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q06.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q07",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "where 0 rs5. Fnd\n        Let       2\n\n         (a)    dr\n        (b)    the greatest value and thee least value of y.                                                           (7 marks))\n\n\n\n\n\n                               E\n\n\n\n\n\n Answers WTiten in the margins will not be marked.\n2021-DSE-MATH-EP(M1)                  8\n\nPlease stick the barcode label here.\n\n\n\n\n\nE\n\n\n\n\n\n              Answers written in the margins will not be marked.\n             2021-DSE-MATH-EP(M1)-9                 9               Go on to the next paga\n                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q07"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q07/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q07/question.pdf",
+     "bytes": 444418,
+     "sha256": "349dead7a3a689b39c09ee1f43d8796cadd03bb05025ce45d513e1da55afca17",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q07.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q08",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "2\n                                                   where k  is a constant. The straight line 8x-9y 8.      Let  f(x)  be a function such that  f(x)=                                                                                                                                                                                                                        + 10 =0                                 142T                ,\n        touches the curve y= f(x)   at the point A .  It i5 given that the x-coordinate of A  is  1. Find\n\n          (a)     k,\n\n         (6)   f).\n                                                                     (7marks)\n\n\n\n\n\n Answers written in the margins will not be marked.\n\n2021-DSE-MATH-EP(MI)-10                      10\n\nPleas    stick the                                                                                   arcode label here\n\n\n\n\n\n Answers Written in the margins will not be marked.\n\n                                             Goon to the next pagg\n2021-DSE-MATH-EP(MI)-\n                    Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q08"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q08/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q08/question.pdf",
+     "bytes": 407891,
+     "sha256": "09cadec1fce3f36675f54ff77511c3a166d7238ee45d6157e982d4f9c14b1895",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q08.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q09",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "概率分布",
+   "knowledge_point": "二项分布",
+   "problem_type": "用固定次数独立试验模型求概率",
+   "search_text": "SECTION B (50 marks)\n\n\n\n\n                                                                a                                                                           a                                                                                                              a mean of 200 grams and a\n       standard      The weightdeviztionof eachofpotatograms.in                                        largeThe farmclassificationfolows of                                                  normalthe potatoesdistributionis as followswith\n\n         Weight of a potato (W grams)     W< 180    180 W<230     W2230\n                   Classification                Small         medium              big\n\n          It is given that 21.19% of the potatoes in the farm are smal\n\n        )      Find the percentage of medium potatoes in the farm.                                                                                     marks)\n                                          are now                                the farm                                                   one                                    in        (b)   The                   potatoes                                                 inspected                                                       by                                                                    one.  Find the probability that the  4th  potato               inspected                               15 the                         Znd                                 big potato                                               inspected.\n                                                                                                                               (3 marks)\n      c)    From the farm, 5 potatoes are randomly selected.\n                     Find the probability that there are exactly 1 big potato and 2 small potatoes.\n            ()    Given that there  is exactly  1  big potato, find the probability that there are at least  2  small\n                      potatoes.\n                                                            (5marks)2\n\n\n\n\n\n Answers written in the margins will not be marked.\n\n2021-DSE-MATH-EP(MIH12                     12\n\nAnswers written in the margins will not be marked.\n                                                  Go on to the next page\n2021-DSE-MATH-EP(MI)-13                        13\n                   Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q09"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q09/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q09/question.pdf",
+     "bytes": 481371,
+     "sha256": "0334f9db675dc679683f8c73358f5662ad74ae98d52b6a90bbe3a9240253abb0",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q09.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q10",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "概率分布",
+   "knowledge_point": "泊松分布",
+   "problem_type": "用单位区间事件数模型求概率",
+   "search_text": "10.   The numbcr of commercial cmails that John receives cach hour follows a Poisson distribution with a mean\n        of 13  per hour, while the number of non-commercial emails that he receives cach hour follows a Poisson\n          distribution with a mean of 0.9 per hour.\n\n         a)    Find the probability that the number of non-commercial emails that John receives in a certain hour is\n             fewer than 3.                                                    (3marks)\n             (6)    Find the probability that the number of commercial emails that John receives in 6 hours is 5.\n                                                                        (2 marks)\n          (c)    Find the probability that the number of emails that John receives in a ccrtain hour is 2.   (3marks)\n           (d)     Giv   hat the number of emails that John receives in                                                                                      a certain hour  is 2, find the probability that both\n               emails are non-commercial emails.                                     (3marks)\n                          that                                                    that John                                                                                     in                             the number                                                           receives          (e)    Given                                        of emails                                                                                    a certain hour is fewer than 3, find the probability                hat John                       does                              not receive                                    commercial                                                   email                                                                          in that                                                                    hour.                                                                                                                                    (3 marks)\n\n\n\n\n\n Answers written  in the margins will not be marked.\n\n2021-DSE-MATH-EP(M1)-14                     14\n\nAnswers Written in the margins will not be marked.\n\n                                                15                Go on to the next pageV2021-DSE-MATH-EP(MI)-15\n                   Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q10"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q10/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q10/question.pdf",
+     "bytes": 498283,
+     "sha256": "80e18a6aafc20f097136438a3370b7ac084330d74fb8e4deab78f011725598e9",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q10.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q11",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "11     Let                 where 0 sxsl.\n\n        (a)    Find  f'(x)  and  f\"(x) .                                                                                     (3 marks)\n    6)Define J=fmdr and K=f(dx\n\n                     (i)    Using the trapezoidal rule with 5 sub-intervals, estimate J.\n\n                     (ii)    Using the fact hat  f)dx=       and the result of (6)0), estimate K.\n\n                     (111)   Someone claims that <0,44. Do you agrec? Explain your answer\n                                                                                                                                       (8 marks)\n\n\n\n\n\n Answers written  in the margins will not be marked.\n\n2021-DSE-MATH-EP(MI)-16                     16\n\nAnswers written in the margins will not be marked.\n                                               G0 on to tne noxt pageV\n2021-DSE-MATH-EP(MI)-17                          17\n                   Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q11"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q11/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q11/question.pdf",
+     "bytes": 450171,
+     "sha256": "73fbdafa135386858e13c49c53cad677a9f802c43ee3a43b0c24081f90aa0c94",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q11.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2021-pm1-en-qp",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2021-pm1-en-qp__q12",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "a cerlain                                              water.                                             rain                                             During                             is uscd                                                                       sBhower,         A tank       12.                             collecting                         for                                                                                  rain water flows into the tank for   minutes                                                                                  that                                                       the tank.                                                                 in                                         water                                                                                                 It is given                        volume            Vm*                      be the            Let                                         of rain\n     -13-vI    (0sts7),.\n                     dr\n          where      is the number of minutes clapsed since rain water starts flowing into the tank. The tank  is cmpty\n               at =0 and the rate of change of the volume of rain water in the tank atlains its maximum valuc when =7,\n\n             (a)     Find  7.                                                                                                       (4 marks)\n            (b)    Find the exact value of V when l=T.                                                                 (5 marks)\n            (c)    The tank is in the shape of an inverted right circular cone of height   I m and base radius 6 m. The\n                  tank is held vertically. Let hm be the depth of rain water in the tank. Find\n\n                ()   theconstant Q such that =Qh,dr\n\n                 dh                    (i)\n               dtT\n                                                                                                                         (5 marks)\n\n\n\n\n\n Answers written in the margins will not be marked.\n\n2021-DSE-MATH-EP(MI)-20                  20\n\nAnswers written in the margins will not be marked\n                                               Go on to the next nage                                              212021-DSE-MATH-EP(MI)-21\n                   Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2021 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2021/2021ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2021-pm1-en-qp__q12"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q12/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-repair-2026-10-13/questions/hkdse-m1-2021-pm1-en-qp__q12/question.pdf",
+     "bytes": 488098,
+     "sha256": "e65282bae1317ff48db52c8517dcc8874827d4b973291d8446d6ea0b28842f9e",
+     "shard": "pdfs-69d5a2ad1e6c68c5.zip",
+     "shard_bytes": 100155265,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-69d5a2ad1e6c68c5.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2021-pm1-en-qp__q12.md"
+  }
+ ]
+}

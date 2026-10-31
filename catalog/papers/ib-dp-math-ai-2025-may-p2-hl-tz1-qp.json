@@ -1,0 +1,337 @@
+{
+ "group": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp",
+ "course_id": "IB-AI-HL",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q01",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "1.   [Maximum mark: 15]\n\n     Paul has a bar graph for the total number of goals scored in each game of a soccer\n     tournament in 2024. The bar graph is shown below, however the frequency of  4  goals in a\n    game is unreadable.\n\n     Paul uses this bar graph to create a frequency table.\n\n\n                   Bar graph                                Frequency table\n\n                                              Number of goals    12                                                                Frequency                                                                 in a game (2024)\n    10\n                                                            0                3\n     8\n                                                            1                11\n     6\n                                                            2                7   Frequency  4\n                                                            3                  k     2\n                                                            4                p     0\n          0      1      2      3      4      5\n                                                            5                1\n            Number of goals in a game (2024)\n\n\n      (a)   Write down the value of  k .                                                                             [1]\n\n     Paul knows that the mean number of goals per game scored during the tournament was  2.2 .\n\n      (b)     (i)    Write down an equation for the mean in terms of  p .\n\n                   (ii)   Determine the value of  p .                                                                      [3]\n\n(This question continues on the following page)\n\n(Question 1 continued)\n\n     Data for the number of goals per game in the 2025 soccer tournament are shown in the\n      following box and whisker diagram.\n\n\n\n\n\n                 0    1    2    3    4    5    6    7    8    9   10\n                         Number of goals in a game (2025)\n\n      After comparing the box and whisker diagram from the 2025 tournament with the frequency\n      table from the 2024 tournament, Paul concludes that the distribution of goals is consistent\n     between the two tournaments.\n\n       (c)   State two observations that support Paul’s conclusion using values from the data to\n         compare any two of:\n\n                          range, symmetry, median, and interquartile range.                              [3]\n\n     Paul plans to watch all the games from the 2024 tournament in a random order.\n    He will watch each game once.\n\n     For the first game he watches, he defines event  F  as:\n\n                               “scoring either  0  goals or exactly  1  goal”.\n\n      (d)   Write down the event(s) from the table that are equivalent to  F′ . There may be more\n           than one correct event.                                                                                 [2]\n\n         Event                              Description\n         A      Scoring exactly  2  goals in this game\n         B      Scoring more than  1  goal in this game\n        C      Scoring at least  2  goals in this game\n        D      Scoring either  0  goals or exactly  1  goal in all games except this game\n         E      Not scoring  0  goals or exactly  1  goal in any game\n\n      (e)     If exactly  1  goal was scored in the first game Paul watches, write down the probability\n            that exactly  1  goal was scored in the second game he watches. Give your answer as\n         a fraction.                                                                                                [2]\n\n        (f)    Calculate the probability that  5  goals were scored in the first game that Paul watches\n         and  0  goals were scored in the second game he watches.                                      [4]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q01.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q02",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "2.   [Maximum mark: 19]\n\n    The locations of three fire stations within a  50  by  50  kilometre rural area of Japan are shown\n     on the following map.\n\n    A Voronoi diagram can be used to determine the part of the rural area for which each\n       fire station is responsible. The Voronoi diagram for the three fire stations is shown on the\n      coordinate grid beside the map, where  1  unit represents  2.5 km .\n\n                                     y\n                               20           Map\n\n\n        C              B                               15\n                                                         C(8, 13)\n                                                                         B(16, 12)\n              A\n\n                               10\n\n                                                                           A(18, 8)\n\n                                5\n\n\n\n                                0                                                                                    x                                 0         5        10        15        20\n\n      (a)     (i)   Find the midpoint of  [BC] .\n\n                   (ii)   Find the gradient of the perpendicular bisector of  [BC] .\n\n                   (iii)  Hence find the equation of the edge between sites  B  and  C .                            [6]\n\n      (b)     (i)    Identify the fire station that is expected to respond, based on the Voronoi\n                diagram, if a fire is reported at a location with coordinates  (14 , 10) .\n                   Justify your response.\n\n                   (ii)   Suggest a reason why a different fire station might respond to this fire.                  [2]\n\n(This question continues on the following page)\n\n(Question 2 continued)\n\n                                                    1    A fire is reported at a location  D  with coordinates  111 , 7      . The distance of  D  from  A  on\n                                                3   6\n      the Voronoi diagram, to six significant figures, is  6.71855  units ( 16.7964 km  on the map).\n\n       (c)     (i)   Show that the distance of  D  from  B , to six significant figures, is also  6.71855 \n                   units.\n\n                   (ii)  Show that any of the three fire stations would be expected to respond to the fire\n                 reported at  D .                                                                                    [4]\n\n    The equation of the edge between fire stations  A  and  B  is  y = 0.5x + 1.5 . The edge\n     between fire stations  A  and  C has an  x -intercept of  7.75 .\n\n      (d)     (i)   Determine the area, to the nearest square unit, of the region within the given\n                Voronoi diagram for which fire station  A  is responsible.\n\n                   (ii)   Hence, calculate the actual area, in square kilometres, of this region.                   [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q02.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q03",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "统计",
+   "knowledge_point": "回归与相关",
+   "problem_type": "建立回归模型并解释预测",
+   "search_text": "3.   [Maximum mark: 17]\n\n     Ethan and Avery are researching population data for the city of Los Angeles to create a\n     model predicting population values. They collect the following data.\n\n                         Population data for the city of Los Angeles\n                                                   Population                               Year                                                  (thousands)\n                              1900                  102\n                              1920                  577\n                              1940                 1504\n                              1960                 2479\n                              1980                 2967\n                              2000                 3685\n                              2020                 3899\n\n     Ethan proposes the population can be modelled using quadratic regression to find a\n      function of the form  f (x) = ax2 + bx + c , where  x  is the number of years after 1900.\n\n      (a)   Find the equation of Ethan’s model.                                                                  [3]\n\n     Ethan finds the coefficient of determination for his model is  0.98843  to five significant figures.\n\n      (b)   State whether the coefficient of determination supports Ethan’s proposal. Justify\n           your answer.                                                                                             [2]\n\n       (c)  Comment on the validity of Ethan’s model with reference to one of the parameters in\n           the equation.                                                                                             [1]\n\n      (d)     (i)   Find the value of  f ′ (110)  and interpret this value in context.\n\n                   (ii)   By considering the population changes in the table, use the value found in part\n                      (d)(i) to comment on the validity of Ethan’s model.                                          [4]\n\n(This question continues on the following page)\n\n(Question 3 continued)\n\n     Avery proposes that the population instead follows a logistic model of the form\n\n                                           4000\n                                   g ( x )               0 .05 x                                        1 14 e\n\n     where  x  is the number of years after 1900.\n\n      (e)   State a reason why it may be valid to use Avery’s proposal to predict the\n            future population.                                                                                       [1]\n\n        (f)      (i)   Find  g′ (x) .\n\n                   (ii)   Hence find the year, according to Avery’s model, during which the greatest\n                 population growth rate occurred.                                                               [6]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q03.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q04",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "力学",
+   "knowledge_point": "运动学",
+   "problem_type": "连接位移、速度、加速度和时间",
+   "search_text": "4.   [Maximum mark: 17]\n\n      Lizjerika works in an air traffic control tower. At 10:00 am, she detects a passenger airplane\n     and a flock of birds whose flight paths are given by the following equations:\n\n                         x     5       1.4                 x     11      0.40\n                Airplane:  y     2     t1 1.65           Birds:  y    30      t1  0.35\n                            z     7       0                     z     6       0.1\n\n     where the  x -coordinate represents displacement east of the control tower, the  y -coordinate\n     represents displacement north of the control tower, and the  z -coordinate represents height\n     (above sea level).\n\n     Distances are measured in kilometres and  t1  is the time, in minutes, since 10:00am.\n\n      (a)   Determine the speed, in kilometres per minute, at which the flock of birds is travelling.      [2]\n\n      (b)  By making two statements, describe the path of the airplane in context.                        [2]\n\n       (c)     (i)   Find the time at which the birds and the airplane will have the same height.\n\n                   (ii)   Using your answer to part (c)(i), explain why the birds will not collide with\n                 the airplane.                                                                                      [6]\n\n     At 10:20 am, Lizjerika detects a jet whose movement is given by the following equation,\n\n                                         x     95      1.3\n                                          Jet:  y     32      t 2 1.45\n                                              z    1. 5      0.2\n     where  t2  is the time, in minutes, since 10:20am.\n      (d)   Find the vector equation of the motion of the passenger airplane in terms of  t2 .             [2]\n\n    An air traffic law requires that the jet and the airplane must be more than  5  kilometres from\n     each other at all times.\n\n      (e)   Determine whether the jet and the airplane will break this law if they follow their\n            current paths.                                                                                            [5]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q04.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q05",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5.   [Maximum mark: 16]\n\n     AirFlow Industries is designing a doorstop in the shape of a triangular prism,  ABCDEF .\n\n    The points  A (13 , 1 , 0) ,  B (13 , 25 , 0)  and  C (13 , 25 , 7)  are the coordinates of the vertices\n      of one of the triangular faces of the prism. Point  D (4 , 25 , 7)  is another vertex as shown in\n      the following diagram. All the measurements are in centimetres.\n\n                                                             diagram not to scale\n\n                             z\n                                                         y\n\n                                  D       C\n\n\n                                         E       B\n\n\n\n\n\n                              F       A\n                                                                      x\n\n\n      (a)   Find  AC .                                                                                                 [2]\n\n      (b)  Show that triangle  ABC  is a right-angled triangle.                                                 [2]\n\n       (c)   Find the volume of material needed to make the doorstop.                                       [3]\n\n(This question continues on the following page)\n\n(Question 5 continued)\n\n     To lower the cost of the doorstop, AirFlow decides to reduce its volume to  625 cm3  by\n     removing the shaded section shown in the following diagram. The remaining triangular faces\n     are still right-angled triangles.\n\n                                                             diagram not to scale\n\n                             z\n                                                         y\n\n                                  D       C\n\n\n                                              B\n                                         X\n\n                                                    θ\n\n\n                              F       A\n                                                                      x\n\n\n      (d)     (i)   Find the value of  θ .\n\n                   (ii)   Hence, or otherwise, find  AX .                                                                 [6]\n\n    The material needed to make the doorstop costs  0.025  US dollars  (USD)  per cubic\n      centimetre. The production of each doorstop requires  10 %  more material than its final\n     volume, due to wastage in the production process.\n\n     To make a profit, the company will sell the doorstop for  20 %  more than the cost of the material.\n\n      (e)   Determine the price, to two decimal places, the company will charge for the\n        new doorstop.                                                                                           [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q05.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q06",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "6.   [Maximum mark: 14]\n\n    Rea is investigating how the number of healthy skin cells changes following infection by a\n      virus. At the beginning of the investigation, she inserts  27 000  virus particles into a sample\n      of  1350  healthy skin cells.\n\n      Let  h  be the number of healthy skin cells at time  t , where  t  is the number of hours after the\n      investigation has begun. Let  v  be the number of virus particles, in thousands, at time  t .\n\n                                 dh                h\n    Rea finds that the rate of change,                                                                     , is proportional to v.                                 dt\n                  dh                        dh     h\n      (a)   Given that      5 at time  t = 0 , show that                  .                                           [3]\n                   dt                         dt    10 v\n\n    Rea models the number of virus particles, in thousands, after  t  hours as  v = 27 + 0.3t .\n\n      (b)   Find an expression for the number of healthy skin cells at time  t .                               [7]\n\n\n    Rea asks her colleague Artem to attempt the same investigation. Artem’s models differ from\n     those of Rea.\n\n     Artem models the number of virus particles, in thousands, after  t  hours as  v = 27 + 0.28t \n     and finds that  h = 4380 (27 + 0.28t)−0.36 .\n\n       (c)   Using Artem’s models, predict how many hours it will take for the number of virus\n            particles to be at least  100  times the number of healthy skin cells.                              [4]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q06.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q07",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "7.   [Maximum mark: 12]\n\n     Bobby is designing a table that will be  1  metre high. The table will have a flat circular top with\n     a radius of  1  metre. To begin the design, he uses the curve of\n\n                                2      1  1                                 y    cos              , for  0.1 ≤ x ≤ 1 ,\n                                3      10 x\n\n      to shape the underside of the table, where  x  and  y  are measured in metres, as shown.\n\n                                 y\n\n                            1\n\n\n\n\n\n                                                               x                            0      0.2  0.4  0.6  0.8   1\n\n      (a)   Find the area of the shaded region.                                                                  [4]\n\n(This question continues on the following page)\n\n(Question 7 continued)\n\n     To create the base of the table, Bobby adds a rectangle with a height of  0.075  metres and a\n      width of  0.3  metres to the bottom of the figure, as shown.\n\n                                 y\n\n                            1\n\n\n\n\n\n                                                               x                            0      0.2  0.4  0.6  0.8   1\n\n     To finish the design of the table, he rotates the entire shaded region through  2π  about the  y -axis.\n\n      (b)   Find the three expressions necessary to determine the total volume of this table.             [6]\n\n       (c)  Hence find the total volume of the table.                                                             [2]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz1-qp__q07.md"
+  }
+ ]
+}

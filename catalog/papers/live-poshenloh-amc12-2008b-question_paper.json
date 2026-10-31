@@ -1,0 +1,1283 @@
+{
+ "group": "live-poshenloh-amc12-2008b-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数量与总额联立消元 / 固定投篮总数两种得分：用高分球个数参数化",
+   "search_text": "A basketball player made \\(5\\) baskets during a game. Each basket was worth either \\(2\\) or \\(3\\) points. How many different numbers could represent the total points scored by the player?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q01",
+    "live-poshenloh-amc12-2008b-question_paper__q01",
+    "AMC12-2008B-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A basketball player made \\(5\\) baskets during a game. Each basket was worth either \\(2\\) or \\(3\\) points. How many different numbers could represent the total points scored by the player?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按行列索引定位元素 / 表格行反序后对角线和：逐行确定选中位置",
+   "search_text": "A \\(4 \\times 4\\) block of calendar dates is shown. The order of the numbers in the second row is to be reversed. Then the order of the numbers in the fourth row is to be reversed. Finally, the numbers on each diagonal are to be added. What will be the positive difference between the two diagonal sums?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q02",
+    "live-poshenloh-amc12-2008b-question_paper__q02",
+    "AMC12-2008B-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A \\(4 \\times 4\\) block of calendar dates is shown. The order of the numbers in the second row is to be reversed. Then the order of the numbers in the fourth row is to be reversed. Finally, the numbers on each diagonal are to be added. What will be the positive difference between the two diagonal sums?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "总量与各项上下界求可达极值 / 总预算求单人上限：其余人全部取最低值",
+   "search_text": "A semipro baseball league has teams with \\(21\\) players each. League rules state that a player must be paid at least \\(\\$15{,}000,\\) and that the total of all players’ salaries for each team cannot exceed \\(\\$700{,}000.\\) What is the maximum possible salary, in dollars, for a single player?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q03",
+    "live-poshenloh-amc12-2008b-question_paper__q03",
+    "AMC12-2008B-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A semipro baseball league has teams with \\(21\\) players each. League rules state that a player must be paid at least \\(\\$15{,}000,\\) and that the total of all players’ salaries for each team cannot exceed \\(\\$700{,}000.\\) What is the maximum possible salary, in dollars, for a single player?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "弧长扇形面积按圆心角比例 / 半圆内两已知角：剩余中心角决定扇形比例",
+   "search_text": "On circle \\(O,\\) points \\(C\\) and \\(D\\) are on the same side of diameter \\(\\overline{AB},\\) \\(\\angle AOC = 30^\\circ,\\) and \\(\\angle DOB = 45^\\circ.\\) What is the ratio of the area of the smaller sector \\(COD\\) to the area of the circle?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q04",
+    "live-poshenloh-amc12-2008b-question_paper__q04",
+    "AMC12-2008B-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "On circle \\(O,\\) points \\(C\\) and \\(D\\) are on the same side of diameter \\(\\overline{AB},\\) \\(\\angle AOC = 30^\\circ,\\) and \\(\\angle DOB = 45^\\circ.\\) What is the ratio of the area of the smaller sector \\(COD\\) to the area of the circle?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "一次整系数方程参数化计数 / 两单价购买恰好花完：整数方程按奇偶计数",
+   "search_text": "A class collects \\(\\$50\\) to buy flowers for a classmate who is in the hospital. Roses cost \\(\\$3\\) each, and carnations cost \\(\\$2\\) each. No other flowers are to be used. How many different bouquets could be purchased for exactly \\(\\$50?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q05",
+    "live-poshenloh-amc12-2008b-question_paper__q05",
+    "AMC12-2008B-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A class collects \\(\\$50\\) to buy flowers for a classmate who is in the hospital. Roses cost \\(\\$3\\) each, and carnations cost \\(\\$2\\) each. No other flowers are to be used. How many different bouquets could be purchased for exactly \\(\\$50?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "完整周期加不足一周期的余量 / 计数器多次回零：完整周期数加末读数",
+   "search_text": "Postman Pete has a pedometer to count his steps. The pedometer records up to \\(99999\\) steps, then flips over to \\(00000\\) on the next step. Pete plans to determine his mileage for a year. On January \\(1\\) Pete sets the pedometer to \\(00000.\\) During the year, the pedometer flips from \\(99999\\) to \\(00000\\) forty-four times. On December \\(31\\) the pedometer reads \\(50000.\\) Pete takes \\(1800\\) steps per mile. Which of the following is closest to the number of miles Pete walked during the year?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q06",
+    "live-poshenloh-amc12-2008b-question_paper__q06",
+    "AMC12-2008B-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Postman Pete has a pedometer to count his steps. The pedometer records up to \\(99999\\) steps, then flips over to \\(00000\\) on the next step. Pete plans to determine his mileage for a year. On January \\(1\\) Pete sets the pedometer to \\(00000.\\) During the year, the pedometer flips from \\(99999\\) to \\(00000\\) forty-four times. On December \\(31\\) the pedometer reads \\(50000.\\) Pete takes \\(1800\\) steps per mile. Which of the following is closest to the number of miles Pete walked during the year?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "代入定义验证恒等式或找反例 / 自定义平方差：先认两个输入相等",
+   "search_text": "For real numbers \\(a\\) and \\(b,\\) define \\(a \\$ b = (a - b)^2.\\) What is \\((x - y)^2 \\$ (y - x)^2?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q07",
+    "live-poshenloh-amc12-2008b-question_paper__q07",
+    "AMC12-2008B-Q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For real numbers \\(a\\) and \\(b,\\) define \\(a \\$ b = (a - b)^2.\\) What is \\((x - y)^2 \\$ (y - x)^2?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "部分整体比与共同单位 / 同线段内两点分比：转成占全长份数后相减",
+   "search_text": "Points \\(B\\) and \\(C\\) lie on \\(\\overline{AD}.\\) The length of \\(\\overline{AB}\\) is \\(4\\) times the length of \\(\\overline{BD},\\) and the length of \\(\\overline{AC}\\) is \\(9\\) times the length of \\(\\overline{CD}.\\) The length of \\(\\overline{BC}\\) is what fraction of the length of \\(\\overline{AD}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q08",
+    "live-poshenloh-amc12-2008b-question_paper__q08",
+    "AMC12-2008B-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Points \\(B\\) and \\(C\\) lie on \\(\\overline{AD}.\\) The length of \\(\\overline{AB}\\) is \\(4\\) times the length of \\(\\overline{BD},\\) and the length of \\(\\overline{AC}\\) is \\(9\\) times the length of \\(\\overline{CD}.\\) The length of \\(\\overline{BC}\\) is what fraction of the length of \\(\\overline{AD}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "弦中垂线配合勾股定理 / 弧中点到弦端点：圆心垂线平分弦后勾股",
+   "search_text": "Points \\(A\\) and \\(B\\) are on a circle of radius \\(5\\) and \\(AB = 6.\\) Point \\(C\\) is the midpoint of the minor arc \\(AB.\\) What is the length of the line segment \\(AC?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q09",
+    "live-poshenloh-amc12-2008b-question_paper__q09",
+    "AMC12-2008B-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Points \\(A\\) and \\(B\\) are on a circle of radius \\(5\\) and \\(AB = 6.\\) Point \\(C\\) is the midpoint of the minor arc \\(AB.\\) What is the length of the line segment \\(AC?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "合作效率相加扣除停工 / 合作效率额外减少固定量：未知总量同时表示两种速度",
+   "search_text": "Bricklayer Brenda would take \\(9\\) hours to build a chimney alone, and bricklayer Brandon would take \\(10\\) hours to build it alone. When they work together, they talk a lot, and their combined output is decreased by \\(10\\) bricks per hour. Working together, they build the chimney in \\(5\\) hours. How many bricks are in the chimney?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q10",
+    "live-poshenloh-amc12-2008b-question_paper__q10",
+    "AMC12-2008B-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Bricklayer Brenda would take \\(9\\) hours to build a chimney alone, and bricklayer Brandon would take \\(10\\) hours to build it alone. When they work together, they talk a lot, and their combined output is decreased by \\(10\\) bricks per hour. Working together, they build the chimney in \\(5\\) hours. How many bricks are in the chimney?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相似图形长度面积体积倍率 / 相似圆锥顶端体积比：开立方还原高度比",
+   "search_text": "A cone-shaped mountain has its base on the ocean floor and has a height of \\(8000\\) feet. The top \\(\\tfrac{1}{8}\\) of the volume of the mountain is above water. What is the depth of the ocean at the base of the mountain, in feet?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q11",
+    "live-poshenloh-amc12-2008b-question_paper__q11",
+    "AMC12-2008B-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A cone-shaped mountain has its base on the ocean floor and has a height of \\(8000\\) feet. The top \\(\\tfrac{1}{8}\\) of the volume of the mountain is above water. What is the depth of the ocean at the base of the mountain, in feet?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "前缀总和作差求单项 / 前n项平均已知：前缀总和作差求单项",
+   "search_text": "For each positive integer \\(n,\\) the mean of the first \\(n\\) terms of a sequence is \\(n.\\) What is the \\(2008\\)th term of the sequence?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q12",
+    "live-poshenloh-amc12-2008b-question_paper__q12",
+    "AMC12-2008B-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For each positive integer \\(n,\\) the mean of the first \\(n\\) terms of a sequence is \\(n.\\) What is the \\(2008\\)th term of the sequence?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "并集面积加总减交叠 / 竖直条带扣等边三角形：用两侧小三角形补算交集",
+   "search_text": "Vertex \\(E\\) of equilateral \\(\\triangle ABE\\) is in the interior of unit square \\(ABCD.\\) Let \\(R\\) be the region consisting of all points inside \\(ABCD\\) and outside \\(\\triangle ABE\\) whose distance from \\(\\overline{AD}\\) is between \\(\\tfrac{1}{3}\\) and \\(\\tfrac{2}{3}.\\) What is the area of \\(R?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q13",
+    "live-poshenloh-amc12-2008b-question_paper__q13",
+    "AMC12-2008B-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Vertex \\(E\\) of equilateral \\(\\triangle ABE\\) is in the interior of unit square \\(ABCD.\\) Let \\(R\\) be the region consisting of all points inside \\(ABCD\\) and outside \\(\\triangle ABE\\) whose distance from \\(\\overline{AD}\\) is between \\(\\tfrac{1}{3}\\) and \\(\\tfrac{2}{3}.\\) What is the area of \\(R?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "换底或指数化统一对数关系 / 圆周长关系含对数：先写几何公式再换底",
+   "search_text": "A circle has a radius of \\(\\log_{10}(a^2)\\) and a circumference of \\(\\log_{10}(b^4).\\) What is \\(\\log_a b?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q14",
+    "live-poshenloh-amc12-2008b-question_paper__q14",
+    "AMC12-2008B-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A circle has a radius of \\(\\log_{10}(a^2)\\) and a circumference of \\(\\log_{10}(b^4).\\) What is \\(\\log_a b?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "利用对称轴求图形长度面积 / 正方形外连续附等边三角形：凸包补四角面积",
+   "search_text": "On each side of a unit square, an equilateral triangle of side length \\(1\\) is constructed. On each new side of each equilateral triangle, another equilateral triangle of side length \\(1\\) is constructed. The interiors of the square and the \\(12\\) triangles have no points in common. Let \\(R\\) be the region formed by the union of the square and all the triangles, and let \\(S\\) be the smallest convex polygon that contains \\(R.\\) What is the area of the region that is inside \\(S\\) but outside \\(R?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q15",
+    "live-poshenloh-amc12-2008b-question_paper__q15",
+    "AMC12-2008B-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "On each side of a unit square, an equilateral triangle of side length \\(1\\) is constructed. On each new side of each equilateral triangle, another equilateral triangle of side length \\(1\\) is constructed. The interiors of the square and the \\(12\\) triangles have no points in common. Let \\(R\\) be the region formed by the union of the square and all the triangles, and let \\(S\\) be the smallest convex polygon that contains \\(R.\\) What is the area of the region that is inside \\(S\\) but outside \\(R?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定整数乘积枚举因数分配并检范围 / 等宽边框占半面积：补常数把整数方程因式化",
+   "search_text": "A rectangular floor measures \\(a\\) feet by \\(b\\) feet, where \\(a\\) and \\(b\\) are positive integers with \\(b \\gt a.\\) An artist paints a rectangle on the floor with the sides of the rectangle parallel to the sides of the floor. The unpainted part of the floor forms a border of width \\(1\\) foot around the painted rectangle and occupies half the area of the entire floor. How many possibilities are there for the ordered pair \\((a, b)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q16",
+    "live-poshenloh-amc12-2008b-question_paper__q16",
+    "AMC12-2008B-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A rectangular floor measures \\(a\\) feet by \\(b\\) feet, where \\(a\\) and \\(b\\) are positive integers with \\(b \\gt a.\\) An artist paints a rectangle on the floor with the sides of the rectangle parallel to the sides of the floor. The unpainted part of the floor forms a border of width \\(1\\) foot around the painted rectangle and occupies half the area of the entire floor. How many possibilities are there for the ordered pair \\((a, b)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "点线距离或垂直点积条件列坐标方程 / 抛物线水平弦构成直角三角形：直角在第三点给高度固定",
+   "search_text": "Let \\(A,\\) \\(B\\) and \\(C\\) be three distinct points on the graph of \\(y = x^2\\) such that line \\(AB\\) is parallel to the \\(x\\)-axis and \\(\\triangle ABC\\) is a right triangle with area \\(2008.\\) What is the sum of the digits of the \\(y\\)-coordinate of \\(C?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q17",
+    "live-poshenloh-amc12-2008b-question_paper__q17",
+    "AMC12-2008B-Q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(A,\\) \\(B\\) and \\(C\\) be three distinct points on the graph of \\(y = x^2\\) such that line \\(AB\\) is parallel to the \\(x\\)-axis and \\(\\triangle ABC\\) is a right triangle with area \\(2008.\\) What is the sum of the digits of the \\(y\\)-coordinate of \\(C?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "空间垂直投影后列勾股关系 / 方锥两个侧面面积已知：垂直于对边截面还原高",
+   "search_text": "A pyramid has a square base \\(ABCD\\) and vertex \\(E.\\) The area of square \\(ABCD\\) is \\(196,\\) and the areas of \\(\\triangle ABE\\) and \\(\\triangle CDE\\) are \\(105\\) and \\(91,\\) respectively. What is the volume of the pyramid?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q18",
+    "live-poshenloh-amc12-2008b-question_paper__q18",
+    "AMC12-2008B-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A pyramid has a square base \\(ABCD\\) and vertex \\(E.\\) The area of square \\(ABCD\\) is \\(196,\\) and the areas of \\(\\triangle ABE\\) and \\(\\triangle CDE\\) are \\(105\\) and \\(91,\\) respectively. What is the volume of the pyramid?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "复数拆实虚部联立 / 复函数两取值为实数：虚部线性约束后范数下界",
+   "search_text": "A function \\(f\\) is defined by \\(f(z) = (4 + i)z^2 + \\alpha z + \\gamma\\) for all complex numbers \\(z,\\) where \\(\\alpha\\) and \\(\\gamma\\) are complex numbers and \\(i^2 = -1.\\) Suppose that \\(f(1)\\) and \\(f(i)\\) are both real. What is the smallest possible value of \\(|\\alpha| + |\\gamma|?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q19",
+    "live-poshenloh-amc12-2008b-question_paper__q19",
+    "AMC12-2008B-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A function \\(f\\) is defined by \\(f(z) = (4 + i)z^2 + \\alpha z + \\gamma\\) for all complex numbers \\(z,\\) where \\(\\alpha\\) and \\(\\gamma\\) are complex numbers and \\(i^2 = -1.\\) Suppose that \\(f(1)\\) and \\(f(i)\\) are both real. What is the smallest possible value of \\(|\\alpha| + |\\gamma|?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "行停周期逐段比较位置 / 匀速步行与走停车辆：按每个行停周期比较相对位置",
+   "search_text": "Michael walks at the rate of \\(5\\) feet per second on a long straight path. Trash pails are located every \\(200\\) feet along the path. A garbage truck travels at \\(10\\) feet per second in the same direction as Michael and stops for \\(30\\) seconds at each pail. As Michael passes a pail, he notices the truck ahead of him just leaving the next pail. How many times will Michael and the truck meet?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q20",
+    "live-poshenloh-amc12-2008b-question_paper__q20",
+    "AMC12-2008B-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Michael walks at the rate of \\(5\\) feet per second on a long straight path. Trash pails are located every \\(200\\) feet along the path. A garbage truck travels at \\(10\\) feet per second in the same direction as Michael and stops for \\(30\\) seconds at each pail. As Michael passes a pail, he notices the truck ahead of him just leaving the next pail. How many times will Michael and the truck meet?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "连续随机量画区域算概率 / 两个随机圆心在平行线段：距离条件转正方形斜带",
+   "search_text": "Two circles of radius \\(1\\) are to be constructed as follows. The center of circle \\(A\\) is chosen uniformly and at random from the line segment joining \\((0, 0)\\) to \\((2, 0).\\) The center of circle \\(B\\) is chosen uniformly and at random, and independently of the first choice, from the line segment joining \\((0, 1)\\) to \\((2, 1).\\) What is the probability that circles \\(A\\) and \\(B\\) intersect?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q21",
+    "live-poshenloh-amc12-2008b-question_paper__q21",
+    "AMC12-2008B-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Two circles of radius \\(1\\) are to be constructed as follows. The center of circle \\(A\\) is chosen uniformly and at random from the line segment joining \\((0, 0)\\) to \\((2, 0).\\) The center of circle \\(B\\) is chosen uniformly and at random, and independently of the first choice, from the line segment joining \\((0, 1)\\) to \\((2, 1).\\) What is the probability that circles \\(A\\) and \\(B\\) intersect?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "不相邻选择用间隔压缩 / 剩余停车位有相邻：补集为隔开的四个空位",
+   "search_text": "A parking lot has \\(16\\) spaces in a row. Twelve cars arrive, each of which requires one parking space, and their drivers choose their spaces at random from among the available spaces. Auntie Em then arrives in her SUV, which requires \\(2\\) adjacent spaces. What is the probability that she is able to park?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q22",
+    "live-poshenloh-amc12-2008b-question_paper__q22",
+    "AMC12-2008B-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A parking lot has \\(16\\) spaces in a row. Twelve cars arrive, each of which requires one parking space, and their drivers choose their spaces at random from among the available spaces. Auntie Em then arrives in her SUV, which requires \\(2\\) adjacent spaces. What is the probability that she is able to park?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "互补因数配对求乘积或对数和 / 所有因数的对数和：互补因数配对平均",
+   "search_text": "The sum of the base-\\(10\\) logarithms of the divisors of \\(10^n\\) is \\(792.\\) What is \\(n?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q23",
+    "live-poshenloh-amc12-2008b-question_paper__q23",
+    "AMC12-2008B-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The sum of the base-\\(10\\) logarithms of the divisors of \\(10^n\\) is \\(792.\\) What is \\(n?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等边条件接曲线生成递推 / 等边三角形顶点在根号曲线：逐步解二次递推并排除回头",
+   "search_text": "Let \\(A_0 = (0, 0).\\) Distinct points \\(A_1,\\) \\(A_2,\\) \\(\\ldots\\) lie on the \\(x\\)-axis, and distinct points \\(B_1,\\) \\(B_2,\\) \\(\\ldots\\) lie on the graph of \\(y = \\sqrt{x}.\\) For every positive integer \\(n,\\) \\(A_{n-1}B_nA_n\\) is an equilateral triangle. What is the least \\(n\\) for which the length \\(A_0A_n \\ge 100?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q24",
+    "live-poshenloh-amc12-2008b-question_paper__q24",
+    "AMC12-2008B-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(A_0 = (0, 0).\\) Distinct points \\(A_1,\\) \\(A_2,\\) \\(\\ldots\\) lie on the \\(x\\)-axis, and distinct points \\(B_1,\\) \\(B_2,\\) \\(\\ldots\\) lie on the graph of \\(y = \\sqrt{x}.\\) For every positive integer \\(n,\\) \\(A_{n-1}B_nA_n\\) is an equilateral triangle. What is the least \\(n\\) for which the length \\(A_0A_n \\ge 100?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2008,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2008b-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "到两条直线等距确定角平分线 / 梯形四角平分线交点：等距两底定位半高并扣耳三角",
+   "search_text": "Let \\(ABCD\\) be a trapezoid with \\(AB \\parallel CD,\\) \\(AB = 11,\\) \\(BC = 5,\\) \\(CD = 19,\\) and \\(DA = 7.\\) Bisectors of \\(\\angle A\\) and \\(\\angle D\\) meet at \\(P,\\) and bisectors of \\(\\angle B\\) and \\(\\angle C\\) meet at \\(Q.\\) What is the area of hexagon \\(ABQCDP?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2008-B-Q25",
+    "live-poshenloh-amc12-2008b-question_paper__q25",
+    "AMC12-2008B-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(ABCD\\) be a trapezoid with \\(AB \\parallel CD,\\) \\(AB = 11,\\) \\(BC = 5,\\) \\(CD = 19,\\) and \\(DA = 7.\\) Bisectors of \\(\\angle A\\) and \\(\\angle D\\) meet at \\(P,\\) and bisectors of \\(\\angle B\\) and \\(\\angle C\\) meet at \\(Q.\\) What is the area of hexagon \\(ABQCDP?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2008b-question_paper__q25.md"
+  }
+ ]
+}

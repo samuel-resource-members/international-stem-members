@@ -1,0 +1,290 @@
+{
+ "group": "mat-2023-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "mat-2023-mat-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2023-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "A.  [4 marks] In this question we write α = log10 2, β = log10 3, and γ = log10 7. Each\nof the following numbers is close to an integer. Which is the closest to an integer?\n\n  (a)  2β,     (b)  5α + β,     (c)  α + 2γ,     (d)  2α + 5β,     (e)  2α + β + γ.\n\n[Hint: 22 × 35 = 9.72 × 102]\n\n\n\n\n\nB.  [4 marks] Exactly one of these five numbers is a square number. Which one?\n\n(a) 99,999,999,  (b) 123,333,333,  (c) 649,485,225,  (d) 713,291,035,  (e) 987,654,000.\n\n\n\n\n\n                                      1\n\nC.  [4 marks] Two circles are inside a square ABCD of side-length 1. One of the circles\nis tangent to sides AB and to BC. The other circle is tangent to sides CD and DA.\nThe circles are tangent to each other. The area of the larger circle is 10 times the area\nof the smaller circle. The diagram is not to scale.\n\n                   A          D\n\n\n\n\n\n                  B            C\n\nThe sum of the radii of the circles is;\n      √                 √\n       1 +  10        √             2     r 2      √\n  (a)                  ,    (b)   2 −   2,     (c)          ,    (d)             (e)    10 −1.          8                              2               5,\n\n\n\n\n\nD.  [4 marks] How many distinct real solutions x are there to the equation\n\n                                                             2                                                     2\n                            x2 −1 2 −2  −3  = 4    ?\n\n                 (a)   5,     (b)   6,     (c)   7,     (d)   8,     (e)   9.\n\n\n\n\n\n                                      2\n\nE.  [4 marks] The first few positive whole numbers that are not powers of 3 are 2, 4, 5,\n6, 7, 8, 10. What is the sum of all the positive whole numbers that are less than 310 and\nare also not powers of 3?\n\n       (310 −1)2        (311 −1)2       3(310 −1)2\n   (a)                 ,  (b)                 ,  (c)                   ,  (d) (310 −1)2,  (e) (311 −1)2.\n          2              2              2\n\n\n\n\n\nF.  [4 marks] The coefficient of x12 in\n\n                           (1 −2x)5(1 + 4x2)5(1 + 2x)5\n\nis\n\n  (a)  −213 × 5,     (b)  −212 × 5,     (c)  212 × 5,     (d)  213 × 5,     (e)   0.\n\n\n\n\n\n                                      3\n\nG.  [4 marks] The real numbers a, b, and c are non-zero. Each of the following quadratic\nequations has a repeated real root (not necessarily the same value).\n\n                      ax2 + bx + c = 0,     bx2 + cx + a = 0.\n\nHow many distinct real roots does the equation cx2 + ax + b = 0 have?\n\n        (a)   0,    (b)   1,     (c)   2,    (d)   3,     (e)    It depends on a.\n\n\n\n\n\nH.  [4 marks] Which of these triangles has the largest area?\n\n(a) an isosceles triangle with side lengths 10, 10, 1;\n\n(b) an isosceles triangle with side lengths 10, 10, 5;\n\n(c) an isosceles triangle with side lengths 10, 10, 10;\n\n(d) an isosceles triangle with side lengths 10, 10, 15;\n\n(e) an isosceles triangle with side lengths 10, 10, 19.\n\n\n\n\n\n                                      4\n\nI.  [4 marks] The polynomial p(x) has degree 3 and has p(0) = 0, p(1) = 1, p(2) = 2.\nThe polynomial has a repeated root at x = M with M > 0. The value of M is\n\n                  7          6          5          4          3\n               (a)   6,     (b)   5,     (c)   4,     (d)   3,     (e)   2.\n\n\n\n\n\nJ.  [4 marks] Let ⌊x⌋denote the largest whole number that is less than or equal to x.\nFor example, ⌊−π⌋= −4. A function f(x) is defined as follows; if 0 < x < 2 then\n\n                                                   ⌊log2(x)⌋                                     3\n                              f(x) =\n                                     4\n\n                                               1     4            Z 2\nand f(x) = 0 otherwise. Note that, for example, f    =   The value of    f(x) dx                                               2     3.                   0\nis\n                 (a)   1,     (b)   2,     (c)   3,     (d)   4,     (e)   5.\n\n\n\n\n\n                                      5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2023",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions23_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2023-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2023-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2023-mat-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2023-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "2. For ALL APPLICANTS.\n\nFor n a positive whole number, and for x ̸= 0, let pn(x) = xn + x−n.\n\n  (i) [3 marks] Sketch the graph of y = p1(x). Label any turning points on your sketch.\n\n  (ii) [1 mark] Show that p2(x) = p1(x)2 −2.\n\n (iii) [1 mark] Find an expression for p3(x) in terms of p1(x).\n\n (iv) [5 marks] Find all real solutions x to the equation\n\n                               x4 + x3 −10x2 + x + 1 = 0.\n\n\n (v) [5 marks] Find all real solutions x to the equation\n\n                     x7 + 2x6 −5x5 −7x4 + 7x3 + 5x2 −2x −1 = 0.\n\n\n\n\n\n                                      6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2023",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions23_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2023-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2023-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2023-mat-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2023-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "3. For ALL APPLICANTS.\n\nNote that the arguments of all trigonometric functions in this question are given in terms\nof degrees. You are not expected to differentiate such a function. The notation cosn x\nmeans (cos x)n throughout.\n\n  (i) [1 mark] Without differentiating, write down the maximum value of cos(2x+30◦).\n\n  (ii) [4 marks] Again without differentiating, find the maximum value of\n\n                            cos(2x + 30◦) (1 −cos(2x + 30◦)) .\n\n\n (iii) [4 marks] Hence write down the maximum value of\n\n                             cos5 (2x + 30◦) (1 −cos (2x + 30◦))5 .\n\n\n (iv) [6 marks] Find the maximum value of\n\n\n                                                      4\n                      1 −cos2 (3x −60◦)  (3 −cos (150◦−3x))8 .\n\n\n\n\n\n                                      7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2023",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions23_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2023-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2023-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2023-mat-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2023-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.\nFor Oxford applicants in Mathematics / Mathematics & Statistics / Mathematics &\nPhilosophy, OR those not applying to Oxford, ONLY.\n\nPoint A is on the parabola y = 12x2 at (a, 12a2) with a > 0. The line L is normal to\nthe parabola at A, and point B lies on L such that the distance |AB| is a fixed positive\nnumber d, with B above and to the left of A.\n\n  (i) [6 marks] Find the coordinates of B in terms of a and d.\n\n  (ii) [4 marks] Show that in order for B to lie on the parabola, we must have\n\n                                 a2d = 2(1 + a2)3/2.                             (∗)\n\n (iii) [2 marks] Let t = a2 and express the equality (∗) in the form d2/3 = f(t) for some\n     function f which you should determine explicitly.\n\n (iv) [3 marks] Find the minimum value of f(t). Hence show that the equality (∗) holds\n      for some real value of a if and only if d is greater than or equal to some value,\n     which you should identify.\n\n\n\n\n\n                                      8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2023",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions23_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2023-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2023-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2023-mat-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2023-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For ALL APPLICANTS.\n\nDefine the sequence, Fn, as follows: F1 = 1, F2 = 1, and for n ⩾3,\n\n                            Fn = Fn−1 + Fn−2.                                (*)\n\n  (i) [3 marks] What are the values F3, F4, F5?\n\n  (ii) [1 mark] Using the equation (*) repeatedly, in terms of n, how many additions do\n     you need to calculate Fn?\n\nWe now consider sequences of 0’s and 1’s of length n, that do not have two consecutive\n1’s. So, for n = 5, for example, (0, 1, 0, 0, 1) and (1, 0, 1, 0, 1) would be valid sequences,\nbut (0, 1, 1, 0, 0) would not. Let Sn denote the number of valid sequences of length n.\n\n (iii) [1 mark] What are S1 and S2?\n\n (iv) [3 marks] For n ⩾3, by considering the first element of the sequence of 0’s and\n       1’s, show that Sn satisfies the same equation (*). Hence conclude that Sn = Fn+2\n      for all n.\n\n (v) [2 marks] For n ⩾2, by considering valid sequences of length 2n −3 and focusing\n    on the element in the (n −1)th position, show that,\n\n                                  F2n−1 = Fn2 + Fn−1.2                          (O)\n\n (vi) [3 marks] For n ⩾2, show that,\n\n                                F2n = Fn2 + 2FnFn−1.                        (E)\n\n(vii) [2 marks] Let k ⩾3 be an integer. By using the equations (O) and (E) repeatedly,\n    how many arithmetic operations do you need to calculate F2k? You should only\n     count additions and multiplications needed to calculate values using the equations (O)\n    and (E) .\n\n\n\n\n\n                                      9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2023",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions23_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2023-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2023-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2023-mat-question-paper",
+   "year": 2023,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2023-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2023",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions23_1.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2023-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2023-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2023-mat-question-paper__q06.md"
+  }
+ ]
+}

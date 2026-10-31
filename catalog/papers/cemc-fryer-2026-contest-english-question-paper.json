@@ -1,0 +1,176 @@
+{
+ "group": "cemc-fryer-2026-contest-english-question-paper",
+ "course_id": "CEMC-FRYER",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-fryer-2026-contest-english-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2026-contest-english-question-paper__q01",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.    In the grids below, dots are 1 unit apart horizontally and 1 unit apart vertically. Shapes\n      are created by connecting dots with straight lines.\n\n          (a) In Figure 1, the shaded shape is a rectangle with width 8 and height 6 that has\n           a 1 × 1 square removed. What is the area of the shaded shape in Figure 1?\n\n         (b) In Figure 2, the shaded shape is a rectangle with width 8 and height 6 that has\n           a triangle removed. What is the area of the shaded shape in Figure 2?\n\n          (c) In Figure  3,  trapezoid ABCD has AD =  5, BC =  3 and CD =  8.\n            Point G is placed vertically below C and point H is placed vertically below D,\n             so that GH is parallel to CD and the area of trapezoid ABGH is twice the area\n              of ABCD. Determine the length of BG.\n\n                                                      A\n                                                                   B\n\n\n                                              D           C\n\n                            Figure 1                    Figure 2\n\n\n                                                                                   Figure 3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2026-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2026-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2026-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2026-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2026-contest-english-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2026-contest-english-question-paper__q02",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "g\n2.     List P contains all positive integers from 1 to 253, inclusive.\n          (a) How many numbers in list P can be written as 2k where k is a positive integer?\n\n         (b) Since 4 = 22, every power of 4 can be written as a power of 2. For example, 43\n                                              3                                 n\n           can be written as 43 =  22  = 22×3 = 26. In general, 4n =  22  = 22×n = 22n.\n         How many numbers in list P can be written as 4ℓwhere ℓis a positive integer?\n          (c) Determine how many numbers in list P can be written as 4r where r is a positive\n              integer, but cannot be written as 8t where t is a positive integer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2026-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2026-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2026-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2026-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2026-contest-english-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2026-contest-english-question-paper__q03",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "3.   An open-topped cylindrical container has points S and U placed diametrically opposite\n      each other on the top edge. Points T and V on the bottom edge are vertically below\n     S and U respectively, as shown in Figure 1. The cylinder is ﬁlled with water and then\n      tipped so that some of the water spills out. The cylinder is then held in a stationary\n       tipped position until the water stops spilling out and settles. At this time, the top surface\n       of the water\n                                                           U\n         • is horizontal,                                  S        U\n         • touches S, and                                                S        W\n         • touches UV at W, where 0 ≤WV < UV ,                              V\n                                                    T          V\n      as shown in Figure 2. In the case when WV = 0,                     T\n      one half of the cylinder’s volume contains water.         Figure 1              Figure 2\n      In the questions that follow, each of the three\n       cylinders has been ﬁlled with water, tipped, and\n        is being held in a stationary tipped position.\n\n          (a) Suppose that WV = WU. What fraction of the cylinder’s volume contains water?\n\n         (b) Suppose that UV = 1 and WV = x where 0 ≤x < 1. Determine an expression\n              for the fraction of the cylinder’s volume that contains water, written in terms\n              of x.\n          (c) Suppose that a cylinder with radius 8 cm and height 12 cm contains 624π cm3 of\n            water when held in a stationary tipped position. Determine the length of WV .\n\n            Note: A cylinder with radius r and height h has volume πr2h.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2026-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2026-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2026-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2026-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2026-contest-english-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2026-contest-english-question-paper__q04",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.    In a Dunbar sequence,\n         • each term is a positive integer,\n         • the second term is greater than the ﬁrst term, and\n         • each term after the second is calculated by adding the two previous terms in the\n            sequence.\n      For example, the ﬁrst six terms of the Dunbar sequence with ﬁrst term 2 and second\n     term 5 are:\n                                                2, 5, 7, 12, 19, 31\n\n          (a) If the ﬁfth term in a Dunbar sequence is 57 and the third term is 20, what is the\n             ﬁrst term in the sequence?\n\n         (b) Suppose that the ﬁrst and second terms in a Dunbar sequence are a and b\n              respectively. Determine all possible pairs (a, b) for which the sixth term of the\n            sequence is equal to 104.\n\n          (c) Suppose that the ﬁrst and second terms in another Dunbar sequence are c and d\n              respectively.  Determine all possible pairs (c, d) for which the product of the\n            seventh term and the eighth term is equal to 41 440.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2026-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2026-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2026-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2026-contest-english-question-paper__q04.md"
+  }
+ ]
+}

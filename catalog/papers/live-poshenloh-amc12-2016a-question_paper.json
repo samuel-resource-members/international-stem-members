@@ -1,0 +1,1283 @@
+{
+ "group": "live-poshenloh-amc12-2016a-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "提取共同因式求整体值 / 阶乘差约分：提出公共阶乘",
+   "search_text": "What is the value of \\[\\dfrac{11!-10!}{9!}?\\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q01",
+    "live-poshenloh-amc12-2016a-question_paper__q01",
+    "AMC12-2016A-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the value of \\[\\dfrac{11!-10!}{9!}?\\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "统一底数后合并幂的指数 / 指数方程统一底数：把100和1000化为10幂",
+   "search_text": "For what value of \\(x\\) does \\(10^x\\cdot 100^{2x}=1000^5?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q02",
+    "live-poshenloh-amc12-2016a-question_paper__q02",
+    "AMC12-2016A-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For what value of \\(x\\) does \\(10^x\\cdot 100^{2x}=1000^5?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按商余数定义处理负数 / 负数商取整余数：按向下取整定义",
+   "search_text": "The remainder function can be defined for all real numbers \\(x\\) and \\(y\\) with \\(y\\neq 0\\) by \\[ \\text{rem}(x,y)=x-y\\left\\lfloor \\dfrac{x}{y}\\right\\rfloor, \\] where \\(\\left\\lfloor \\dfrac{x}{y}\\right\\rfloor\\) denotes the greatest integer less than or equal to \\(\\dfrac{x}{y}.\\) What is the value of \\(\\text{rem}\\left(\\dfrac{3}{8},-\\dfrac{2}{5}\\right)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q03",
+    "live-poshenloh-amc12-2016a-question_paper__q03",
+    "AMC12-2016A-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The remainder function can be defined for all real numbers \\(x\\) and \\(y\\) with \\(y\\neq 0\\) by \\[ \\text{rem}(x,y)=x-y\\left\\lfloor \\dfrac{x}{y}\\right\\rfloor, \\] where \\(\\left\\lfloor \\dfrac{x}{y}\\right\\rfloor\\) denotes the greatest integer less than or equal to \\(\\dfrac{x}{y}.\\) What is the value of \\(\\text{rem}\\left(\\dfrac{3}{8},-\\dfrac{2}{5}\\right)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平均数定候选再查中位众数 / 均值中位众数同一数：先用均值定候选再验",
+   "search_text": "The mean, median, and mode of the \\(7\\) data values \\(60,\\) \\(100,\\) \\(x,\\) \\(40,\\) \\(50,\\) \\(200,\\) \\(90\\) are all equal to \\(x.\\) What is the value of \\(x?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q04",
+    "live-poshenloh-amc12-2016a-question_paper__q04",
+    "AMC12-2016A-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The mean, median, and mode of the \\(7\\) data values \\(60,\\) \\(100,\\) \\(x,\\) \\(40,\\) \\(50,\\) \\(200,\\) \\(90\\) are all equal to \\(x.\\) What is the value of \\(x?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "命题否定逆否与反例 / 全称命题反例：保留前提否定结论",
+   "search_text": "Goldbach’s conjecture states that every even integer greater than \\(2\\) can be written as the sum of two prime numbers (for example, \\(2016=13+2003\\)). So far, no one has been able to prove that the conjecture is true, and no one has found a counterexample to show that the conjecture is false. What would a counterexample consist of?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q05",
+    "live-poshenloh-amc12-2016a-question_paper__q05",
+    "AMC12-2016A-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Goldbach’s conjecture states that every even integer greater than \\(2\\) can be written as the sum of two prime numbers (for example, \\(2016=13+2003\\)). So far, no one has been able to prove that the conjecture is true, and no one has found a counterexample to show that the conjecture is false. What would a counterexample consist of?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等差数列求和 / 三角数反求行数：总和方程",
+   "search_text": "A triangular array of \\(2016\\) coins has \\(1\\) coin in the first row, \\(2\\) coins in the second row, \\(3\\) coins in the third row, and so on up to \\(N\\) coins in the \\(N\\)th row. What is the sum of the digits of \\(N?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q06",
+    "live-poshenloh-amc12-2016a-question_paper__q06",
+    "AMC12-2016A-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A triangular array of \\(2016\\) coins has \\(1\\) coin in the first row, \\(2\\) coins in the second row, \\(3\\) coins in the third row, and so on up to \\(N\\) coins in the \\(N\\)th row. What is the sum of the digits of \\(N?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "移项因式分解后按各因子是否为零分类 / 隐式曲线因式分解：各零因子对应直线并集",
+   "search_text": "Which of these describes the graph of \\(x^2(x+y+1)=y^2(x+y+1)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q07",
+    "live-poshenloh-amc12-2016a-question_paper__q07",
+    "AMC12-2016A-Q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Which of these describes the graph of \\(x^2(x+y+1)=y^2(x+y+1)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分块加减计算面积 / 中心对称阴影割补：半幅拆两三角形",
+   "search_text": "What is the area of the shaded region of the given \\(8\\times 5\\) rectangle?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q08",
+    "live-poshenloh-amc12-2016a-question_paper__q08",
+    "AMC12-2016A-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the area of the shaded region of the given \\(8\\times 5\\) rectangle?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "矩形拼图由边段关系求边长 / 五等大方形接触：中点方形边长关系",
+   "search_text": "The five small shaded squares inside this unit square are congruent and have disjoint interiors. The midpoint of each side of the middle square coincides with one of the vertices of the other four small squares as shown. The common side length is \\(\\dfrac{a-\\sqrt{2}}{b},\\) where \\(a\\) and \\(b\\) are positive integers. What is \\(a+b?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q09",
+    "live-poshenloh-amc12-2016a-question_paper__q09",
+    "AMC12-2016A-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The five small shaded squares inside this unit square are congruent and have disjoint interiors. The midpoint of each side of the middle square coincides with one of the vertices of the other four small squares as shown. The common side length is \\(\\dfrac{a-\\sqrt{2}}{b},\\) where \\(a\\) and \\(b\\) are positive integers. What is \\(a+b?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "总和守恒或加权不变量连接不同状态 / 座位移动位置和：交换项相消",
+   "search_text": "Five friends sat in a movie theater in a row containing \\(5\\) seats, numbered \\(1\\) to \\(5\\) from left to right. (The directions “left” and “right” are from the point of view of the people as they sit in the seats.) During the movie Ada went to the lobby to get some popcorn. When she returned, she found that Bea had moved two seats to the right, Ceci had moved one seat to the left, and Dee and Edie had switched seats, leaving an end seat for Ada. In which seat had Ada been sitting before she got up?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q10",
+    "live-poshenloh-amc12-2016a-question_paper__q10",
+    "AMC12-2016A-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Five friends sat in a movie theater in a row containing \\(5\\) seats, numbered \\(1\\) to \\(5\\) from left to right. (The directions “left” and “right” are from the point of view of the people as they sit in the seats.) During the movie Ada went to the lobby to get some popcorn. When she returned, she found that Bea had moved two seats to the right, Ceci had moved one seat to the left, and Dee and Edie had switched seats, leaving an end seat for Ada. In which seat had Ada been sitting before she got up?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "局部和双计数还原总量 / 一或二技能人数：总次数减总人数",
+   "search_text": "Each of the \\(100\\) students in a certain summer camp can either sing, dance, or act. Some students have more than one talent, but no student has all three talents. There are \\(42\\) students who cannot sing, \\(65\\) students who cannot dance, and \\(29\\) students who cannot act. How many students have two of these talents?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q11",
+    "live-poshenloh-amc12-2016a-question_paper__q11",
+    "AMC12-2016A-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Each of the \\(100\\) students in a certain summer camp can either sing, dance, or act. Some students have more than one talent, but no student has all three talents. There are \\(42\\) students who cannot sing, \\(65\\) students who cannot dance, and \\(29\\) students who cannot act. How many students have two of these talents?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "以角平分线定理将一边分成比例线段 / 两条角平分线分段比：质量点或面积比例",
+   "search_text": "In \\(\\triangle ABC,\\) \\(AB=6,\\) \\(BC=7,\\) and \\(CA=8.\\) Point \\(D\\) lies on \\(\\overline{BC},\\) and \\(\\overline{AD}\\) bisects \\(\\angle BAC.\\) Point \\(E\\) lies on \\(\\overline{AC},\\) and \\(\\overline{BE}\\) bisects \\(\\angle ABC.\\) The bisectors intersect at \\(F.\\) What is the ratio \\(AF:FD?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q12",
+    "live-poshenloh-amc12-2016a-question_paper__q12",
+    "AMC12-2016A-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In \\(\\triangle ABC,\\) \\(AB=6,\\) \\(BC=7,\\) and \\(CA=8.\\) Point \\(D\\) lies on \\(\\overline{BC},\\) and \\(\\overline{AD}\\) bisects \\(\\angle BAC.\\) Point \\(E\\) lies on \\(\\overline{AC},\\) and \\(\\overline{BE}\\) bisects \\(\\angle ABC.\\) The bisectors intersect at \\(F.\\) What is the ratio \\(AF:FD?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按少数对象位置分类计数 / 单个异色球位置概率：数两端合法位置",
+   "search_text": "Let \\(N\\) be a positive multiple of \\(5.\\) One red ball and \\(N\\) green balls are arranged in a line in random order. Let \\(P(N)\\) be the probability that at least \\(\\dfrac{3}{5}\\) of the green balls are on the same side of the red ball. Observe that \\(P(5)=1\\) and that \\(P(N)\\) approaches \\(\\dfrac{4}{5}\\) as \\(N\\) grows large. What is the sum of the digits of the least value of \\(N\\) such that \\(P(N)\\lt\\dfrac{321}{400}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q13",
+    "live-poshenloh-amc12-2016a-question_paper__q13",
+    "AMC12-2016A-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(N\\) be a positive multiple of \\(5.\\) One red ball and \\(N\\) green balls are arranged in a line in random order. Let \\(P(N)\\) be the probability that at least \\(\\dfrac{3}{5}\\) of the green balls are on the same side of the red ball. Observe that \\(P(5)=1\\) and that \\(P(N)\\) approaches \\(\\dfrac{4}{5}\\) as \\(N\\) grows large. What is the sum of the digits of the least value of \\(N\\) such that \\(P(N)\\lt\\dfrac{321}{400}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "无固定标号按等大旋转轨道去重 / 立方体等面和标号：固定坐标枚举后除旋转轨道",
+   "search_text": "Each vertex of a cube is to be labeled with an integer from \\(1\\) through \\(8,\\) with each integer being used once, in such a way that the sum of the four numbers on the vertices of a face is the same for each face. Arrangements that can be obtained from each other through rotations of the cube are considered to be the same. How many different arrangements are possible?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q14",
+    "live-poshenloh-amc12-2016a-question_paper__q14",
+    "AMC12-2016A-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Each vertex of a cube is to be labeled with an integer from \\(1\\) through \\(8,\\) with each integer being used once, in such a way that the sum of the four numbers on the vertices of a face is the same for each face. Arrangements that can be obtained from each other through rotations of the cube are considered to be the same. How many different arrangements are possible?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆心距离等于半径和或差 / 三圆切同一直线：切点间距转坐标面积",
+   "search_text": "Circles with centers \\(P,\\) \\(Q,\\) and \\(R,\\) having radii \\(1,\\) \\(2,\\) and \\(3,\\) respectively, lie on the same side of line \\(l\\) and are tangent to \\(l\\) at \\(P',\\) \\(Q',\\) and \\(R',\\) respectively, with \\(Q'\\) between \\(P'\\) and \\(R'.\\) The circle with center \\(Q\\) is externally tangent to each of the other two circles. What is the area of \\(\\triangle PQR?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q15",
+    "live-poshenloh-amc12-2016a-question_paper__q15",
+    "AMC12-2016A-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Circles with centers \\(P,\\) \\(Q,\\) and \\(R,\\) having radii \\(1,\\) \\(2,\\) and \\(3,\\) respectively, lie on the same side of line \\(l\\) and are tangent to \\(l\\) at \\(P',\\) \\(Q',\\) and \\(R',\\) respectively, with \\(Q'\\) between \\(P'\\) and \\(R'.\\) The circle with center \\(Q\\) is externally tangent to each of the other two circles. What is the area of \\(\\triangle PQR?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "统一变量逐对求函数交点并去重 / 四种互逆对数图像交点：统一变量逐对去重",
+   "search_text": "The graphs of \\(y=\\log_3 x,\\) \\(y=\\log_x 3,\\) \\(y=\\log_{\\frac{1}{3}} x,\\) and \\(y=\\log_x\\dfrac{1}{3}\\) are plotted on the same set of axes. How many points in the plane with positive \\(x\\)-coordinates lie on two or more of the graphs?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q16",
+    "live-poshenloh-amc12-2016a-question_paper__q16",
+    "AMC12-2016A-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The graphs of \\(y=\\log_3 x,\\) \\(y=\\log_x 3,\\) \\(y=\\log_{\\frac{1}{3}} x,\\) and \\(y=\\log_x\\dfrac{1}{3}\\) are plotted on the same set of axes. How many points in the plane with positive \\(x\\)-coordinates lie on two or more of the graphs?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "中心对称点坐标求新正方形面积 / 方形外等边三角形中心：对角线求新方面积",
+   "search_text": "Let \\(ABCD\\) be a square. Let \\(E,\\) \\(F,\\) \\(G,\\) and \\(H\\) be the centers, respectively, of equilateral triangles with bases \\(\\overline{AB},\\) \\(\\overline{BC},\\) \\(\\overline{CD},\\) and \\(\\overline{DA},\\) each exterior to the square. What is the ratio of the area of square \\(EFGH\\) to the area of square \\(ABCD?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q17",
+    "live-poshenloh-amc12-2016a-question_paper__q17",
+    "AMC12-2016A-Q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(ABCD\\) be a square. Let \\(E,\\) \\(F,\\) \\(G,\\) and \\(H\\) be the centers, respectively, of equilateral triangles with bases \\(\\overline{AB},\\) \\(\\overline{BC},\\) \\(\\overline{CD},\\) and \\(\\overline{DA},\\) each exterior to the square. What is the ratio of the area of square \\(EFGH\\) to the area of square \\(ABCD?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按质因数指数计因数 / 已知因数个数反推指数：按模3拆约数乘积",
+   "search_text": "For some positive integer \\(n,\\) the number \\(110n^3\\) has \\(110\\) positive integer divisors, including \\(1\\) and the number \\(110n^3.\\) How many positive integer divisors does the number \\(81n^4\\) have?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q18",
+    "live-poshenloh-amc12-2016a-question_paper__q18",
+    "AMC12-2016A-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For some positive integer \\(n,\\) the number \\(110n^3\\) has \\(110\\) positive integer divisors, including \\(1\\) and the number \\(110n^3.\\) How many positive integer divisors does the number \\(81n^4\\) have?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "随机游走触界用反射原理 / 随机游走曾触门槛：反射原理化终点计数",
+   "search_text": "Jerry starts at \\(0\\) on the real number line. He tosses a fair coin \\(8\\) times. When he gets heads, he moves \\(1\\) unit in the positive direction; when he gets tails, he moves \\(1\\) unit in the negative direction. The probability that he reaches \\(4\\) at some time during this process is \\(\\dfrac{a}{b},\\) where \\(a\\) and \\(b\\) are relatively prime positive integers. What is \\(a+b?\\) (For example, he succeeds if his sequence of tosses is HTHHHHHH.)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q19",
+    "live-poshenloh-amc12-2016a-question_paper__q19",
+    "AMC12-2016A-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Jerry starts at \\(0\\) on the real number line. He tosses a fair coin \\(8\\) times. When he gets heads, he moves \\(1\\) unit in the positive direction; when he gets tails, he moves \\(1\\) unit in the negative direction. The probability that he reaches \\(4\\) at some time during this process is \\(\\dfrac{a}{b},\\) where \\(a\\) and \\(b\\) are relatively prime positive integers. What is \\(a+b?\\) (For example, he succeeds if his sequence of tosses is HTHHHHHH.)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "把方程取特殊输入得到函数或运算约束 / 抽象运算恒等式：代入自反值确定除法",
+   "search_text": "A binary operation \\(\\diamond\\) has the properties that \\(a\\diamond(b\\diamond c)=(a\\diamond b)\\cdot c\\) and that \\(a\\diamond a=1\\) for all nonzero real numbers \\(a,\\) \\(b,\\) and \\(c.\\) (Here the dot \\(\\cdot\\) represents the usual multiplication operation.) The solution to the equation \\(2016\\diamond(6\\diamond x)=100\\) can be written as \\(\\dfrac{p}{q},\\) where \\(p\\) and \\(q\\) are relatively prime positive integers. What is \\(p+q?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q20",
+    "live-poshenloh-amc12-2016a-question_paper__q20",
+    "AMC12-2016A-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A binary operation \\(\\diamond\\) has the properties that \\(a\\diamond(b\\diamond c)=(a\\diamond b)\\cdot c\\) and that \\(a\\diamond a=1\\) for all nonzero real numbers \\(a,\\) \\(b,\\) and \\(c.\\) (Here the dot \\(\\cdot\\) represents the usual multiplication operation.) The solution to the equation \\(2016\\diamond(6\\diamond x)=100\\) can be written as \\(\\dfrac{p}{q},\\) where \\(p\\) and \\(q\\) are relatively prime positive integers. What is \\(p+q?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等弦圆周角转多倍角求弦 / 圆内接连续等弦：三倍角求剩余弦",
+   "search_text": "A quadrilateral is inscribed in a circle of radius \\(200\\sqrt{2}.\\) Three of the sides of this quadrilateral have length \\(200.\\) What is the length of its fourth side?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q21",
+    "live-poshenloh-amc12-2016a-question_paper__q21",
+    "AMC12-2016A-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A quadrilateral is inscribed in a circle of radius \\(200\\sqrt{2}.\\) Three of the sides of this quadrilateral have length \\(200.\\) What is the length of its fourth side?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "最大公因数最小公倍数逐指数限制 / 三对最小公倍数：各素数最大指数独立计数",
+   "search_text": "How many ordered triples \\((x,y,z)\\) of positive integers satisfy \\(\\text{lcm}(x,y)=72,\\) \\(\\text{lcm}(x,z)=600,\\) and \\(\\text{lcm}(y,z)=900?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q22",
+    "live-poshenloh-amc12-2016a-question_paper__q22",
+    "AMC12-2016A-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "How many ordered triples \\((x,y,z)\\) of positive integers satisfy \\(\\text{lcm}(x,y)=72,\\) \\(\\text{lcm}(x,z)=600,\\) and \\(\\text{lcm}(y,z)=900?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三随机量按互斥情形计算棱锥体积 / 三均匀长度成三角形：单位立方体扣三角锥",
+   "search_text": "Three numbers in the interval \\([0,1]\\) are chosen independently and at random. What is the probability that the chosen numbers are the side lengths of a triangle with positive area?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q23",
+    "live-poshenloh-amc12-2016a-question_paper__q23",
+    "AMC12-2016A-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Three numbers in the interval \\([0,1]\\) are chosen independently and at random. What is the probability that the chosen numbers are the side lengths of a triangle with positive area?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "韦达根和根积用均值不等式 / 三次多项式全实根最小参数：韦达配均值不等式",
+   "search_text": "There is a smallest positive real number \\(a\\) such that there exists a positive real number \\(b\\) such that all the roots of the polynomial \\(x^3-ax^2+bx-a\\) are real. In fact, for this value of \\(a\\) the value of \\(b\\) is unique. What is this value of \\(b?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q24",
+    "live-poshenloh-amc12-2016a-question_paper__q24",
+    "AMC12-2016A-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "There is a smallest positive real number \\(a\\) such that there exists a positive real number \\(b\\) such that all the roots of the polynomial \\(x^3-ax^2+bx-a\\) are real. In fact, for this value of \\(a\\) the value of \\(b\\) is unique. What is this value of \\(b?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2016,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2016a-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平方数截位定位首次跳过整数 / 平方数截去偶数位：定位首次跳过整数",
+   "search_text": "Let \\(k\\) be a positive integer. Bernardo and Silvia take turns writing and erasing numbers on a blackboard as follows: Bernardo starts by writing the smallest perfect square with \\(k+1\\) digits. Every time Bernardo writes a number, Silvia erases the last \\(k\\) digits of it. Bernardo then writes the next perfect square, Silvia erases the last \\(k\\) digits of it, and this process continues until the last two numbers that remain on the board differ by at least \\(2.\\) Let \\(f(k)\\) be the smallest positive integer not written on the board. For example, if \\(k=1,\\) then the numbers that Bernardo writes are \\(16,\\) \\(25,\\) \\(36,\\) \\(49,\\) and \\(64,\\) and the numbers showing on the board after Silvia erases are \\(1,\\) \\(2,\\) \\(3,\\) \\(4,\\) and \\(6,\\) and thus \\(f(1)=5.\\) What is the sum of the digits of \\(f(2)+f(4)\\) \\(+f(6)+\\cdots+f(2016)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2016-A-Q25",
+    "live-poshenloh-amc12-2016a-question_paper__q25",
+    "AMC12-2016A-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(k\\) be a positive integer. Bernardo and Silvia take turns writing and erasing numbers on a blackboard as follows: Bernardo starts by writing the smallest perfect square with \\(k+1\\) digits. Every time Bernardo writes a number, Silvia erases the last \\(k\\) digits of it. Bernardo then writes the next perfect square, Silvia erases the last \\(k\\) digits of it, and this process continues until the last two numbers that remain on the board differ by at least \\(2.\\) Let \\(f(k)\\) be the smallest positive integer not written on the board. For example, if \\(k=1,\\) then the numbers that Bernardo writes are \\(16,\\) \\(25,\\) \\(36,\\) \\(49,\\) and \\(64,\\) and the numbers showing on the board after Silvia erases are \\(1,\\) \\(2,\\) \\(3,\\) \\(4,\\) and \\(6,\\) and thus \\(f(1)=5.\\) What is the sum of the digits of \\(f(2)+f(4)\\) \\(+f(6)+\\cdots+f(2016)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2016a-question_paper__q25.md"
+  }
+ ]
+}

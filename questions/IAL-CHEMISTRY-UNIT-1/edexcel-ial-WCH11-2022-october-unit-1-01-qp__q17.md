@@ -1,0 +1,223 @@
+# IAL-CHEMISTRY-UNIT-1 · 2022 · October · Unit 1 · 01 · Q17
+
+- id: edexcel-ial-WCH11-2022-october-unit-1-01-qp__q17
+- course: IAL-CHEMISTRY-UNIT-1
+- exam: IAL-CHEMISTRY-UNIT-1
+- subject: chemistry
+- year: 2022
+- session: October
+- paper: Unit 1
+- variant: 01
+- question_number: 17
+- paper_id: edexcel-ial-WCH11-2022-october-unit-1-01-qp
+- chapter: Chemistry of the environment
+- knowledge_point: Air and pollution
+- problem_type: 解释大气成分、污染或气候影响
+- topic_tags: edexcel-ial-WCH11-2022-october-unit-1-01-qp__q17
+
+## Text (OCR)
+
+```text
+17 Limonene is an oil extracted from the skin of citrus fruits such as oranges or lemons.
+     It is found in some cleaning products such as those used to remove chewing gum.
+
+   Limonene has the structure shown.
+
+
+
+
+
+    (a) Deduce the molecular formula of limonene.
+                                                                                              (2)
+
+
+
+....................................................................................................................................................................................................................................................................................
+
+    (b)  (i) A few drops of acidified potassium manganate(VII) solution are mixed with a
+         sample of limonene.
+
+           State the colour change.
+                                                                                              (1)
+
+         From  .......................................................................................... to  ...................................................................................................
+
+            (ii) Draw the skeletal formula of the structure of the organic
+          product formed when the reaction in (b)(i) is carried out with
+          excess acidified potassium manganate(VII).
+                                                                                              (1)
+
+
+
+
+
+            (iii) Name the type of reaction that limonene undergoes in (b)(i).
+.                                                                                              (1)
+
+
+
+....................................................................................................................................................................................................................................................................................
+
+
+
+
+
+ 22
+
+                                                             *P71875A02228*
+
+(c) On heating, limonene reacts to form two molecules of a smaller hydrocarbon, Q.
+
+    Q can be polymerised to form R, a polymer used to improve the grip of car tyres.
+
+     A section of R is shown.
+
+                                 H3C    CH2 H3C    CH2
+                                        H    C   H    C                                                                                                                                                                                                                           C    C    C    C                                                                                                                                                                                                                        
+                                        H    H   H    H  
+
+                                      Section of polymer R
+
+      Draw the structure of Q.
+                                                                                              (1)
+
+
+
+
+
+    (d) Give two ways in which chemists can help minimise problems caused by the
+       disposal of polymers.
+                                                                                              (2)
+
+
+
+....................................................................................................................................................................................................................................................................................
+
+
+
+....................................................................................................................................................................................................................................................................................
+
+
+
+....................................................................................................................................................................................................................................................................................
+
+
+
+....................................................................................................................................................................................................................................................................................
+
+
+
+
+
+                                                                                         23
+                                                                          Turn over        *P71875A02328*
+
+(e) Limonene is extracted from orange peel using a solvent.
+       Possible solvents are hexane and liquid carbon dioxide.
+
+       Liquid carbon dioxide can be obtained by allowing solid carbon dioxide to melt
+      under high pressure.
+
+           (i)  Suggest one advantage and one disadvantage of using liquid carbon dioxide
+           rather than hexane to dissolve the limonene. Assume that the carbon dioxide
+         does not escape into the atmosphere.
+                                                                                              (2)
+
+         Advantage
+
+
+....................................................................................................................................................................................................................................................................................
+
+
+
+....................................................................................................................................................................................................................................................................................
+
+          Disadvantage
+
+
+....................................................................................................................................................................................................................................................................................
+
+
+
+....................................................................................................................................................................................................................................................................................
+
+            (ii) Orange peel contains 1.63 % of limonene by mass.
+
+        A chewing gum remover contains 30 cm3 of limonene per bottle.
+
+           Calculate the mass of orange peel, in kg, needed to obtain 30 cm3 of limonene.
+
+           [Density of limonene = 0.841 g cm–3]
+                                                                                              (3)
+
+
+
+
+
+                                                        (Total for Question 17 = 13 marks)
+
+                                       TOTAL FOR SECTION B = 60 MARKS
+                                           TOTAL FOR PAPER = 80 MARKS
+
+ 24
+
+                                                             *P71875A02428*
+
+uoydAuy | auiWouq | Wniuajas | 2uasJe jwmueuuas) wriy)jed auiz 4addoz yeyauu yeqo> UosL = JasaueBueW] WniWoY> | WMpeUeA | Winey | WNIpUuRds} WWnID}e> | Wnissejod]
+uunyiey uatoupAy
+E'LEL | 6°92L 922 Buz | LBLb Belt PZbE 6201 ¥'901 6°ZOL LLOL [36] 6°S6 6°76 w16 6'88 918 G’S8
+[zzz] | fo1z] | [eoz] | oveoz | z'zoz | v'v0z | 9002 | O'Zer | L'set | z'zeL | z’06L | Z98L | Best | G'ORL | S'B4L Greet | ErZEL | o'zEL
+uopes auijeise | wniuojod | yynwwsiq peay wniyjeyy | Aunouaw pos wnuyeyd | wniput | wniuuso | wniuays | vaysduny | wryequey} wriujsey wnueyuey) winueg | wnisae>
+uouex auipor | winuinyjey | Auowue un winipur | winywpe> dans | WAipeyed| Wnipoys |Winiuayynd | WingauYyra; jWinuapqjow) Winigolu | LuNjuodZ} WNLIIIA | wnQuosys | Wmipiqns
+(8) 0 Z 9 Ss % E z t
+uofie auuoyys | snyjns | smioydsoyd) oss | wnulWNje jwnjssusew | lwinipos
+ges 6°6L 0°62 6b. 97L £69 >°s9 se9 8S 6°85 8°SS 6S 0'2s 6°0S 6Lb O°Sr Or b6e
+Z'0Z OL O'9L OL oz 8°0L SSB JILWOIE SANE]SI 06 69
+6°6E S’SE Ze o'le 1°82 Olz £'vz x4
+(91)
+uoau auuony | UaBAxo | UaBolyu | uoqued uol0q aweu wnnjAsaq | wniyaty
+uy W Od ‘g qd IL 5H ny 4d 4 so ay M BL JH P| eq sD
+SH H
+2N 4d (e) N 3 q JoquiAs a1wojze ag ra
+4 I aL qs us uy PD By Pd be! nu aL ow qN AZ A ds qd
++S €S zs 1S os 6¢ 8h Ly oF Gr yr tr ur ly Or 6£ ge Lt
+ake ov
+wv] 1D 5 d Is Vv Sw | PN
+4y 4g as sy 89 e9 uZ nd 1N oD 24 uw 4D A ae 2S e9 >|
+98 G8 +8 £8 7 18 08 62 82 “Lh 9L GL el tL (aa 2s 9S SS
+OL 6 8 Z 9 S daquinu (uojo2d) >}wWoye v £
+gt ab ot sl pL eb (zt) (th) (01) (6) (3) (2) (9) (s) (p) (€) a tL
+9f ce ve £€ rag LE O€£ 672 87 it 92 SZ ZA &% @ 1z 0z 6L
+z (Zt) (91) (SL) (et) T Kay (@ ()
+payodas Uaag aAeY 911-711 SJAGUINU D1WOJe YIM S}UaWA)Z sy sa Jw SH ug 5S ga +3 aV ey 44
+DO:NOT:- WRITE IN: THIS:AREA
+wniduauMe)| WNYaqou | LunwejspuawW) Lundy | LuNiUIaysuld| LuNILUOsI]e9) LuNNaaq wound | wniouawe |wniuoynyd |wniumdau} wnivesn jwniunceoid) Wwn0y)
+wngainy jwniqsayA | wniynyy wniqia wntwyoy |wnisoudsép} winiquay |wniulyoped| uinidoJna | wnuewes |wniwjatwosd|wuniWApoau |untupoxsexd] ~LuNad SOYAS SPLUHIY 5
+(zsz]_| [ps7] | [osz] | lesz) | [esz) | [rsz) | [spz] | (zpz] | lerz] | [zpz) | [zez) | sez | [rez) | zez
+SLL €Lt 691 L9L SOL £9L 6St ZGL 7Sb Ost [Ze] bel lel OrL
+£0L ZOL LOL ool 66 86 46 % S6 +6 £6 t 6 06
+n7 qA wi 43 OH kg qi PS ny ws Wd PN dd 2) sauas apiueyjuey ,
+41 ON Pw wd sd ye) 49 w> wy Nd dN n ed YL
+va oz 69 89 L9 99 s9 %9 £9 79 19 09 6S 8S
+payesQuay ne Ajjny Jou Ing LUNWUSs Use] Wnope\suueD| UT@UaaW) Wntssey | wntyoq jwinigsoqeas| Wwniugnp | wmpovaipy wniuiy2e | wnipesr | winisuesy
+s]UaWa}J JO a)qeL D1poLiag YL
+DO:NOT- WRITE-IN: BHIS AREA
+[zzz] | (tzz] | (e9z] | [zez] | [oz] | (992) | [z9z] | [t9z] zzz) | f9zz) | fezzl
+LLL OLL 60} 80L 2OL 901 SOL POL 68 88 48
+DONOT: WRITEIN-THIS-AREA
+
+
+EEL
+Pp
+71 8 75 AO 2 8 2 8
+```
+
+## Answer / mark scheme candidates
+
+- [Pearson Edexcel International Advanced Level Chemistry WCH11 — October 2022 — Unit 1 — 01 — Mark Scheme](https://pmt.physicsandmathstutor.com/download/Chemistry/A-level/Past-Papers/Edexcel-IAL/2018-spec/Unit-1/MS/October%202022%20%28IAL%29%20MS.pdf)
+
+## Source files
+
+- package `question-bank-chemistry-part-001.zip` (release `subject-resources`) · member `question-corpus/questions/edexcel-ial-WCH11-2022-october-unit-1-01-qp__q17/question.pdf`: https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-chemistry-part-001.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

@@ -1,0 +1,555 @@
+{
+ "group": "hkdse-m2-2022-pm2-en-qp",
+ "course_id": "DSE-M2",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 12,
+ "questions": [
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q01",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "1 -\nSh\n1. Let g(x)= , where x >0. Prove that g(1+h)-g(1)=—————_—_——— ._ Hence,\nV5x+4 3V5h4+9 (34+V5h+9)\nfind g’(1) from first principles. (4 marks)\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q01"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q01/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q01/question.pdf",
+     "bytes": 1391668,
+     "sha256": "4747002b029c53985de51ff0bd873300c6963511d24ea52b717452a628f6b098",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q01.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q02",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "三角",
+   "knowledge_point": "三角恒等式",
+   "problem_type": "变换三角式并证明或求值",
+   "search_text": "2. Let 7<9<2.\n4 2\ntand cot@\n(a) Prove that =1+sec@cscO .\nl-cot? 1-tan@\ntan0 + cot@\n(b) Solve the equation\nl1-cot@ 1-—tand\n(5 marks)\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q02"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q02/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q02/question.pdf",
+     "bytes": 1293557,
+     "sha256": "07e3d03e6eb17097a7a178b4f06873ed97e452d958f381c1d4c9dd3841d21cb7",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q02.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q03",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "证明",
+   "knowledge_point": "数学归纳法",
+   "problem_type": "建立起步情形并完成归纳步骤",
+   "search_text": "2n\n3. (a) Using mathematical induction, prove that > (-p* k= n(2n+1) for all positive integers 7.\nk=l\n100\n(b) Using (a), evaluate Sent KR,\nkal\n(7 marks)\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q03"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q03/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q03/question.pdf",
+     "bytes": 1339344,
+     "sha256": "359a8c6e22d86a8f14c7af74635c2861ecff31682916856ed1efd80e65ec9c27",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q03.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q04",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "4. Let y=(7x-2x*)e™ .\n2\n(@) Find @ ana fy.\ndx dx\n(b) | Someone claims that there are two points of inflexion of the graph of y=(7x- 2x Jer\nx\n. Do you\nagree? Explain your answer.\n(6 marks)\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q04"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q04/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q04/question.pdf",
+     "bytes": 1306441,
+     "sha256": "8bc2eb896cb9ebddf38f78748a05d7848da1ddb5dfe42905831d08252f7926d2",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q04.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q05",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "代数",
+   "knowledge_point": "二项式展开",
+   "problem_type": "求展开式的系数或指定项",
+   "search_text": "n\n5. Let n be an integer greater than 1. Define (a+x)” =), ayx* , where a is aconstant. It is given\nk=0\nthat “, =-10.\n(a) Explain why a is a negative number and 7 is an odd number.\nn\n(b) Let (dx-1)\" =a , where 6 isaconstant. If A) = 4 and A, =2y, , find a,b andn.\nk=0\n(6 marks)\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q05"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q05/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q05/question.pdf",
+     "bytes": 1336488,
+     "sha256": "ab7c86eaba80990cce4ca3b1ac6013ff4f14a7df4cffae2f736e76f60994a671",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q05.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q06",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "积分",
+   "knowledge_point": "换元积分",
+   "problem_type": "选择代换并处理积分与边界",
+   "search_text": "6. (a) Using integration by substitution, prove that peer Sees dx = an a 2) +constant .\nx? 42x45 2 2\n(b) At any point (x, y) on the curve G, the slope of the tangent to G is a2 . Given that G\np 8 7\nx° +2x+5\npasses through the point (-3,In2) , does G pass through the point (-.) ? Explain your\nanswer.\n(7 marks)\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q06"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q06/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q06/question.pdf",
+     "bytes": 1374086,
+     "sha256": "6ffad12c415e3bba9a89a2a74e935da4965801f7bd30ad150f844ba0e62391e6",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q06.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q07",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "7. Consider the curve I: y = In(x + 2), where x>0. Let P be a moving point on J with A as\nits x-coordinate. Denote the tangent to 7 at P by L and the area of the region bounded by 7”, L and\nthe y-axis by A square units.\n2\n(a) Prove that A= h’+4h\n—2In(A+2)+2In2 .\n2h+4\n(b) If h= 3¢ , where ¢ is the time measured in seconds, find the rate of change of A when f=1.\n(8 marks)\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q07"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q07/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q07/question.pdf",
+     "bytes": 1432857,
+     "sha256": "6941dada604d38f5d2106fe2ddae4168cac59a350dd6399dd25fc59ad47c1499",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q07.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q08",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "矩阵",
+   "knowledge_point": "矩阵与行列式",
+   "problem_type": "用矩阵运算或行列式处理线性关系",
+   "search_text": "Consider the system of linear equations in real variables x, y and z\n8.\nax + 2y - z = 4k\n(E): 5 -x + ay + 2z = 4 , where a,keR.\n2x - y + az = ke\nAssume that (£) has a unique solution. Express y in terms of a and k.\n(a)\n(b)\nAssume that (£) has infinitely many solutions. Solve (£) .\n(7 marks)\nProvided by dse.life\n\nSECTION B (50 marks)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q08"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q08/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q08/question.pdf",
+     "bytes": 2520443,
+     "sha256": "7c6f54bcdb4666c54629b48770adf9fe99471fe26a6a3e8df6d9618fcf8b792f",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q08.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q09",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "2\n9. Let f(x)=**3* | where x#1. Denote the graph of y=f(x) by H.\n(a) Find the asymptote(s) of H.\n(3 marks)\n(b) Find the maximum point(s) and minimum point(s) of H.\n(4 marks)\n(c) Sketch A.\n(3 marks)\n(d) Let R be the region bounded by H and the straight line y= 10. Find the volume of the solid of\nrevolution generated by revolving R about the straight line y= 10.\n(3 marks)\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q09"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q09/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q09/question.pdf",
+     "bytes": 1376963,
+     "sha256": "7a6e81a64dbec5db3956ed50c61d47e5cd97b4606b8f0769e65fed0475dec4b6",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q09.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q10",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "积分",
+   "knowledge_point": "换元积分",
+   "problem_type": "选择代换并处理积分与边界",
+   "search_text": "2\n10. Let g(x)=cos* xcos2x .\nA 2\n(a) Prove that J g(x) dx eS j sin? 2xdx . (2 marks)\n(b) Evaluate ff e@er. (2 marks)\n(c) Using integration by substitution, evaluate j xg(x)dx . (4 marks)\nx\n0\nQn\n(d) Evaluate xg(x) dx . (4 marks)\n*\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q10"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q10/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q10/question.pdf",
+     "bytes": 1324173,
+     "sha256": "3bd6832e226004914ff3322d0efc7bd233eb7f7341a54036af735e27bb8a2ce0",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q10.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q11",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "矩阵",
+   "knowledge_point": "矩阵与行列式",
+   "problem_type": "用矩阵运算或行列式处理线性关系",
+   "search_text": "11. (a) Let » bea positive integer. Denote the 2x2 identity matrix by /.\n(i) Let A bea 2x2 matrix. Simplify ([— A)(\\[+A+4?+---+4”) .\n(ii) Let a-(\ncosO —sin0d . .\n. , where @ is nota multiple of 27.\nsin@ cos@\n8 (srr cosn@\ncosn@ |\nIt is given that A” =\n. oO\nI sin— —cos—\n(1) Prove that (I-A)! = 7) 6\n2 2\n2sin—| cos—  sin—\n2 2 2\n(2) Using the result of (a)(i) and (a)(ii)(1),\nsin 2+ D8 cos 2 ~ sin 22\nag gna 2 | 2 2\nprove that J+A+A°++-+A ; in”? cos\nmy 2 2\n(7 marks)\n(b) — Using (a)(ii), evaluate\n(i) cos = + 008 +. cos = 4---+.c0825 5\n18 9 6\n- a 2n 3a\n(ii) cos? = + cos? + cos? +--+ 008\" Ta .\n(6 marks)\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "11. (a) Let » bea positive integer. Denote the 2x2 identity matrix by /.\n(i) Let A bea 2x2 matrix. Simplify ([— A)(\\[+A+4?+---+4”) .\n(ii) Let a-(\ncosO —sin0d . .\n. , where @ is nota multiple of 27.\nsin@ cos@\n8 (srr cosn@\ncosn@ |\nIt is given that A” =\n. oO\nI sin— —cos—\n(1) Prove that (I-A)! = 7) 6\n2 2\n2sin—| cos—  sin—\n2 2 2\n(2) Using the result of (a)(i) and (a)(ii)(1),\nsin 2+ D8 cos 2 ~ sin 22\nag gna 2 | 2 2\nprove that J+A+A°++-+A ; in”? cos\nmy 2 2\n(7 marks)\n(b) — Using (a)(ii), evaluate\n(i) cos = + 008 +. cos = 4---+.c0825 5\n18 9 6\n- a 2n 3a\n(ii) cos? = + cos? + cos? +--+ 008\" Ta .\n(6 marks)\nProvided by dse.life\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q11/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q11/question.pdf",
+     "bytes": 1308045,
+     "sha256": "0aad2edde6168036698561801d8f4add1083ff9d432a87773cfa3095d92ee818",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q11.md"
+  },
+  {
+   "paper_id": "hkdse-m2-2022-pm2-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M2",
+   "variant": "English M2",
+   "id": "hkdse-m2-2022-pm2-en-qp__q12",
+   "exam_id": "DSE-M2",
+   "course_id": "DSE-M2",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "向量",
+   "knowledge_point": "向量分量",
+   "problem_type": "用向量分量求位置、长度或方向",
+   "search_text": "12. Consider AABC. Denote the origin by O.\n(a)\nLet D bea point lying on BC such that AD is the angle bisector of ZBAC. Define BC=a ,\nAC=b and AB=c.\n(i) Using the fact that BD: DC=c:b, prove that AD =-OA+ OB+——0C.\nb+e bt+e\n(ii) Let E bea point lying on AC such that BE is the angle bisector of ZABC.\nDefine OJ =—“—0OA+ b OB+—“— OC .\nat+b+c a+b+c at+bt+c\nProve that J lieson AD. Hence, deduce that AD and BE intersect at J.\n(7 marks)\nSuppose that OA =351+9j+k : OB = 40i-3j+k and OC =-3j+k . Let J be the incentre\n(b)\nof AABC.\n(i) “Find OF .\n(ii) By considering AIx AB , find the radius of the inscribed circle of AABC .\n(5 marks)\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M2 2022 Paper M2 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M2/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m2-2022-pm2-en-qp__q12"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q12/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m2-2022-pm2-en-qp__q12/question.pdf",
+     "bytes": 1382151,
+     "sha256": "d15d4f21055ff2fd8fda09da856a04084824e79b018ec8b1d06314a1a9615484",
+     "shard": "pdfs-41bcb4e102d649d1.zip",
+     "shard_bytes": 103814326,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-41bcb4e102d649d1.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M2/hkdse-m2-2022-pm2-en-qp__q12.md"
+  }
+ ]
+}

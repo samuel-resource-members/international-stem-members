@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2026-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2026-usapho-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2026-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Waves",
+   "knowledge_point": "Light",
+   "problem_type": "用折射、反射或透镜关系处理光路",
+   "search_text": "Problem A1: 404 Vision Not Found\n\n A robot is equipped with an eye containing an adjustable thin lens mounted at the front. A small\n ﬂat retina-like sensor is mounted on the optical axis at the back of the eye. The distance from the\n lens to the sensor is\n                                s↑= 10.0 cm.\n\n The circular aperture of the lens (the pupil) has diameter\n\n                                     d = 5.00 mm.\n\n\n\n                                                                  corrective lens\n\n\n\n                                                            incoming light                                 10.0 cm\n\n\n\n\n                        sensor               lens\n\n\n\n\n\n   By adjusting its internal lens, the robot can focus sharply on objects whose distances lie between\n\n                                       1.00 m ↗s ↗10.0 m.\n\n In this problem, treat all lenses as thin.\n\n(a) Find both the range of focal lengths f and the range of optical powers P through which the\n    internal lens is adjustable.\n\n The robot is to be adapted for two new functions:\n\n    • observing stars (objects at inﬁnity),\n\n    • reading printed material at a distance of 25.0 cm.\n\n To do this, a thin corrective lens is placed immediately in front of the eye. Neglect the separation\n between this corrective lens and the eye lens.\n\n(b) Find the range of optical powers P of the corrective lens that allows the robot to observe stars.\n\n(c) Can a single corrective lens allow the robot to both observe stars and read at 25.0 cm? Explain\n    your answer.\n\n(d) Estimate the di!raction-limited maximum print resolution (in dots per inch, dpi) when viewing\n    a page at 25.0 cm. Use light of wavelength\n\n                                  ϱ = 550 nm.\n\n2026 USAPhO                            Part A                                       3\n\n\n\n\n(e) When viewing a stellar object, the eye lens is adjusted so that the image forms on the sensor.\n   The total optical power collected by the pupil is P0. Due to di!raction at the pupil, the image is\n   a central bright spot (Airy disk).\n\n    (i) Estimate the intensity at the sensor in terms of P0, ϱ, and the parameters of the eye.\n\n    (ii) By what factor does the intensity change  if, while observing the same object, the pupil\n      diameter is reduced from 5.0 mm to 2.0 mm?\n\n2026 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2026-USAPhO-AAPT_Sol.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2026-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2026-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2026-usapho-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2026-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Problem A2: Straight on a Cone\n\n In general relativity, particles in the absence of external forces move “straight” along curved\n spacetime. In this problem, we will analyze a classical mechanics analogue of this idea.\n    Suppose a point mass m is constrained to move along the surface of an inﬁnite, ﬁxed, frictionless\n cone of half-angle ς. Ignore gravity throughout this problem, and assume the only force on the\n mass is the normal force from the cone. Let the vertex of the cone be O.\n    At time t = 0, the mass is at a point A, a distance r0 from O, and its velocity has magnitude v\n and is perpendicular to the displacement vector OA↓↘ (i.e., tangent to the cone).\n\n(a) Find the normal force at time t = 0.\n\n(b) At some later time, the mass is at a point B, a distance r1 from O. Find the angle φ its velocity\n    vector makes with the displacement vector OB.↓↓↘\n\n(c) At what time t does the mass reach the point B?\n\n(d) After a long time, ﬁnd the total number of revolutions the mass makes around the axis of the\n    cone.\n\n2026 USAPhO Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2026-USAPhO-AAPT_Sol.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2026-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2026-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2026-usapho-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2026-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Pressure",
+   "problem_type": "从力、面积或液柱高度求压强",
+   "search_text": "Problem A3: Storm Chaser\n\n The violent updrafts and vortices that power severe thunderstorms arise from atmospheric instability.\n Neglect moisture e!ects, and model the atmosphere as an ideal gas of molar mass µ. Let CP and\n CV be the Molar heat capacities at constant pressure and volume, respectively, with CP = CV + R.\n Gravitational acceleration is g.\n\n Part A: Updraft\n\n\n(a) Derive the relationship between atmospheric pressure and altitude, dP , in terms of the atmospheric                                                                                dz\n    density ↼.\n\n(b) A parcel of air is lofted rapidly upward in a storm’s updraft, exchanging no heat with its\n    surroundings. Assume the parcel remains in pressure equilibrium with the surrounding atmosphere\n    as it rises. Using your result from part (a) and the ﬁrst law of thermodynamics, derive the rate\n    at which the parcel’s temperature changes with altitude, ↽p       dz .                                             ≃↓dTp\n(c) The atmosphere ahead of the storm has an environmental temperature proﬁle Tenv(z) with lapse\n                   and surface temperature Tenv(0) = T0. A parcel in equilibrium at z = 0 is                       dz    rate ↽env ≃↓dTenv\n    displaced upward by ⇀z. Determine:\n\n     (i) The condition on ↽env for the atmosphere to be unstable, and\n\n    (ii) The oscillation frequency of the parcel when the atmosphere is stable.\n\n Part B: Vortex\n\n In this section, treat the atmosphere as isothermal with uniform density ↼0 and ambient pressure P↓.\n\n\n(a) A tornado can be modeled as a Rankine vortex: solid body rotation v = ⇁r for r < R and\n     irrotational ﬂow v = ⇁R2/r for r > R, with P ↘P↓as r ↘⇐. Using radial force balance on a\n    small parcel of air moving in a circular path, derive the radial pressure gradient and ﬁnd the\n    central pressure deﬁcit ∆P = P↓↓P(0).\n(b) Using a displacement argument analogous to A(c), derive the condition on the circulation\n    γ(r) ≃rv(r) for a rotating ﬂuid to be stable. Apply your result to the Rankine vortex.\n\n2026 USAPhO Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2026-USAPhO-AAPT_Sol.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2026-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2026-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2026-usapho-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2026-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Density",
+   "problem_type": "用质量和体积求密度或未知量",
+   "search_text": "Problem B1: Radiant Bubbles\n\n Hot stars emit vast amounts of ultraviolet photons. These photons ionize the surrounding neutral\n hydrogen gas, creating a bubble of ionized hydrogen known as a Str¨omgren Sphere.\n    Consider a star at the center of a uniform cloud of hydrogen with mass density ↼H. The star\n emits ionizing photons at a constant rate Q↔(photons/s). Assume the ionized region is in a steady\n state where the total ionization rate equals the total recombination rate.\n     Inside the sphere, the recombination rate per unit volume R is:\n\n                          R = npneς\n\n where ς is the total volume recombination rate coe”cient and np and ne are the respective proton\n and electron number densities deﬁned as\n\n                                  n                       ≃↼m\n where m is the particle mass and ↼is the particle density.\n\n(a) Assume the gas inside the sphere is completely ionized and composed of only hydrogen. Derive\n   an expression for the Str¨omgren radius, rs, in terms of Q↔, ς, the number density of hydrogen\n   nH, and fundamental constants.\n\n When the star ﬁrst starts emitting radiation, an ionization front sweeps outward through the\n surrounding gas as the ionized region expands. In this early stage, assume the gas is initially at\n rest, the front is a thin discontinuity, and recombinations behind the front can be neglected.\n\n(b) Let s be the speed of the front moving into neutral hydrogen of number density nH. Let J be\n    the ﬂux of ionizing photons reaching the front (photons per unit area per time).\n\n     (i) Derive the expansion speed s in terms of J and nH.\n    (ii) Find the radius r(t) of the ionization front as a function of time. Let r(0) = 0.\n\n Inside the sphere, the gas is hot (Tin ↑104 K), while the neutral gas outside is cold (Tout ↑100 K).\n Initially, the number densities of hydrogen are similar:\n\n                                           nH,in ↑nH,out.\n    Assume the gas is ideal, the ionized region remains fully ionized as it expands, and ionization\n balance is maintained.\n\n(c) (i) Calculate the ratio of the internal pressure Pin to external pressure Pout.\n    (ii) At some point the bubble will stop expanding. Find the ﬁnal radius r in terms of rs and the\n      temperature ratio (Tin/Tout).\n\n On a larger scale, galaxy clusters are ﬁlled with hot gas (T ↑107 K) in hydrostatic equilibrium\n where gravitational forces are balanced by gas pressure:\n\n                                 dP\n                           =           ,                                        dr   ↓↼d▷dr\n    where ▷is the gravitational potential per unit mass. Assume the gas is ideal and approximately\n isothermal.\n\n2026 USAPhO                            Part B                                       7\n\n\n\n\n(d) (i)  If the gravitational potential satisﬁes\n\n                                    d▷   v2c                              =\n                                            dr    r\n\n      where vc is constant, show that the gas density follows a power law\n                                               ↼(r) ⇒r→ω.\n\n      Find ◁in terms of vc, T, and fundamental constants.\n\n    (ii) The gas cools by emitting X-ray photons through free-free emission at a volumetric rate\n                             ⇑ T.                              0     e                                ⇒n2\n            i.  If the cooling time scales as tcool ⇒T a↼be, ﬁnd a and b.\n           ii. Express tcool as a function of r and determine its behavior as as r ↘0 and r ↘⇐.\n   (iii) From observations of luminous X-rays, we know that the gas at the center of galaxy clusters\n         is hot. Is this expected based on this model? Brieﬂy explain why or why not.\n\n2026 USAPhO Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2026-USAPhO-AAPT_Sol.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2026-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2026-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2026-usapho-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2026-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "Problem B2: Say Cheese. . .  It’s a Conic\n\n You are studying the motion of charged particles constrained to the xy-plane. Particle ς, with\n charge +1 C, is ﬁxed at the origin.\n    For motion under an inverse-square central force, trajectories are conic sections with the ﬁxed\n particle at a focus. In polar coordinates:\n\n    • For an attractive interaction (ellipse),\n\n                                                  r0\n                                       r =                e < 1.                                       1 + e cos 1,\n\n    • For a repulsive interaction (hyperbola),\n\n                                                  r0\n                                       r =                e > 1.\n                                          e cos 1                                    ↓1,\n\n    You have a camera that takes three snapshots of a moving particle at equal time intervals.\n\n(a) A particle ◁, with charge ↓1 C, moves under the electrostatic force of particle ς.  In three\n    consecutive snapshots, its positions are\n\n                                         (0, ↓5 m),   (3 m, 0),   (0, 5 m).\n\n   Assuming the motion is governed only by the Coulomb interaction with ς, determine the\n   maximum distance that particle ◁reaches from the origin.\n\n(b) Now particle ◁is replaced by particle γ, which has charge +2 C and is free to move in the plane.\n    In three consecutive snapshots, its positions are\n\n                                 (3 m, ↓4 m),   (2 m, 0),   (3 m, 4 m).\n\n   Assuming the motion is governed only by the Coulomb interaction with ς, determine the angle ϖ\n   (measured from the positive x-axis) of the velocity of particle γ at large times.\n\n(c) A family of particles, each identical to particle γ (that is, each has charge +2 C), approaches\n    from inﬁnity in the xy-plane. All particles have the same speed v↓far from the origin and move\n    along lines parallel to the initial asymptotic direction of particle γ from part (2). The particles\n    are injected one at a time, so they do not interact with one another.\n\n    For each trajectory, deﬁne the impact parameter B to be the perpendicular distance between the\n     initial straight-line path of the particle and the origin.\n\n   As a particle passes near the scattering center, its direction changes due to Coulomb repulsion.\n    Let ς denote the total deﬂection angle of the trajectory, i.e., the angle between the incoming\n   and outgoing asymptotic directions.\n\n     (i) Using the conic form of the trajectory, derive a formula for B(ς).\n\n    (ii) Using the result of part (2), express B(ς) in terms of r0.\n\n2026 USAPhO Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2026-USAPhO-AAPT_Sol.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2026-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2026-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2026-usapho-question-paper",
+   "year": 2026,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2026-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B3",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "Problem B3: The Trojan Cylinder\n\n In alternating-current systems, the quality factor Q can be deﬁned as\n\n                                                 energy stored\n                  Q = 2ω                                           .                          →maximumenergy lost per cycle\n\n(a) A circuit consists of an inductor of inductance L and resistance R, carrying a current\n\n                                              I(t) = I0 cos(2t).\n\n    Using the energy deﬁnition of Q, express Q in terms of 2, L, and R.\n\n(b) A long solenoid of inductance L is made of superconducting wire and is tightly wound around\n    a thin conducting cylindrical shell of radius a, thickness t ↔a, conductivity ϑ, and length 3.\n    Ignore end e!ects and skin e!ects.\n\n   The current in the solenoid is\n                                              I(t) = I0 cos(2t).\n\n    Using the deﬁnition of Q, determine Q in terms of 2, ϑ, t, a, and L.\n\n(c) Using your result from part (1), determine the e!ective resistance of the system.\n\n(d) Now suppose the solenoid is connected in series with an external resistor R. Determine the total\n    quality factor of the system in the presence of the conducting cylinder.\n\n(e) Compare the frequency dependence of the quality factor Q for:\n\n      • an RL circuit consisting of an ideal inductor L in series with a resistor R,\n      • the same circuit with the conducting cylinder inserted.\n\n    Explain physically why the behavior di!ers.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2026-USAPhO-AAPT_Sol.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2026-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2026-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2026-usapho-question-paper__q06.md"
+  }
+ ]
+}

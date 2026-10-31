@@ -1,0 +1,548 @@
+{
+ "group": "hkdse-m1-2022-pm1-en-qp",
+ "course_id": "DSE-M1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 12,
+ "questions": [
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q01",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "1. The table below shows the probability distribution of a discrete random variable X, where a and b are\nconstants.\nx 0 4 6\nP(X =x) 0.1 a b\nIt is given that E(Y)=4.6 .\n(a) Find a, 6 and Var(X) .\n(b) Let X be the mean of 225 independent random observations of X. Using central limit theorem,\nestimate P(X > 4.75) .\n(7 marks)\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q01"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q01/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q01/question.pdf",
+     "bytes": 1540226,
+     "sha256": "530335bd6adc791ba3b198430defce44394481267d1476ccd04307d9d6e19798",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q01.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q02",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "2. Let X and Y be discrete random variables such that Y = 200 — 4X. It is given that E(X) = 8.8\nand Var(Y) = 144.\n(a) Find Var(X) and E(Y) .\n(b) Is it possible that Y follows a Poisson distribution? Explain your answer.\n(c) Is it possible that XY follows a binomial distribution? Explain your answer.\n(5 marks)\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q02"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q02/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q02/question.pdf",
+     "bytes": 1565723,
+     "sha256": "25c9c75f975168e3975436dcbb1ff582bf75766e4c2d5e9e0b56355981f04bdb",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q02.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q03",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "3. Let A and B be two events. Denote the complementary events of A and B by A’ and B' respectively. It\nis given that P(4’|B)=5P(A|B) and P(AMB')=P(ANB)+0.45 . Suppose that P(B)=p ,\nwhere p#0.\n(a) Prove that P(A) = S +045.\n(b) Are A and B independent? Explain your answer.\n(c) Let C beanevent such that P(C)=0.6 . Are A and C mutually exclusive? Explain your answer.\n(7 marks)\n\nPlease stick the barcode label here.\n“poyTVUI 9q JOU []IM SUIZICU OY} Ul UOYIIM siamsuy\n“poyxAVU 9q JOU [IM SUIZIeUI OY} UI UOLIM sIaMsUY\nAnswers written in the margins will not be marked.\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q03"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q03/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q03/question.pdf",
+     "bytes": 2101951,
+     "sha256": "a65476070a2b774457934a01efbb5156e9196e2354aef65230b35969c0b27edf",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q03.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q04",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "统计推断",
+   "knowledge_point": "参数估计",
+   "problem_type": "求或解释置信区间与估计",
+   "search_text": "4. Let 7 hours be the time spent by a student to complete an online exercise. It is given that the standard\ndeviation of 7 is 0.4. A teacher wants to estimate yz, the mean of 7. The teacher randomly selects 100\nstudents, and finds that the total time spent by those students to complete the exercise is 150 hours.\n(a) Construct a 95% confidence interval for wv.\n(b) Several selected students encounter network problem when doing the exercise. The teacher constructs\nanew 95% confidence interval for yz after deleting the data of these students. Will the width of this\nnew confidence interval be greater than, equal to or less than the width of the confidence interval\nobtained in (a)? Explain your answer.\n(5 marks)\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q04"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q04/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q04/question.pdf",
+     "bytes": 1662819,
+     "sha256": "d12dbaffe89dd6e4e2aa5aca57fe14844e1c243b8f5c7f6fb0fc554617f6c69a",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q04.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q05",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "级数",
+   "knowledge_point": "麦克劳林展开",
+   "problem_type": "构造展开式并进行近似或组合",
+   "search_text": "3s Let & bea positive constant.\n—ke\n(a) Expand e 2? inascending powers of x as far as the term in x? .\n(b) Let y=64e\" .\n(i) Express In y asa linear function of x.\n(ii) It is given that the coefficient of x? in the expansion of Jyd —2x)° is 449. Find the slope\nof the graph of the linear function obtained in (b)(i) .\n(6 marks)\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q05"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q05/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q05/question.pdf",
+     "bytes": 1559436,
+     "sha256": "c186660ee76437f0dbf1fc53b95c032bac54e111f505eb20c0edda537695e35e",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q05.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q06",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "9-4x?\n6. Consider the curve C: y=\n6+2x7\n_ , dy\n(a) ind oy\nFind — .\n(b)  Ifatangent L to C passes through the point (3, ~—2), find the equation of L .\n(7 marks)\n\nPlease stick the barcode label here.\n“poyeUl oq JOU [JIM SUIZIEUI OY} Ul UOIIM sIamMsuy\n“POYILUI 9q JOU [JIM SUIZIU OY} Ul UOLIM SIoMsUYy\nAnswers written in the margins will not be marked.\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q06"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q06/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q06/question.pdf",
+     "bytes": 2074280,
+     "sha256": "8af28d8fd69e152b18edb65088cda45e2abeadcf502bf3b7607a2584860f77c4",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q06.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q07",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "7. Let g(x) be a function such that g(x) = xP 3ve for all x > 0, where # is a constant. It is given\nthat g(9) =2g'(4) .\n(a) Prove that B= =\n(b) If g(4)=0, find the exact value of g(9) .\n(6 marks)\n\nPlease stick the barcode label here.\n‘PoYIVU 9q 10U []IM SUIZIEUI OY} UI ULM sIoMsuy\n“poyJeU 9q JOU |[IM SUISIeUI OY} Ul UoLIM sIaMsuy\nAnswers written in the margins will not be marked.\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q07"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q07/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q07/question.pdf",
+     "bytes": 2098841,
+     "sha256": "d01e44ddc0acb586c24d306335c6f03ba599f5a83a4be7c820c740b339edbb4d",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q07.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q08",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "8. Let a beaconstant. Define f(x) = ax® —152x° — 4320x? for all real numbers x .\n(a) Prove that f(x) attains its maximum value at x=0.\n(b) It is given that f(x) attains its minimum value at x =—-2.\n(i) Prove that a=5.\n(ii) Find the least value of f(x) .\n(7 marks)\n\n“poxreUr 9q JOU [[IM SUTSIeUI oY) UI UOWLIM sIomsuy\n“PaxLBUl 9q JOU [IM SUIZIEUI OY} UL UayIIM sIoMsUy\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q08"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q08/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q08/question.pdf",
+     "bytes": 2099839,
+     "sha256": "a9e297d11d58010fc7b77302fad8582bb65253eb70940a159b62a8b9aecbf688",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q08.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q09",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "概率分布",
+   "knowledge_point": "泊松分布",
+   "problem_type": "用单位区间事件数模型求概率",
+   "search_text": "9. In a hospital, the probability that a newborn baby boy is of weight above 3.7 kg is 0.3085 , while the\nprobability that a newborn baby girl is of weight above 3.7 kg is 0.1587. Assume that the probability for a\nnewborn baby to be a boy is equal to the probability for the newborn baby to be a girl.\n(a) Find the probability that a newborn baby in the hospital is of weight above 3.7 kg. (1 mark)\n(b) Ifa newborn baby in the hospital is of weight above 3.7 kg , find the probability that the baby is a\nboy. (2 marks)\n(c) It is given that the number of newborn babies per day in the hospital follows a Poisson distribution with\namean of 2.1.\n(i) Find the probability that there are exactly 2 newborn babies and no newborn babies are of\nweight 3.7 kg or below on a certain day in the hospital.\n(ii) Given that there are at most 2 newborn babies and no newborn babies are of weight 3.7 kg\nor below on a certain day in the hospital, find the probability that there is exactly 1 newborn\nbaby boy on that day in the hospital.\n(iii) Consider the following statement:\n‘The probability that no newborn babies are of weight 3.7 kg or below on a certain day in the\nhospital is lower than 0.2 .”\nIs the above statement correct? Explain your answer.\n(9 marks)\n\n“poxiVU 9q JOU [IM SUISIeUT OY} UI WOM sIomsuy\n“POxLVU 9q JOU [[IM SUTSIeUI OY) UT UaWLIM siomsuy\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q09"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q09/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q09/question.pdf",
+     "bytes": 2266879,
+     "sha256": "8543ca54e750f5c2c3f92c6d73a24494fe817276c4c6452a9d8fae9b57eadf5e",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q09.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q10",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "10. There are 48 athletes in a running competition. In the first stage, the 48 athletes are randomly divided into 6\ngroups with 8 athletes in each group. It is given that the time taken by each athlete to finish the race follows\na normal distribution with a mean of 12.3 seconds and a standard deviation of 0.5 seconds. Assume that\nthe time taken by each athlete to finish the race is independent of each other.\n(a) Find the probability that a certain athlete finishes the race in more than 12.1 seconds. (2 marks)\n(b) Find the probability that at least 6 athletes finish the race in more than 12.1 seconds in a certain\ngroup. (3 marks)\n(c) It is given that Peter finishes the race in 12.1 seconds in a certain group.\n(i) Find the probability that Peter is the 1st athlete to finish the race in his group.\n(ii) Find the probability that Peter is the 3rd athlete to finish the race in his group.\n(iii) Among the 48 athletes, 16 of them proceed to the next stage according to the following rule:\nThe Ist and 2nd athletes to finish the race in each group proceed to the next stage. Among\nthe 6 athletes who are the 3rd athlete to finish the race in each group, the 4 athletes who\nfinish the race in the shortest times proceed to the next stage.\n(1) Given that Peter is the 3rd athlete to finish the race in his group, find the probability\nthat he proceeds to the next stage.\n(2) _ Find the probability that Peter proceeds to the next stage.\n(9 marks)\n\n“poysBU 9q JOU | [IM SUIZIEUL OY} UI UayIIM sIoMsuy\n“poxlBU 9q JOU JIM SUIZIEUL OY) UT UONLIM sIoMsuy\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q10"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q10/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q10/question.pdf",
+     "bytes": 2271019,
+     "sha256": "83a7fd499b081caa5f787b509581985551a9a7b4c90f76e6c4e910d470b10870",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q10.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q11",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "2\n11. (a) — Using the trapezoidal rule with 5 sub-intervals, estimate f e*Inxdx . (2 marks)\n1\n(b) By considering Se\" Inx) , find [[@ +1)e* Inx+ a . (3 marks)\nx\n. 1 . .\n(c) Let @ be the area of the region bounded by the curve y= xe*Inx+— , the x-axis and the straight\nx\nlines x=1 and x=2.\n(i) Using the results of (a) and (b), estimate @.\n(ii) Someone claims that a@>4 . Do you agree? Explain your answer.\n(8 marks)\n\n“poxsU 9q JOU [[IM SUISIeW OY} UT UeyLIM sIoMsUY\n“porxleUl 9q JOU [[IM SUTBIeUT OY} UT UONLIM siomsuy\n\n“poyJeUl 9q JOU [JIM SUISIeU OY} UI UoLIM sIoMsuy\n“poyseUl 9g JOU [JIM SUISIEUT OY} Ul UONLIM SIOMsUy\n\n“PoysLUT 9q JOU [[IM SUISIeUI OY} UI USM SIomsuy\n“poyseU 9q JOU | [IM SUIZICUI OU UL Ud}IIM sIomsuy\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q11"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q11/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q11/question.pdf",
+     "bytes": 3210809,
+     "sha256": "5b1cc27d10e54ea76f03c65607d1addb0307f9c122a35562733876cb650d66b6",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q11.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2022-pm1-en-qp",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2022-pm1-en-qp__q12",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "12. Anengineer develops a software. Define u = e6-2t , where ¢ (¢> 0) is the number of months elapsed since\nthe start of the development of the software. The engineer models the total number of bugs found N in the\nsoftware by N=Ae™ , where A is a positive constant.\n(a) Find oS . Hence, express = in terms of u. (3 marks)\nt t\n. . . dN\n(b) Find a polynomial p(z) in wu such that qe Pw) : (2 marks)\nt\nce dN 8\n(c) It is given that a attains its extreme value when f= fo .\nit\n(i) Find f.\n. . dN. . se\n(ii) | Determine whether the extreme value of a is a maximum value or a minimum value.\nit\nExplain your answer.\n(4 marks)\n(d) Estimate the total number of bugs found, in terms of A , after a very long time. (2 marks)\n\n“PoseUl 2q JOU [[IM SUISIUI OY} UT UOyLIM sIaMsUy\n“poxieUl 9q JOU ][IM SUISIeW oY} UT UOyLIM sIomsuy\n\n~~\nStandard Normal Distribution Table\nZz .00 01 .02 .03 .04 05 .06 07 08 09\n0.0 0000 .0040 .0080 .0120 0160 .0199 .0239 .0279 .0319 .0359\n0.1 0398 .0438 .0478 .0517 .0557 .0596 .0636 0675 .0714 = .0753\n0.2 0793 .0832 0871-0910 .0948 »=— 0987'S 1026 1064S 11031141\n0.3 1179-1217, .1255. 129313311368) .1406 £1443) 14801517\n0.4 1554 1591-1628) .1664. 1700. .1736 1772s «1808 = «18441879\n0.5 1915. 1950-1985. .2019 2054. 2088) 2123, 2157) .2190 2224\n0.6 2257 22912324) .2357 2389) 2422, 2454 2486 = .2517 2549\n0.7 2580 =.2611 = -.2642)— 2673. 2704S 2734. 2764 27942823 .2852\n0.8 2881 2910 2939 = .2967 29953023, 3051 = .3078 = 3106 = 3133\n0.9 3159 3186 = 3212, 3238) 3264. 3289-3315. 3340) = 3365 3389\n1.0 3413 3438 «=.3461 = 34853508 )=— 3531) 3554. 35773599 3621\n1.1 3643 3665 = .3686 = 3708 )=— 37293749 = 3770S 3790) 38103830\n1.2 3849 3869-3888 = 3907-3925 3944 3962 3980 = 39974015\n1.3 4032 4049 4066 .4082 4099 4115 4131 4147 .4162 4177\n1.4 4192 4207 .4222 4236 «=.4251 +4265 =.4279 = 4292S 4306 = 4319\n1.5 4332 4345 4357 +4370 »=.4382. «4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 «4484 «= .4495. 450545154525. 4535 4545\n1.7 4554 4564-4573, 4582-4591 4599 = 4608 = 4616 = 4625 4633\n1.8 4641 4649 4656 .4664 4671 4678 4686 4693 .4699 4706\n1.9 A713, 4719-4726 47324738 = 47444750 = A756 A761 A767\n2.0 4772. A778 ~=.4783.— 4788 = 4793-4798 = 4803. 4808 = 48124817\n2.1 4821 4826 .4830 4834 4838 4842 4846 4850 4854 = 4857\n2.2 4861 4864 4868 4871 4875 4878 4881 .4884 4887 4890\n2.3 | 4893 .4896 4898 4901 .4904 4906 4909 4911 4913  .4916\n24 4918 4920 .4922 4925 4927 4929 4931 .4932 4934 .4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 4952\n2.6 4953 4955. 4956 = 4957-4959 4960 = 4961 = 49624963 4964\n2.7 4965 4966 4967 4968 4969 .4970 4971 4972 .4973  .4974\n2.8 | 4974 4975 4976 4977 .4977  .4978 4979 4979 4980 4981\n2.9 4981 4982 4982 4983. 4984. 4984. 4985. 4985 = «4986 4986\n3.0 | 4987 4987 4987 4988 4988 .4989 4989 4989 .4990 4990\n3.1 4990 4991 4991 4991 4992 4992 4992 4992 .4993 4993\n3.2 4993 .4993 4994 4994 4994 4994 4994 4995. 49954995\n3.3 4995 .4995 4995 4996 4996 4996 4996 .4996 .4996 4997\n3.4 4997 .4997 4997 4997 4997 4997 4997 .4997 4997 4998\n3.5 4998 .4998 4998 4998 4998 4998 .4998 .4998 .4998 4998\nNote:  Anentry in the table is the area under the standard normal curve between x=0 and\nx=z (z>0). Areas for negative values of z can be obtained by symmetry.\n1\ne2 de\nA(@) = I\nV2n\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2022 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2022/2022ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2022-pm1-en-qp__q12"
+   ],
+   "paths": [
+    "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q12/question.pdf"
+   ],
+   "packages": [],
+   "files": [
+    {
+     "path": "artifacts/corpora/dse-uk-2026-10-13/questions/hkdse-m1-2022-pm1-en-qp__q12/question.pdf",
+     "bytes": 2077274,
+     "sha256": "b582c46e2bc879f497098e58cd15422f572d43c5582a71ea9d474fd55784d892",
+     "shard": "pdfs-02ff0b02b460dcf4.zip",
+     "shard_bytes": 104835476,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-02ff0b02b460dcf4.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2022-pm1-en-qp__q12.md"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "group": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp",
+ "course_id": "IB-AI-HL",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ3",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q01",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "几何",
+   "knowledge_point": "面积与体积",
+   "problem_type": "从图形尺寸求面积、体积或表面积",
+   "search_text": "1.   [Maximum mark: 20]\n\n      Kailash manufactures drink containers in the shape of a cuboid. The container has a square\n      top and a square base of length,  l cm . Its height,  d cm , is three times the length of the base.\n\n                                                             diagram not to scale\n\n\n\n\n\n                                                 d\n\n\n\n\n                                                                                      l\n                                                                         l\n\n      (a)   Write down an expression for  d  in terms of  l .                                                      [1]\n\n    The container can hold  375 cm3  of drink.\n\n      (b)   Find the value of  l  and  d .                                                                             [3]\n\n       (c)   Calculate the total external surface area of the container.                                         [3]\n\n(This question continues on the following page)\n\n(Question 1 continued)\n\n     To reduce environmental impact, Kailash is trying to minimize the amount of material needed\n       for the production of the  375 cm3  container.\n\n    He is willing to change the shape to a cylinder with radius  r cm , and height  h cm , as shown below.\n\n                                                         r\n\n\n                                                h\n\n\n\n\n\n    The cylindrical container of drink must also hold  375 cm3 .\n\n      (d)   Find an expression for the height,  h , of the container in terms of  r .                            [2]\n\n      Let the total external surface area be  A cm2 .\n\n                                           2  750      (e)  Show that A  2πr            .                                                                            [2]\n                                     r\n\n              dA        (f)   Find       .                                                                                                 [3]\n              dr\n\n      (g)  Hence or otherwise\n\n                 (i)    find the value of  r  that will minimize  A .\n\n                   (ii)    find the minimum value of  A  needed for the cylinder.                                       [3]\n\n                   d 2 A\n      (h)     (i)   Find     2  .                   dr\n\n                   (ii)   Hence determine whether the graph of  A  is concave-up or concave-down\n                    for  r > 0 . Justify your answer.                                                                  [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ3 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ3_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q01.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ3",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q02",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2.   [Maximum mark: 15]\n\n    On a particular day the height of the tide,  h , in metres, at Albion harbour can be modelled by\n      the function\n                                      h (t ) = −2.5 cos (bt ° ) + 4.5 , where  b ∈  , 0 ≤ t ≤ 24\n\n     and  t  represents the number of hours after midnight.\n\n    The graph of  h  is shown in the following diagram.\n\n\n        8\n\n\n               (metres)        4\n           Height\n\n\n\n\n\n        0     2     4     6     8    10    12    14    16    18    20    22   24\n\n                                     Time (hours)\n\n      (a)  Show that the value of  b  is  30 .                                                                       [1]\n\n      (b)   Find the height of the tide when  t = 5 .                                                               [2]\n\n       (c)   Write down\n\n                 (i)    the amplitude of  h .\n\n                   (ii)   the equation of the principal axis.                                                              [3]\n\n(This question continues on the following page)\n\n(Question 2 continued)\n\n     Boats can only leave or return to Albion harbour when the height of the tide is greater\n     than  2.65 m .\n\n     Robin knows that due to local weather conditions, there could be possible errors in the height\n      of the tide,  h , predicted by the model. The actual height may vary by up to  10 cm  above and\n     below the value of  h .\n\n     Robin wants to leave the harbour to go fishing as soon as possible after the time is 12:00.\n\n      (d)  Use the above information to determine the earliest time that it could be possible for\n          Robin to leave the harbour. Give your answer to the nearest minute.                           [4]\n\n    The boat will take  15  minutes to travel from the harbour to the fishing site. Robin intends to\n      return to the harbour on the same day. He wants to be certain he will be able to get back into\n      the harbour.\n\n      (e)   Determine the maximum possible length of time he could spend at the fishing site,\n             in hours, and still be certain he will be able to enter the harbour on his return.                 [5]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ3 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ3_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q02.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ3",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q03",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "3.   [Maximum mark: 12]\n\n    The diagram shows the cross-section of a bridge and a river. A coordinate system has been\n     added with the origin,  O , at the point where the bridge meets the water on one side. All units\n     are in metres.\n\n                                                             diagram not to scale\n\n                         y\n\n\n\n\n\n                             0.9\n               O                                              x                                                                 7.6\n\n\n\n\n\n    A researcher wants to calculate the volume of water that flows under the bridge. To do this\n     he takes measurements of the depth every  1.9 m  from  O . The depths are shown in the\n      following table.\n\n           Horizontal distance from  O  in metres     0      1.9      3.8      5.7      7.6\n             Vertical depth of water in metres         0      1.68    2.81    2.32    0\n\n      (a)  Use the trapezoidal rule to find the cross-sectional area of the river as it passes under\n           the bridge.                                                                                               [3]\n\n    The water flows under the bridge at a rate of  0.3 m s−1 .\n\n      (b)   Find the volume of water that passes under the bridge each second.                           [2]\n\n(This question continues on the following page)\n\n(Question 3 continued)\n\n    A boat is travelling along the river. The cross-section of the boat and the water level is shown\n       in the following diagram.\n\n    The top of the boat is parallel to the water level and has a width of  5 m . The height of the\n     boat is  2.35 m  above the water level and the lowest part of the boat is  1.6 m  below the water level.\n\n                                        5 m\n\n\n                   2.35 m\n\n                                                            Water level\n\n                    1.6 m\n\n\n    The boat is travelling down the centre of the river.\n\n       (c)   Find the vertical distance between the lowest part of the boat and the bottom of the\n             river as it passes under the bridge.                                                                   [1]\n\n    The curved arch of the bridge can be modelled by the equation\n\n                              y = − 0.15x2 + 1.14x + 0.9 ,  0 ≤ x ≤ 7.6 .\n\n      (d)   Find the maximum height of the curved arch above the water level.                             [2]\n\n      (e)   Determine whether the top of the boat will be able to pass under the bridge.                  [4]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ3 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ3_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q03.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ3",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q04",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "矩阵",
+   "knowledge_point": "矩阵与行列式",
+   "problem_type": "用矩阵运算或行列式处理线性关系",
+   "search_text": "4.   [Maximum marks: 16]\n\n    The ferry routes between five ports,  A  to  E , can be represented by a graph,  G .\n\n    The adjacency matrix  M  for the graph  G  is shown below.\n\n                           A B C D E\n                        A   0  1  0  0  1\n                          B   1  0  1  0  1\n                 M  C   0  1  0  0  0\n                        D   0  0  0  0  1\n                             E   0  1  0  1  0\n\n      (a)   State which direct route between ports can only be travelled in one direction.                 [1]\n\n      (b)  By finding an appropriate matrix\n\n                 (i)   show that it is not possible to reach all of the ports from any other port in\n                exactly three trips.\n\n                   (ii)   state whether it is possible to reach all of the ports from any other port in three\n                    trips or fewer. Justify your answer.                                                             [5]\n\n      In the summer there is a new timetable for ferry routes. The least cost, in euros ( EUR ), to\n      travel between any two of the ports is shown in the table below.\n\n             Port       A        B        C       D         E\n         A           0           3           7           8           5\n         B           3           0           4           9           6\n         C           7           4           0           a          10\n        D           8           9           a           0           3\n          E           5           6          10           3           0\n\n       (c)   Given there is no direct route between  D  and  C  or  C  and  D , show that the value\n            of  a  is  13 EUR . In your answer ensure you have considered all possible routes.             [3]\n\n      (d)   Starting at  A , use the nearest neighbour algorithm to find an upper bound for the cost\n            of visiting all the ports and returning to your starting position.                                    [3]\n\n      (e)  By deleting the vertex  A , use the deleted vertex algorithm to find a lower bound for the\n           cost of visiting all the ports.                                                                            [4]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ3 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ3_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q04.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ3",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q05",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "向量",
+   "knowledge_point": "向量分量",
+   "problem_type": "用向量分量求位置、长度或方向",
+   "search_text": "5.   [Maximum mark: 15]\n\n    The position of a particle,  P1 , t seconds after leaving a point  A , is given by\n\n                                     2      4\n                                           r   1     t  4    ,  t ≥ 0 .\n                                     0     7\n    The units of distance are metres.\n\n      (a)   Write down the coordinates of  A .                                                                    [1]\n\n     Five seconds after leaving  A ,  P1  is at point  B .\n\n      (b)   Find\n\n\n             →\n                 (i)  AB .\n\n\n              →\n                   (ii)   AB .                                                                                              [4]\n\n    A second particle  P2  leaves  A  at the same time as  P1 .  P2  is moving in the direction of\n\n                1\n      the vector  2   , and passes through a point  C .\n               0\n\n       (c)   Find  CÂB .                                                                                               [5]\n\n    The particle  P2  has a speed of  12 m s−1 .\n      (d)   Find the distance from  P1  to  P2  when  t = 5 .                                                        [5]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ3 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ3_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q05.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ3",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q06",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "6.   [Maximum mark: 15]\n\n    Daphne runs a coffee shop and needs to decide whether she should hire more staff.\n\n     Over a long period of time, the staff collect data on the number of customers,  C , who are\n     queuing when a new customer enters the shop. The probability distribution of  C  is shown in\n      the following table.\n\n        Number of customers in queue,  c     0       1       2       3      ≥ 4\n          P (C = c)                            0.21     0.34     0.28     0.17      0\n\n      (a)     (i)   Find the probability that there are at least two customers in the queue when a\n             new customer arrives.\n\n                   (ii)   Find  E (C ) .                                                                                       [3]\n\n    The time in seconds,  T , taken to serve a single customer can be modelled by the normal\n      distribution  T ~ N (115 , 282 ) .\n\n    Daphne is told that an estimate for the expected time a customer will need to wait before\n     being served can be found by calculating  E (C ) × E (T ) .\n\n      (b)   Find the value of  E (C ) × E (T ) .                                                                      [2]\n\n    Daphne now decides that she will employ a new member of staff if the probability that a\n     customer has to wait more than three minutes before being served is greater than  0.4 .\n\n       (c)   Using the distribution of  T  given above, find the probability that it takes more than\n           three minutes to serve a randomly selected customer.                                            [2]\n\n      (d)   Find the probability it takes more than three minutes in total to serve two randomly\n           selected customers. You may assume all serving times are independent of all other\n           serving times.                                                                                            [4]\n\n    Daphne assumes that when a new customer arrives the person at the front of the queue\n     has only just reached the service counter. She also assumes that the probability that it takes\n     more than three minutes to serve three customers is equal to  1 .\n\n      (e)   Using Daphne’s assumptions and the probabilities for  C  given in the table above\n\n                 (i)    find the probability a customer just arriving at the coffee shop will wait more than\n                 three minutes before being served.\n\n                   (ii)   Hence state whether Daphne will decide to employ more staff.                           [4]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ3 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ3_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q06.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI HL TZ3",
+   "id": "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q07",
+   "exam_id": "IB-AI-HL",
+   "course_id": "IB-AI-HL",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "代数",
+   "knowledge_point": "复数",
+   "problem_type": "在代数形式或极坐标形式下处理复数",
+   "search_text": "7.   [Maximum mark: 17]\n\n    A fractal tree is shown on the following Argand diagram.\n\n                                     Im\n\n\n\n\n\n                                          π  A\n                                          12\n\n\n\n                                                               Re\n                                       0\n\n(This question continues on the following page)\n\n(Question 7 continued)\n\n    The tree is formed in the following manner.\n                                                   π\n    The line segment joining  0  to  5i  is rotated clockwise by    about  0  to form the first branch\n                                                   12                           π\n     and then anti-clockwise by    about  0  to form the second branch. The end of one of these\n                           12\n     branches is shown as  A  in Diagram 1.\n\n                                    Diagram 1\n\n                                      Im\n\n\n                                   A\n\n\n\n\n\n                                          π\n                                          12\n\n\n                                              Re\n                                        0\n\n      (a)   Find the complex number represented by the point  A , giving your answer in\n           exponential form.                                                                                        [3]\n\n(This question continues on the following page)\n\n(Question 7 continued)\n\n     Subsequent branches are created by adding two branches to the end of each branch created\n       in the previous stage.\n                                                                         π\n     Each new branch is  70 %  the length of the previous one. One new branch is rotated\n                                                                          12\n     clockwise from the direction of the previous branch and the other is rotated anticlockwise.\n     This is shown in Diagram 2.\n\n                                    Diagram 2\n\n                                     Im\n\n\n\n\n\n                                               π\n                                               12                                         π  A\n                                         12\n\n                                             Re\n                                       0\n\n     This process is continued using the end of all the branches formed in the previous stage as\n      the centres of rotation for the next stage.\n\n(This question continues on the following page)\n\n(Question 7 continued)\n\n    The trees after the 3rd and 10th stage are shown in Diagrams 3 and 4 respectively.\n\n           Diagram 3                                Diagram 4\n\n                                                      Im\n            Im\n\n\n                    B\n\n\n\n\n                                                          π A                π  A                                                          12                12\n\n                        Re                                           Re\n              0                                          0\n\n      (b)     (i)   Show that the total length of all branches in the tree after the second stage\n              (Diagram 2) is equal to  24 .\n\n                   (ii)   Find the total length of all branches after  10  stages (Diagram 4).\n\n                   (iii)    If this process continues indefinitely, state whether there is a limit to the total\n                 length of all the branches. Justify your answer.                                              [9]\n\n      Let  b  be the complex number represented by the point  B  in Diagram 3.\n\n       (c)     (i)   Find an expression for  b  as the sum of three complex numbers, each written in\n                 exponential form.\n\n                   (ii)   Hence write down  b  in the form  a + bi , a , b ∈  .                                          [5]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI HL TZ3 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ3_HL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-HL/ib-dp-math-ai-2025-may-p2-hl-tz3-qp__q07.md"
+  }
+ ]
+}

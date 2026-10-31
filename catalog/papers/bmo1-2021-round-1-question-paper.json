@@ -1,0 +1,302 @@
+{
+ "group": "bmo1-2021-round-1-question-paper",
+ "course_id": "BMO1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "bmo1-2021-round-1-question-paper",
+   "year": 2021,
+   "session": "26 November 2020",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2021-round-1-question-paper__q01",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1. Alice and Bob take it in turns to write numbers on a blackboard. Alice starts\n  by writing an integer 𝑎between −100 and 100 inclusive on the board. On\n   each of Bob’s turns he writes twice the number Alice wrote last. On each of\n   Alice’s subsequent turns she writes the number 45 less than the number Bob\n  wrote last. At some point, the number 𝑎is written on the board for a second\n   time. Find the possible values of 𝑎.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2021-round-1-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2021-round-1-question-paper__q01.md"
+  },
+  {
+   "paper_id": "bmo1-2021-round-1-question-paper",
+   "year": 2021,
+   "session": "26 November 2020",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2021-round-1-question-paper__q02",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. A triangle has side lengths 𝑎, 𝑎and 𝑏. It has perimeter 𝑃and area 𝐴. Given\n   that 𝑏and 𝑃are integers, and that 𝑃is numerically equal to 𝐴2, find all\n   possible pairs (𝑎, 𝑏).\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2021-round-1-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2021-round-1-question-paper__q02.md"
+  },
+  {
+   "paper_id": "bmo1-2021-round-1-question-paper",
+   "year": 2021,
+   "session": "26 November 2020",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2021-round-1-question-paper__q03",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "几何",
+   "knowledge_point": "相似与全等",
+   "problem_type": "用相似或全等关系求长度或证明",
+   "search_text": "3. A square piece of paper is folded in half along a line of symmetry. The\n   resulting shape is then folded in half along a line of symmetry of the new\n   shape. This process is repeated until 𝑛folds have been made, giving a\n   sequence of 𝑛+ 1 shapes. If we do not distinguish between congruent shapes,\n   find the number of possible sequences when:\n    (a) 𝑛= 3;\n    (b) 𝑛= 6;\n    (c) 𝑛= 9.\n  (When 𝑛= 1 there are two possible sequences.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2021-round-1-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2021-round-1-question-paper__q03.md"
+  },
+  {
+   "paper_id": "bmo1-2021-round-1-question-paper",
+   "year": 2021,
+   "session": "26 November 2020",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2021-round-1-question-paper__q04",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4. In the equation\n\n                AAA + AA = B,BBC,DED,BEE,BBB,BBE\n\n   the letters A, B, C, D and E represent different base 10 digits (so the right\n  hand side is a sixteen digit number and AA is a two digit number). Given\n   that C = 9, find A, B, D and E.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2021-round-1-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2021-round-1-question-paper__q04.md"
+  },
+  {
+   "paper_id": "bmo1-2021-round-1-question-paper",
+   "year": 2021,
+   "session": "26 November 2020",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2021-round-1-question-paper__q05",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "5. Let points             𝐴, 𝐵and 𝐶lie on a circle Γ. Circle Δ is tangent to 𝐴𝐶at 𝐴. It\n  meets Γ again at 𝐷and the line 𝐴𝐵again at 𝑃. The point 𝐴lies between\n   points 𝐵and 𝑃. Prove that if 𝐴𝐷= 𝐷𝑃, then 𝐵𝑃= 𝐴𝐶.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2021-round-1-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2021-round-1-question-paper__q05.md"
+  },
+  {
+   "paper_id": "bmo1-2021-round-1-question-paper",
+   "year": 2021,
+   "session": "26 November 2020",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2021-round-1-question-paper__q06",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6. Given that an integer 𝑛is the sum of two different powers of 2 and also\n   the sum of two different Mersenne primes, prove that 𝑛is the sum of two\n   different square numbers.\n\n  (A Mersenne prime is a prime number which is one less than a power of two.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2021-round-1-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2021-round-1-question-paper__q06.md"
+  },
+  {
+   "paper_id": "bmo1-2021-round-1-question-paper",
+   "year": 2021,
+   "session": "26 November 2020",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2021-round-1-question-paper__q07",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7. Evie and Odette are playing a game. Three pebbles are placed on the number\n   line; one at −2020, one at 2020, and one at 𝑛, where 𝑛is an integer between\n  −2020 and 2020. They take it in turns moving either the leftmost or the\n   rightmost pebble to an integer between the other two pebbles. The game\n  ends when the pebbles occupy three consecutive integers.\n\n   Odette wins if their sum is odd; Evie wins if their sum is even. For how\n  many values of 𝑛can Evie guarantee victory if:\n\n    (a) Odette goes first;\n\n    (b) Evie goes first?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2021-round-1-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2021-round-1-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2021-round-1-question-paper__q07.md"
+  }
+ ]
+}

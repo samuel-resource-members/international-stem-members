@@ -1,0 +1,572 @@
+{
+ "group": "hkdse-m1-2016-pm1-en-qp",
+ "course_id": "DSE-M1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 12,
+ "questions": [
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q01",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "SECTION A (50 marks)\n1. Let X and Y be two events such that P(X)=0.4 , P(Y)=0.7\nand P(Y|.X)=0.5 .\n(a) Are X and Y independent? Explain your answer.\n(ob) Find P(X UY).\n(5 marks)\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q01.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q02",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "2. A box contains six cards numbered 1, 2, 3, 4, 5 and 6 respectively.\nThree cards are drawn randomly from the box one by one with replacement. Given that the sum\n(a)\nof the numbers drawn is 7, find the probability that the number | is drawn exactly two times.\n(b) If the card numbered 6 is taken away before three cards are drawn, will the probability described\nin (a) change? Explain your answer.\n(6 marks)\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q02.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q03",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "A museum opens at 10:00 . The number of visitors entering the museum in a minute follows a Poisson\ndistribution with a mean of 1.8.\n(a) Write down the variance of the number of visitors entering the museum in a minute.\n(b) Find the probability that 3 visitors entered the museum in the first two minutes after the museum\nopens.\n(c) At 10:00 , only one gate at the entrance of the museum is opened. If in any two consecutive\nminutes, there are at least 4 visitors entering the museum in each minute, then a second gate will\nbe opened. Find the probability that the second gate is just opened three minutes after the museum\nopens.\n(7 marks)\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q03.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q04",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "4. There are many packs of seeds and each pack contains 100 seeds. Let p be the population proportion of\nseeds that germinate in a pack.\n(a) A pack of seeds is randomly selected, 64 seeds germinate. Find an approximate 95%\nconfidence interval for p.\n(b) It is given that the proportion of seeds that germinate in these packs of seeds follows a normal\ndistribution with a mean of p and a standard deviation of 0.05. Find the least sample size to be\ntaken such that the width of a 90% confidence interval for p is less than 0.04 .\n(7 marks)\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q04.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q05",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "Let & bea constant.\n5.\nExpand e** in ascending powers of x as far as the term in x,\n(a)\nIf the coefficient of x in the expansion of (1+2x)7e™ is 8, find the coefficient of x,\n(b)\n(5 marks)\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q05.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q06",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "6. Let f(x)=37* -10(3*)+9 .\n(a) ‘Find fecoar .\n(b) The equation of the curve C is y=f(x) . Find\n(i) the two x-intercepts of C,\n(ii) the exact value of the area of the region bounded by C and the x-axis.\n(6 marks)\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q06.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q07",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "3\n7. Consider the curve C: y=(2x+8)? +3x? , where x>-4.\n. dy\na Find = .\n(a) &\n(b) Someone claims that two of the tangents to C are parallel to the straight line 6x+y+4=0. Do\nyou agree? Explain your answer.\n(7 marks)\n\n—_—— ee a 3\na\n_ - - —— |e\n3\n— 5\n=\n5\n4\n5\n=\nco 3\n|\n= g\n:\n§\n- a _|8\n<\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q07.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q08",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "2\n8. Define f(x) = Go for all x>0. Let @ and # be the two roots of the equation f'(x)=0 , where\nx\na>Bp.\n(a) Express @ in terms of e. Also find #.\n(b) Using integration by substitution, evaluate [ f(x)dx .\n(7 marks)\n\nPlease stick the barcode label here.\n‘poyIeU oq JOU [IM SUISIeUI OY UT UOPLIM siomsuy\n“poyseUl oq JOU [JIM SUIZILUI OY} UI UsyIIM sIoMsuy\nAnswers written in the margins will not be marked.\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q08.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q09",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "SECTION B (50 marks)\n9. X and Y are two schools with the same number of students. The daily reading times (in minutes) of the\nstudents in each school are assumed to be normally distributed. In school X, 0.6% of the students read\nless than 40 minutes daily while 1.5% read more than 70 minutes. In school Y, 1.5% of the students\nread less than 48 minutes daily while 1.7% read more than 72 minutes.\n(a) Which school has less students reading more than 60 minutes daily? Explain your answer.\n(6 marks)\n(b) For the school that has less students reading more than 60 minutes daily, find the probability that\nthe 4th randomly selected student is the 2nd one who reads more than 60 minutes daily.\n(2 marks)\n(c) Students reading 7 minutes or more daily will be awarded. What should the least value of T be\nso that no more than 10% of students are awarded in each school? Give your answer in integral\n(4 marks)\nminutes.\n\n“PpoyseUL 9g JOU [JIM SUTSIEU OY} UI UOWLIM SIOMsSUy\n“poxseU 9q JOU ]]IM SUTSIeUI OY) UT ONLI sIomsuy\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q09.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q10",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "10. Tom arrives at the bus stop at 7:10. A bus arrives at 7:20 and another bus arrives at 7:30 . The probability\nthat Tom can take the bus is 0.9 each time. If Tom takes the bus at 7:20 , the probability for him to be\nlate is 0.1. If Tom takes the bus at 7:30, the probability for him to be late is 0.4. Tom will be late if he\ncannot take these two buses.\nFind the probability that Tom takes a bus on or before 7:30 on a certain day. (2 marks)\n(a)\nFind the probability that Tom is late on a certain day. (2 marks)\n(b)\nFind the probability that Tom is late 2 times in 6 days. (2 marks)\n(c)\nThere are 7 persons, including Tom, waiting for a lift at the lobby. If Tom is late, he will go to\n(d)\nthe second floor; otherwise he will go to the third floor. The probabilities for each of the other 6\npersons to go to the second and third floor are 0.7 and 0.3 respectively. When an empty lift\narrives, the 7 persons enter the lift. No person enters the lift afterwards.\n(i) Find the probability that the 7 persons are going to the same floor.\n(ii) Find the probability that exactly 3 persons are going to the third floor.\n(iii) Given that exactly 3 persons are going to the third floor, find the probability that Tom is\nlate.\n(7 marks)\n\n“poyreUl oq JOU |] SUTSIeUE OY} UI UOYLIM sIOMSUy\n“poyTeU 9g JOU |[IM SUTS.IEUL OY) UI UOYIIM SIOMSUY\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q10.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q11",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "11. An investment consultant, Albert, predicts the total profit made by a factory in the coming year. He models\nthe rate of change of profit (in million dollars per month) made by the factory by\nA(t) = In? -81+95) ,\nwhere 1(0<f<12) is the number of months elapsed since the prediction begins. Let A million dollars\nbe the total profit made by the factory in the coming year under Albert’s model.\n(a) (i) Using the trapezoidal rule with 4 sub-intervals, estimate A .\n2\nGi) Fing SAO\n(4 marks)\n(b) The factory manager, Christine, models the rate of change of profit (in million dollars per month)\nmade by the factory in the coming year by\nt+8\nBO)=\nvt+3°\nwhere ¢(0<1<12) is the number of months elapsed since the prediction begins. Let P,\nmillion dollars be the total profit made by the factory in the coming year under Christine’s model.\n@) Find B.\n(ii) Albert claims that the difference between P and P, does not exceed 2. Do you\nagree? Explain your answer.\n(9 marks)\n\n“paxpseU 0q 10U [IM SUISIeUE OY} UI UOPLIM SIOMsTY\n“Porte oq JOU [ITAA SUISICUI OY) UT UOYTIM SIOMSUY\n\n“poyRUT 9q JOU [IM SULBILUT OU UI USWLIM sIoMsUy\n“PpoxVUl 9q JOU [JIM SUIBIeU Oy} UI UONLIM sIaMsUy\nAnswers written in the margins will not be marked.\n\n“payieUl oq JOU []IM SUISIeUT oY} UI VOL sIomsuy\n“poxIeUT Oq JOU [JIM SUTBIeUL OY} UT UATLIM sIOMsUY\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q11.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2016-pm1-en-qp",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2016-pm1-en-qp__q12",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "12. The chickens in a farm are infected by a certain bird flu. The number of chickens (in thousand) in the farm\nis modelled by\n27\nN=——_,\n2+ate\"\nwhere ¢(20) is the number of days elapsed since the start of the spread of the bird flu and @ and f are\nconstants.\n(@) Express wf 22\") as a linear function of 1. (2 marks)\n(b) It is given that the slope and the intercept on the horizontal axis of the graph of the linear function\nobtained in (a) are —0.1 and 101n0,.03 respectively.\n(i) Find @ and £.\n(ii) Will the number of chickens in the farm be less than 12 thousand on a certain day after\nthe start of the spread of the bird flu? Explain your answer.\n(iii) Describe how the rate of change of the number of chickens in the farm varies during the\nfirst 20 days after the start of the spread of the bird flu. Explain your answer.\n(10 marks)\n\n“payeUl 9g JOU [IIA SUIBIeW OY UL UOWLIM sromsuy\n“payed 9g JOU ]]IM SUISICUI OU} UI UOTLIM SIOMSUy\n\n“poyAeUT Oq JOU [JIM SUTSICUI OY} UT UOLIM siomsuy\n“poxseUl oq JOU ]]IM SUIZIeU OU} UI USWUIM siomsuy\nAnswers written in the margins will not be marked.\n\n“paxyieUl oq JOU JIM SUISIeUT OU} UT UoyLIM sIOMSUy\n“perpeUr 9q JOU [ITM sUISseUT om} UT ONTIM sIOMSTTY\n\nStandard Normal Distribution Table\n\n           z      .00      .01      .02      .03      .04      .05      .06      .07      .08      .09\n          0.0    .0000   .0040   .0080   .0120   .0160   .0199   .0239   .0279   .0319   .0359\n          0.1    .0398   .0438   .0478   .0517   .0557   .0596   .0636   .0675   .0714   .0753\n          0.2    .0793   .0832   .0871   .0910   .0948   .0987   .1026   .1064   .1103   .1141\n           0.3    .1179   .1217   .1255   .1293   .1331   .1368   .1406   .1443   .1480   .1517\n           0.4    .1554   .1591   .1628   .1664   .1700   .1736   .1772   .1808   .1844   .1879\n          0.5    .1915   .1950   .1985   .2019   .2054   .2088    .2123   .2157   .2190   .2224\n          0.6    .2257   .2291   .2324   .2357   .2389   .2422   .2454   .2486   .2517   .2549\n          0.7    .2580   .2611   .2642   .2673   .2704   .2734   .2764   .2794   .2823   .2852\n          0.8    .2881   .2910   .2939   .2967   .2995   .3023   .3051   .3078   .3106   .3133\n          0.9    .3159   .3186   .3212   .3238   .3264   .3289   .3315   .3340   .3365   .3389\n          1.0    .3413   .3438   .3461   .3485   .3508   .3531   .3554   .3577   .3599   .3621\n          1.1    .3643   .3665   .3686   .3708   .3729   .3749   .3770   .3790   .3810   .3830\n          1.2    .3849   .3869   .3888   .3907   .3925    .3944   .3962   .3980   .3997   .4015\n           1.3    .4032    .4049   .4066   .4082   .4099   .4115    .4131   .4147   .4162   .4177\n          1.4    .4192   .4207   .4222   .4236   .4251   .4265   .4279   .4292   .4306   .4319\n             1.5    .4332   .4345   .4357   .4370   .4382   .4394   .4406   .4418   .4429   .4441\n            1.6    .4452   .4463   .4474   .4484   .4495   .4505    .4515    .4525   .4535    .4545\n          1.7    .4554   .4564    .4573    .4582   .4591    .4599   .4608   .4616   .4625   .4633\n          1.8    .4641   .4649   .4656   .4664   .4671   .4678   .4686   .4693   .4699   .4706\n          1.9    .4713   .4719   .4726   .4732   .4738   .4744   .4750   .4756   .4761   .4767\n          2.0    .4772   .4778   .4783   .4788   .4793   .4798   .4803   .4808   .4812   .4817\n           2.1    .4821   .4826   .4830   .4834   .4838   .4842   .4846   .4850   .4854   .4857\n          2.2    .4861   .4864   .4868   .4871   .4875   .4878   .4881   .4884   .4887   .4890\n          2.3    .4893   .4896   .4898    .4901   .4904   .4906   .4909   .4911   .4913   .4916\n          2.4    .4918   .4920   .4922   .4925   .4927   .4929   .4931   .4932   .4934   .4936\n          2.5    .4938   .4940   .4941    .4943   .4945   .4946   .4948   .4949   .4951   .4952\n          2.6    .4953    .4955   .4956   .4957   .4959   .4960   .4961   .4962   .4963   .4964\n          2.7    .4965   .4966   .4967   .4968   .4969    .4970    .4971   .4972   .4973   .4974\n          2.8    .4974   .4975   .4976   .4977   ,4977   .4978   .4979   .4979   .4980   .4981\n          2.9    .4981    .4982   .4982   .4983   .4984   .4984   .4985   .4985   .4986   .4986\n          3.0    .4987   .4987   .4987   .4988   .4988    .4989   .4989   .4989   .4990   .4990\n          3.1    .4990   .4991   .4991    .4991    .4992    .4992   .4992   .4992   .4993   .4993\n          3.2    .4993   .4993   .4994    .4994   .4994    .4994   .4994   .4995   .4995   .4995\n           3.3    .4995   .4995   .4995    .4996   .4996   .4996   .4996   .4996   .4996   .4997\n           3.4    .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4997   .4998\n          3.5    .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998   .4998\n\n       Note  :   An entry in the table is the area under the standard normal curve between x = 0  and\n                   x\"\" z  (z 2: 0)   . Areas for negative values of z can be obtained by symmetry.\n\n\n                                                        ， ,,A(z)\n                                                             A(z) = J z_!_e了dx-x2                        。五\n                                      0      z       x\n\n\n2016-DSE-MATH-EP(Ml)-24                       27\n                                            Provided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2016 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2016/2016ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2016-pm1-en-qp__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2016-pm1-en-qp__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2016-pm1-en-qp__q12.md"
+  }
+ ]
+}

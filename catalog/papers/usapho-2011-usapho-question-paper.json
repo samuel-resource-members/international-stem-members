@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2011-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2011-usapho-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2011-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Pressure",
+   "problem_type": "从力、面积或液柱高度求压强",
+   "search_text": "Question A1\n\nSingle bubble sonoluminescence occurs when sound waves cause a bubble suspended in a ﬂuid\nto collapse so that the gas trapped inside increases in temperature enough to emit light. The\nbubble actually undergoes a series of expansions and collapses caused by the sound wave pressure\nvariations.\n  We now consider a simpliﬁed model of a bubble undergoing sonoluminescence. Assume the bub-\nble is originally at atmospheric pressure P0 = 101 kPa. When the pressure in the ﬂuid surrounding\nthe bubble is decreased, the bubble expands isothermally to a radius of 36.0 µm. When the pressure\nincreases again, the bubble collapses to a radius of 4.50 µm so quickly that no heat can escape.\nBetween the collapse and subsequent expansion, the bubble undergoes isochoric (constant volume)\ncooling back to its original pressure and temperature. For a bubble containing a monatomic gas,\nsuspended in water of T = 293 K, ﬁnd\n\n   a. the number of moles of gas in the bubble,\n\n   b. the pressure after the expansion,\n\n    c. the pressure after collapse,\n\n   d. the temperature after the collapse, and\n\n    e. the total work done on the bubble during the whole process.\n\n   You may ﬁnd the following useful: the speciﬁc heat capacity at constant volume is CV = 3R/2\nand the ratio of speciﬁc heat at constant pressure to constant volume is γ = 5/3 for a monatomic\ngas.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2011 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2011-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2011-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2011-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2011-usapho-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2011-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "Question A2\n\nA thin, uniform rod of length L and mass M = 0.258 kg is suspended from a point a distance R\naway from its center of mass. When the end of the rod is displaced slightly and released it executes\nsimple harmonic oscillation. The period, T, of the oscillation is timed using an electronic timer.\nThe following data is recorded for the period as a function of R. What is the local value of g? Do\nnot assume it is the canonical value of 9.8 m/s2. What is the length, L, of the rod? No estimation\nof error in either value is required. The moment of inertia of a rod about its center of mass is\n(1/12)ML2.\n\n            R     T              R     T\n                (m)     (s)                  (m)     (s)\n                  0.050  3.842                   0.211  2.074\n                  0.075  3.164                   0.302  1.905\n                  0.102  2.747                   0.387  1.855\n                  0.156  2.301                   0.451  1.853\n                  0.198  2.115                   0.588  1.900\n\n\n   You must show your work to obtain full credit. If you use graphical techniques then you must\nplot the graph; if you use linear regression techniques then you must show all of the formulae and\nassociated workings used to obtain your result.\n\n2011 Semifinal Exam Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2011 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2011-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2011-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2011-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2011-usapho-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2011-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "Question A3\n\nA light bulb has a solid cylindrical ﬁlament of length L and radius a, and consumes power P.\nYou are to design a new light bulb, using a cylindrical ﬁlament of the same material, operating at\nthe same voltage, and emitting the same spectrum of light, which will consume power nP. What\nare the length and radius of the new ﬁlament? Assume that the temperature of the ﬁlament is\napproximately uniform across its cross-section; the ﬁlament doesn’t emit light from the ends; and\nenergy loss due to convection is minimal.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2011 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2011-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2011-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2011-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2011-usapho-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2011-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A4",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "Question A4\n\nIn this problem we consider a simpliﬁed model of the electromagnetic radiation inside a cubical\nbox of side length L. In this model, the electric ﬁeld has spatial dependence\n\n                         E(x, y, z) = E0 sin(kxx) sin(kyy) sin(kzz)\n\nwhere one corner of the box lies at the origin and the box is aligned with the x, y, and z axes. Let\nh be Planck’s constant, kB be Boltzmann’s constant, and c be the speed of light.\n\n   a. The electric ﬁeld must be zero everywhere at the sides of the box. What condition does this\n     impose on kx, ky, and kz? (Assume that any of these may be negative, and include cases\n     where one or more of the ki is zero, even though this causes E to be zero.)\n\n   b. In the model, each permitted value of the triple (kx, ky, kz) corresponds to a quantum state.\n     These states can be visualized in a state space, which is a notional three-dimensional space\n     with axes corresponding to kx, ky, and kz. How many states occupy a volume s of state space,\n         if s is large enough that the discreteness of the states can be ignored?\n\n    c. Each quantum state, in turn, may be occupied by photons with frequency ω =  f = c|k|,                                                                                            2π\n     where\n                    q                                             |k| =   kx2 + ky2 + kz2\n\n     In the model, if the temperature inside the box is T, no photon may have energy greater than\n     kBT. What is the shape of the region in state space corresponding to occupied states?\n\n   d. As a ﬁnal approximation, assume that each occupied state contains exactly one photon. What\n       is the total energy of the photons in the box, in terms of h, kB, c, T, and the volume of the box\n    V ? Again, assume that the temperature is high enough that there are a very large number of\n     occupied states. (Hint: divide state space into thin regions corresponding to photons of the\n     same energy.)\n\n   Note that while many details of this model are extremely inaccurate, the ﬁnal result is correct\nexcept for a numerical factor.\n\n2011 Semiﬁnal Exam                      Part A                                       5\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\n If there is still time remaining for Part A, you should review your work for\n   Part A, but do not continue to Part B until instructed by your exam\n                                 supervisor.\n\n2011 Semiﬁnal Exam                      Part B                                       6\n\n\n\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2011 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2011-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2011-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2011-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2011-usapho-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2011-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "Question B1\n\nAn AC power line cable transmits electrical power using a sinusoidal waveform with frequency\n60 Hz. The load receives an RMS voltage of 500 kV and requires 1000 MW of average power.\nFor this problem, consider only the cable carrying current in one of the two directions, and ignore\neﬀects due to capacitance or inductance between the cable and with the ground.\n\n   a. Suppose that the load on the power line cable is a residential area that behaves like a pure\n       resistor.\n\n             i. What is the RMS current carried in the cable?\n\n            ii. The cable has diameter 3 cm, is 500 km long, and is made of aluminum with resistivity\n           2.8 × 10−8 Ω· m. How much power is lost in the wire?\n\n   b. A local rancher thinks he might be able to extract electrical power from the cable using\n     electromagnetic induction. The rancher constructs a rectangular loop of length a and width\n      b < a, consisting of N turns of wire. One edge of the loop is to be placed on the ground; the\n     wire is straight and runs parallel to the ground at a height h > a. Write the current in the\n     wire as I = I0 sin ωt, and assume the return wire is far away.\n\n             i. Determine an expression for the magnitude of the magnetic ﬁeld at a distance r from\n          the power line cable in terms of I, r, and fundamental constants.\n\n            ii. Where should the loop be placed, and how should it be oriented, to maximize the induced\n         emf in the loop?\n\n           iii. Assuming the loop is placed in this way, determine an expression for the emf induced\n           in the loop (as a function of time) in terms of any or all of I0, h, a, b, N, ω, t, and\n         fundamental constants.\n\n         iv. Suppose that a = 5 m, b = 2 m, and h = 100 m. How many turns of wire N does the\n          rancher need to generate an RMS emf of 120 V?\n\n    c. The load at the end of the power line cable changes to include a manufacturing plant with\n     a large number of electric motors. While the average power consumed remains the same, it\n    now behaves like a resistor in parallel with a 0.25 H inductor.\n\n             i. Does the power lost in the power line cable increase, decrease, or stay the same? (You\n         need not calculate the new value explicitly, but you should show some work to defend\n          your answer.)\n\n            ii. The power company wishes to make the load behave as it originally did by installing a\n           capacitor in parallel with the load. What should be its capacitance?\n\n2011 Semifinal Exam Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2011 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2011-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2011-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2011-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2011-usapho-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2011-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Kinetic particle model",
+   "problem_type": "用粒子运动解释物态和温度变化",
+   "search_text": "Question B2\n\nA particle is constrained to move on the inner surface of a frictionless parabolic bowl whose cross-\nsection has equation z = kr2. The particle begins at a height z0 above the bottom of the bowl with\na horizontal velocity v0 along the surface of the bowl. The acceleration due to gravity is g.\n\n\n\n                                       z\n\n                                                     z = kr2\n\n\n\n                                                     r\n\n   a. For a particular value of horizontal velocity v0, which we will name vh, the particle moves in\n     a horizontal circle. What is vh in terms of g, z0, and/or k?\n\n   b. Suppose that the initial horizontal velocity is now v0 > vh. What is the maximum height\n     reached by the particle, in terms of v0, z0, g and/or k?\n\n    c. Suppose that the particle now begins at a height z0 above the bottom of the bowl with an\n       initial velocity v0 = 0.\n\n             i. Assuming that z0 is small enough so that the motion can be approximated as simple\n          harmonic, ﬁnd the period of the motion in terms any or all of the mass of the particle\n        m, g, z0, and/or k.\n            ii. Assuming that z0 is not small, will the actual period of motion be greater than, less\n          than, or equal to your simple harmonic approximation above? (You need not calculate\n          the new value explicitly, but you should show some work to defend your answer.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2011 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2011-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2011-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2011-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2011-usapho-question-paper__q06.md"
+  }
+ ]
+}

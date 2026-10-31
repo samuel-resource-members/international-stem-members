@@ -1,0 +1,102 @@
+{
+ "group": "caie-a-level-9702-2025-may-june-p3-v7-qp",
+ "course_id": "CIE-9702",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 2,
+ "questions": [
+  {
+   "paper_id": "caie-a-level-9702-2025-may-june-p3-v7-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "7",
+   "id": "caie-a-level-9702-2025-may-june-p3-v7-qp__q01",
+   "exam_id": "CIE-9702",
+   "course_id": "CIE-9702",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1    In this experiment, you will investigate an electrical circuit.\n\n     (a)  •   Set up the circuit shown in Fig. 1.1.\n\n                                            1.5 V d.c.\n\n\n\n\n\n                                 V\n\n\n                                               Fig. 1.1\n\n           •   Record the voltmeter reading E.\n\n                                      E =  .........................................................  [1]\n\n(b) You have been provided with a metre rule with a wire attached. You have also been provided\n     with two identical resistors placed in component holders, each labelled R.\n\n     •   Set up the circuit shown in Fig. 1.2.\n\n                                     1.5 V d.c.\n\n\n\n\n                            R\n                                            R      V              wire\n\n                       F                               G\n\n\n\n        metre rule                   L\n\n\n                                          Fig. 1.2\n\n     •   F and G are crocodile clips.\n\n       The distance between F and G is L. Attach F and G to the wire so that L is approximately\n       30 cm.\n\n     •   Close the switch.\n\n     •   Record the value of L and the voltmeter reading V.\n\n                                          L =  ...............................................................\n\n                                   V =  ...............................................................\n\n     •   Open the switch.\n                                                                                                                 [1]\n\n(c)  •    Write down the value of E from (a).\n\n                                   E =  ...............................................................\n\n     •   Increase L by changing the position of F on the wire. Record L and V and repeat until\n        you have six sets of values of L and V. Include your values from (b).\n\n                                       E – V\n        Record your results in a table. Include values of          in your table.\n                                                L\n\n\n\n\n\n                                                                                                                 [9]\n\n                 E – V\n(d)   (i)  Plot a graph of       on the y‑axis against V on the x‑axis.                              [3]\n                      L\n\n      (ii)  Draw the straight line of best fit.                                                                [1]\n\n     (iii)  Determine the gradient and y‑intercept of this line.\n\n\n\n\n\n                                             gradient =  ...............................................................\n\n                                              y‑intercept =  ...............................................................\n                                                                                                                 [2]\n\n(e)   It is suggested that the quantities V and L are related by the equation\n\n                          E – V\n                                  = PV – Q                                L\n\n    where P and Q are constants.\n\n    Using your answers in (d)(iii), determine the values of P and Q.\n    Give appropriate units.\n\n\n\n\n\n                                   P =  ...............................................................\n\n                              Q =  ...............................................................\n                                                                                                                 [2]\n\n(f)  The resistance of R is R.\n\n    Theory suggests that:\n\n     •   P and Q are both inversely proportional to R\n\n                                  E\n     •    the graph cuts the x‑axis at a value of V =    for all values of R.                                         2\n\n   A student repeats the experiment using two identical resistors, each with a lower value of R\n    than in the original experiment.\n\n    For the student’s experiment, draw a second line on the graph to show the expected results.\n    Label this line W.                                                                                       [1]\n\n                                                                                                      [Total: 20]\n\nYou may not need to use all of the materials provided.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Physics 9702 — May/June 2025 — Paper 3 — 7 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9702_s25_ms_37.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9702-2025-may-june-p3-v7-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p3-v7-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p3-v7-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9702/caie-a-level-9702-2025-may-june-p3-v7-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-a-level-9702-2025-may-june-p3-v7-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "3",
+   "variant": "7",
+   "id": "caie-a-level-9702-2025-may-june-p3-v7-qp__q02",
+   "exam_id": "CIE-9702",
+   "course_id": "CIE-9702",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "2    In this experiment, you will investigate the oscillations of a chain of paper clips.\n\n    You have been provided with two spheres of modelling clay.\n\n     (a)   (i)  The diameter of the smaller sphere is d, as shown in Fig. 2.1.\n\n\n\n\n\n                                        d\n\n\n                                               Fig. 2.1\n\n           Measure and record d.\n\n\n\n                                              d =  .........................................................  [1]\n\n             (ii)  Estimate the percentage uncertainty in your value of d. Show your working.\n\n\n\n\n\n                                percentage uncertainty =  ......................................................% [1]\n\n(b)   (i)   •   Set up the apparatus as shown in Fig. 2.2.\n\n         stand\n\n\n                                          x\n\n   boss holding                                                   boss holding\n   thin rod                                                                         thin rod\n\n\n\n\n                                     chain of paper clips\n\n\n\n   bench\n\n\n\n\n\n                                          Fig. 2.2\n\n           •   Ensure that the rods are the same height above the bench.\n\n           •    Slide the paper clips at the ends of the chain onto the rods.\n\n           •   The distance between the centres of the rods is x.\n\n              Position the stands so that x is approximately 70 cm.\n\n           •   Measure and record x.\n\n                                               x =  .................................................... cm [1]\n\n(ii)   •   Use the hook to attach the smaller sphere of modelling clay to the chain of paper\n               clips as shown in Fig. 2.3.\n\n\n                        rod\n\n\n                                           n paper clips\n\n\n\n\n\n                                    hook\n\n\n\n\n                                 modelling clay\n\n\n                                          Fig. 2.3\n\n           •   The number of paper clips between the hook and the end of the chain is n, as\n           shown in Fig. 2.3.\n\n            Place the hook so that n is 11.\n\n           •    Calculate N, where\n\n                                                  3   2\n                         N =  n  .\n\n            Give your answer to three significant figures.\n\n\n\n\n\n                                N =  .........................................................  [1]\n\n(c)  •    Pull the sphere towards you through a short distance. When the sphere is released,\n                it will oscillate.\n\n     •   Take measurements to determine the period T of these oscillations.\n\n\n\n\n\n                                       T =  .........................................................  [2]\n\n(d)  •    Roll the two spheres into one larger sphere.\n\n     •   Measure and record the diameter d of the larger sphere.\n\n\n\n\n                                          d =  ...............................................................\n\n     •   Repeat (b) and (c) with a value x of approximately 80 cm and with the hook placed so\n          that n is 7.\n\n\n\n\n                                               x =  .......................................................... cm\n\n\n\n\n\n                                N =  ...............................................................\n\n\n\n\n\n                                      T =  ...............................................................\n                                                                                                                 [3]\n\n(e)   It is suggested that the relationship between T, d, N and x is\n\n                                   kdN\n                              T 2 =\n                                           x2\n\n    where k is a constant.\n\n       (i)  Using your data, calculate two values of k.\n\n\n\n\n\n                                                        first value of k =  ...............................................................\n\n                              second value of k =  ...............................................................\n                                                                                                                 [1]\n\n      (ii)   Justify the number of significant figures that you have given for your values of k.\n\n                ...........................................................................................................................................\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n(f)    It is suggested that the percentage uncertainty in the values of k is 15%.\n\n    Using this uncertainty, explain whether your results support the relationship in (e).\n\n\n\n\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n(g)   (i)  Describe four sources of uncertainty or limitations of the procedure for this experiment.\n\n            For any uncertainties in measurement that you describe, you should state the quantity\n             being measured and a reason for the uncertainty.\n\n           1  ........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n           2  ........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n           3  ........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n           4  ........................................................................................................................................\n\n                       ...........................................................................................................................................\n                                                                                                                       [4]\n\n             (ii)  Describe four improvements that could be made to this experiment. You may suggest\n             the use of other apparatus or different procedures.\n\n           1  ........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n           2  ........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n           3  ........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n           4  ........................................................................................................................................\n\n                       ...........................................................................................................................................\n                                                                                                                       [4]\n\n                                                                                                           [Total: 20]\n\n\n\n\n\nPermission to reproduce items where third‑party owned material protected by copyright is included has been sought and cleared where possible. Every\nreasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the\npublisher will be pleased to make amends at the earliest possible opportunity.\n\n\nTo avoid the issue of disclosure of answer‑related information to candidates,  all copyright acknowledgements are reproduced online in the Cambridge\nAssessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download\nat www.cambridgeinternational.org after the live examination series.\n\n\nCambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge\nLocal Examinations Syndicate (UCLES), which is a department of the University of Cambridge.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge International AS & A Level Physics 9702 — May/June 2025 — Paper 3 — 7 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9702_s25_ms_37.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-a-level-9702-2025-may-june-p3-v7-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-002.zip",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p3-v7-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-a-level-9702-2025-may-june-p3-v7-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-9702/caie-a-level-9702-2025-may-june-p3-v7-qp__q02.md"
+  }
+ ]
+}

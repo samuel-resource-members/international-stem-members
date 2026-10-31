@@ -1,0 +1,60 @@
+# IBO · 2018 · Q46
+
+- id: ibo-2018-theoretical-exam-2-question-paper__q46__r03
+- course: IBO
+- exam: IBO
+- subject: biology
+- year: 2018
+- question_number: 46
+- chapter: Organisms and their environment
+- knowledge_point: Resourcefraction under carryingcapacity model
+- problem_type: True/false evidence appraisal: Resourcefraction under carryingcapacity model
+- topic_tags: ibo-2018-theoretical-exam-2-question-paper__q46__r03
+
+## Text (OCR)
+
+```text
+Population Growth
+The following data were collected by a researcher over seven successive years from a population of a 
+fish in a pond. He calculated population growth rate (r) for each year using this formula 
+𝑟= ln 𝑁𝑡+1 −ln 𝑁𝑡
+Note: N= the population size, K= the carrying capacity. 
+Year 
+Number of Fish 
+Population growth rate (r) 
+2002 
+2 
+2.77 
+2003 
+32 
+1.02 
+2004 
+89 
+-0.75
+2005 
+42 
+0.39
+2006 
+62 
+0.15
+2007 
+72 
+-0.15
+2008 
+62 
+-
+Indicate if each of the following statements is true or false:
+
+The fraction of the resources that were used by the fish in each year can be
+calculated by N/K.
+```
+
+## Source files
+
+- `projects/biology-question-processing/ibo/ibo-2018-theoretical-exam-2-question-paper/questions/record-a4a6c229e8a0ed0f066e.pdf` (329059 bytes, sha256 `cc16a9bfec769ac8a08ab22e697cf6d60121154375d4339809396f331496f705`) inside shard `pdfs-d1d20be6d9594982.zip` (39 MB): https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-d1d20be6d9594982.zip
+- `projects/biology-question-processing/ibo/ibo-2018-theoretical-exam-2-question-paper/assets/ibo-2018-theoretical-exam-2-question-paper-Qq46-g1-rC-a7a0b60007-1.pdf` (277632 bytes, sha256 `707adaee2ef0d346383f116c9a1e895f5c30baaf28c3fe70c751b69e514e16a9`) inside shard `pdfs-3a567eb92ddccef2.zip` (40 MB): https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-3a567eb92ddccef2.zip
+- `projects/biology-question-processing/ibo/ibo-2018-theoretical-exam-2-question-paper/assets/ibo-2018-theoretical-exam-2-question-paper-Qq46-stem-b0152a4370-1.pdf` (278108 bytes, sha256 `8993812182182a33640d0f85e5a7a9f033d205e18593dc1be6311a993f5966e9`) inside shard `pdfs-3a567eb92ddccef2.zip` (40 MB): https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-3a567eb92ddccef2.zip
+- `projects/biology-question-processing/ibo/ibo-2018-theoretical-exam-2-question-paper/assets/ibo-2018-theoretical-exam-2-question-paper-Qofficial-header-fd07a03a48-1.pdf` (122076 bytes, sha256 `51dc71631d4e12776065fbb1e983e60245d6ad207267e1522ee9be1eb4ec79e4`) inside shard `pdfs-5166774ee7ec6be0.zip` (40 MB): https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-5166774ee7ec6be0.zip
+- `projects/biology-question-processing/ibo/ibo-2018-theoretical-exam-2-question-paper/assets/ibo-2018-theoretical-exam-2-question-paper-Qq46-g1-official-row-4c75a52b40-1.pdf` (57565 bytes, sha256 `38386346a176ebb7cb1893e87baa3087cc0c0c5bf886cec25682d11164d6bab2`) inside shard `pdfs-3a567eb92ddccef2.zip` (40 MB): https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-3a567eb92ddccef2.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

@@ -1,0 +1,290 @@
+{
+ "group": "ap-statistics-2026-frq",
+ "course_id": "AP-STATISTICS",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-statistics-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2026-frq__q01",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "1. A goat farmer raises two breeds of goats, Breed H and Breed J. He wants to compare the weights\n  of the two breeds and takes independent random samples of 14 goats from each breed. The\n  weight, in pounds, of each goat is measured. The weights of the 14 Breed H goats are recorded.\n  Weights of Breed H Goats (pounds)\n\n        48\n        48\n        55\n        56\n        56\n        57\n        62\n        66\n        72\n        72\n        72\n        73\n        80\n        80\n\n  Part A\n  Use the data in the list to determine the five-number summary for the sample of Breed H goats.\n\n  Part B\n  The distribution of weight for Breed J goats is displayed in the boxplot.\n\n                         Weights of Breed J Goats (pounds)\n\n\n\n\n\n  Use the five-number summary from part A and the boxplot of Breed J to compare the center and\n  variability for the distribution of weight for the Breed H goats and the distribution of weight for\n  the Breed J goats, in context.\n\nPart C\nA stem-and-leaf plot is another way to display the weights of goats. The distribution of weight\nfor the Breed H goats is displayed in the given stem-and-leaf plot.\n\n                       Weights of Breed H Goats (pounds)\n\n\n\n\n\nConsider the five-number summary from part A and the stem-and-leaf plot.\n\n        i. If a boxplot were created from the five-number summary found in part A, what\n       characteristic of the shape of the distribution of weight for the Breed H goats would be\n      apparent from the stem-and-leaf plot but not from the boxplot?\n       ii. Explain why a boxplot would not display the characteristic of the shape of the\n       distribution identified in part C (i).\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Statistics",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2026-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2026-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-statistics-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2026-frq__q02",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "统计推断",
+   "knowledge_point": "假设检验",
+   "problem_type": "建立假设并使用检验结果作判断",
+   "search_text": "2. Holly, a botanist, read an online report that stated that adding coffee grounds to the soil of\n  rosebushes will produce more roses. Holly decides to conduct an experiment to investigate\n   this claim. She grows 30 rosebushes in a greenhouse with a controlled environment so the\n  conditions will be the same for all rosebushes.\n  When the rosebushes are a month old, she randomly assigns 15 rosebushes to have one-half\n  cup of coffee grounds added to their soil weekly. The other 15 rosebushes will not have coffee\n  grounds added to their soil.\n  After three months, she counts the number of roses on each rosebush.\n\n   botanist: a scientist who studies the biology of plants\n\n  Part A\n  Based on the information provided about Holly’s experiment, identify each of the following.\n\n            i. Treatments\n          ii. Experimental units\n         iii. Response variable\n\n  Part B\n  In the context of Holly’s experiment, describe how the treatments can be randomly assigned to\n  the experimental units so that each treatment has the same number of units.\n\n  Part C\n  After the experiment, Holly determines that her results were statistically significant at the\n  a = .005 level of significance. Explain the meaning of “statistically significant” in this context.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Statistics",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2026-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2026-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-statistics-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2026-frq__q03",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "3. A certain sports team has its team song performed by a different musician at the beginning of\n  each of its games. The time it takes for the team song to be performed by different musicians\n  can be modeled using a normal distribution with mean n = 109 seconds and standard deviation\n v = 16 seconds. All performances of the team song are independent.\n\n  Part A\n  What is the probability that a randomly selected performance of the team song will take longer\n  than 120 seconds? Show your work.\n\n  Part B\n  Ten performances of the team song will be randomly selected. Let the random variable X\n  represent the number of games at which the performance of the team song takes longer than\n  120 seconds. Find P X $ 3  Show your work.                         _        i.\n\n  Part C\n  Ben will attend all of the games for this sports team. Let the random variable Y represent the\n  number of games Ben will attend until a performance of the team song takes longer than 120\n  seconds.\n\n            i. Calculate the mean of Y. Show your work.\n          ii. Calculate the standard deviation of Y. Show your work.\n\n  Part D\n  Interpret the standard deviation calculated in part C (ii) in context.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Statistics",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2026-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2026-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-statistics-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2026-frq__q04",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "4. A farmer wants to know whether there is a difference in the mean number of oranges that grow\n  on trees fertilized with the current fertilizer, Brand C, or a new fertilizer, Brand N. The farmer\n  randomly assigns 58 trees to be treated with Brand C and 58 trees to be treated with Brand N.\n  The number of oranges from each tree is recorded. The summary statistics by fertilizer brand\n  are shown in the table.\n\n         Summary Statistics for the Number of Oranges by Fertilizer Brand\n\n                             n    Mean    Standard Deviation\n\n                    Brand C    58     141            15\n\n                    Brand N    58     148            19\n\n  At the a = .005 significance level, do the data provide convincing statistical evidence that the\n  mean number of oranges on trees fertilized with Brand C is different from the mean number of\n  oranges on trees fertilized with Brand N for all trees similar to those in the study?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Statistics",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2026-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2026-frq__q04.md"
+  },
+  {
+   "paper_id": "ap-statistics-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2026-frq__q05",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "5. A researcher is investigating whether there is an association among professional athletes\n  between age-group (in years) and type of sport played (basketball, football, baseball). The age-\n  group and type of sport played for all 4,193 professional athletes in these sports for a recent\n  year are given in the two-way table.\n\n                        Age-Group by Type of Sport Played\n\n              Age (years)         Basketball    Football    Baseball    Total\n             Age < 25             232        807       259      1,298\n               25 # Age < 30        175        1,326       620      2,121\n               30 # Age < 35         90        287       276      653\n               35 # Age             19         41        61      121\n\n                 Total                516        2,461       1,216     4,193\n\n  Part A\n  Consider the two-way table.\n\n            i. What is the probability a randomly selected professional athlete is a football player?\n       Show your work.\n          ii. What is the probability a randomly selected professional athlete is in the age-group of\n        “25 # Age < 30 ” given they are a football player? Show your work.\n\nPart B\nA mosaic plot was constructed using the information in the two-way table. Use the mosaic plot\nto answer the following questions.\n\n               Relative Frequency of Age-Group by Type of Sport Played\n\n\n\n\n\n        i. The b and h displayed in the mosaic plot each represent a probability calculated in part\n       A. Which probability does b correspond to: the probability calculated in part A (i) or the\n       probability calculated in part A (ii)?\n       ii. What probability does the x displayed in the mosaic plot represent in context?\n\nPart C\nUse the information to answer the following questions.\n        i. Are the events “Baseball” and “35 # Age ” mutually exclusive events? Explain.\n       ii. Are the events “Baseball” and “35 # Age ” independent events? Show your work.\n\nPart D\nConsider the data of all professional athletes from the two-way table. Determine if it is\nappropriate to carry out a chi-square test for independence to investigate whether there is an\nassociation between age-group and sport played using these data. Explain your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Statistics",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2026-frq__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2026-frq__q05.md"
+  },
+  {
+   "paper_id": "ap-statistics-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-statistics-2026-frq__q06",
+   "exam_id": "AP-STATISTICS",
+   "course_id": "AP-STATISTICS",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "统计推断",
+   "knowledge_point": "参数估计",
+   "problem_type": "求或解释置信区间与估计",
+   "search_text": "The following information applies to parts A and B.\n\n6. To win a game, a baseball team needs to score runs. To score runs, players need to get on base.\n  The primary way players get on base is by hitting the ball. Figure 1 shows the relationship\n  between the number of hits and the number of runs for 30 randomly selected professional\n  baseball teams.\n\n               Figure 1. Scatterplot of Number of Runs by Number of Hits\n\n\n\n\n\n  Part A\n  Consider the scatterplot in Figure 1.\n\n            i. Describe the relationship between the number of hits and the number of runs for these\n         baseball teams, in context.\n          ii. Based on the data from the sample of 30 teams, an equation of the least-squares\n         regression line model for predicting the number of runs from the number of hits is as\n         follows.\n\n                       Predicted number of runs = - 372.2 + 0.823 number of hits                                                                            ^               h\n\n        Using the given regression equation, calculate the point estimate for the predicted\n       number of runs a team would score if they were to achieve their goal of 1,250 hits. Show\n        your work.\n\nPart B\nEach team has a total salary equal to the sum of the salaries of all players on the team. The\nmedian total salary for the sample of 30 teams is $160 million. In Figure 2, points with dots\nrepresent teams with a total salary greater than the median, and points with squares represent\nteams with a total salary less than the median.\n\n  Figure 2. Scatterplot of Number of Runs by Number of Hits and Salary Classification\n\n\n\n\n\nConsider the scatterplot in Figure 2.\n\n        i. Compare the team represented by the point that is circled and labeled A with the other\n      teams that have the same total salary classification.\n       ii. For each salary classification, consider the linear relationship between the number of\n       hits and the number of runs. For teams with a total salary greater than the median, is the\n       strength of the linear relationship stronger than, weaker than, or similar to the strength\n       of the linear relationship for teams with a total salary less than the median? Explain.\n\nPart C\nDifferent types of intervals can be used when working with linear regression models. One type\nof interval is a confidence interval for the slope of the least-squares regression line. Two other\ntypes of intervals in the context of this problem are as follows:\n     •  A confidence interval that estimates the mean number of runs for all teams with a\n       specific number of hits.\n     •  A prediction interval that predicts the number of runs for a single team with a specific\n     number of hits.\nAll three intervals use the same basic formula:\n\n                               Point Estimate ! t * standard error                                                          ^                  h,\n\nwhere critical value t* comes from a t-distribution that has n - 2 degrees of freedom. The same\ncritical value is used when finding each of these intervals with the same level of confidence.\nConsider the point estimate for the predicted number of runs found in part A (ii) for the team\nwhose goal is to achieve 1,250 hits next year. Recall that this value was calculated using the\nlinear regression model based on the data from the sample of 30 teams.\n\n        i. What is the critical value for a 95% confidence level that would be used for the\n      confidence interval for the mean number of runs as well as for the prediction interval\n       for the number of runs? Indicate the answer to two decimal places.\n       ii. The standard error for the confidence interval for the mean number of runs is 17.48.\n      Assuming the conditions for inference are met, calculate the 95% confidence interval for\n      the mean number of runs for all teams with 1,250 hits. Show your work.\n     iii. The standard error for the prediction interval for the number of runs is 56.78. Assuming\n      the conditions for inference are met, calculate the 95% prediction interval for the\n     number of runs for a single team with 1,250 hits. Show your work.\n\nPart D\n\n        i. Would a distribution of sample means be expected to have more variability or less\n       variability than a distribution of individual observations? Explain.\n       ii. The standard error used in the confidence interval that estimates the mean number of\n      runs for all teams with x hits can be found using the following formula.\n\n\n                                                                2\n                                               2 1     x - x                                           s   +  ^      h 2                                    n                                             e                              / xi - x   o                                                     ^      h\n      The standard error used in the prediction interval that predicts the number of runs for a\n       single team with x hits can be found using the following formula.\n\n\n                                                                   2\n                                             2    2 1     x - x                                         s + s   +  ^      h 2                                      n                                                e                               / xi - x   o                                                        ^      h\n      In both standard error formulas, s is the standard deviation of the residuals, n is the\n      sample size, and x is the sample mean number of hits. Based on the answer from part\n     D (i) and the standard error formulas for the confidence interval and the prediction\n       interval, explain why the prediction interval calculated in part C (iii) is wider than the\n      confidence interval calculated in part C (ii).\n\n\n\n                             STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Statistics",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-statistics.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-statistics-2026-frq__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-statistics-2026-frq__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-STATISTICS/ap-statistics-2026-frq__q06.md"
+  }
+ ]
+}

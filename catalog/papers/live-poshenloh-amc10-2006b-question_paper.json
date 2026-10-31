@@ -1,0 +1,1283 @@
+{
+ "group": "live-poshenloh-amc10-2006b-question_paper",
+ "course_id": "AMC10",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q01",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相邻或错位求和：配对相减消去公共项 / 交替正负项求和：相邻两项配对抵消",
+   "search_text": "What is \\((-1)^1 + (-1)^2 + \\cdots + (-1)^{2006}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q01",
+    "live-poshenloh-amc10-2006b-question_paper__q01",
+    "AMC10-2006B-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is \\((-1)^1 + (-1)^2 + \\cdots + (-1)^{2006}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q02",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "嵌套自定义运算：由内向外逐层代入 / 自定义运算嵌套：从内层按定义代入",
+   "search_text": "For real numbers \\(x\\) and \\(y,\\) define \\(x \\spadesuit y = (x+y)(x-y).\\) What is \\(3 \\spadesuit (4 \\spadesuit 5)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q02",
+    "live-poshenloh-amc10-2006b-question_paper__q02",
+    "AMC10-2006B-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For real numbers \\(x\\) and \\(y,\\) define \\(x \\spadesuit y = (x+y)(x-y).\\) What is \\(3 \\spadesuit (4 \\spadesuit 5)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q03",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "两量的和与差：扣差后平分恢复原量 / 已知两数和与差：扣掉差后平分",
+   "search_text": "A football game was played between two teams, the Cougars and the Panthers. The two teams scored a total of \\(34\\) points, and the Cougars won by a margin of \\(14\\) points. How many points did the Panthers score?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q03",
+    "live-poshenloh-amc10-2006b-question_paper__q03",
+    "AMC10-2006B-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A football game was played between two teams, the Cougars and the Panthers. The two teams scored a total of \\(34\\) points, and the Cougars won by a margin of \\(14\\) points. How many points did the Panthers score?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q04",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆面积比：先求半径比再平方并扣圆环 / 同心圆环与内圆比：先平方长度比再作差",
+   "search_text": "Circles of diameter \\(1\\) inch and \\(3\\) inches have the same center. The smaller circle is painted red, and the portion outside the smaller circle and inside the larger circle is painted blue. What is the ratio of the blue-painted area to the red-painted area?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q04",
+    "live-poshenloh-amc10-2006b-question_paper__q04",
+    "AMC10-2006B-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Circles of diameter \\(1\\) inch and \\(3\\) inches have the same center. The smaller circle is painted red, and the portion outside the smaller circle and inside the larger circle is painted blue. What is the ratio of the blue-painted area to the red-painted area?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q05",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "不可拆分物体装箱：证明数量界并给达到界的摆法 / 轴对齐矩形无重叠：按横排竖排给下界并构造",
+   "search_text": "A \\(2 \\times 3\\) rectangle and a \\(3 \\times 4\\) rectangle are contained within a square without overlapping at any interior point, and the sides of the square are parallel to the sides of the two given rectangles. What is the smallest possible area of the square?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q05",
+    "live-poshenloh-amc10-2006b-question_paper__q05",
+    "AMC10-2006B-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A \\(2 \\times 3\\) rectangle and a \\(3 \\times 4\\) rectangle are contained within a square without overlapping at any interior point, and the sides of the square are parallel to the sides of the two given rectangles. What is the smallest possible area of the square?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q06",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多段圆弧总长：按半径与圆心角分别累计 / 半圆弧构成边界：按弧条数加半周长",
+   "search_text": "A region is bounded by semicircular arcs constructed on the sides of a square whose sides measure \\(\\tfrac{2}{\\pi},\\) as shown. What is the perimeter of this region?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q06",
+    "live-poshenloh-amc10-2006b-question_paper__q06",
+    "AMC10-2006B-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A region is bounded by semicircular arcs constructed on the sides of a square whose sides measure \\(\\tfrac{2}{\\pi},\\) as shown. What is the perimeter of this region?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q07",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平方根下完全平方：开方保留绝对值 / 根号下化为平方：开方恢复绝对值",
+   "search_text": "Which of the following is equivalent to\n\n\\[\\sqrt{\\dfrac{x}{1-\\dfrac{x-1}{x}}}\\]\n\nwhen \\(x \\lt 0?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q07",
+    "live-poshenloh-amc10-2006b-question_paper__q07",
+    "AMC10-2006B-Q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Which of the following is equivalent to\n\n\\[\\sqrt{\\dfrac{x}{1-\\dfrac{x-1}{x}}}\\]\n\nwhen \\(x \\lt 0?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q08",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆内弦与矩形：圆心到弦中点垂线建立直角三角形 / 半圆内接正方形：半边与全边组成半径直角三角形",
+   "search_text": "A square of area \\(40\\) is inscribed in a semicircle as shown. What is the area of the semicircle?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q08",
+    "live-poshenloh-amc10-2006b-question_paper__q08",
+    "AMC10-2006B-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A square of area \\(40\\) is inscribed in a semicircle as shown. What is the area of the semicircle?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q09",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多组均值合并：人数或质量作权重还原总和 / 均匀混合物热量：合计总热量再按重量分摊",
+   "search_text": "Francesca uses \\(100\\) grams of lemon juice, \\(100\\) grams of sugar, and \\(400\\) grams of water to make lemonade. There are \\(25\\) calories in \\(100\\) grams of lemon juice and \\(386\\) calories in \\(100\\) grams of sugar. Water contains no calories. How many calories are in \\(200\\) grams of her lemonade?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q09",
+    "live-poshenloh-amc10-2006b-question_paper__q09",
+    "AMC10-2006B-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Francesca uses \\(100\\) grams of lemon juice, \\(100\\) grams of sugar, and \\(400\\) grams of water to make lemonade. There are \\(25\\) calories in \\(100\\) grams of lemon juice and \\(386\\) calories in \\(100\\) grams of sugar. Water contains no calories. How many calories are in \\(200\\) grams of her lemonade?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q10",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "边长为整数的三角形：排序并用严格三角不等式筛选 / 整数三角形边比固定：由严格不等式限整数",
+   "search_text": "In a triangle with integer side lengths, one side is three times as long as a second side, and the length of the third side is \\(15.\\) What is the greatest possible perimeter of the triangle?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q10",
+    "live-poshenloh-amc10-2006b-question_paper__q10",
+    "AMC10-2006B-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In a triangle with integer side lengths, one side is three times as long as a second side, and the length of the third side is \\(15.\\) What is the greatest possible perimeter of the triangle?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q11",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "阶乘末尾零：比较因子2与5的数量 / 阶乘末两位：先剔除含足够2和5的项",
+   "search_text": "What is the tens digit in the sum \\(7! + 8! + 9! + \\cdots + 2006!\\,?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q11",
+    "live-poshenloh-amc10-2006b-question_paper__q11",
+    "AMC10-2006B-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the tens digit in the sum \\(7! + 8! + 9! + \\cdots + 2006!\\,?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q12",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "已知直线上点：代入斜截式或点斜式恢复参数 / 交点坐标已知：代回两条直线求参数",
+   "search_text": "The lines \\(x=\\tfrac14 y+a\\) and \\(y=\\tfrac14 x+b\\) intersect at the point \\((1,2).\\) What is \\(a+b?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q12",
+    "live-poshenloh-amc10-2006b-question_paper__q12",
+    "AMC10-2006B-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The lines \\(x=\\tfrac14 y+a\\) and \\(y=\\tfrac14 x+b\\) intersect at the point \\((1,2).\\) What is \\(a+b?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q13",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "混合后取出再转移：按当前浓度追踪各成分 / 先混合再取走：按取走比例扣某成分",
+   "search_text": "Joe and JoAnn each bought \\(12\\) ounces of coffee in a \\(16\\)-ounce cup. Joe drank \\(2\\) ounces of his coffee and then added \\(2\\) ounces of cream. JoAnn added \\(2\\) ounces of cream, stirred the coffee well, and then drank \\(2\\) ounces. What is the resulting ratio of the amount of cream in Joe’s coffee to that in JoAnn’s coffee?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q13",
+    "live-poshenloh-amc10-2006b-question_paper__q13",
+    "AMC10-2006B-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Joe and JoAnn each bought \\(12\\) ounces of coffee in a \\(16\\)-ounce cup. Joe drank \\(2\\) ounces of his coffee and then added \\(2\\) ounces of cream. JoAnn added \\(2\\) ounces of cream, stirred the coffee well, and then drank \\(2\\) ounces. What is the resulting ratio of the amount of cream in Joe’s coffee to that in JoAnn’s coffee?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q14",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "已知根经缩放平移：把新根表达式换回原根的和积 / 根经倒数平移后的积：用原根积化简",
+   "search_text": "Let \\(a\\) and \\(b\\) be the roots of the equation \\(x^2-mx+2=0.\\) Suppose that \\(a+\\tfrac1b\\) and \\(b+\\tfrac1a\\) are the roots of the equation \\(x^2-px+q=0.\\) What is \\(q?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q14",
+    "live-poshenloh-amc10-2006b-question_paper__q14",
+    "AMC10-2006B-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(a\\) and \\(b\\) be the roots of the equation \\(x^2-mx+2=0.\\) Suppose that \\(a+\\tfrac1b\\) and \\(b+\\tfrac1a\\) are the roots of the equation \\(x^2-px+q=0.\\) What is \\(q?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q15",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相似图形面积：长度比平方或由面积比开平方 / 相似菱形面积比：从指定角与对角线求边长比",
+   "search_text": "Rhombus \\(ABCD\\) is similar to rhombus \\(BFDE.\\) The area of rhombus \\(ABCD\\) is \\(24,\\) and \\(\\angle BAD=60^\\circ.\\) What is the area of rhombus \\(BFDE?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q15",
+    "live-poshenloh-amc10-2006b-question_paper__q15",
+    "AMC10-2006B-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Rhombus \\(ABCD\\) is similar to rhombus \\(BFDE.\\) The area of rhombus \\(ABCD\\) is \\(24,\\) and \\(\\angle BAD=60^\\circ.\\) What is the area of rhombus \\(BFDE?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q16",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "日期星期递移：计入闰日后总天数模七 / 跨闰年星期：算总天数再取模七",
+   "search_text": "Leap Day, February \\(29,\\) \\(2004,\\) occurred on a Sunday. On what day of the week will Leap Day, February \\(29,\\) \\(2020,\\) occur?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q16",
+    "live-poshenloh-amc10-2006b-question_paper__q16",
+    "AMC10-2006B-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Leap Day, February \\(29,\\) \\(2004,\\) occurred on a Sunday. On what day of the week will Leap Day, February \\(29,\\) \\(2020,\\) occur?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q17",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "交换球后组成相同：第二次必须归还同色",
+   "search_text": "Bob and Alice each have a bag that contains one ball of each of the colors blue, green, orange, red, and violet. Alice randomly selects one ball from her bag and puts it into Bob’s bag. Bob then randomly selects one ball from his bag and puts it into Alice’s bag. What is the probability that after this process the contents of the two bags are the same?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q17",
+    "live-poshenloh-amc10-2006b-question_paper__q17",
+    "AMC10-2006B-Q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q18",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "递推远项：化简状态并等到完整前态重复 / 二阶递推循环：完整前态重复才确认周期",
+   "search_text": "Let \\(a_1,\\) \\(a_2,\\) \\(\\ldots\\) be a sequence for which \\(a_1=2,\\) \\(a_2=3,\\) and \\(a_n=\\dfrac{a_{n-1}}{a_{n-2}}\\) for each positive integer \\(n\\ge 3.\\) What is \\(a_{2006}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q18",
+    "live-poshenloh-amc10-2006b-question_paper__q18",
+    "AMC10-2006B-Q18"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(a_1,\\) \\(a_2,\\) \\(\\ldots\\) be a sequence for which \\(a_1=2,\\) \\(a_2=3,\\) and \\(a_n=\\dfrac{a_{n-1}}{a_{n-2}}\\) for each positive integer \\(n\\ge 3.\\) What is \\(a_{2006}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q19",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆弓形面积：扇形减三角形后按图加减 / 圆弧夹区面积：扇形减三角形再扣补小块",
+   "search_text": "A circle of radius \\(2\\) is centered at \\(O.\\) Square \\(OABC\\) has side length \\(1.\\) Sides \\(\\overline{AB}\\) and \\(\\overline{CB}\\) are extended past \\(B\\) to meet the circle at \\(D\\) and \\(E,\\) respectively. What is the area of the shaded region in the figure, which is bounded by \\(\\overline{BD},\\) \\(\\overline{BE},\\) and the minor arc connecting \\(D\\) and \\(E?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q19",
+    "live-poshenloh-amc10-2006b-question_paper__q19",
+    "AMC10-2006B-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A circle of radius \\(2\\) is centered at \\(O.\\) Square \\(OABC\\) has side length \\(1.\\) Sides \\(\\overline{AB}\\) and \\(\\overline{CB}\\) are extended past \\(B\\) to meet the circle at \\(D\\) and \\(E,\\) respectively. What is the area of the shaded region in the figure, which is bounded by \\(\\overline{BD},\\) \\(\\overline{BE},\\) and the minor arc connecting \\(D\\) and \\(E?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q20",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "垂直线段的坐标约束：斜率乘积或点积等于零 / 矩形邻边垂直：点积定参数再算边长乘积",
+   "search_text": "In rectangle \\(ABCD,\\) we have \\(A=(6,-22),\\) \\(B=(2006,178),\\) and \\(D=(8,y)\\) for some integer \\(y.\\) What is the area of rectangle \\(ABCD?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q20",
+    "live-poshenloh-amc10-2006b-question_paper__q20",
+    "AMC10-2006B-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In rectangle \\(ABCD,\\) we have \\(A=(6,-22),\\) \\(B=(2006,178),\\) and \\(D=(8,y)\\) for some integer \\(y.\\) What is the area of rectangle \\(ABCD?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q21",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多骰给定数值条件：按有序面组合逐项计数或加权 / 非均匀独立骰和：逐个有序结果加概率",
+   "search_text": "For a particular peculiar pair of dice, the probabilities of rolling \\(1,\\) \\(2,\\) \\(3,\\) \\(4,\\) \\(5,\\) and \\(6\\) on each die are in the ratio \\(1:2:3:4:5:6.\\) What is the probability of rolling a total of \\(7\\) on the two dice?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q21",
+    "live-poshenloh-amc10-2006b-question_paper__q21",
+    "AMC10-2006B-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For a particular peculiar pair of dice, the probabilities of rolling \\(1,\\) \\(2,\\) \\(3,\\) \\(4,\\) \\(5,\\) and \\(6\\) on each die are in the ratio \\(1:2:3:4:5:6.\\) What is the probability of rolling a total of \\(7\\) on the two dice?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q22",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整数乘积固定：列因数对并按范围筛选 / 总费用质因数分解：人数因数与正整数单价约束",
+   "search_text": "Elmo makes \\(N\\) sandwiches for a fundraiser. For each sandwich he uses \\(B\\) globs of peanut butter at \\(4\\)¢ per glob and \\(J\\) blobs of jam at \\(5\\)¢ per blob. The cost of the peanut butter and jam to make all the sandwiches is \\(\\$2.53.\\) Assume that \\(B,\\) \\(J,\\) and \\(N\\) are positive integers with \\(N \\gt 1.\\) What is the cost of the jam Elmo uses to make the sandwiches?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q22",
+    "live-poshenloh-amc10-2006b-question_paper__q22",
+    "AMC10-2006B-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Elmo makes \\(N\\) sandwiches for a fundraiser. For each sandwich he uses \\(B\\) globs of peanut butter at \\(4\\)¢ per glob and \\(J\\) blobs of jam at \\(5\\)¢ per blob. The cost of the peanut butter and jam to make all the sandwiches is \\(\\$2.53.\\) Assume that \\(B,\\) \\(J,\\) and \\(N\\) are positive integers with \\(N \\gt 1.\\) What is the cost of the jam Elmo uses to make the sandwiches?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q23",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角形内部交线分比：用同高面积比或分点坐标联立 / 两条共点割线面积：同高比还原四区关系",
+   "search_text": "A triangle is partitioned into three triangles and a quadrilateral by drawing two lines from vertices to their opposite sides. The areas of the three triangles are \\(3,\\) \\(7,\\) and \\(7,\\) as shown. What is the area of the shaded quadrilateral?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q23",
+    "live-poshenloh-amc10-2006b-question_paper__q23",
+    "AMC10-2006B-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A triangle is partitioned into three triangles and a quadrilateral by drawing two lines from vertices to their opposite sides. The areas of the three triangles are \\(3,\\) \\(7,\\) and \\(7,\\) as shown. What is the area of the shaded quadrilateral?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q24",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相切圆共切线：圆心连线与半径差构直角三角形 / 外切圆公外切线：半径差与圆心距求梯形高",
+   "search_text": "Circles with centers at \\(O\\) and \\(P\\) have radii \\(2\\) and \\(4,\\) respectively, and are externally tangent. Points \\(A\\) and \\(B\\) on the circle with center \\(O\\) and points \\(C\\) and \\(D\\) on the circle with center \\(P\\) are such that \\(\\overline{AD}\\) and \\(\\overline{BC}\\) are common external tangents to the circles. What is the area of the concave hexagon \\(AOBCPD?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q24",
+    "live-poshenloh-amc10-2006b-question_paper__q24",
+    "AMC10-2006B-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Circles with centers at \\(O\\) and \\(P\\) have radii \\(2\\) and \\(4,\\) respectively, and are externally tangent. Points \\(A\\) and \\(B\\) on the circle with center \\(O\\) and points \\(C\\) and \\(D\\) on the circle with center \\(P\\) are such that \\(\\overline{AD}\\) and \\(\\overline{BC}\\) are common external tangents to the circles. What is the area of the concave hexagon \\(AOBCPD?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2006b-question_paper__q25",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "年龄整除兼重复数位：枚举缺失年龄与最小公倍数",
+   "search_text": "Mr. Jones has eight children of different ages. On a family trip his oldest child, who is \\(9,\\) spots a license plate with a \\(4\\)-digit number in which each of two digits appears two times. “Look, daddy!” she exclaims. “That number is evenly divisible by the age of each of us kids!” “That’s right,” replies Mr. Jones, “and the last two digits just happen to be my age.” Which of the following is not the age of one of Mr. Jones’s children?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2006-B-Q25",
+    "live-poshenloh-amc10-2006b-question_paper__q25",
+    "AMC10-2006B-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Mr. Jones has eight children of different ages. On a family trip his oldest child, who is \\(9,\\) spots a license plate with a \\(4\\)-digit number in which each of two digits appears two times. “Look, daddy!” she exclaims. “That number is evenly divisible by the age of each of us kids!” “That’s right,” replies Mr. Jones, “and the last two digits just happen to be my age.” Which of the following is ",
+     {
+      "tag": "i",
+      "children": [
+       "not"
+      ]
+     },
+     " the age of one of Mr. Jones’s children?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2006b-question_paper__q25.md"
+  }
+ ]
+}

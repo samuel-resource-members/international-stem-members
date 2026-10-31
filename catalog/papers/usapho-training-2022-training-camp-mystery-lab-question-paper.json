@@ -1,0 +1,55 @@
+{
+ "group": "usapho-training-2022-training-camp-mystery-lab-question-paper",
+ "course_id": "USAPHO-TRAINING",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 1,
+ "questions": [
+  {
+   "paper_id": "usapho-training-2022-training-camp-mystery-lab-question-paper",
+   "year": 2022,
+   "session": "Annual",
+   "paper": "Training Camp Mystery Lab",
+   "variant": "",
+   "id": "usapho-training-2022-training-camp-mystery-lab-question-paper__q01",
+   "exam_id": "USAPHO-TRAINING",
+   "course_id": "USAPHO-TRAINING",
+   "subject": "physics",
+   "question_number": "The Future Circular Collider",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "The Future Circular Collider\n\n1  Safety Warnings\n\nThere are no unusual safety concerns in this experiment.\n\n2  Overview\n\nParticle physicists, condensed matter physicists, atomic physicists, and chemists all gain insight into the\nstructure of matter by scattering experiments. In these experiments, we smash particles into other particles,\nlook at what comes out, and infer what happened during the collision.  In this lab, you will carry on\nthis tradition by analyzing simulated collisions involving circular disks sliding on a horizontal table, with\nspecified initial conditions. The disks always lay flat on the table, which is frictionless. In the simulation,\ncollisions between objects obey the following rules:\n\n  • The relative velocity along the normal direction is flipped in sign and multiplied by the coefficient of\n      restitution c, where c = 1 for a perfectly elastic collision.\n  • The relative velocity along the tangential direction is changed by friction in the usual way:  if it is\n      zero, static friction tries to keep it zero, and if it is nonzero, it is pushed towards zero by a kinetic\n      friction force µN, where N is the normal force.\n\nThere are many ways to extract the requested parameters, so you will be graded primarily on the precision\nand accuracy of your results. The initial conditions you specify will receive both inherent absolute and\nrelative uncertainties, so you should choose appropriate values and perform multiple trials to get an accurate\nresult. An uncertainty estimate is expected for all parts, but depending on how you carry out\nthe experiment, each subpart might or might not require a graph. As always, include in your report any\ndiagrams, supporting calculations, and other information necessary to show how you obtained your results.\n\n2022 Experimental Exam                                                                     2\n\n\n3  Equipment\n\nThis  is a pure simulation experiment, with no physical equipment.  The only thing required  is the\ncollision-black-box program to simulate collisions, which can be downloaded here.\nThe procedure to run the program depends on the operating system. On Windows:\n\n  • Search for powershell in the start menu and run it to open a terminal. You will do the entire lab by\n     typing commands into this terminal.\n  • Navigate to the folder containing the downloaded collision-black-box program, by running\n     cd <path-to-folder>. On most computers, the right command to run is cd ~/Downloads.\n  • Use collision-black-box-windows.exe wall to run the first part of the experiment, and use\n     collision-black-box-windows.exe disk to run the second part.\n\nOn macOS, the procedure is somewhat more complicated:\n\n  • Launch the Terminal app. You will do the entire lab by typing commands into this terminal.\n  • Navigate to the folder containing the downloaded collision-black-box program, by running\n     cd <path-to-folder>. On most computers, the right command to run is cd ~/Downloads.\n  • Run chmod +x collision-black-box-macos to mark the file as an executable program.\n  • Run open . to open the current folder in Finder. In Finder, control-click the collision-black-box\n     program to open a menu, and select Open. Confirm the dialog box that comes up. Another terminal\n      will quickly appear and disappear. The program has now been granted permission to run.\n  • Return to the terminal and use ./collision-black-box-macos wall to run the first part of the\n     experiment, and use ./collision-black-box-macos disk to run the second part.\n\n2022 Experimental Exam                                                                     3\n\n\n4  Experiment\n\n4.1  Collision with Wall\n\nIn this part, you will launch a disk with mass M, radius R and moment of inertia I = βMR2 towards a\nfixed, long vertical wall. You specify the initial speed and counter-clockwise angular velocity of the disk,\nand the angle of its initial velocity incident to the normal of the wall. The program will simulate the\ncollision and return the final values of these parameters after collision.\n\n                   you input:                    program returns:\n\n                                                                                              final speed (m/s)\n                                incidence angle (°)       reflected angle (°)\n         initial speed (m/s)\n\n                                                                                  final angular velocity (rad/s)\n\n       initial angular velocity (rad/s)\n\n\nThe parameters you specify must be in the following ranges:\n  • 0.5 m/s ≤initial speed ≤10 m/s.\n  • −50 rad/s ≤initial angular velocity ≤50 rad/s.\n  • 0° ≤incidence angle ≤75°.\nTo simulate imperfections in the disk-firing mechanism, the initial values you specify are always affected\nby the following uncertainties:\n  • Initial speed: relative uncertainty 5 %, compounded with absolute uncertainty 0.05 m/s.\n  • Initial angular velocity: relative uncertainty 5 %, compounded with absolute uncertainty 0.2 rad/s.\n  • Incidence angle: absolute uncertainty 1°.\n\n\n 1. (a) Find the coefficient of restitution c between the disk and wall.\n   (b) Find the radius R of the disk, and the values of µ and β.\n\n2022 Experimental Exam                                                                     4\n\n\n4.2  Collision with Disk\n\nIn this part, you will launch a “probe” disk towards a hidden, second disk on the table, which begins at\nrest with its center at an unknown position (x0, y0) (where x0 > 0), with mass M and radius R. The\nprobe disk has radius r = (0.250 ± 0.001) m, but you may choose its mass m, initial position (0, s), initial\nspeed v, and the initial direction θ of its velocity (as an angle relative to the horizontal). Both disks are\nfrictionless, so that rotation is irrelevant. The program will simulate the collision, if it occurs, and return\nthe final velocity (speed and angle) of the probe disk.\n\n\n                                    y\n                                           v                  m\n                                              θ\n                                             r\n\n                                s                        ?  M\n                               R\n                                            y0\n\n                                                     x\n\n                                              x0\n\nThe parameters you choose must be in the following ranges:\n  • 1 kg ≤m ≤5 kg.\n  • −2 m ≤s ≤2 m.\n  • 0.5 m/s ≤v ≤10.0 m/s.\n  • −90° ≤θ ≤90°.\nThe parameters you specify are affected by the following uncertainties:\n  • m: relative 1 %, plus absolute 0.05 kg.\n  • s: absolute 2 mm.\n  • v: relative 1 %, plus absolute 0.05 m/s.\n  • θ: absolute 0.1°.\n\n\n 2. (a) Find the initial position (x0, y0) of the hidden disk.\n   (b) Find the radius R of the hidden disk.\n    (c) Find the mass M of the hidden disk and the coefficient of restitution c between the disks.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2022 Training Camp Mystery Lab  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/2022_Experiment_TST_Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-training-2022-training-camp-mystery-lab-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-training-2022-training-camp-mystery-lab-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-training-2022-training-camp-mystery-lab-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO-TRAINING/usapho-training-2022-training-camp-mystery-lab-question-paper__q01.md"
+  }
+ ]
+}

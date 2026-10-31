@@ -1,0 +1,51 @@
+{
+ "group": "0625-s25-qp-53",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 1,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": "",
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "caie-0625:practical:0625-s25-qp-53-Q4",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "专题P 实验技能",
+   "knowledge_point": "实验规划",
+   "problem_type": "规划光学实验 / 换滤光片测焦距或改浓度测折射角",
+   "search_text": "A student investigates the refraction of light.\nRefraction is the change in direction of a ray of light when passing into a transparent substance, \nas shown in Fig. 4.1.\nPlan an experiment which enables him to investigate how the concentration of a gel affects the \nangle at which light is refracted when passing from air into the gel.\nA transparent gel block can be made by dissolving gel powder in hot water in a mould and allowing \nit to cool. Changing the amount of powder will change the concentration.\nConcentration is measured in g / cm3.\nYou are not required to do the experiment.\nThe apparatus available includes:\n• \nsamples of gel made at different concentrations and labelled with those concentrations \n• \na ray-lamp which produces a narrow ray of light.\nIn your plan:\n• \nlist any additional apparatus needed\n• \nexplain briefly how to do the experiment, including the measurements to take\n• \nstate the key variable to keep constant\n• \ndraw a table, or tables, with column headings, to show how to display the readings (you are \nnot required to enter any readings in the table)\n• \nexplain how to use the readings to reach a conclusion.\nray of light from ray-lamp \nray of light emerging from gel\nrefracted ray of light\nblock of\ntransparent gel\nFig. 4.1",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "0625-s25-qp-53-Q4",
+    "caie-0625:practical:0625-s25-qp-53-Q4"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "igcse-physics",
+     "name": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "release": "igcse-physics",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/igcse-physics/CAIE_IGCSE_Physics_0625_reusable_handoff.tar.zst",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-0625_practical_0625-s25-qp-53-Q4.md"
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "group": "egmo-2012-day2-english-question-paper",
+ "course_id": "EGMO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "egmo-2012-day2-english-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "day2",
+   "variant": "English",
+   "id": "egmo-2012-day2-english-question-paper__q01",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "Friday, April 13, 2012\n\nProblem 5.  The numbers p and q are prime and satisfy\n\n                                        p     q + 1    2n\n                            +    =\n                                      p + 1     q    n + 2\n\nfor some positive integer n. Find all possible values of q −p.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2012-day2-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2012-day2-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2012-day2-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2012-day2-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "egmo-2012-day2-english-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "day2",
+   "variant": "English",
+   "id": "egmo-2012-day2-english-question-paper__q02",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "for some positive integer n. Find all possible values of q −p.\n\nProblem 6.  There are in nitely many people registered on the social network Mugbook.  Some pairs of\n(di erent) users are registered as friends, but each person has only  nitely many friends. Every user has at\nleast one friend. (Friendship is symmetric; that is, if A is a friend of B, then B is a friend of A.)\n   Each person is required to designate one of their friends as their best friend. If A designates B as her best\nfriend, then (unfortunately) it does not follow that B necessarily designates A as her best friend. Someone\ndesignated as a best friend is called a 1-best friend. More generally, if n > 1 is a positive integer, then a user\nis an n-best friend provided that they have been designated the best friend of someone who is an (n −1)-bestfriend. Someone who is a k-best friend for every positive integer k is called popular.\n\n(a) Prove that every popular person is the best friend of a popular person.\n\n(b) Show that if people can have in nitely many friends, then it is possible that a popular person is not the\n    best friend of a popular person.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2012-day2-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2012-day2-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2012-day2-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2012-day2-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "egmo-2012-day2-english-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "day2",
+   "variant": "English",
+   "id": "egmo-2012-day2-english-question-paper__q03",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "函数",
+   "knowledge_point": "图像与方程",
+   "problem_type": "利用交点、截距或渐近线分析图像",
+   "search_text": "( )           p  p                y    y            ,         p           p p    p\n    best friend of a popular person.\n\nProblem 7.  Let ABC be an acute-angled triangle with circumcircle Γ and orthocentre H. Let K be a point\nof Γ on the other side of BC from A. Let L be the re ection of K in the line AB, and let M be the re ection\nof K in the line BC. Let E be the second point of intersection of Γ with the circumcircle of triangle BLM.\nShow that the lines KH, EM and BC are concurrent. (The orthocentre of a triangle is the point on all three\nof its altitudes.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2012-day2-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2012-day2-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2012-day2-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2012-day2-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "egmo-2012-day2-english-question-paper",
+   "year": 2012,
+   "session": "Annual",
+   "paper": "day2",
+   "variant": "English",
+   "id": "egmo-2012-day2-english-question-paper__q04",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": ",                                 (                         f       g        p\nof its altitudes.)\n\nProblem 8. A word  is a  nite sequence of letters from some alphabet. A word is repetitive  if it is a con-\ncatenation of at least two identical subwords (for example, ababab and abcabc are repetitive, but ababa and\naabb are not). Prove that if a word has the property that swapping any two adjacent letters makes the word\nrepetitive, then all its letters are identical. (Note that one may swap two adjacent identical letters, leaving a\nword unchanged.)\n\n\n\n\n\nLanguage: English                                                     Time: 4 hours and 30 minutes\n                                                                Each problem is worth 7 points\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2012-day2-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2012-day2-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2012-day2-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2012-day2-english-question-paper__q04.md"
+  }
+ ]
+}

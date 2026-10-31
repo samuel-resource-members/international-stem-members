@@ -1,0 +1,94 @@
+# CIE-0625 · 2022 · May/June · 5 · 2 · Q4
+
+- id: caie-igcse-0625-2022-may-june-p5-v2-qp__q04
+- course: CIE-0625
+- exam: CIE-0625
+- subject: physics
+- year: 2022
+- session: May/June
+- paper: 5
+- variant: 2
+- question_number: 4
+- paper_id: caie-igcse-0625-2022-may-june-p5-v2-qp
+- chapter: Practical skills
+- knowledge_point: Experimental design and data
+- problem_type: 处理实验变量、读数、图像和误差
+- topic_tags: caie-igcse-0625-2022-may-june-p5-v2-qp__q04
+
+## Text (OCR)
+
+```text
+4  A student investigates insulators.
+
+    Plan an experiment to list insulating discs in order from best insulator to worst insulator.
+
+    You are not required to carry out this investigation.
+
+    The following apparatus is available:
+
+           •    five discs made from different insulating materials
+           •   a thermometer
+           •   a stop-watch
+           •   a heated metal cylinder (see Fig. 4.1)
+           •   a second metal cylinder with a hole for the thermometer (see Fig. 4.1).
+
+                                                       heated metal cylinder
+
+
+                                                                     insulating disc
+
+                   electrical heater
+
+                    metal cylinder                               thermometer
+
+                                               Fig. 4.1
+
+    You can also use other apparatus and materials that are usually available in a school laboratory.
+
+     In your plan, you should:
+
+           •    explain briefly how you would carry out the investigation
+
+           •    state the key variables that you would control
+
+           •   draw a table, or tables, with column headings, to show how you would display your
+             readings (you are not required to enter any readings in the table)
+
+           •    explain how you would use your readings to reach a conclusion.
+
+
+
+
+
+© UCLES 2022                                          0625/52/M/J/22
+
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+..........................................................................................................................................................
+.................................................................................................................................................... [7]
+```
+
+## Answer / mark scheme candidates
+
+- [Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 5 — 2 — Mark Scheme](https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_52.pdf)
+
+## Source files
+
+- package `question-bank-physics-part-003.zip` (release `subject-resources`) · member `question-corpus/questions/caie-igcse-0625-2022-may-june-p5-v2-qp__q04/question.pdf`: https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

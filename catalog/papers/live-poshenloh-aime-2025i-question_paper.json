@@ -1,0 +1,773 @@
+{
+ "group": "live-poshenloh-aime-2025i-question_paper",
+ "course_id": "AIME",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 15,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q01",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.  Find the sum of all integer bases b > 9 for which 17 ​b is a divisor of 97 b ​.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q02",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "描述变换或画变换后的图像",
+   "search_text": "2. On △ABC points A,D,E, and B lie in that order on side AB with AD = 4,DE =\n   16, and EB = 8. Points A,F,G, and C lie in that order on side AC with AF = 13,\n  FG = 52, and GC = 26. Let M be the reflection of D through F, and let N be the\n    reflection of G through E. Quadrilateral DEGF has area 288. Find the area of\n   heptagon AFNBCEM.\n\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q03",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3. The 9 members of a baseball team went to an ice-cream parlor after their game. Each\n    player had a single scoop cone of chocolate, vanilla, or strawberry ice cream. At least\n   one player chose each flavor, and the number of players who chose chocolate was\n    greater than the number of players who chose vanilla, which was greater than the\n   number of players who chose strawberry. Let N be the number of different\n\n   assignments of flavors to players that meet these conditions. Find the remainder\n   when N is divided by 1000.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q04",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4. Find the number of ordered pairs (x, y), where both x and y are integers between\n   −100 and 100, inclusive, such that 12x 2 − xy −6y 2 = 0.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q05",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. There are 8! = 40320 eight-digit positive integers that use each of the digits 1,2,3,4,\n   5,6,7,8 exactly once. Let N be the number of these integers that are divisible by 22.\n   Find the difference between N and 2025.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q06",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "6. An isosceles trapezoid has an inscribed circle tangent to each of its four sides. The\n    radius of the circle is 3, and the area of the trapezoid is 72. Let the parallel sides of the\n                                                          2     2   trapezoid have lengths r and s, with r =s. Find r + s .\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q07",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7.  The twelve letters A,B,C,D,E,F,G,H,I,J,K, and L are randomly grouped into\n    six pairs of letters. The two letters in each pair are placed next to each other in\n    alphabetical order to form six two-letter words, and then those six words are listed\n    alphabetically. For example, a possible result is AB,CJ,DG,EK,FL,HI. The\n                                 m    probability that the last word listed contains G is     ​, where m and n are relatively                                                 n\n   prime positive integers. Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q08",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "8. Let k be a real number such that the system\n\n                                 ∣25 + 20i −z∣= 5\n\n                                  ∣z −4 −k∣= ∣z −3i −k∣\n\n   has exactly one complex solution z. The sum of all possible values of k can be written\n    m\n   as        where m and n are relatively prime positive integers. Find m + n. Here i =      n ​,\n    −1 ​.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q09",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "9. The parabola with equation y = x 2 − 4 is rotated 60∘ counterclockwise around the\n    origin. The unique point in the fourth quadrant where the original parabola and its\n                                a−   ​b   image intersect has y -coordinate                                                                                                ​, where a,b, and c are positive integers, and a                                                   c\n   and c are relatively prime. Find a + b + c.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q10",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "10. The 27 cells of a 3 × 9 grid are filled in using the numbers 1 through 9 so that each row\n   contains 9 different numbers, and each of the three 3 × 3 blocks heavily outlined in\n   the example below contains 9 different numbers, as in the first three rows of a Sudoku\n    puzzle.\n\n\n\n\n\n                                                                       a    b    c   d   The number of different ways to fill such a grid can be written as p  ⋅ q  ⋅ r  ⋅ s , where\n   p,q,r, and s are distinct prime numbers and a,b,c,d are positive integers. Find p ⋅\n   a + q ⋅b + r ⋅c + s ⋅d.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q11",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "函数",
+   "knowledge_point": "图像与方程",
+   "problem_type": "利用交点、截距或渐近线分析图像",
+   "search_text": "11. A piecewise linear function is defined by\n\n                                                                if −1 ≤x < 1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ​                       f(x) =                     {x2 −x   if 1 ≤x < 3\n\n   and f(x + 4) = f(x) for all real numbers x. The graph of f(x) has the sawtooth\n   pattern depicted below.\n\n\n\n\n\n   The parabola x = 34y2 intersects the graph of f(x) at finitely many points. The sum of\n                                                                               a+b   ​c\n   the y -coordinates of all these intersection points can be expressed in the form                                                                                          d     ​,\n   where a,b,c, and d are positive integers such that a,b,d have greatest common\n    divisor equal to 1, and c is not divisible by the square of any prime. Find a + b + c + d.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q12",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "12. The set of points in 3 -dimensional coordinate space that lie in the plane x + y + z =\n   75 whose coordinates satisfy the inequalities\n\n                      x −yz < y −zx < z −xy\n\n   forms three disjoint convex regions. Exactly one of those regions has finite area. The\n   area of this finite region can be expressed in the form a    ​,b where a and b are positive\n    integers and b is not divisible by the square of any prime. Find a + b.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q13",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "13. Alex divides a disk into four quadrants with two perpendicular diameters intersecting\n    at the center of the disk. He draws 25 more line segments through the disk, drawing\n   each segment by selecting two points at random on the perimeter of the disk in\n    different quadrants and connecting these two points. Find the expected number of\n   regions into which these 27 line segments divide the disk.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q14",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "14. Let ABCDE be a convex pentagon with AB = 14,BC = 7,CD = 24,DE = 13,\n                                        ∘  EA = 26, and ∠B = ∠E = 60 . For each point X in the plane, define f(X) =\n  AX + BX + CX +DX + EX. The least possible value of f(X) can be expressed\n   as m + n   ​,p where m and n are positive integers and p is not divisible by the square\n   of any prime. Find m + n + p.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2025i-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2025i-question_paper__q15",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "15. Let N denote the number of ordered triples of positive integers (a, b, c) such that a,b,\n                    3     3                        7     c ≤36 and a + b + c3 is a multiple of 3 . Find the remainder when N is divided by\n     1000.\n\n\n\n      Answer\n\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/aime/2025I/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-answers.pdf"
+    },
+    {
+     "title": "2025 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2025I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2025i-question_paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2025i-question_paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2025i-question_paper__q15.md"
+  }
+ ]
+}

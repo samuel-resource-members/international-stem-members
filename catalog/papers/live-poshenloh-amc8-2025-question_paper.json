@@ -1,0 +1,1308 @@
+{
+ "group": "live-poshenloh-amc8-2025-question_paper",
+ "course_id": "AMC8",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q01",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "同面积基本块占比：把整图分成等面积三角或方格 / 网格阴影比例：整格半格合计",
+   "search_text": "1.  The eight-pointed star, shown in the figure below, is a popular quilting pattern. What\n   percent of the entire 4 -by- 4 grid is covered by the star?\n\n\n\n\n\n     A   40\n\n    B   50\n\n    C   60\n\n    D   75\n\n     E   80\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q01",
+    "live-poshenloh-amc8-2025-question_paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q02",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "图示符号计数：每类个数乘对应数值后相加 / 象形记数：按符号面值加总",
+   "search_text": "2. The table below shows the ancient Egyptian hieroglyphs that were used to represent\n    different numbers.\n\n\n\n\n\n                              100,000   10,000   1,000\n\n\n\n\n\n                             100      10      1\n\n   For example, the number 32 was represented by:\n\n\n\n\n   What number was represented by the following combination of hieroglyphs?\n\n\n\n\n\n     A    1,423\n\n    B   10,423\n\n    C   14,023\n\n    D   14,203\n\n     E    14,230\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q02",
+    "live-poshenloh-amc8-2025-question_paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q03",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "总量守恒与同时工作量：累积人次、人时或轮次 / 固定总量重新均分：先还原总数",
+   "search_text": "3.  Buffalo Shuffle-o is a card game in which all the cards are distributed evenly among all\n    players at the start of the game. When Annika and 3 of her friends play Buffalo Shuffle-\n    o, each player is dealt 15 cards. Suppose 2 more friends join the next game. How many\n   cards will be dealt to each player?\n\n     A   8\n\n    B   9\n\n    C   10\n\n    D   11\n\n     E   12\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q03",
+    "live-poshenloh-amc8-2025-question_paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q04",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等差项与等距定位：数间隔再乘公差 / 等差数列第n项：数变化次数",
+   "search_text": "4. Lucius is counting backward by 7 s. His first three numbers are 100,93, and 86. What is\n    his 10 th number?\n\n     A   30\n\n    B   37\n\n    C   42\n\n    D   44\n\n     E   47\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q04",
+    "live-poshenloh-amc8-2025-question_paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q05",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "格网指定路线：横向步数加纵向步数 / 网格指定顺序路线：各段曼哈顿距离求和",
+   "search_text": "5. Betty drives a truck to deliver packages in a neighborhood whose street map is shown\n   below. Betty starts at the factory (labeled F ) and drives to location A, then B, then C,\n   before returning to F. What is the shortest distance, in blocks, she can drive to\n   complete the route?\n\n\n\n\n\n     A   20\n\n    B   22\n\n    C   24\n\n    D   26\n\n     E   28\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q05",
+    "live-poshenloh-amc8-2025-question_paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q06",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "删项使总和整除：被删数与原总和同余 / 删除一项使和整除：匹配总和余数",
+   "search_text": "6. Sekou writes the numbers 15,16,17,18,19. After he erases one of the numbers, the\n   sum of the remaining four numbers is a multiple of 4. Which number did he erase?\n\n     A   15\n\n    B   16\n\n    C   17\n\n    D   18\n\n     E   19\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q06",
+    "live-poshenloh-amc8-2025-question_paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q07",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "累计频数求区间人数：低门槛人数减高门槛人数 / 累计频数求区间人数：作集合差",
+   "search_text": "7. On the most recent exam in Prof. Xochi’s class,\n\n   • 5 students earned a score of at least 95%,\n\n   • 13 students earned a score of at least 90%,\n\n   • 27 students earned a score of at least 85%, and\n\n   • 50 students earned a score of at least 80%.\n\n  How many students earned a score of at least 80% and less than 90%?\n\n     A   8\n\n    B   14\n\n    C   22\n\n    D   37\n\n     E   45\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q07",
+    "live-poshenloh-amc8-2025-question_paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q08",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "立方体表面积反求体积：六面均分开平方求边长 / 立方体表面积反求体积：先求单面面积",
+   "search_text": "8.  Isaiah cuts open a cardboard cube along some of its edges to form the flat shape\n   shown, which has an area of 18 square centimeters. What was the volume of the cube\n    in cubic centimeters?\n\n\n\n\n\n     A   3   ​3\n\n    B   6\n\n    C   9\n\n\n    D         6   ​3\n\n     E   9   ​3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q08",
+    "live-poshenloh-amc8-2025-question_paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q09",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多个不同总体的合并比例：先还原各部分人数 / 等组平均再平均：还原为全体平均",
+   "search_text": "9.  Ningli looks at the 6 pairs of numbers directly across from each other on a clock. She\n   takes the average of each pair of numbers. What is the average of the resulting 6\n   numbers?\n\n\n\n\n\n     A   5\n\n    B    6.5\n\n    C   8\n\n    D    9.5\n\n     E   12\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q09",
+    "live-poshenloh-amc8-2025-question_paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q10",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "两个平面图形的并集面积：面积相加后减重叠 / 旋转重叠矩形面积：容斥扣交叠",
+   "search_text": "10. In the figure below, ABCD is a rectangle with sides of length AB = 5 inches and\n  AD = 3 inches. Rectangle ABCD is rotated 90∘ clockwise around the midpoint of\n   side DC to give a second rectangle. What is the total area, in square inches, covered\n\n   by the two overlapping rectangles?\n\n\n\n\n\n     A   21\n\n    B    22.25\n\n    C   23\n\n    D   23.75\n\n     E   25\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q10",
+    "live-poshenloh-amc8-2025-question_paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q11",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "拼块位置与边标约束：检查允许移动后的接缝 / 四连块拼图：枚举旋转翻转与剩余区域",
+   "search_text": "11. A tetromino consists of four squares connected along their edges. There are five\n   possible tetromino shapes, I, O, L, T, and S, shown below, which can be rotated or\n    flipped over. Three tetrominoes are used to completely cover a 3 × 4 rectangle. At\n    least one of the tiles is an S tile. What are the other two tiles?\n\n\n\n\n\n     A    I and L\n\n    B    I and T\n\n\n    C    L and L\n\n\n    D    L and S\n\n\n     E  O and T\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q11",
+    "live-poshenloh-amc8-2025-question_paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q12",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "凹区域最大内圆：比较中心到限制边界的距离 / 阶梯区域最大内圆：找最近凹角约束",
+   "search_text": "12. The region shown below consists of 24 squares, each with side length 1 centimeter.\n   What is the area, in square centimeters, of the largest circle that can fit inside the\n    region, possibly touching the boundaries?\n\n\n\n\n\n     A        3π\n\n\n    B        4π\n\n    C   5π\n\n    D   6π\n\n     E   8π\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q12",
+    "live-poshenloh-amc8-2025-question_paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q13",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "循环状态定位：找周期与起点后取余 / 等差数列余数频数：整周期加余项",
+   "search_text": "13. Each of the even numbers 2,4,6,… ,50 is divided by 7. The remainders are recorded.\n   Which histogram displays the number of times each remainder occurs?\n\n\n\n\n\n     A\n\n\n\n\n\n    B\n\n\n\n\n\n    C\n\n\n\n\n\n    D\n\nCount\n012 3 4 5 6\nRemainder\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q13",
+    "live-poshenloh-amc8-2025-question_paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q14",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "平均中位众数共同约束：先排序再分段 / 加数改变均值中位数：按插入位置分段",
+   "search_text": "14. A number N is inserted into the list 2,6,7,7,28. The mean is now twice as great as the\n   median. What is N?\n\n     A   7\n\n    B   14\n\n    C   20\n\n    D   28\n\n     E   34\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q14",
+    "live-poshenloh-amc8-2025-question_paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q15",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "配对同色数量界限：异色尽量集中或分散 / 折叠同色配对极值：尽量分散或集中异色",
+   "search_text": "15. Kei draws a 6 -by- 6 grid. He colors 13 of the unit squares silver and the remaining\n   squares gold. Kei then folds the grid in half vertically, forming pairs of overlapping unit\n   squares. Let m and M equal the least and greatest possible number of gold-on-gold\n    pairs, respectively. What is the value of m + M?\n\n\n\n\n\n     A   12\n\n    B   14\n\n    C   16\n\n    D   18\n\n     E   20\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q15",
+    "live-poshenloh-amc8-2025-question_paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q15.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q16",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "禁用指定差的选数：配成互斥数对再逐对选择 / 禁差配对选择：每对恰选一个",
+   "search_text": "16. Five distinct integers from 1 to 10 are chosen, and five distinct integers from 11 to 20\n   are chosen. No two numbers differ by exactly 10. What is the sum of the ten chosen\n   numbers?\n\n     A   95\n\n    B   100\n\n    C   105\n\n    D   110\n\n     E   115\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q16",
+    "live-poshenloh-amc8-2025-question_paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q16.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q17",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多个不同总体的合并比例：先还原各部分人数 / 人口流向图：按来源求流入与留住",
+   "search_text": "17. In the land of Markovia, there are three cities: A,B, and C. There are 100 people who\n    live in A,120 who live in B, and 160 who live in C. Everyone works in one of the three\n    cities, and a person may work in the same city where they live. In the figure below, an\n   arrow pointing from one city to another is labeled with the fraction of people living in\n                                                                 1   the first city who work in the second city. (For example,  of the people who live in A                                                                                                             ​4\n   work in B. ) How many people work in A?\n\n\n\n\n\n     A   55\n\n    B   60\n\n    C   85\n\n    D   115\n\n     E   160\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q17",
+    "live-poshenloh-amc8-2025-question_paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q17.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q18",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "相似缩放：长度倍数对应面积平方或体积立方 / 相似圆弓形面积：面积倍率转长度倍率",
+   "search_text": "18. The circle shown below on the left has a radius of 1 unit. The region between the circle\n   and the inscribed square is shaded. In the circle shown on the right, one quarter of the\n   region between the circle and the inscribed square is shaded. The shaded regions in\n   the two circles have the same area. What is the radius R, in units, of the circle on the\n    right?\n\n\n\n\n\n     A          ​2\n\n    B   2\n\n\n    C         2   ​2\n\n    D   4\n\n     E   4   ​2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q18",
+    "live-poshenloh-amc8-2025-question_paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q18.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q19",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分段路程与同路程变速：按各段对应速度时间 / 分段限速相遇：同步推进到速度变化时刻",
+   "search_text": "19. Two towns, A and B, are connected by a straight road, 15 miles long. Traveling from\n   town A to town B, the speed limit changes every 5 miles: from 25 to 40 to 20 miles per\n   hour (mph). Two cars, one at town A and one at town B, start moving toward each\n\n   other at the same time. They drive at exactly the speed limit in each portion of the\n   road. How far from town A, in miles, will the two cars meet?\n\n\n\n\n\n     A    7.75\n\n    B   8\n\n    C    8.25\n\n    D    8.5\n\n     E    8.75\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q19",
+    "live-poshenloh-amc8-2025-question_paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q19.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q20",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "无限轮流分取：一轮后自相似份额方程 / 轮流吃剩余一半：按一轮建立自相似方程",
+   "search_text": "20. Sarika, Dev, and Rajiv are sharing a large block of cheese. They take turns cutting off\n    half of what remains and eating it: first Sarika eats half of the cheese, then Dev eats\n    half of the remaining half, then Rajiv eats half of what remains, then back to Sarika, and\n   so on. They stop when the cheese is too small to see. About what fraction of the\n\n    original block of cheese does Sarika eat in total?\n\n         4     A\n                ​7\n\n         3\n     B\n                ​5\n\n         2\n    C\n                ​3\n\n         3\n    D\n                ​4\n\n         7\n      E\n                ​8\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q20",
+    "live-poshenloh-amc8-2025-question_paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q20.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q21",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "图网络路径与可达：逐层追踪并去重 / 相邻等级禁边：在原图补图找连续次序",
+   "search_text": "21. The Konigsberg School has assigned grades 1 through 7 to pods A through G, one\n   grade per pod. Some of the pods are connected by walkways, as shown in the figure\n   below. The school noticed that each pair of connected pods has been assigned\n   grades differing by 2 or more grade levels. (For example, grades 1 and 2 will not be in\n   pods directly connected by a walkway.) What is the sum of the grade levels assigned\n   to pods C,E, and F?\n\n\n\n\n\n     A   12\n\n    B   13\n\n    C   14\n\n    D   15\n\n     E   16\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q21",
+    "live-poshenloh-amc8-2025-question_paper__q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q21.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q22",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "质因数与因数对：分解后按限制筛选 / 均匀挂衣含两端空隙：总数加一因式分解",
+   "search_text": "22. A classroom has a row of 35 coat hooks. Paulina likes coats to be equally spaced, so\n    that there is the same number of empty hooks before the first coat, after the last coat,\n   and between every coat and the next one. Suppose there is at least 1 coat and at least\n   1 empty hook. How many different numbers of coats can satisfy Paulina’s pattern?\n\n     A   2\n\n     B   4\n\n    C   5\n\n    D   7\n\n     E   9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q22",
+    "live-poshenloh-amc8-2025-question_paper__q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q22.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q23",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "平方差与连续整数：分解为和乘差 / 平方减一为半素数：差平方拆成相邻奇因子",
+   "search_text": "23. How many four-digit numbers have all three of the following properties?\n\n       (I) The tens digit and ones digit are both 9.\n\n       (II) The number is 1 less than a perfect square.\n\n       (III) The number is the product of exactly two prime numbers.\n\n     A   0\n\n     B   1\n\n    C   2\n\n    D   3\n\n     E   4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q23",
+    "live-poshenloh-amc8-2025-question_paper__q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q23.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q24",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "几何",
+   "knowledge_point": "相似与全等",
+   "problem_type": "整数等腰梯形计数：角度投影转周长整数方程 / 整数等腰梯形计数：角度给底差等于腰",
+   "search_text": "24. In trapezoid ABCD, angles B and C measure 60∘ and AB = DC. The side lengths\n    are all positive integers and the perimeter of ABCD is 30 units. How many non-\n   congruent trapezoids satisfy all of these conditions?\n\n\n\n\n\n     A   0\n\n     B   1\n\n    C   2\n\n    D   3\n\n     E   4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q24",
+    "live-poshenloh-amc8-2025-question_paper__q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q24.md"
+  },
+  {
+   "paper_id": "live-poshenloh-amc8-2025-question_paper",
+   "year": 2025,
+   "session": "annual",
+   "paper": "AMC8",
+   "variant": "",
+   "id": "live-poshenloh-amc8-2025-question_paper__q25",
+   "exam_id": "AMC8",
+   "course_id": "AMC8",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "所有格网路径面积和：镜像配对后乘平均面积 / 所有路径面积总和：镜像配对为整块面积",
+   "search_text": "25. Makayla finds all the possible ways to draw a path in a 5 × 5 diamond-shaped grid.\n    Each path starts at the bottom of the grid and ends at the top, always moving one unit\n     northeast or northwest. She computes the area of the region between each path and\n     the right side of the grid. Two examples are shown in the figures below. What is the\n\n    sum of the areas determined by all possible paths?\n\n\n\n\n\n      A   2520\n\n      B   3150\n\n     C   3840\n\n     D   4730\n\n       E   5050\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/amc8/2025/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2025 AMC 8 — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-answers.pdf"
+    },
+    {
+     "title": "2025 AMC 8 — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/amc8-2025-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "AMC8-2025-Q25",
+    "live-poshenloh-amc8-2025-question_paper__q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC8_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC8_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC8/live-poshenloh-amc8-2025-question_paper__q25.md"
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2022-may-june-p6-v2-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p6-v2-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-may-june-p6-v2-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "1  A student investigates the balancing of a metre rule.\n\n     Fig. 1.1 shows the apparatus.\n\n                                                        50.0 cm mark\n                                                                       metre rule\n             P                           Q\n                         a                   b\n\n             0                                                           100\n                   10.0 cm mark\n\n                                                              pivot                    bench\n\n                                               Fig. 1.1\n\n     (a) The student places the metre rule on the pivot at the 50.0 cm mark.\n\n       She places object P with its centre on the metre rule at the 10.0 cm mark.\n\n       The object covers the scale markings on the metre rule, as shown in Fig. 1.2.\n\n\n               0              20      30      40      50      60      70      80      90    100\n\n\n                                               Fig. 1.2\n\n         Explain briefly how to place object P as accurately as possible with  its centre at the\n        10.0 cm mark.\n\n       You may add to Fig. 1.2, or draw another diagram, to help your explanation.\n\n\n\n\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n© UCLES 2022                                          0625/62/M/J/22\n\n(b) The student places object Q on the metre rule and adjusts its position until the metre rule is\n        as close to balancing as possible.\n\n       She records the distance a = 40.0 cm between the centre of object P and the pivot.\n\n       The centre of object Q is at the 71.2 cm mark.\n\n        Determine, and record in Table 1.1, the distance b between the centre of object Q and the\n          pivot. Show your working.\n\n\n\n                                                                                                                       [2]\n\n\n\n\n\n© UCLES 2022                                          0625/62/M/J/22                               [Turn over\n\n(c) She repeats the procedure with object P placed at the 15.0 cm mark, 20.0 cm mark,\n        25.0 cm mark and 30.0 cm mark. All the values of a and b are shown in Table 1.1.\n                                        Table 1.1\n\n                                a / cm         b / cm\n                                     40.0\n                                     35.0           17.8\n                                     30.0           15.1\n                                     25.0           12.3\n                                     20.0             9.7\n\n          Plot a graph of a / cm (y-axis) against b / cm (x-axis). You do not need to start your graph from\n         the origin (0,0).\n\n\n\n\n\n                                                                                                                       [4]\n\n     (d)  Determine the gradient G of the graph. Show clearly on the graph how you obtained the\n        necessary information.\n\n\n\n\n                                 G =  .........................................................  [2]\n\n     (e) The gradient G of the graph is equal to the ratio of the masses of P and Q.\n\n        Record the ratio R of the masses of P and Q. Give your answer to a suitable number of\n          significant figures for this experiment.\n\n                                   R =  .........................................................  [2]\n\n                                                                                                           [Total: 11]\n© UCLES 2022                                          0625/62/M/J/22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 6 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_62.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p6-v2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p6-v2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p6-v2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p6-v2-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p6-v2-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-may-june-p6-v2-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2  A student investigates the resistances of combinations of resistors.\n\n    The first circuit arrangement is shown in Fig. 2.1.\n\n\n\n                                                  A\n                    RA              RB\n\n\n\n\n\n                           V\n\n                                               Fig. 2.1\n\n     (a) The student measures the current and decides to use a lower current. He adds a variable\n          resistor to the circuit to reduce the current.\n\n      On Fig. 2.1, mark with an X a suitable position in the circuit for the variable resistor.         [1]\n\n\n                     0.4    0.6                              4  5  6                                                     3          7               0.2                0.8                    2               8\n                                                1                    9\n         0                            1.0           0                        10\n                  A                              V\n\n\n\n\n                         Fig. 2.2                                    Fig. 2.3\n\n     (b)   (i)  The student measures the current I1 in the circuit. Record the current shown in Fig. 2.2.\n                                                             I1 =  .......................................................A [1]\n             (ii)  He measures the potential difference (p.d.) V1 across resistors RA and RB in series.\n            Record the potential difference V1 shown in Fig. 2.3.\n                                              V1 =  .......................................................V [1]\n\n\n\n\n\n© UCLES 2022                                          0625/62/M/J/22                               [Turn over\n\n(c)  Calculate the resistance R1 of the combination of resistors in series. Use the equation\n                                          V1\n                                    R1 = I   .                                                        1\n         Include the unit.\n\n\n                                            R1 =  .........................................................  [1]\n     (d) The student connects a resistor RC in parallel with resistors RA and RB.\n      He does not change the series combination of resistors RA and RB.\n\n      He connects the voltmeter across the combination of all three resistors.\n\n             (i)  Draw a circuit diagram showing the circuit described in (d).\n\n\n\n\n\n                                                                                                                       [2]\n\n             (ii)  The student measures the current I2 in the circuit.\n\n                                                                        0.68                                                             I2 =  ............................................................ A\n          He measures the potential difference V2 across the combination of the three resistors.\n\n                                                                             2.1                                              V2 =  ............................................................ V\n             Calculate the resistance R2 of the combination of resistors. Use the equation\n                                          V2\n                                    R2 =     .                                                       I2\n             Include the unit.\n\n\n                                            R2 =  .........................................................  [1]\n© UCLES 2022                                          0625/62/M/J/22\n\n(e) The student rearranges the resistors to set up the circuit shown in Fig. 2.4.\n\n\n\n                                                  A\n                    RA              RB\n\n                                   RC\n\n\n                           V\n\n                                               Fig. 2.4\n      He measures the current I3 in the circuit.\n                                                             I3 =  ............................................................0.29           A\n      He measures the potential difference V3 across the combination of the three resistors.\n                                                                             2.1                                              V3 =  ........................................................... V\n         Calculate the resistance R3 of the combination of resistors. Use the equation\n                                          V3\n                                    R3 =     .                                                       I3\n         Include the  unit. Give your answer to a suitable number of significant figures for this\n         experiment.\n\n\n                                            R3 =  .........................................................  [1]\n      (f)  A student thinks the three resistors RA, RB and RC have the same resistance within the limits\n          of experimental accuracy.\n\n             (i)  Suggest how the student could use the apparatus provided to test his idea.\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [2]\n\n             (ii)  Explain how the student can decide whether the values of resistance are the same within\n             the limits of experimental accuracy.\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       .....................................................................................................................................  [1]\n                                                                                                           [Total: 11]\n© UCLES 2022                                          0625/62/M/J/22                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 6 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_62.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p6-v2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p6-v2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p6-v2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p6-v2-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p6-v2-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-may-june-p6-v2-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Waves",
+   "knowledge_point": "Light",
+   "problem_type": "用折射、反射或透镜关系处理光路",
+   "search_text": "3  A student determines the focal length f of a lens.\n\n     Fig. 3.1 shows the set-up.\n\n                illuminated\n                object\n                                            x\n                              y                  z                                                                     screen\n                                            lens\n\n\n\n\n                                                           bench\n\n                                               Fig. 3.1\n\n     (a)   (i)  On Fig. 3.1, measure the distance x from the screen to the illuminated object.\n\n                                                   x =  ...............................................................\n\n               Fig. 3.1 is drawn to scale. The actual distance D between the illuminated object and the\n            screen is 75.0 cm.\n\n          She places the lens between the object and the screen so that the lens is close to the\n              illuminated object.\n\n          She moves the lens away from the object until a clearly focused image is formed on the\n             screen.\n\n         On Fig. 3.1, measure the distance y between the centre of the lens and the illuminated\n               object.\n\n                                                   y =  ...............................................................\n\n         On Fig. 3.1, measure the distance z between the centre of the lens and the screen.\n\n                                                   z =  ...............................................................\n                                                                                                                       [2]\n\n                                        Table 3.1\n\n                 D / cm      u / cm       v / cm             f / cm\n\n                          75.0\n\n                          85.0        19.1        64.1        14.4\n\n\n\n\n\n© UCLES 2022                                          0625/62/M/J/22\n\n(ii)  Calculate, and record in Table 3.1, the actual distance u between the centre of the lens\n           and the illuminated object.\n\n              Calculate, and record in Table 3.1, the actual distance v between the centre of the lens\n           and the screen.\n                                                                                                                       [1]\n\n            (iii)  Calculate, and record in Table 3.1, the focal length f of the lens using the equation\n                                           uv\n                                                                            f =     .                               D\n                                                                                                                       [1]\n\n     (b) The student places the screen at a distance D = 85.0 cm from the illuminated object.\n\n       She repeats the procedure described in (a). The results are shown in Table 3.1.\n\n         Calculate the average value fA of the focal length of the lens. Show your working.\n\n\n                                                                 fA =  ................................................... cm [2]\n     (c)  State two precautions that you would take to obtain accurate readings in this experiment.\n\n          1. ...............................................................................................................................................\n\n               ...................................................................................................................................................\n\n          2. ...............................................................................................................................................\n\n               ...................................................................................................................................................\n                                                                                                                       [2]\n\n     (d) A student states that a more accurate value for the focal length f of the lens can be determined\n        by plotting a graph of uv against D. The gradient of the graph is numerically equal to the focal\n          length.\n\n             (i)  Suggest a suitable number of sets of readings that the student should take.\n\n                       .....................................................................................................................................  [1]\n\n             (ii)  Explain briefly how this graphical method can give a more accurate value for the focal\n              length.\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n\n                       ...........................................................................................................................................\n                                                                                                                       [2]\n\n                                                                                                           [Total: 11]\n\n\n\n© UCLES 2022                                          0625/62/M/J/22                               [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 6 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_62.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p6-v2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p6-v2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p6-v2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p6-v2-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2022-may-june-p6-v2-qp",
+   "year": 2022,
+   "session": "May/June",
+   "paper": "6",
+   "variant": "2",
+   "id": "caie-igcse-0625-2022-may-june-p6-v2-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates insulators.\n\n    Plan an experiment to list insulating discs in order from best insulator to worst insulator.\n\n    The following apparatus is available:\n\n           •    five discs made from different insulating materials\n           •   a thermometer\n           •   a stop-watch\n           •   a heated metal cylinder (see Fig. 4.1)\n           •   a second metal cylinder with a hole for the thermometer (see Fig. 4.1).\n\n                                                     heated metal cylinder\n\n\n                                                                   insulating disc\n\n                electrical heater\n\n                  metal cylinder                               thermometer\n\n                                               Fig. 4.1\n\n    You can also use other apparatus and materials that are usually available in a school laboratory.\n\n     In your plan, you should:\n\n           •    explain briefly how you would carry out the investigation\n\n           •    state the key variables that you would control\n\n           •   draw a table, or tables, with column headings, to show how you would display your\n             readings (you are not required to enter any readings in the table)\n\n           •    explain how you would use your readings to reach a conclusion.\n\n\n\n\n\n© UCLES 2022                                          0625/62/M/J/22\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2022 — Paper 6 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s22_ms_62.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2022-may-june-p6-v2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p6-v2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2022-may-june-p6-v2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2022-may-june-p6-v2-qp__q04.md"
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "group": "bmo1-2023-round-1-question-paper",
+ "course_id": "BMO1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "bmo1-2023-round-1-question-paper",
+   "year": 2023,
+   "session": "16 November 2022",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2023-round-1-question-paper__q01",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "British Mathematical Olympiad Round 1                 Wednesday 16 November 2022\n\n1. A road has houses numbered from 1 to 𝑛, where 𝑛is a three-digit number.\n            1   Exactly 𝑘of the numbers start with the digit 2, where 𝑘is a positive integer.\n  Find the possible values of 𝑛.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2023-round-1-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2023-round-1-question-paper__q01.md"
+  },
+  {
+   "paper_id": "bmo1-2023-round-1-question-paper",
+   "year": 2023,
+   "session": "16 November 2022",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2023-round-1-question-paper__q02",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. A sequence of positive integers 𝑎𝑛begins with 𝑎1 = 𝑎and 𝑎2 = 𝑏for positive\n   integers 𝑎and 𝑏. Subsequent terms in the sequence satisfy the following\n  two rules for all positive integers 𝑛:\n\n                     𝑎2𝑛+1 = 𝑎2𝑛𝑎2𝑛−1,   𝑎2𝑛+2 = 𝑎2𝑛+1 + 4.\n\n                                                               . . . ,   Exactly 𝑚of the numbers 𝑎1, 𝑎2, 𝑎3,     𝑎2022 are square numbers. What is\n   the maximum possible value of 𝑚? Note that 𝑚depends on 𝑎and 𝑏, so the\n  maximum is over all possible choices of 𝑎and 𝑏.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2023-round-1-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2023-round-1-question-paper__q02.md"
+  },
+  {
+   "paper_id": "bmo1-2023-round-1-question-paper",
+   "year": 2023,
+   "session": "16 November 2022",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2023-round-1-question-paper__q03",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3. In an acute, non-isosceles triangle 𝐴𝐵𝐶the midpoints of 𝐴𝐶and 𝐴𝐵are\n  𝐵1 and 𝐶1 respectively. A point 𝐷lies on 𝐵𝐶with 𝐶between 𝐵and 𝐷.\n  The point 𝐹is such that ∠𝐴𝐹𝐶is a right angle and ∠𝐷𝐶𝐹= ∠𝐹𝐶𝐴. The\n   point 𝐺is such that ∠𝐴𝐺𝐵is a right angle and ∠𝐶𝐵𝐺= ∠𝐺𝐵𝐴. Prove that\n   𝐵1, 𝐶1, 𝐹and 𝐺are collinear.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2023-round-1-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2023-round-1-question-paper__q03.md"
+  },
+  {
+   "paper_id": "bmo1-2023-round-1-question-paper",
+   "year": 2023,
+   "session": "16 November 2022",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2023-round-1-question-paper__q04",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4. Alex and Katy play a game on an 8 × 8 square grid made of 64 unit cells.\n  They take it in turns to play, with Alex going first. On Alex’s turn, he writes\n  ‘A’ in an empty cell. On Katy’s turn, she writes ‘K’ in two empty cells that\n   share an edge. The game ends when one player cannot move. Katy’s score\n   is the number of Ks on the grid at the end of the game. What is the highest\n   score Katy can be sure to get if she plays well, no matter what Alex does?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2023-round-1-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2023-round-1-question-paper__q04.md"
+  },
+  {
+   "paper_id": "bmo1-2023-round-1-question-paper",
+   "year": 2023,
+   "session": "16 November 2022",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2023-round-1-question-paper__q05",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For each integer 𝑛≥1, let 𝑓(𝑛) be the number of lists of different positive\n   integers starting with 1 and ending with 𝑛, in which each term except the last\n   divides its successor. Prove that for each integer 𝑁≥1 there is an integer\n  𝑛≥1 such that 𝑁divides 𝑓(𝑛).\n  (So 𝑓(1) = 1, 𝑓(2) = 1 and 𝑓(6) = 3.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2023-round-1-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2023-round-1-question-paper__q05.md"
+  },
+  {
+   "paper_id": "bmo1-2023-round-1-question-paper",
+   "year": 2023,
+   "session": "16 November 2022",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2023-round-1-question-paper__q06",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6. A circle Γ has radius 1. A line 𝑙is such that the perpendicular distance from\n   𝑙to the centre of Γ is strictly between 0 and 2. A frog chooses a point on Γ\n  whose perpendicular distance from 𝑙is less than 1 and sits on that point. It\n   then performs a sequence of jumps. Each jump has length 1 and if a jump\n   starts on Γ it must end on 𝑙and vice versa. Prove that after some finite\n  number of jumps the frog returns to a point it has been on before.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2023-round-1-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2023-round-1-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2023-round-1-question-paper__q06.md"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+# BBO · 2025 · Q03
+
+- id: bbo-2025-paper-2-public-reading-question-paper__q03__part13-b
+- course: BBO
+- exam: BBO
+- subject: biology
+- year: 2025
+- question_number: 03
+- chapter: Inheritance
+- knowledge_point: 原始遗传重复长度
+- problem_type: 由不扩张细胞群中的蓝峰推患者起始40–45范围
+- topic_tags: bbo-2025-paper-2-public-reading-question-paper__q03__part13-b
+
+## Text (OCR)
+
+```text
+(no OCR text; use the source file below)
+```
+
+## Source files
+
+- `projects/biology-question-processing/bbo-new/bbo-2025-paper2/questions/bbo-2025-paper-2-public-reading-question-paper__q03__part13-b/question.pdf` (1666924 bytes, sha256 `a677a6f275498eb58d3ae15c796113eb40ef1cd8990b7e18b2b41b56b09c37ff`) inside shard `pdfs-a10f6dfe9761d867.zip` (99 MB): https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-a10f6dfe9761d867.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

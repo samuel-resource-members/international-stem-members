@@ -1,0 +1,337 @@
+{
+ "group": "mat-2019-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2019-mat-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2019-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "等比数列",
+   "problem_type": "利用公比求项、有限和或无穷和",
+   "search_text": "1. For ALL APPLICANTS.\n\nFor each part of the question on pages 3-7 you will be given ﬁve possible answers, just\none of which is correct. Indicate for each part A-J which answer (a), (b), (c), (d), or\n(e) you think is correct with a tick (   ) in the corresponding column in the table below.\nPlease show any rough working in the space provided between the parts.\n\n\n\n\n                         (a)          (b)           (c)          (d)           (e)\n\n\n\n      A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n       E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n         J\n\n\n\n\n\n                                      2\n\nA. The equation\n                                 x3 −300x = 3000\n\nhas\n\n\n(a) no real solutions.\n(b) exactly one real solution.\n(c) exactly two real solutions.\n(d) exactly three real solutions.\n(e) inﬁnitely many real solutions.\n\n\n\n\n\nB. The product of a square number and a cube number is\n\n\n(a) always a square number, and never a cube number.\n(b) always a cube number, and never a square number.\n(c) sometimes a square number, and sometimes a cube number.\n(d) never a square number, and never a cube number.\n(e) always a cube number, and always a square number.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      3\n\nC. The graph of\n                     y = sin2 x + sin4 x + sin6 x + sin8 x + · · ·\n\nis sketched in\n\n  (a)      3  y               (b)      2  y                (c)      2  y\n\n           2\n                                    1                         1\n           1\n                  x                    x                      x\n −180◦−90◦     90◦180◦  −180◦−90◦     90◦180◦  −180◦−90◦     90◦180◦\n\n                 (d)      3  y                (e)      4  y\n\n                                                 2                        2\n                                                    x\n                        1              −180◦−90◦     90◦180◦\n                            x            −2\n\n             −180◦−90◦     90◦180◦        −4\n\n\n\n\n\nD. The area between the parabolas with equations y = x2 + 2ax + a and y = a −x2\nequals 9. The possible values of a are\n\n                  (a)  a = 1,   (b)  a = −3 or a = 3,   (c)  a = −3,\n\n                     (d)  a = −1 or a = 1,   (e)  a = 1 or a = 3.\n\n\n\n\n\n                                      4\n\nE. The graph of\n\n                               sin y −sin x = cos2 x −cos2 y\n\n(a) is empty.\n(b) is non-empty but includes no straight lines.\n(c) includes precisely one straight line.\n(d) includes precisely two straight lines.\n(e) includes inﬁnitely many straight lines.\n\n\n\n\n\nF. In the interval 0 ⩽x < 360◦, the equation\n\n                                      sin3 x + cos2 x = 0\n\nhas\n                      (a)   0,   (b)   1,   (c)   2,   (d)   3,   (e)  4\n\nsolutions.\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      5\n\nG. Let a, b, c > 0. The equations\n\n                                           3\n                      loga b = c,     logb a = c + 2,     logc a = b,\n\n(a) specify a, b and c uniquely.\n(b) specify c uniquely but have inﬁnitely many solutions for a and b.\n(c) specify c and a uniquely but have inﬁnitely many solutions for b.\n(d) specify a and b uniquely but have inﬁnitely many solutions for c.\n(e) have no solutions for a, b and c.\n\n\n\n\n\nH. The triangle ABC is right-angled at B and the side lengths are positive numbers in\ngeometric progression. It follows that tan ∠BAC is either\n\n\n     √      √        √    √         √    √\n      1 +  5      1 −  5        1 +  3       3 −1        1 +  5       5 −1\n(a)           or                 ,  (b)           or                 ,  (c)           or\n        2           2              2           2             2           2\n\n             √      √       √      √\n                   1 +  5      1 +  5        1 +  3      1 −  3\n              (d) −          or                 ,  (e)           or                 .\n                      2           2             2           2\n\n\n\n\n\n                                      6\n\nI. The positive real numbers x and y satisfy 0 < x < y and\n\n                                  x2x = y2y.\n\nfor\n(a) no pairs x and y.\n(b) exactly one pair x and y.\n(c) exactly two pairs x and y.\n(d) exactly four pairs x and y.\n(e) inﬁnitely many pairs x and y.\n\n\n\n\n\nJ. An equilateral triangle has centre O and side length 1. A straight line through O inter-\nsects the triangle at two distinct points P and Q. The minimum possible length of PQ is\n                      √          √\n                    1        1         3        2         3\n                  (a)   3,   (b)   2,   (c)   3  ,   (d)   3,   (e)   2  .\n\n\n\n\n\n                                                               Turn over\n\n\n\n                                      7\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2019",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions19.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2019-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2019-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2019-mat-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2019-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "多项式与因式定理",
+   "problem_type": "因式分解并求多项式的根",
+   "search_text": "2. For ALL APPLICANTS.\n\nFor k a positive integer, we deﬁne the polynomial pk(x) as\n\n      pk(x) = (1 + x)(1 + x2)(1 + x3) × · · · × (1 + xk) = a0 + a1x + · · · + aNxN,\n\ndenoting the coeﬃcients of pk(x) as a0, . . . , aN.\n\n   (i) Write down the degree N of pk(x) in terms of k.\n\n  (ii) By setting x = 1, or otherwise, explain why\n\n                                                 2k\n                                     amax ⩾\n                          N + 1\n\n     where amax denotes the largest of the coeﬃcients a0, . . . , aN.\n\n (iii) Fix i ⩾0. Explain why the value of ai eventually becomes constant as k increases.\n\nA student correctly calculates for k = 6 that p6(x) equals\n\n          1 + x + x2 + 2x3 + 2x4 + 3x5 + 4x6 + 4x7 + 4x8 + 5x9 + 5x10 + 5x11\n          +5x12 + 4x13 + 4x14 + 4x15 + 3x16 + 2x17 + 2x18 + x19 + x20 + x21.\n\n (iv) On the basis of this calculation, the student guesses that\n\n                                     ai = aN−i   for  0 ⩽i ⩽N.\n\n    By substituting x−1 for x, or otherwise, show that the student’s guess is correct\n      for all positive integers k.\n\n  (v) On the basis of the same calculation, the student guesses that all whole numbers in\n     the range 1, 2, . . . , amax appear amongst the coeﬃcients a0, . . . , aN, for all positive\n      integers k.\n\n     Use part (ii) to show that in this case the student’s guess is wrong. Justify your\n     answer.\n\n\n\n\n\n                                      8\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                             9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2019",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions19.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2019-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2019-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2019-mat-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2019-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "3.           ⎧                          ⎫\n            ⎪ MATHEMATICS                ⎪            ⎪                          ⎪            ⎨                          ⎬\n                MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n            ⎪ MATHEMATICS & PHILOSOPHY      ⎪            ⎪                          ⎪            ⎩                          ⎭\n                MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science and Computer Science & Philosophy applicants should turn to\npage 14.\n\nLet a, b, m be positive numbers with 0 < a < b. In the diagram below are sketched the\nparabola with equation y = (x −a)(b −x) and the line y = mx. The line is tangential\nto the parabola.\n  R is the region bounded by the x-axis, the line and the parabola. S is the region\nbounded by the parabola and the x-axis.\n\n              y\n                                            y = mx\n\n\n                                               y = (x −a)(b −x)\n\n\n                                 S\n              R                                  x\n                       a                                                                   b\n\n   (i) For c > 0, evaluate\n                                                         c\n                                        x(c −x) dx.\n                                                0\n                                                                                 (b −a)3\n     Without further calculation, explain why the area of region S equals              .\n                                                                     6\n  (ii) The line y = mx meets the parabola tangentially as drawn in the diagram.\n            √          2\n    Show that m =    b −√a    .\n\n (iii) Assume now that a = 1 and write b = β2 where β > 1. Given that the area of\n   R equals (2β + 1)(β −1)2/6, show that the areas of regions R and S are equal\n      precisely when\n                            (β −1)2(β4 + 2β3 −4β −2) = 0.                      (∗)\n     Explain why there is a solution β to (∗) in the range β > 1.\n\n     Without further calculation, deduce that for any a > 0 there exists b > a such\n     that the area of region S equals the area of region R.\n\n\n\n\n                                     10\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            11\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2019",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions19.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2019-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2019-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2019-mat-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2019-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.            ⎧                     ⎫\n             ⎨ MATHEMATICS           ⎬\nFor APPLICANTS IN                MATHEMATICS & STATISTICS  ⎭ONLY.             ⎩\n                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 14.\n\nIn this question we will consider subsets S of the xy-plane and points (a, b) which may\nor may not be in S. We will be interested in those points of S which are nearest to the\npoint (a, b). There may be many such points, a unique such point, or no such point.\n\n\n   (i) Let S be the disc x2 + y2 ⩽1. For a given point (a, b), ﬁnd the unique point of S\n     which is closest to (a, b).\n\n     [You will need to consider separately the cases when a2 + b2 > 1 and when\n      a2 + b2 ⩽1.]\n\n\n  (ii) Describe (without further justiﬁcation) an example of a subset S and a point (a, b)\n     such that there is no point of S nearest to (a, b) .\n\n\n (iii) Describe (without further justiﬁcation) an example of a subset S and a point (a, b)\n     such that there is more that one point of S nearest to (a, b) .\n\n\n (iv) Let S denote the line with equation y = mx + c. Obtain an expression for the\n      distance of (a, b) from a general point (x, mx + c) of S.\n\n    Show that there is a unique point of S nearest to (a, b) .\n\n\n  (v) For some subset S, and for any point (a, b), the nearest point of S to (a, b) is\n\n                             a + 2b −2 2a + 4b + 1                                                                       ,                      .\n                                  5          5\n\n     Describe the subset S.\n\n\n (vi) Say now that S has the property that\n\n              for any two points P and Q in S the line segment PQ is also in S.\n\n    Show that, for a given point (a, b) , there cannot be two distinct points of S which\n      are nearest to (a, b) .\n\n\n\n\n                                     12\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            13\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2019",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions19.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2019-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2019-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2019-mat-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2019-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "5. For ALL APPLICANTS.\n\nThis question is about counting the number of ways of partitioning a set of n elements\ninto subsets, each with at least two and at most n elements.  If n and k are integers\nwith 1 ⩽k ⩽n, let f(n, k) be the number of ways of partitioning a set of n elements\ninto k such subsets.  For example, f(5, 2) = 10 because the allowable partitions of\n{1, 2, 3, 4, 5} are\n                           {1, 5}, {2, 3, 4},    {1, 2, 5}, {3, 4},\n                           {2, 5}, {1, 3, 4},    {3, 4, 5}, {1, 2},\n                           {3, 5}, {1, 2, 4},    {1, 3, 5}, {2, 4},\n                           {4, 5}, {1, 2, 3},    {2, 4, 5}, {1, 3},\n                                               {1, 4, 5}, {2, 3},\n                                               {2, 3, 5}, {1, 4}.\n\n   (i) Explain why f(n, k) = 0 if k > n/2.\n\n  (ii) What is the value of f(n, 1) and why?\n\n (iii) In forming an allowable partition of {1, 2, . . . , n + 1} into subsets of at least two\n      elements, we can either\n\n       • pair n + 1 with one other element, leaving n −1 elements to deal with, or\n       • take an allowable partition of {1, 2, . . . , n} and add n+1 to one of the existing\n           subsets, making a subset of size three or more.\n\n     Use this observation to ﬁnd an equation for f(n + 1, k) in terms of f(n −1, k −1)\n     and f(n, k) that holds when 2 ⩽k < n.\n\n (iv) Use this equation to compute the value of f(7, 3).\n\n  (v) Give a formula for f(2n, n) in terms of n when n ⩾1 and show that it is correct.\n\n\n\n\n\n                                     14\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            15\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2019",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions19.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2019-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2019-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2019-mat-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2019-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6.            ⎧                          ⎫\n             ⎨ COMPUTER SCIENCE            ⎬\nFor APPLICANTS IN                MATHEMATICS & COMPUTER SCIENCE ⎭ONLY.             ⎩\n               COMPUTER SCIENCE & PHILOSOPHY\n\nA ﬂexadecimal number consists of a sequence of digits, with the rule that the rightmost\ndigit must be 0 or 1, the digit to the left of it is 0, 1, or 2, the third digit (counting\nfrom the right) must be at most 3, and so on. As usual, we may omit leading digits\nif they are zero. We write ﬂexadecimal numbers in angle brackets to distinguish them\nfrom ordinary, decimal numbers. Thus ⟨34101⟩is a ﬂexadecimal number, but ⟨231⟩is\nnot, because the digit 3 is too big for its place. (If ﬂexadecimal numbers get very long,\nwe will need ‘digits’ with a value more than 9.)\n   The number 1 is represented by ⟨1⟩in ﬂexadecimal. To add 1 to a ﬂexadecimal\nnumber, work from right to left. If the rightmost digit d1 is 0, replace it by 1 and ﬁnish.\nOtherwise, replace d1 by 0 and examine the digit d2 to its left, appending a zero at the\nleft if needed at any stage.  If d2 < 2, then increase it by 1 and ﬁnish, but if d2 = 2,\nthen replace it by 0, and again move to the left. The process stops when it reaches a\ndigit that can be increased without becoming too large. Thus, the numbers 1 to 4 are\nrepresented as ⟨1⟩, ⟨10⟩, ⟨11⟩, ⟨20⟩.\n\n   (i) Write the numbers from 5 to 13 in ﬂexadecimal.\n\n  (ii) Describe a workable procedure for converting ﬂexadecimal numbers to decimal,\n     and explain why it works. Demonstrate your procedure by converting ⟨1221⟩to\n      decimal.\n\n (iii) Describe a workable procedure for converting decimal numbers to ﬂexadecimal,\n     and demonstrate it by converting 255 to ﬂexadecimal.\n\n (iv) We could add ﬂexadecimal numbers by converting them to decimal, adding the\n     decimal numbers and converting the result back again. Describe instead a proce-\n     dure for addition that works directly on the digits of two ﬂexadecimal numbers,\n     and demonstrate it by performing the addition ⟨1221⟩+ ⟨201⟩.\n\n  (v) Given a ﬂexadecimal number, how could you test whether it is a multiple of 3\n     without converting it to decimal?\n\n (vi)  If the ⟨100000⟩arrangements of the letters abcdef are listed in alphabetical or-\n     der and numbered ⟨0⟩: abcdef , ⟨1⟩: abcdfe, ⟨10⟩: abcedf , etc., what arrangement\n     appears in position ⟨34101⟩in the list?\n\n\n\n\n\n                                     16\n\nTurn over\nIf you require additional space please use the pages at the end of the booklet\n\n\n\n                            17\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2019",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions19.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2019-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2019-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2019-mat-question-paper",
+   "year": 2019,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2019-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7.\n               COMPUTER SCIENCE\nFor APPLICANTS IN                                   ONLY.\n               COMPUTER SCIENCE & PHILOSOPHY\n\nYou are given two identical black boxes, each with an N-digit display and each with two\nbuttons marked A and B. Button A resets the display to 0, and button B updates the\ndisplay using a complex, unknown but ﬁxed, function f, so that pressing button A then\nrepeatedly pressing button B displays a ﬁxed sequence\n\n                        x0 = 0, x1 = f(x0), x2 = f(x1),  . . . ,\n\nthe same for both boxes. In general xi = f i(0) where f i denotes applying function f\nrepeatedly i times.\n   You have no pencil and paper, and the display has too many digits for you to re-\nmember more than a few displayed values, but you can compare the displays on the two\nboxes to see if they are equal, and you can count the number of times you press each\nbutton.\n\n   (i) Explain brieﬂy why there must exist integers i, j with 0 ⩽i < j such that xi = xj.\n\n  (ii) Show that if xi = xj then xi+s = xj+s for any s ⩾0.\n\n (iii) Let m be the smallest number such that xm appears more than once in the se-\n     quence, and let p > 0 be the smallest number such that xm = xm+p. Show that if\n       i ⩾m and k ⩾0 then xi+kp = xi.\n\n (iv) Given integers i, j with 0 ⩽i < j, show that xi = xj if and only if i ⩾m and j −i\n       is a multiple of p. [Hint: let r be the remainder on dividing j −i by p, and argue\n     that r = 0.]\n\n  (v) You conduct an experiment where (after resetting both boxes) you repeatedly press\n     button B once on one box and button B twice on the other box and compare the\n      displays, thus determining the smallest number u > 0 such that xu = x2u. What\n      relates the value of u to the (unknown) values of m and p?\n\n (vi) Once u is known, what experiment would you perform to determine the value of m?\n\n(vii) Once u and m are known, what experiment would tell you the value of p?\n\n\n\n\n\n                                                 End of last question\n\n\n\n                                     18\n\nCambridge Assessment\n7 Admissions Testing\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2019",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions19.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2019-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2019-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2019-mat-question-paper__q07.md"
+  }
+ ]
+}

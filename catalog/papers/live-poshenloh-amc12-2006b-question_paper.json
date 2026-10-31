@@ -1,0 +1,1269 @@
+{
+ "group": "live-poshenloh-amc12-2006b-question_paper",
+ "course_id": "AMC12",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q01",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "配对相消求有限和 / 负一幂按奇偶成对抵消",
+   "search_text": "What is \\[(-1)^1 + (-1)^2 + \\cdots + (-1)^{2006}?\\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q01",
+    "live-poshenloh-amc12-2006b-question_paper__q01",
+    "AMC12-2006B-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is \\[(-1)^1 + (-1)^2 + \\cdots + (-1)^{2006}?\\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q02",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "先算内层再代入外层运算 / 嵌套平方差运算",
+   "search_text": "For real numbers \\(x\\) and \\(y,\\) define \\[x \\spadesuit y = (x + y)(x - y).\\] What is \\(3 \\spadesuit (4 \\spadesuit 5)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q02",
+    "live-poshenloh-amc12-2006b-question_paper__q02",
+    "AMC12-2006B-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For real numbers \\(x\\) and \\(y,\\) define \\[x \\spadesuit y = (x + y)(x - y).\\] What is \\(3 \\spadesuit (4 \\spadesuit 5)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q03",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "总和与差值联立求两量 / 已知两队总分及差求较小者",
+   "search_text": "A football game was played between two teams, the Cougars and the Panthers. The two teams scored a total of \\(34\\) points, and the Cougars won by a margin of \\(14\\) points. How many points did the Panthers score?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q03",
+    "live-poshenloh-amc12-2006b-question_paper__q03",
+    "AMC12-2006B-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A football game was played between two teams, the Cougars and the Panthers. The two teams scored a total of \\(34\\) points, and the Cougars won by a margin of \\(14\\) points. How many points did the Panthers score?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q04",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "部分等于整体乘比例 / 找零占付款比例",
+   "search_text": "Mary is about to pay for five items at the grocery store. The prices of the items are \\(\\$7.99,\\) \\(\\$4.99,\\) \\(\\$2.99,\\) \\(\\$1.99,\\) and \\(\\$0.99.\\) Mary will pay with a twenty-dollar bill. Which of the following is closest to the percentage of the \\(\\$20.00\\) that she will receive in change?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q04",
+    "live-poshenloh-amc12-2006b-question_paper__q04",
+    "AMC12-2006B-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Mary is about to pay for five items at the grocery store. The prices of the items are \\(\\$7.99,\\) \\(\\$4.99,\\) \\(\\$2.99,\\) \\(\\$1.99,\\) and \\(\\$0.99.\\) Mary will pay with a twenty-dollar bill. Which of the following is closest to the percentage of the \\(\\$20.00\\) that she will receive in change?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q05",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相对速度与相遇周期 / 同向速度差消初始间隔",
+   "search_text": "John is walking east at a speed of \\(3\\) miles per hour, while Bob is also walking east, but at a speed of \\(5\\) miles per hour. If Bob is now \\(1\\) mile west of John, how many minutes will it take for Bob to catch up to John?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q05",
+    "live-poshenloh-amc12-2006b-question_paper__q05",
+    "AMC12-2006B-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "John is walking east at a speed of \\(3\\) miles per hour, while Bob is also walking east, but at a speed of \\(5\\) miles per hour. If Bob is now \\(1\\) mile west of John, how many minutes will it take for Bob to catch up to John?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q06",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分组平均数还原总量再加权 / 混合总热量按总质量分取",
+   "search_text": "Francesca uses \\(100\\) grams of lemon juice, \\(100\\) grams of sugar, and \\(400\\) grams of water to make lemonade. There are \\(25\\) calories in \\(100\\) grams of lemon juice and \\(386\\) calories in \\(100\\) grams of sugar. Water contains no calories. How many calories are in \\(200\\) grams of her lemonade?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q06",
+    "live-poshenloh-amc12-2006b-question_paper__q06",
+    "AMC12-2006B-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Francesca uses \\(100\\) grams of lemon juice, \\(100\\) grams of sugar, and \\(400\\) grams of water to make lemonade. There are \\(25\\) calories in \\(100\\) grams of lemon juice and \\(386\\) calories in \\(100\\) grams of sugar. Water contains no calories. How many calories are in \\(200\\) grams of her lemonade?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q07",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "优先填受限制位置再排余位 / 先填有资格限制的位置再排余位",
+   "search_text": "Mr. and Mrs. Lopez have two children. When they get into their family car, two people sit in the front, and the other two sit in the back. Either Mr. Lopez or Mrs. Lopez must sit in the driver’s seat. How many seating arrangements are possible?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q07",
+    "live-poshenloh-amc12-2006b-question_paper__q07",
+    "AMC12-2006B-Q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q08",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "直线联立求交点 / 已知交点反求两截距和",
+   "search_text": "The lines \\[x = \\tfrac14 y + a, \\qquad y = \\tfrac14 x + b\\] intersect at the point \\((1, 2).\\) What is \\(a + b?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q08",
+    "live-poshenloh-amc12-2006b-question_paper__q08",
+    "AMC12-2006B-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The lines \\[x = \\tfrac14 y + a, \\qquad y = \\tfrac14 x + b\\] intersect at the point \\((1, 2).\\) What is \\(a + b?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q09",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "选定数位集合再计允许排列 / 严格递增三位偶数按个位分组",
+   "search_text": "How many even three-digit integers have the property that their digits, read left to right, are in strictly increasing order?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q09",
+    "live-poshenloh-amc12-2006b-question_paper__q09",
+    "AMC12-2006B-Q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q10",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角不等式判边长可行范围 / 固定一边与另两边倍数的周长最大",
+   "search_text": "In a triangle with integer side lengths, one side is three times as long as a second side, and the length of the third side is \\(15.\\) What is the greatest possible perimeter of the triangle?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q10",
+    "live-poshenloh-amc12-2006b-question_paper__q10",
+    "AMC12-2006B-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "In a triangle with integer side lengths, one side is three times as long as a second side, and the length of the third side is \\(15.\\) What is the greatest possible perimeter of the triangle?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q11",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "混合后按当前份额跟踪成分 / 先喝后加与先加后喝比较溶质量",
+   "search_text": "Joe and JoAnn each bought \\(12\\) ounces of coffee in a \\(16\\)-ounce cup. Joe drank \\(2\\) ounces of his coffee and then added \\(2\\) ounces of cream. JoAnn added \\(2\\) ounces of cream, stirred the coffee well, and then drank \\(2\\) ounces. What is the resulting ratio of the amount of cream in Joe’s coffee to that in JoAnn’s coffee?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q11",
+    "live-poshenloh-amc12-2006b-question_paper__q11",
+    "AMC12-2006B-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Joe and JoAnn each bought \\(12\\) ounces of coffee in a \\(16\\)-ounce cup. Joe drank \\(2\\) ounces of his coffee and then added \\(2\\) ounces of cream. JoAnn added \\(2\\) ounces of cream, stirred the coffee well, and then drank \\(2\\) ounces. What is the resulting ratio of the amount of cream in Joe’s coffee to that in JoAnn’s coffee?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q12",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "抛物线顶点代入条件 / 顶点与截距同参数反求一次系数",
+   "search_text": "The parabola \\(y = ax^2 + bx + c\\) has vertex \\((p, p)\\) and \\(y\\)-intercept \\((0, -p),\\) where \\(p \\neq 0.\\) What is \\(b?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q12",
+    "live-poshenloh-amc12-2006b-question_paper__q12",
+    "AMC12-2006B-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The parabola \\(y = ax^2 + bx + c\\) has vertex \\((p, p)\\) and \\(y\\)-intercept \\((0, -p),\\) where \\(p \\neq 0.\\) What is \\(b?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q13",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相似图形长度面积体积倍率 / 共享一条对角线分别为长短对角线",
+   "search_text": "Rhombus \\(ABCD\\) is similar to rhombus \\(BFDE.\\) The area of rhombus \\(ABCD\\) is \\(24,\\) and \\(\\angle BAD = 60^\\circ.\\) What is the area of rhombus \\(BFDE?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q13",
+    "live-poshenloh-amc12-2006b-question_paper__q13",
+    "AMC12-2006B-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Rhombus \\(ABCD\\) is similar to rhombus \\(BFDE.\\) The area of rhombus \\(ABCD\\) is \\(24,\\) and \\(\\angle BAD = 60^\\circ.\\) What is the area of rhombus \\(BFDE?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q14",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定整数乘积枚举因数分配并检范围 / 总份数乘整数单份价先分解总额",
+   "search_text": "Elmo makes \\(N\\) sandwiches for a fundraiser. For each sandwich he uses \\(B\\) globs of peanut butter at \\(4\\)¢ per glob and \\(J\\) blobs of jam at \\(5\\)¢ per blob. The cost of the peanut butter and jam to make all the sandwiches is \\(\\$2.53.\\) Assume that \\(B,\\) \\(J,\\) and \\(N\\) are positive integers with \\(N \\gt 1.\\) What is the cost of the jam Elmo uses to make the sandwiches?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q14",
+    "live-poshenloh-amc12-2006b-question_paper__q14",
+    "AMC12-2006B-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Elmo makes \\(N\\) sandwiches for a fundraiser. For each sandwich he uses \\(B\\) globs of peanut butter at \\(4\\)¢ per glob and \\(J\\) blobs of jam at \\(5\\)¢ per blob. The cost of the peanut butter and jam to make all the sandwiches is \\(\\$2.53.\\) Assume that \\(B,\\) \\(J,\\) and \\(N\\) are positive integers with \\(N \\gt 1.\\) What is the cost of the jam Elmo uses to make the sandwiches?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q15",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆心投影与勾股求公切线 / 两外切圆两外公切线围成两直角梯形",
+   "search_text": "Circles with centers \\(O\\) and \\(P\\) have radii \\(2\\) and \\(4,\\) respectively, and are externally tangent. Points \\(A\\) and \\(B\\) are on the circle centered at \\(O,\\) and points \\(C\\) and \\(D\\) are on the circle centered at \\(P,\\) such that \\(AD\\) and \\(BC\\) are common external tangents to the circles. What is the area of hexagon \\(AOBCPD?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q15",
+    "live-poshenloh-amc12-2006b-question_paper__q15",
+    "AMC12-2006B-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Circles with centers \\(O\\) and \\(P\\) have radii \\(2\\) and \\(4,\\) respectively, and are externally tangent. Points \\(A\\) and \\(B\\) are on the circle centered at \\(O,\\) and points \\(C\\) and \\(D\\) are on the circle centered at \\(P,\\) such that \\(AD\\) and \\(BC\\) are common external tangents to the circles. What is the area of hexagon \\(AOBCPD?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q16",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "正多边形分割求面积 / 跨一顶点对角长确定面积",
+   "search_text": "Regular hexagon \\(ABCDEF\\) has vertices \\(A\\) and \\(C\\) at \\((0, 0)\\) and \\((7, 1),\\) respectively. What is its area?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q16",
+    "live-poshenloh-amc12-2006b-question_paper__q16",
+    "AMC12-2006B-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Regular hexagon \\(ABCDEF\\) has vertices \\(A\\) and \\(C\\) at \\((0, 0)\\) and \\((7, 1),\\) respectively. What is its area?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q17",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按类别权重累计概率 / 独立加权骰点和固定值",
+   "search_text": "For a particular peculiar pair of dice, the probabilities of rolling \\(1,\\) \\(2,\\) \\(3,\\) \\(4,\\) \\(5,\\) and \\(6\\) on each die are in the ratio \\(1 : 2 : 3 : 4 : 5 : 6.\\) What is the probability of rolling a total of \\(7\\) on the two dice?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q17",
+    "live-poshenloh-amc12-2006b-question_paper__q17",
+    "AMC12-2006B-Q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For a particular peculiar pair of dice, the probabilities of rolling \\(1,\\) \\(2,\\) \\(3,\\) \\(4,\\) \\(5,\\) and \\(6\\) on each die are in the ratio \\(1 : 2 : 3 : 4 : 5 : 6.\\) What is the probability of rolling a total of \\(7\\) on the two dice?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q18",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "按终点位移计格点路径 / 固定步数四向游走终点按距离奇偶",
+   "search_text": "An object in the plane moves from one lattice point to another. At each step, the object may move one unit to the right, one unit to the left, one unit up, or one unit down. If the object starts at the origin and takes a ten-step path, how many different points could be the final point?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q18",
+    "live-poshenloh-amc12-2006b-question_paper__q18",
+    "AMC12-2006B-Q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q19",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "位值式取模求余数 / 两数字各重复两次且被八个年龄整除",
+   "search_text": "Mr. Jones has eight children of different ages. On a family trip his oldest child, who is \\(9,\\) spots a license plate with a \\(4\\)-digit number in which each of two digits appears two times. “Look, daddy!” she exclaims. “That number is evenly divisible by the age of each of us kids!” “That’s right,” replies Mr. Jones, “and the last two digits just happen to be my age.” Which of the following is not the age of one of Mr. Jones’s children?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q19",
+    "live-poshenloh-amc12-2006b-question_paper__q19",
+    "AMC12-2006B-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Mr. Jones has eight children of different ages. On a family trip his oldest child, who is \\(9,\\) spots a license plate with a \\(4\\)-digit number in which each of two digits appears two times. “Look, daddy!” she exclaims. “That number is evenly divisible by the age of each of us kids!” “That’s right,” replies Mr. Jones, “and the last two digits just happen to be my age.” Which of the following is ",
+     {
+      "tag": "i",
+      "children": [
+       "not"
+      ]
+     },
+     " the age of one of Mr. Jones’s children?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q20",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "等比通项与求和反求参数 / 按十进数量级分区使乘4不越级",
+   "search_text": "Let \\(x\\) be chosen at random from the interval \\((0, 1).\\) What is the probability that \\[\\lfloor \\log_{10} 4x \\rfloor - \\lfloor \\log_{10} x \\rfloor = 0?\\] Here \\(\\lfloor x \\rfloor\\) denotes the greatest integer that is less than or equal to \\(x.\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q20",
+    "live-poshenloh-amc12-2006b-question_paper__q20",
+    "AMC12-2006B-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(x\\) be chosen at random from the interval \\((0, 1).\\) What is the probability that \\[\\lfloor \\log_{10} 4x \\rfloor - \\lfloor \\log_{10} x \\rfloor = 0?\\] Here \\(\\lfloor x \\rfloor\\) denotes the greatest integer that is less than or equal to \\(x.\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q21",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "椭圆焦距和接矩形面积 / 矩形两对角为焦点与过点结合双面积",
+   "search_text": "Rectangle \\(ABCD\\) has area \\(2006.\\) An ellipse with area \\(2006\\pi\\) passes through \\(A\\) and \\(C\\) and has foci at \\(B\\) and \\(D.\\) What is the perimeter of the rectangle? (The area of an ellipse is \\(\\pi ab,\\) where \\(2a\\) and \\(2b\\) are the lengths of its axes.)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q21",
+    "live-poshenloh-amc12-2006b-question_paper__q21",
+    "AMC12-2006B-Q21"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Rectangle \\(ABCD\\) has area \\(2006.\\) An ellipse with area \\(2006\\pi\\) passes through \\(A\\) and \\(C\\) and has foci at \\(B\\) and \\(D.\\) What is the perimeter of the rectangle? (The area of an ellipse is \\(\\pi ab,\\) where \\(2a\\) and \\(2b\\) are the lengths of its axes.)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q22",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "累计质因数指数判断整除 / 固定和分拆的5因子指数和下界",
+   "search_text": "Suppose \\(a,\\) \\(b,\\) and \\(c\\) are positive integers with \\(a + b + c = 2006,\\) and \\(a!\\,b!\\,c! = m \\cdot 10^n,\\) where \\(m\\) and \\(n\\) are integers and \\(m\\) is not divisible by \\(10.\\) What is the smallest possible value of \\(n?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q22",
+    "live-poshenloh-amc12-2006b-question_paper__q22",
+    "AMC12-2006B-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose \\(a,\\) \\(b,\\) and \\(c\\) are positive integers with \\(a + b + c = 2006,\\) and \\(a!\\,b!\\,c! = m \\cdot 10^n,\\) where \\(m\\) and \\(n\\) are integers and \\(m\\) is not divisible by \\(10.\\) What is the smallest possible value of \\(n?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q23",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "距离平方相减消公共项 / 直角等腰三角内点到三顶点距离消元",
+   "search_text": "Isosceles \\(\\triangle ABC\\) has a right angle at \\(C.\\) Point \\(P\\) is inside \\(\\triangle ABC,\\) such that \\(PA = 11,\\) \\(PB = 7,\\) and \\(PC = 6.\\) Legs \\(\\overline{AC}\\) and \\(\\overline{BC}\\) have length \\(s = \\sqrt{a + b\\sqrt{2}},\\) where \\(a\\) and \\(b\\) are positive integers. What is \\(a + b?\\)\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q23",
+    "live-poshenloh-amc12-2006b-question_paper__q23",
+    "AMC12-2006B-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Isosceles \\(\\triangle ABC\\) has a right angle at \\(C.\\) Point \\(P\\) is inside \\(\\triangle ABC,\\) such that \\(PA = 11,\\) \\(PB = 7,\\) and \\(PC = 6.\\) Legs \\(\\overline{AC}\\) and \\(\\overline{BC}\\) have length \\(s = \\sqrt{a + b\\sqrt{2}},\\) where \\(a\\) and \\(b\\) are positive integers. What is \\(a + b?\\)\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q24",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "三角二次不等式转分段直线 / sin值二次不等式解根后化直线边界",
+   "search_text": "Let \\(S\\) be the set of all points \\((x, y)\\) in the coordinate plane such that \\(0 \\le x \\le \\dfrac{\\pi}{2}\\) and \\(0 \\le y \\le \\dfrac{\\pi}{2}.\\) What is the area of the subset of \\(S\\) for which \\[\\sin^2 x - \\sin x \\sin y + \\sin^2 y \\le \\frac{3}{4}?\\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q24",
+    "live-poshenloh-amc12-2006b-question_paper__q24",
+    "AMC12-2006B-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(S\\) be the set of all points \\((x, y)\\) in the coordinate plane such that \\(0 \\le x \\le \\dfrac{\\pi}{2}\\) and \\(0 \\le y \\le \\dfrac{\\pi}{2}.\\) What is the area of the subset of \\(S\\) for which \\[\\sin^2 x - \\sin x \\sin y + \\sin^2 y \\le \\frac{3}{4}?\\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2006,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc12-2006b-question_paper__q25",
+   "exam_id": "AMC12",
+   "course_id": "AMC12",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "绝对差递推保持最大公因数 / 绝对差递推降至最大公因数三周期并追奇偶相位",
+   "search_text": "A sequence \\(a_1,\\) \\(a_2,\\) \\(\\ldots\\) of non-negative integers is defined by the rule \\(a_{n+2} = |a_{n+1} - a_n|\\) for \\(n \\ge 1.\\) If \\(a_1 = 999,\\) \\(a_2 \\lt 999,\\) and \\(a_{2006} = 1,\\) how many different values of \\(a_2\\) are possible?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC12-2006-B-Q25",
+    "live-poshenloh-amc12-2006b-question_paper__q25",
+    "AMC12-2006B-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A sequence \\(a_1,\\) \\(a_2,\\) \\(\\ldots\\) of non-negative integers is defined by the rule \\(a_{n+2} = |a_{n+1} - a_n|\\) for \\(n \\ge 1.\\) If \\(a_1 = 999,\\) \\(a_2 \\lt 999,\\) and \\(a_{2006} = 1,\\) how many different values of \\(a_2\\) are possible?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC12_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC12_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC12_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC12/live-poshenloh-amc12-2006b-question_paper__q25.md"
+  }
+ ]
+}

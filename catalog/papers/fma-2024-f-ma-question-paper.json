@@ -1,0 +1,1183 @@
+{
+ "group": "fma-2024-f-ma-question-paper",
+ "course_id": "FMA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q01",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1. An archer fires an arrow from the ground so that it passes through two hoops, which are both a height h\n   above the ground. The arrow passes through the first hoop one second after the arrow is launched, and\n   through the second hoop another second later. What is the value of h?\n\n\n   (A) 5 m\n\n   (B) 10 m\n\n   (C) 12 m\n\n   (D) 15 m\n\n   (E) There is not enough information to decide.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q01.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q02",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "2. An amusement park ride consists of a circular, horizontal room. A rider leans against its frictionless outer\n   walls, which are angled back at 30◦with respect to the vertical, so that the rider’s center of mass is 5.0 m\n   from the center of the room. When the room begins to spin about its center, at what angular velocity\n   will the rider’s feet first lift off the floor?\n\n\n   (A) 1.9 rad/s       (B) 2.3 rad/s       (C) 3.5 rad/s       (D) 4.0 rad/s       (E) 5.6 rad/s\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q02.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q03",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3. A simple bridge is made of five thin rods rigidly connected at four vertices.\n\n\n                                 A\n\n\n\n\n                         B        C      D\n\n\n                                      F\n\n\n  The ground is frictionless, so that it can only exert vertical normal forces at B and D. The weight of the\n   bridge is negligible, but a person stands at its middle, exerting a downward force F at vertex C. In static\n   equilibrium, each rod can be experiencing either tension or compression. Which of the following is true?\n\n\n   (A) Only the vertical rod is in tension.\n\n   (B) Only the horizontal rods are in tension.\n\n   (C) Both the vertical rod and the diagonal rods are in tension.\n\n   (D) Both the vertical rod and the horizontal rods are in tension.\n\n   (E) All of the rods are in tension.\n\n2024 F = ma Exam\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q03.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q04",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "4. A bouncy ball is thrown vertically upward from the ground. Air resistance is negligible, and the ball’s\n   collisions with the ground are perfectly elastic. Which of the following shows the kinetic energy of the\n   ball as a function of time? Assume the collisions are too quick for their duration to be seen in the plot.\n\n\n     K                 K                 K\n\n\n   (A)                           (B)                           (C)\n\n\n                                     t                                         t                                         t\n\n     K                 K\n\n\n   (D)                            (E)\n\n\n                                     t                                        t\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q04.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q05",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "t                                        t\n\n5. A massless inclined plane with angle 30◦to the horizontal is fixed to a scale. A block of mass m is released\n   from the top of the plane, which is frictionless.\n\n                         m\n\n\n\n                                                      30◦\n\n\n\n  As the block slides down the plane, what is the reading on the scale?\n\n    √                                √\n   (A)  3 mg/4       (B) mg/2          (C) 3mg/4         (D)  3 mg/2       (E) mg\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q05.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q06",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "6",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "6. A pendulum is made with a string and a bucket full of water. When the string is vertical, the bottom of\n   the bucket is near the ground.\n\n\n\n\n\n  Then, the pendulum is set swinging with a small amplitude, and a very small hole is opened at the bottom\n   of the bucket, which leaks water at a constant rate. After a few full swings, which of the following best\n   shows the amount of water that has landed on the ground as a function of position?\n\n\n\n\n\n   (A)                           (B)                           (C)\n\n\n\n\n   (D)                            (E)\n\n2024 F = ma Exam\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q06.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q07",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "7",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "7. A particle travels in a straight line. Its velocity as a function of time is shown below.\n\n\n                                               v(t)\n\n\n\n\n\n                                                                                t\n\n\n  Which of the following shows the velocity as a function of distance x from its initial position?\n\n\n        v(x)                            v(x)                            v(x)\n\n\n   (A)                           (B)                           (C)\n\n\n                       x                         x                         x\n\n        v(x)                            v(x)\n\n\n   (D)                            (E)\n\n\n                       x                         x\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q07.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q08",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "8",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "8. A rod of length L is sliding down a frictionless wall.\n\n\n\n\n\n                                   L\n\n                                                         v\n\n\n  When the rod makes an angle of 45◦to the horizontal, the bottom of the rod has speed v. At this moment,\n  what is the speed of the middle of the rod?\n\n                √                    √\n   (A) v/2            (B) v/  2          (C) v             (D)  2 v           (E) 2v\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q08.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q09",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "9",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "9. When a car’s brakes are fully engaged, it takes 100 m to stop on a dry road, which has coefficient of kinetic\n   friction µk = 0.8 with the tires. Now suppose only the first 50 m of the road is dry, and the rest is covered\n   with ice, with µk = 0.2. What total distance does the car need to stop?\n\n\n   (A) 150 m          (B) 200 m          (C) 250 m         (D) 400 m          (E) 850 m\n\n2024 F = ma Exam\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q09.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q10",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "10",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "10. A block of mass m is connected to the walls of a frictionless box by two massless springs with relaxed\n    lengths ℓand 2ℓ, and spring constants k and 2k respectively. The length of the box is 3ℓ. The system\n    rotates with a constant angular velocity ω about one of its walls.\n\n\n                             ω\n\n\n                         m\n                                                        ℓ, k               2ℓ, 2k\n\n\n\n\n\n   Suppose the block stays at a constant distance r from the axis of rotation, without touching either of the\n    walls. What is the value of r?\n\n           2kℓ                2kℓ                2kℓ                3kℓ               3kℓ\n    (A)               (B)               (C)               (D)                (E)\n        2k −mω2          2k + mω2          3k + mω2          3k −mω2         3k + mω2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q10.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q11",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "11",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Pressure",
+   "problem_type": "从力、面积或液柱高度求压强",
+   "search_text": "11. Two hemispherical shells can be pressed together to form a airtight sphere of radius 40 cm. Suppose the\n     shells are pressed together at a high altitude, where the air pressure is half its value at sea level. The\n    sphere is then returned to sea level, where the air pressure is 105 Pa. What force F, applied directly\n   outward to each hemisphere, is required to pull them apart?\n\n\n    (A) 25,000 N       (B) 50,000 N       (C) 100,000 N      (D) 200,000 N      (E) 400,000 N\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q11.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q12",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "12. A space probe with mass m at point P traverses through a cluster of three asteroids, at points A, B, and\n   C. The masses and locations of the asteroids are shown below.\n\n\n                              3M  C\n\n\n                                                d\n\n                          m  P\n\n\n                                                d\n                         A              B                                          d         d\n\n                   M            2M\n\n\n   What is the torque on the probe about point C?\n\n                                                 √\n         1 GMm         1 GMm            1 GMm     GMm              2 GMm\n    (A) √            (B)               (C) √            (D)                (E)\n        2  2   d           2   d               2   d              d                  d\n\n2024 F = ma Exam\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q12.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q13",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "13. Two frictionless blocks of mass m are connected by a massless string which passes through a fixed massless\n    pulley, which is a height h above the ground.  Suppose the blocks are initially held with horizontal\n    separation x, and the length of the string is chosen so that the right block hangs in the air as shown.\n\n\n\n\n\n                                                   h\n                                          x\n\n\n\n     If the blocks are relased, the tension in the string immediately afterward will be T. Which of the following\n    shows a plot of T versus x?\n\n\n           T                         T                         T\n\n\n      mg                    mg                    mg\n\n\n                      x                         x                         x    (A)                           (B)                           (C)\n           T                         T\n\n\n      mg                    mg\n\n\n                      x                         x    (D)                            (E)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q13.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q14",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "14",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "14. A bead of mass m can slide frictionlessly on a vertical circular wire hoop of radius 20 cm.\n\n\n\n\n\n                            m\n\n                                m\n\n\n\n   The hoop is attached to a stand of mass m, which can slide frictionlessly on the ground.  Initially, the\n   bead is at the bottom of the hoop, the stand is at rest, and the bead has velocity 2 m/s to the right. At\n   some point, the bead will stop moving with respect to the hoop. At that moment, through what angle\n    along the hoop has the bead traveled?\n\n\n    (A) 30◦            (B) 45◦            (C) 60◦           (D) 90◦            (E) 120◦\n\n2024 F = ma Exam\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q14.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q15",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "15",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Density",
+   "problem_type": "用质量和体积求密度或未知量",
+   "search_text": "15. The viscous force between two plates of area A, with relative speed v and separation d, is F = ηAv/d,\n   where η is the viscosity. In fluid mechanics, the Ohnesorge number is a dimensionless number proportional\n    to η which characterizes the importance of viscous forces, in a drop of fluid of density ρ, surface tension\n    γ, and length scale ℓ. Which of the following could be the definition of the Ohnesorge number?\n\n          ηℓ          rρ       r ρ           rρℓ               η\n    (A) √ργ           (B) ηℓ  γ         (C) η   γℓ         (D) η   γ          (E) √ργℓ\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q15.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q16",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "16",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "16. A child of mass m holds onto the end of a massless rope of length ℓ, which is attached to a pivot a height\n  H above the ground. The child is released from rest when the rope is straight and horizontal.\n\n\n                                     m\n                                                                     ℓ\n\n                              H\n\n\n                                          d\n\n\n\n\n   At some point, the child lets go of the rope, flies through the air, and lands on the ground a horizontal\n    distance d from the pivot. On Earth, the maximum possible value of d is dE. If the setup is moved to the\n   Moon, which has 1/6 the gravitational acceleration, what is the new maximum possible value of d?\n\n                  √                   √\n    (A) dE/6          (B) dE/  6         (C) dE            (D)  6 dE          (E) 6 dE\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q16"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q16/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q16/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q16.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q17",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "17",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "17. Consider the following system of massless and frictionless pulleys, ropes, and springs.\n\n\n\n                                           k        2k\n\n\n\n\n\n                                           3k    m\n\n\n\n     Initially, a block of mass m is attached to the end of a rope, and the system is in equilibrium. Next the\n    block is doubled in mass, and the system is allowed to come to equilibrium again. During the transition\n    between these equilibria, how far does the end of the rope (where the block is suspended) move?\n\n         7 mg             11 mg             13 mg             7 mg              11 mg\n    (A)               (B)               (C)               (D)                (E)\n        12 k              12 k              12 k              6 k               6  k\n\n2024 F = ma Exam\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q17"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q17/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q17/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q17.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q18",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "18",
+   "chapter": "Space physics",
+   "knowledge_point": "Earth and the Solar System",
+   "problem_type": "从天体运动和轨道条件解释现象",
+   "search_text": "18. A satellite is initially in a circular orbit of radius R around a planet of mass M.  It fires its rockets to\n    instantaneously increase its speed by ∆v, keeping the direction of its velocity the same, so that it enters\n   an elliptical orbit whose maximum distance from the planet is 2R.\n\n\n\n                                                                 start\n\n\n                                  R\n\n\n\n                                            2R\n\n\n                                      end\n\n   What is the value of ∆v? (Hint: when the satellite is in an elliptical orbit with semimajor axis a, its total\n    energy per unit mass is −GM/2a.)\n\n      r GM      r GM      r GM      r GM      r GM\n    (A) 0.08           (B) 0.15           (C) 0.22           (D) 0.29           (E) 0.41\n          R           R           R           R           R\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q18/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q18/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q18.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q19",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "19",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "19. A wheel of radius R has a thin rim and four spokes, each of which have uniform density.\n\n\n                                 m\n\n                             m\n\n                         m     m\n\n\n                                    3m\n\n\n\n\n   The entire rim has mass m, three of the spokes each have mass m, and the fourth spoke has mass 3m.\n   The wheel is suspended on a horizontal frictionless axle passing through its center. If the wheel is slightly\n    rotated from its equilibrium position, what is the angular frequency of small oscillations?\n\n    r g       r g       r 2g       r g       r 7g\n    (A)               (B)               (C)               (D)                (E)\n        3R            2R            3R          R             6R\n\n2024 F = ma Exam\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q19"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q19/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q19/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q19.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q20",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "20",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "20. Four massless rigid rods are connected into a quadrilateral by four hinges. The hinges have mass m, and\n    allow the rods to freely rotate. A spring of spring constant k is connected across each of the diagonals, so\n    that the springs are at their relaxed length when the rods form a square.\n\n\n                            m\n\n\n\n\n                                                 k\n                    m              m\n                                                  k\n\n\n\n\n                            m\n\n\n   Assume the springs do not interfere with each other. If the square is slightly compressed along one of its\n    diagonals, its shape will oscillate over time. What is the period of these oscillations?\n\n     r m       r m       rm       r 2m       r 4m\n    (A) 2π            (B) 2π            (C) 2π            (D) 2π             (E) 2π\n            4k                2k                k                 k                k\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q20"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q20/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q20/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q20.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q21",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "21",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Density",
+   "problem_type": "用质量和体积求密度或未知量",
+   "search_text": "21. A syringe is filled with water of density ρ and negligible viscosity. Its body is a cylinder of cross-sectional\n    area A1, which gradually tapers into a needle with cross-sectional area A2 ≪A1. The syringe is held in\n    place and its end is slowly pushed inward by a force F, so that it moves with constant speed v. Water\n    shoots straight out of the needle’s tip. What is the approximate value of F?\n\n                         ρv2A21            ρv2A21             ρv2A31            ρv2A31    (A) ρv2A1         (B)               (C)               (D)                (E)\n                         2A2              A2              2A22             A22\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q21/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q21/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q21.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q22",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "22",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "22. A spherical shell is made from a thin sheet of material with a mass per area of σ. Consider two points,\n   P1 and P2, which are close to each other, but just inside and outside the sphere, respectively.  If the\n    accelerations due to gravity at these points are g1 and g2, respectively, what is the value of |g1 −g2|?\n\n\n    (A) πGσ           (B) 4πGσ/3        (C) 2πGσ         (D) 4πGσ          (E) 8πGσ\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q22"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q22/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q22/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q22.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q23",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "23",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "23. Collisions between ping pong balls and paddles are not perfectly elastic. Suppose that if a player holds\n    a paddle still and drops a ball on top of it from any height h, it will bounce back up to height h/2. To\n    keep the ball bouncing steadily, the player moves the paddle up and down, so that it is moving upward\n    with speed 1.0 m/s whenever the ball hits it. What is the height to which the ball is bouncing?\n\n\n    (A) 0.21 m\n\n    (B) 0.45 m\n\n    (C) 1.0 m\n\n    (D) 1.7 m\n\n    (E) There is not enough information to determine the height.\n\n2024 F = ma Exam\n10\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q23"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q23/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q23/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q23.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q24",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "24",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Density",
+   "problem_type": "用质量和体积求密度或未知量",
+   "search_text": "24. When a projectile falls through a fluid, it experiences a drag force proportional to the product of its\n    cross-sectional area, the fluid density ρf, and the square of its speed. Suppose a sphere of density ρs ≫ρf\n    of radius R is dropped in the fluid from rest. When the projectile has reached half of its terminal velocity,\n    which of the following is its displacement proportional to?\n\n\n    (A) R p ρs/ρf      (B) R ρs/ρf        (C) R (ρs/ρf)3/2    (D) R (ρs/ρf)2      (E) R (ρs/ρf)3\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q24"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q24/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q24/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q24.md"
+  },
+  {
+   "paper_id": "fma-2024-f-ma-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "F=ma",
+   "variant": "",
+   "id": "fma-2024-f-ma-question-paper__q25",
+   "exam_id": "FMA",
+   "course_id": "FMA",
+   "subject": "physics",
+   "question_number": "25",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Turning effect of forces",
+   "problem_type": "用力矩关系处理平衡",
+   "search_text": "25. A yo-yo consists of two massive uniform disks of radius R connected by a thin axle. A thick string is\n   wrapped many times around the axle, so that the end of the string is initially a distance R from the axle.\n   Then, the end of the string is held in place and the yo-yo is dropped from rest. Assume that energy losses\n    are negligible, and that the string has negligible mass and always remains vertical. Below, we show a\n    cross-section of the yo-yo partway through its descent.\n\n\n\n\n\n   Between the moment the yo-yo is released and the moment the string completely unwinds, which of the\n    following is true regarding the yo-yo’s acceleration?\n\n\n    (A) It is always zero.\n\n    (B) It points downward, but decreases in magnitude over time.\n\n    (C) It points downward and has constant magnitude.\n\n    (D) It points downward, but increases in magnitude over time.\n\n    (E) None of the above.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2024 F=ma  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/F-ma-2024-Solutions_v2.pdf"
+    }
+   ],
+   "topic_tags": [
+    "fma-2024-f-ma-question-paper__q25"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q25/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/fma-2024-f-ma-question-paper__q25/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/FMA/fma-2024-f-ma-question-paper__q25.md"
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "group": "ap-biology-2025-frq",
+ "course_id": "AP-BIOLOGY",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-biology-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2025-frq__q01",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "1",
+   "chapter": "Biological molecules",
+   "knowledge_point": "Biological molecules and food tests",
+   "problem_type": "辨认分子或解释食物检验",
+   "search_text": "1. Most proteins that are secreted from a cell must be transported to the endoplasmic reticulum\n  (ER) either during translation or after translation.\n  A. Describe the function of ribosomes.\n\n  For proteins transported during translation, this process begins in the cytosol and pauses\n  when a specific sequence of amino acids is translated. The translation complex is then\n  transported to the surface of the ER where translation continues. Proteins that are transported\n  after translation are translated entirely in the cytosol and then transported to the ER. In both\n  instances, the translated proteins enter the ER through a protein channel in the membrane of\n  the ER.\n  Researchers studying the two types of protein transport identified that the ER membrane\n  protein SR is necessary for transport during translation, while the ER membrane protein Sec62\n   is necessary for transport after translation. To investigate which transport mechanism is used\n  for different proteins, researchers first created small interfering RNAs (siRNAs) that reduce\n  expression of either SR or Sec62. They then treated groups of cells with either the SR siRNA or\n  the Sec62 siRNA and determined the relative amount of SR and Sec62 protein in each group of\n   cells compared with cells treated with a control siRNA (Figure 1).\n  Figure 1. Average relative amounts of Sec62 and SR proteins in cells treated with control\n              siRNA, Sec62 siRNA, or SR siRNA. Error bars represent ±SEx .\n\n\n\n\n\n  B.\n            i. Identify the dependent variable in the experiments shown in Figure 1.\n          ii. Justify why the researchers included the control of measuring the relative amounts of\n        both Sec62 and SR proteins in cells that were treated with Sec62 siRNA only (data shown\n         in Figure 1).\n         iii. Based on Figure 1, describe the effect on the production of SR protein when cells are\n         treated with Sec62 siRNA.\n\nThe researchers then measured the amount of each of three different proteins that was\n  transported to the ER in cells treated with Sec62 siRNA or SR siRNA. The researchers calculated\n  the percent transported relative to the cells treated with control siRNA (Figure 2).\nFigure 2. Average relative amounts of three proteins that were transported to the ER when\n    treated with control siRNA, Sec62 siRNA, or SR siRNA. Error bars represent ±SEx .\n\n\n\n\n\n  C.\n           i. Identify the independent variable in the researchers’ second experiment (data shown in\n        Figure 2).\n         ii. Based on Figure 2, identify the protein(s) that when treated with Sec62 siRNA showed an\n        increase in percent transport to the ER compared with the control.\n        iii. Protein 1 is encoded by 234 nucleotides, while protein 2 is encoded by 495 nucleotides.\n       Assuming all nucleotides for both proteins encode amino acids, calculate the difference\n        in the number of amino acids between the two proteins.\n  D.\n           i. Researchers claim that protein 1 is the only tested protein that is transported to the ER\n        following its complete translation in the cytosol. Using data from Figure 2, support the\n        researchers’ claim.\n         ii. For any protein that enters the ER, researchers claim that amino acids close to the\n         protein’s amino terminus determine how likely the protein is to pass through the\n        protein channel within the ER membrane. Justify the researchers’ claim based on your\n        understanding of factors that affect the transport of proteins across membranes.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Biology - 2025 Scoring Guidelines ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2025-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2025-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-biology-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2025-frq__q02",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "2",
+   "chapter": "Biological molecules",
+   "knowledge_point": "Biological molecules and food tests",
+   "problem_type": "辨认分子或解释食物检验",
+   "search_text": "2. Many insects rely on pheromones (chemical signals) that are released by the females to find\n  mating partners. Scientists hypothesize that, in a certain type of moth, the behavior of male\n  moths in response to pheromones is regulated by the extracellular signaling molecule 20E.\n  A. Many receptors are embedded in the plasma membrane. Describe the polarity of the portion\n     of the receptor that is inside the membrane.\n\n  To investigate whether the binding of 20E to its receptor, DopEcR, affects behavior in moths,\n   scientists injected male moths with saline (control solution) or with small interfering RNA\n  molecules (siRNAs) that inhibit the expression of the gene encoding DopEcR. The scientists then\n  exposed the moths to the pheromone and determined the percent of total time observed that\n  the moths engaged in general activity, defined as movement in any direction. The scientists also\n  determined the percent of the general activity time that the moths spent in oriented activity,\n  defined as movement toward an area of high pheromone concentration (Table 1).\n\n   Table 1. Average General and Oriented Activity in Male Moths Injected With Saline or siRNA\n                                       Molecules\n\n                                   General Activity (percent       Oriented Activity\n                                         of total time observed,        (percent of general\n            Treatment                 average ±2SEx )           activity, average ±2SEx )\n\n  Male moths injected with saline                                           95 ± 5                     60 ± 4\n   (control solution)\n\n  Male moths injected with siRNAs\n   that inhibit expression of the                90 ± 8                     25 ± 6\n  gene encoding DopEcR\n\n  DopEcR is a G protein-coupled receptor. When 20E binds to DopEcR, GTP displaces the GDP\n  bound to the G protein, and a signaling pathway is activated. The scientists hypothesize that this\n  leads to the transcription of genes associated with the oriented activity observed in the male\n  moths (Figure 1).\n\nFigure 1. A simplified model of a signaling pathway activated by the binding of 20E to its\n                                   receptor, DopEcR\n\n\n\n\n\nB.\n         i. Using the template in the space provided for your response, construct an appropriate\n       type of graph that represents the data in Table 1. Your graph should be appropriately\n       plotted and labeled.\n       ii. Based on the data in Table 1, determine the type of activity that was affected by\n       inhibiting the expression of the DopEcR receptor.\nC.\n         i. Based on Table 1, identify the treatment group in which the oriented activity was greater\n      than 50% of the general activity.\n       ii. The scientists studied some moths with a mutation in the gene encoding the G protein.\n      The mutation prevents GTP from displacing the GDP bound to the G protein. Based\n      on Figure 1, predict the effect of this mutation on the oriented activity in male moths\n      exposed to the pheromone.\n\nExpression of the gene encoding DopEcR is low in the male moths during their first few days\nas adults, when they are sexually immature. Gene expression rapidly increases as the moths\nreach sexual maturity. The scientists claim that this increase in gene expression increases the\nlikelihood of males finding females with whom to mate.\nD.\n         i. Use evidence from the information provided to support the scientists’ claim.\n       ii. Based on Figure 1, explain how an inhibitor of the DopEcR pathway might serve as an\n       effective chemical to protect crops from moth damage.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Biology - 2025 Scoring Guidelines ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2025-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2025-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-biology-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2025-frq__q03",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "3",
+   "chapter": "Organisms and their environment",
+   "knowledge_point": "Ecology and energy flow",
+   "problem_type": "用食物关系、能量流或种群数据推理",
+   "search_text": "3. Buffelgrass, an invasive grass species in southwestern desert ecosystems, is threatening the\n  saguaro cactus, a keystone species in these ecosystems. Buffelgrass is drought-tolerant and can\n  survive wildfires. However, the dry buffelgrass also acts as fuel for wildfires, causing the fires\n  to be more severe. Older saguaro cacti can survive wildfires; however, many of the young cacti\n  cannot.\n   Scientists conducted an experiment to determine whether they could control the abundance\n  of the buffelgrass population. The scientists identified several native grass species that, when\n  grown with buffelgrass, might reduce the abundance of buffelgrass. They grew buffelgrass\n  in the presence of several different native grass species in greenhouses, in either nondrought\n  (watered every 3 days) or drought (watered every 9 days) conditions. After twelve weeks, they\n  measured the height and dry weight of the buffelgrass in each treatment group.\n  A. Describe the effect that removing a keystone species will have on an ecosystem.\n  B. Identify a control group the scientists should include in their experiment.\n  C. State the null hypothesis of the experiment in which buffelgrass is grown in the presence of\n     native grass species.\n  D. Scientists have found that the population growth rates of native grasses are much slower\n     than the population growth rate of buffelgrass following a wildfire. The scientists claim that\n     wildfires will therefore increase the abundance of buffelgrass plants in the ecosystem. Based\n    on the information given, justify the scientists’ claim.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Biology - 2025 Scoring Guidelines ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2025-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2025-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-biology-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2025-frq__q04",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "4",
+   "chapter": "Characteristics and classification of living organisms",
+   "knowledge_point": "Classification",
+   "problem_type": "用特征辨认生物或分类",
+   "search_text": "4. Twenty million years ago the Caribbean Sea and Pacific Ocean were connected, and water\n  flowed freely between the two bodies of water. Many of the same marine species were found\n  in both areas. Over millions of years, the land referred to as the Isthmus of Panama formed,\n  eventually closing off the connection between the Caribbean Sea and Pacific Ocean and creating\n  two separate bodies of water. The ecology of these two marine habitats was dramatically altered\n  by this land formation. The warmer Caribbean water could no longer flow west, so the Pacific\n  water cooled and became more nutrient-rich, while the Caribbean water became warmer.\n  A. Describe the genetic evidence that evolution is occurring in a population.\n  B. Explain how the isolation of marine species by the formation of a land barrier can lead to\n     divergent evolution of those species.\n\n  The formation of the Isthmus of Panama connected two continents, North America and South\n  America. Many North American land animal species migrated to South America after the\n  formation of the isthmus and occupied similar niches as South American species.\n  C. Predict the effect the formation of the isthmus had on resource availability for South\n    American species.\n  D. Justify your prediction in part C.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Biology - 2025 Scoring Guidelines ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2025-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2025-frq__q04.md"
+  },
+  {
+   "paper_id": "ap-biology-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2025-frq__q05",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "5",
+   "chapter": "Enzymes",
+   "knowledge_point": "Enzyme action",
+   "problem_type": "从温度、酸碱度和底物解释酶作用",
+   "search_text": "5. Figure 1 shows the reactions of the metabolic pathway used to synthesize amino acid B from\n  amino acid A in cells.\n                  Figure 1. Synthesis of amino acid B from amino acid A\n\n\n\n\n\n  A. Describe a characteristic of an enzyme’s active site that allows it to catalyze a specific\n     chemical reaction.\n  B. Based on Figure 1, explain how the binding of amino acid A to enzyme 1 is regulated by\n    amino acid B.\n  C. Using the information in Figure 1, identify the product of the reaction catalyzed by enzyme\n      2: intermediate X, intermediate Y, or amino acid B.\n  D. Based on Figure 1, explain how a change in pH could affect enzyme 3 in such a way that\n    amino acid B cannot be produced.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Biology - 2025 Scoring Guidelines ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2025-frq__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2025-frq__q05.md"
+  },
+  {
+   "paper_id": "ap-biology-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-biology-2025-frq__q06",
+   "exam_id": "AP-BIOLOGY",
+   "course_id": "AP-BIOLOGY",
+   "subject": "biology",
+   "question_number": "6",
+   "chapter": "Biological molecules",
+   "knowledge_point": "Biological molecules and food tests",
+   "problem_type": "辨认分子或解释食物检验",
+   "search_text": "6. The ald gene of fruit flies encodes the ALD protein, which is associated with both the\n  centromeres of chromosomes and protein filaments produced during meiosis. In the absence\n  of functional ALD proteins, gamete-producing cells enter anaphase I before homologous\n  chromosomes are correctly aligned. As a result, the gametes produced do not contain the\n  correct numbers of chromosomes.\n   Scientists generated four mutations in the ald gene: ald1, ald3, ald23, and del, which was\n  a deletion of the gene. To study the role of the ALD protein in meiosis, scientists used\n  gameteforming metaphase cells from groups of flies with different ald genotypes. Some of the\n   flies were homozygous for the wild-type allele of ald: WT/WT. Other flies were heterozygous for\n  different ald alleles: WT/del; ald1/del; ald3/ald23; ald23/del. The scientists measured the percent\n  of metaphase cells that contained ALD-associated filaments (Figure 1A) and the amount of ALD\n  protein produced by each of the cell types (Figure 1B).\n    Figure 1. (A) The average percent of gamete-forming metaphase cells that contained\n    filaments associated with ALD and (B) the amount of ALD protein produced by each\n             cell type. A thicker band indicates a greater amount of ALD protein.\n\n\n\n\n\n  A. Based on Figure 1A, identify the fly genotype in which the average percent of metaphase\n      cells with ALD-associated filaments is close to 12%.\n  B. Based on Figure 1B, describe the difference in ALD protein production between gamete-\n     forming metaphase cells of flies with the genotype ald3/ald23 and flies with the genotype\n      ald23/del.\n  C. Scientists hypothesize that gamete-forming metaphase cells can produce a normal amount\n     of ALD-associated filaments even when they produce about half as much ALD protein as\n     the wild-type cells produce. Use the data in Figures 1A and 1B to support the scientists’\n     hypothesis.\n\nD. For gamete-forming metaphase cells of the WT/del and ald1/del flies, explain why the\n  phenotypes observed in Figure 1A differ even though the amount of ALD protein produced\n   (Figure 1B) does not.\n\n\n\n                            STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Biology - 2025 Scoring Guidelines ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-biology.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-biology-2025-frq__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-biology-part-001.zip",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-biology-part-001.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-biology-2025-frq__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-biology-part-001.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-BIOLOGY/ap-biology-2025-frq__q06.md"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "group": "mat-2010-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2010-mat-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2010-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "数值方法",
+   "knowledge_point": "梯形法",
+   "problem_type": "用分段梯形近似积分",
+   "search_text": "",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2010",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions10-2025.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2010-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2010-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2010-mat-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2010-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. For ALL APPLICANTS.\n\n     Suppose that a, b, c are integers such that\n                              a√2 + b = c√3.\n\n(i) By squaring both sides of the equation, show that a = b = c = 0.\n[You may assume that √2, √3 and   2/3 are all irrational numbers. An irrational\nnumber is one which cannot be written in the form p/q where p and q are integers.]\n\n(ii) Suppose now that m, n, M, N are integers such that the distance from the point\n(m, n) to √2, √3  equals the distance from (M, N) to √2, √3  .\n\nShow that m = M and n = N.\n\n     Given real numbers a, b and a positive number r, let N (a, b, r) be the number of\ninteger pairs x, y such that the distance between the points (x, y) and (a, b) is less than\nor equal to r. For example, we see that N (1.2, 0, 1.5) = 7 in the diagram below.\n\n\n                                          y\n\n                                                   2\n\n\n\n\n\n                                                   1\n\n\n\n\n\n                                                                                  x\n                               -1                             1              2              3\n\n\n\n\n\n                                          -1\n\n\n\n\n\n                                          -2\n\n(iii) Explain why N (0.5, 0.5, r) is a multiple of 4 for any value of r.\n\n(iv) Let k be any positive integer. Explain why there is a positive number r such that\n                  N √2, √3, r = k.\n\n\n\n\n\n                                     8\n\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2010",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions10-2025.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2010-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2010-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2010-mat-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2010-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "3.                                     \n             MATHEMATICS                                                                                            \n               MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n             MATHEMATICS & PHILOSOPHY                                                                                  \n               MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science applicants should turn to page 14.\n\n[In this question, you may assume that the derivative of sin x is cos x.]\n\n                                                      B\n\n                                                 C\n\n\n\n\n\n                                       x\n                      O                           A\n\n(i) In the diagram above OA and OC are of length 1 and subtend an angle x at O. The\nangle BAO is a right angle and the circular arc from A to C, centred at O, is also drawn.\n\nBy consideration of various areas in the above diagram, show, for 0 < x < π/2, that\n\n                          x cos x < sin x < x.\n\n(ii) Sketch, on the axes provided on the opposite page, the graph of\n                                     sin x\n                           y =         ,    0 < x < 4π.\n                            x\nJustify your value that y takes as x becomes small.\n\n[You do not need to determine the coordinates of the turning points.]\n\n(iii) Drawn below is a graph of y = sin x. Sketch on the same axes the line y = cx where\nc > 0 is such that the equation sin x = cx has exactly 5 solutions.\n\n                                             y\n                                                                                1.0\n\n\n\n\n                                                                                0.5\n\n\n                                                                  x                                  -3Π      -2Π      -Π                  Π        2Π        3Π\n\n\n                                                                     -0.5\n\n\n\n                                                                     -1.0\n\n(iv) Draw the line y = c on the axes on the opposite page.\n\n(v) If X  is the largest of the ﬁve solutions of the equation sin x = cx, explain why\ntan X = X.\n\n                                     10\n\n21\n11\n3m\nAn\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2010",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions10-2025.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2010-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2010-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2010-mat-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2010-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "4.                                 \n              MATHEMATICS           \nFor APPLICANTS IN  MATHEMATICS & STATISTICS                                     ONLY.\n                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science and Computer Science applicants should turn to\npage 14.\n\n\n\n\n                                     y                                                                                              y\n                               3             H1,2hL                                                              3\n\n\n\n                               2                                                                                    2\n\n                                                                                                           H1,2hL\n\n                               1                                                                                    1\n\n\n                          Θ                                                             Θ\n                                                                                  x                                                                                              x\n       -2         -1                       1           2           3                  -2         -1                       1            2            3\n\n\n\n                          -1                                                                        -1\n\n\n\n\n                          -2\n       Diagram              when h > 2/√5                Diagram-2 when h < √3/2\n\nThe three corners of a triangle T are (0, 0), (3, 0), (1, 2h) where h > 0. The circle C has\nequation x2 + y2 = 4. The angle of the triangle at the origin is denoted as θ. The circle\nand triangle are drawn in the diagrams above for diﬀerent values of h.\n\n(i) Express tan θ in terms of h.\n(ii) Show that the point (1, 2h) lies inside C when h < √3/2.\n\n(iii) Find the equation of the line connecting (3, 0) and (1, 2h) . Show that this line is\ntangential to the circle C when h = 2/√5.\n(iv) Suppose now that h > 2/√5. Find the area of the region inside both C and T in\nterms of θ.\n\n(v) Now let h = 6/7. Show that the point (8/5, 6/5) lies on both the line (from part\n(iii)) and the circle C.\n\nHence show that the area of the region inside both C and T equals\n\n                                   27\n                        + 2α\n                                   35\n\nwhere α is an angle whose tangent, tan α, you should determine.\n\n[You may use the fact that the area of a triangle with corners (0, 0), (a, b), (c, d) equals\n1\n2  |ad −bc| .]\n\n                                     12\n\n13\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2010",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions10-2025.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2010-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2010-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2010-mat-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2010-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. For ALL APPLICANTS.\n\nThis question concerns calendar dates of the form\n\n                             d1d2/m1m2/y1y2y3y4\n\nin the order day/month/year.\n\nThe question speciﬁcally concerns those dates which contain no repetitions of a digit.\nFor example, the date 23/05/1967 is one such date but 07/12/1974 is not such a date\nas both 1 = m1 = y1 and 7 = d2 = y3 are repeated digits.\n\nWe will use the Gregorian Calendar throughout (this is the calendar system that is\nstandard throughout most of the world; see below.)\n\n(i) Show that there is no date with no repetition of digits in the years from 2000 to 2099.\n\n(ii) What was the last date before today with no repetition of digits?  Explain your\nanswer.\n\n(iii) When will the next such date be? Explain your answer.\n\n(iv) How many such dates were there in years from 1900 to 1999? Explain your answer.\n\n[The Gregorian Calendar uses 12 months, which have, respectively, 31, 28 or 29, 31, 30,\n31, 30, 31, 31, 30, 31, 30 and 31 days. The second month (February) has 28 days in\nyears that are not divisible by 4, or that are divisible by 100 but not 400 (such as 1900);\nit has 29 days in the other years (leap years).]\n\n\n\n\n\n                                     14\n\n15\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2010",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions10-2025.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2010-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2010-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2010-mat-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2010-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "6.\n              COMPUTER SCIENCE\nFor APPLICANTS IN                                     ONLY.\n               MATHEMATICS & COMPUTER SCIENCE\n\nIn the questions below, the people involved make statements about each other. Each\nperson is either a saint (S) who always tells the truth or a liar (L) who always lies.\n\n(i) Six people, P1, P2, . . . , P6 sit in order around a circular table with P1 sitting to P6’s\nright, as shown in the diagram below.\n\n\n                                                 P3                     P2\n\n\n\n\n\n                                        P4                                        P1\n\n\n\n\n\n                                                 P5                     P6\n\n   (a) Suppose all six people say \"the person directly opposite me is telling the truth\".\nOne possibility is that all six are lying. But, in total, how many diﬀerent possibilities\nare there? Explain your reasoning.\n\n   (b) Suppose now that all six people say \"the person to my left is lying\".  In how\nmany diﬀerent ways can this happen? Explain your reasoining.\n\n(ii) Now n people Q1, Q2, . . . , Qn sit in order around a circular table with Q1 sitting to\nQn’s right.\n\n   (a) Suppose that all n people make the statement \"the person on my left is lying and\nthe person on my right is telling the truth\". Explain why everyone is lying.\n\n   (b) Suppose now that every person makes the statement \"either the people to my\nleft and right are both lying or both are telling the truth\".  If at least one person is\nlying, show that n is a multiple of three.\n\n\n\n\n\n                                     16\n\n17\nTurn Over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2010",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions10-2025.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2010-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2010-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2010-mat-question-paper",
+   "year": 2010,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2010-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "7. For APPLICANTS IN COMPUTER SCIENCE ONLY.\n\nIn a game of Cat and Mouse, a cat starts at position 0, a mouse starts at position m\nand the mouse’s hole is at position h. Here m and h are integers with 0 < m < h. By\nway of example, a starting position is shown below where m = 7 and h = 12.\n\n\n           Cat                 Mouse            Hole\n\nWith each turn of the game, one of the mouse or cat (but not both) advances one position\ntowards the hole on the condition that the cat is always strictly behind the mouse and\nnever catches it. The game ends when the mouse reaches the safety of its hole at position\nh.\n\nThis question is about calculating the number, g (h, m), of diﬀerent sequences of moves\nthat make a game of Cat and Mouse.\n\nLet C denote a move of the cat and M denote a move of the mouse. Then, for example,\ng (3, 1) = 2 as MM and MCM are the only possible games. Also CMCCM is not a\nvalid game when h = 4 and m = 2 as the mouse would be caught on the fourth turn.\n\n(i) Write down the ﬁve valid games when h = 4 and m = 2.\n(ii) Explain why g (h, h −1) = h −1 for h ⩾2.\n(iii) Explain why g (h, 2) = g (h, 1) for h ⩾3.\n\n(iv) By considering the possible ﬁrst moves of a game, explain why\n         g (h, m) = g (h, m + 1) + g (h −1, m −1)    when 1 < m < h −1.\n(v) Below is a table with certain values of g (h, m) ﬁlled in. Complete the remainder of\nthe table and verify that g (6, 1) = 42.\n        m\n\n             5                      5\n\n             4                    4\n\n             3                 3\n\n             2              2\n\n             1            1\n\n                2   3   4   5   6   h\n\n\n                                     18\n\n19\nEnd of Last Question\n\n20\n\n21\n\n22\n\n23\n\n24\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2010",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions10-2025.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2010-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2010-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2010-mat-question-paper__q07.md"
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "group": "ap-calculus-ab-2025-frq",
+ "course_id": "AP-CALCULUS-AB",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-calculus-ab-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2025-frq__q01",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "1. An invasive species of plant appears in a fruit grove at time t = 0 and begins to spread. The\n  function C defined by C  t = 7.6 arctan 0.2t models the number of acres in the fruit grove                             _  i             _    i                                       38\n  affected by the species t weeks after the species appears. It can be shown that C   t =        2 .                                                                                                                   l_  i  25 + t\n  (Note: Your calculator should be in radian mode.)\n  A. Find the average number of acres affected by the invasive species from time t = 0 to time\n        t = 4 weeks. Show the setup for your calculations.\n  B. Find the time t when the instantaneous rate of change of C equals the average rate of change\n     of C over the time interval 0 # t # 4 . Show the setup for your calculations.\n  C. Assume that the invasive species continues to spread according to the given model for all\n     times t > 0 . Write a limit expression that describes the end behavior of the rate of change in\n     the number of acres affected by the species. Evaluate this limit expression.\n  D. At time t = 4 weeks after the invasive species appears in the fruit grove, measures are taken\n                                                                                                                                                                              t\n                                                                           0 .1· ln x dx ,     to counter the spread of the species. The function A, defined by A  t = C  t - y                                                                               _  i     _  i    4       _  i\n    models the number of acres affected by the species over the time interval 4 # t # 36 . At what\n     time t, for 4 # t # 36 , does A attain its maximum value? Justify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Calculus AB - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2025-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2025-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2025-frq__q02",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "积分",
+   "knowledge_point": "定积分",
+   "problem_type": "用定积分求累积量或区间积分",
+   "search_text": "2. The shaded region R is bounded by the graphs of the functions f and g, where  f  x = x 2 - 2x                                                                                            _  i  and g x = x + sin r x  as shown in the figure.         _  i          _   i,\n\n\n\n\n\n  (Note: Your calculator should be in radian mode.)\n  A. Find the area of R. Show the setup for your calculations.\n  B. Region R is the base of a solid. For this solid, at each x the cross section perpendicular to the\n     x-axis is a rectangle with height x and base in region R. Find the volume of the solid. Show\n     the setup for your calculations.\n  C. Write, but do not evaluate, an integral expression for the volume of the solid generated when\n     the region R is rotated about the horizontal line y = - 2 .\n  D. It can be shown that g  x = 1 + r cos rx  Find the value of x, for 0 < x < 1, at which the line                                       l_  i            _   i.     tangent to the graph of f is parallel to the line tangent to the graph of g.\n\n\n\n                         END OF PART A\n\nCALCULUS AB\n                           SECTION II PART B\n                              TIME – 1 HOUR\n\n\n\n\nDirections:\nSection II, Part B has 4 free-response questions and lasts 1 hour.\nA calculator is not allowed for this part of the exam.\nYou may use the available paper for scratch work, but you must write your answers in the free-\nresponse booklet. In the free-response booklet, write your solution to each part of each question in\nthe space provided for that part. For questions that have sub-parts, be sure to label those clearly in\nyour solution. Use a pencil or a pen with black or dark blue ink.\nShow all of your work, even though a question may not explicitly remind you to do so. Clearly label\nany functions, graphs, tables, or other objects that you use. Justifications require that you give\nmathematical reasons and that you verify the needed conditions under which relevant theorems,\nproperties, definitions, or tests are applied. Your work will be scored on the correctness and\ncompleteness of your methods as well as your answers. Answers without supporting work will\nusually not receive credit.\nYour work must be expressed in standard mathematical notation rather than calculator syntax. For\n                2 dx may not be written as fnInt X 2, X, 1, 5example, 5y x             1                                     _            i.\nUnless otherwise specified, answers (numeric or algebraic) need not be simplified. If you use\ndecimal approximations in calculations, your work will be scored on accuracy. Unless otherwise\nspecified, your final answers should be accurate to three places after the decimal point.\nUnless otherwise specified, the domain of a function f is assumed to be the set of all real numbers x\nfor which  f  x  is a real number.             _  i\nYou can go back and forth between questions in this part until time expires. The clock will turn red\nwhen 5 minutes remain—the proctor will not give you any time updates or warnings.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Calculus AB - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2025-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2025-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2025-frq__q03",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "3. A student starts reading a book at time t = 0 minutes and continues reading for the next 10\n  minutes. The rate at which the student reads is modeled by the differentiable function R, where\n  R  t  is measured in words per minute. Selected values of R  t  are given in the table shown.     _  i                                                             _  i\n\n                                      t (minutes)         0     2     8    10\n                R  t  (words per minute)   90   100   150   162                           _  i\n  A. Approximate R 1  using the average rate of change of R over the interval 0 # t # 2 . Show                             l_  i     the work that leads to your answer. Indicate units of measure.\n  B. Must there be a value c, for 0 < c < 10 , such that R c = 155 ? Justify your answer.                                                              _  i\n  C. Use a trapezoidal sum with the three subintervals indicated by the data in the table to\n                                       10\n    approximate the value of y  R  t  dt . Show the work that leads to your answer.                                      0    _  i\n  D. A teacher also starts reading at time t = 0 minutes and continues reading for the next 10\n     minutes. The rate at which the teacher reads is modeled by the function W defined by\n             3  2   W  t = - 10 t + 8 t + 100 , where W  t  is measured in words per minute. Based on the model,        _  i                                 _  i\n    how many words has the teacher read by the end of the 10 minutes? Show the work that\n     leads to your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Calculus AB - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2025-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2025-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2025-frq__q04",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4. The continuous function f is defined on the closed interval - 6 # x # 12 . The graph of f,\n  consisting of two semicircles and one line segment, is shown in the figure.\n\n\n\n\n\n                                                       x\n  Let g be the function defined by g _ x i = y6   f _ t i dt .\n\n  A. Find g 8  Give a reason for your answer.                 l_  i.\n  B. Find all values of x in the open interval - 6 < x < 12 at which the graph of g has a point of\n      inflection. Give a reason for your answer.\n  C. Find g 12 and g 0  Label your answers.             _   i       _  i.\n  D. Find the value of x at which g attains an absolute minimum on the closed interval\n    - 6 # x # 12 . Justify your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Calculus AB - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2025-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2025-frq__q04.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2025-frq__q05",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "5. Two particles, H and J, are moving along the x-axis. For 0 # t # 5 , the position of particle H at\n                                                             t                                         2 - t4  time t is given by x H  t = e    and the velocity of particle J at time t is given by                          _  i                 2     3  v J   t = 2t  t - 1   .     _  i     _      i\n  A. Find the velocity of particle H at time t = 1. Show the work that leads to your answer.\n  B. During what open intervals of time t, for 0 < t < 5 , are particles H and J moving in opposite\n     directions? Give a reason for your answer.\n  C. It can be shown that v  2 > 0 . Is the speed of particle J increasing, decreasing, or neither at                                   Jl_  i\n     time t = 2 ? Give a reason for your answer.\n  D. Particle J is at position x = 7 at time t = 0 . Find the position of particle J at time t = 2 . Show\n     the work that leads to your answer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Calculus AB - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2025-frq__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2025-frq__q05.md"
+  },
+  {
+   "paper_id": "ap-calculus-ab-2025-frq",
+   "year": 2025,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-ab-2025-frq__q06",
+   "exam_id": "AP-CALCULUS-AB",
+   "course_id": "AP-CALCULUS-AB",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "3    2     1  26. Consider the curve G defined by the equation y - y - y + 4 x = 0 .\n               dy      - x  A. Show that   =                              .               dx   2 3                        y 2 - 2 y - 1                         `             j  B. There is a point P on the curve G near  ,2 - 1 with x-coordinate 1.6. Use the line tangent to                                                 _      i\n     the curve at  ,2 - 1  to approximate the y-coordinate of point P.                    _      i\n  C. For x > 0 and y > 0 , there is a point S on the curve G at which the line tangent to the curve\n     at that point is vertical. Find the y-coordinate of point S. Show the work that leads to your\n     answer.\n  D. A particle moves along the curve H defined by the equation 2xy + ln y = 8 . At the instant\n                                                     dy                                         dx    when the particle is at the point  ,4 1                                = 3 . Find                                                               at that instant. Show the work that                                          _    i, dt            dt\n     leads to your answer.\n\n\n\n                              STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "AP® Calculus AB - 2025 Scoring Guidelines",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap25-sg-calculus-ab.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-ab-2025-frq__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-ab-2025-frq__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-AB/ap-calculus-ab-2025-frq__q06.md"
+  }
+ ]
+}

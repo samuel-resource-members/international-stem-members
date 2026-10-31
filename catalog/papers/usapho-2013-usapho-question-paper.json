@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2013-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2013-usapho-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2013-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Thermal properties",
+   "problem_type": "从加热条件求热量或比热容",
+   "search_text": "Question A1\n\nThe ﬂow of heat through a material can be described via the thermal conductivity κ. If the two faces\nof a slab of material with thermal conductivity κ, area A, and thickness d are held at temperatures\ndiﬀering by ∆T, the thermal power P transferred through the slab is\n\n                               κA∆T\n                             P =\n                                           d\n\n  A heat exchanger is a device which transfers heat between a hot ﬂuid and a cold ﬂuid; they are\ncommon in industrial applications such as power plants and heating systems. The heat exchanger\nshown below consists of two rectangular tubes of length l, width w, and height h. The tubes are\nseparated by a metal wall of thickness d and thermal conductivity κ.  Originally hot ﬂuid ﬂows\nthrough the lower tube at a speed v from right to left, and originally cold ﬂuid ﬂows through the\nupper tube in the opposite direction (left to right) at the same speed. The heat capacity per unit\nvolume of both ﬂuids is c.\n   The hot ﬂuid enters the heat exchanger at a higher temperature than the cold ﬂuid; the diﬀerence\nbetween the temperatures of the entering ﬂuids is ∆Ti. When the ﬂuids exit the heat exchanger\nthe diﬀerence has been reduced to ∆Tf. (It is possible for the exiting originally cold ﬂuid to have\na higher temperature than the exiting originally hot ﬂuid, in which case ∆Tf < 0.)\n\n\n\n                                                             h\n\n                                                                   d\n\n                                                             h\n\n\n               v\n\n\n                                                                                        l\n               v\n\n                   w\n\n\n   Assume that the temperature in each pipe depends only on the lengthwise position, and consider\ntransfer of heat only due to conduction in the metal and due to the bulk movement of ﬂuid. Under\nthe assumptions in this problem, while the temperature of each ﬂuid varies along the length of the\nexchanger, the temperature diﬀerence across the wall is the same everywhere. You need not prove\nthis.\n   Find ∆Tf in terms of the other given parameters.\n\n2013 Semifinal Exam Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2013 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2013-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2013-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2013-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2013-usapho-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2013-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question A2\n\nA solid round object of radius R can roll down an incline that makes an angle θ with the horizontal.\nAssume that the rotational inertia about an axis through the center of mass is given by I = βmR2.\nThe coeﬃcient of kinetic and static friction between the object and the incline is µ. The object\nmoves from rest through a vertical distance h.\n\n   a. If the angle of the incline is suﬃciently large, then the object will slip and roll; if the angle\n      of the incline is suﬃciently small, then the object with roll without slipping. Determine the\n     angle θc that separates the two types of motion.\n\n   b. Derive expressions for the linear acceleration of the object down the ramp in the case of\n\n             i. Rolling without slipping, and\n\n            ii. Rolling and slipping.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2013 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2013-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2013-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2013-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2013-usapho-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2013-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question A3\n\nA beam of muons is maintained in a circular orbit by a uniform magnetic ﬁeld. Neglect energy loss\ndue to electromagnetic radiation.\n   The mass of the muon is 1.88 × 10−28 kg, its charge is −1.602 × 10−19 C, and its half-life is\n1.523 µs.\n\n   a. The speed of the muons is much less than the speed of light.  It is found that half of the\n    muons decay during each full orbit. What is the magnitude of the magnetic ﬁeld?\n\n   b. The experiment is repeated with the same magnetic ﬁeld, but the speed of the muons is\n      increased; it is no longer much less than the speed of light. Does the fraction of muons which\n     decay during each full orbit increase, decrease, or stay the same?\n\n    The following facts about special relativity may be useful:\n\n       • The Lorentz factor for a particle moving at speed v is\n\n                                                 1\n                                       γ =\n                      p1 −v2/c2\n\n       • The Lorentz factor gives the magnitude of time dilation; that is, a clock moving at speed\n          v in a given reference frame runs slow by a factor γ in that frame.\n\n       • The momentum of a particle is given by\n\n                                                                                      ⃗p = γm⃗v\n\n         where m does not depend on v.\n\n       • The Lorentz force law in the form\n\n                                                         d⃗p\n                           = q(⃗E + ⃗v × ⃗B)\n                                             dt\n\n          continues to hold.\n\n2013 Semifinal Exam Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2013 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2013-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2013-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2013-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2013-usapho-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2013-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A4",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Density",
+   "problem_type": "用质量和体积求密度或未知量",
+   "search_text": "Question A4\n\nA graduated cylinder is partially ﬁlled with water; a rubber duck ﬂoats at the surface. Oil is poured\ninto the graduated cylinder at a slow, constant rate, and the volume marks corresponding to the\nsurface of the water and the surface of the oil are recorded as a function of time.\n\n                500\n                                        Volume mark at water surface\n                450                       Volume mark at oil surface\n\n\n                400\n\n\n                350\n\n                         (mL)  300\n                                      Volume  250200\n\n\n                150\n\n\n                100\n\n\n                 50\n\n\n                  0\n                    0    1    2    3    4    5    6    7    8    9    10\n                                    Time (min)\n\n\n   Water has a density of 1.00 g/mL; the density of air is negligible, as are surface eﬀects. Find\nthe density of the oil.\n\n2013 Semiﬁnal Exam                      Part A                                       6\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\n If there is still time remaining for Part A, you should review your work for\n   Part A, but do not continue to Part B until instructed by your exam\n                                 supervisor.\n\n2013 Semiﬁnal Exam                      Part B                                       7\n\n\n\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2013 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2013-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2013-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2013-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2013-usapho-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2013-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Energy, work and power",
+   "problem_type": "连接功、能量、效率和功率",
+   "search_text": "Question B1\n\nShown below is the Blackbird, a vehicle built in 2009.\n   There is no source of stored energy such as a battery or gasoline engine; all of the power used\nto move the car comes from the wind. The only important mechanism in the car is a gearbox that\ncan transfer power between the wheels and the propeller.\n   The Blackbird was driven both directly downwind and directly upwind, as shown below.  In\neach case the car remained exactly parallel (or anti-parallel) to the wind without turning. The\ntests were conducted on level ground, in steady, uniform wind, and continued long enough to reach\nthe steady state.\n\n\n\n                                                                                           ⃗vw          ⃗vw\n\n\n\n\n\n                                                                                               ⃗v                                                                  ⃗v\n\n\n\n\n  Source: fasterthanthewind.org         Downwind                 Upwind\n\n  When driving downwind, the builders claim that they were able to drive “faster than the wind”:\nthat is, with |⃗v| > |⃗vw|, so that the car experienced a relative headwind while traveling. Commenters\non the Internet claimed, often angrily, that this was physically impossible and that the Blackbird\nwas a hoax. Some commenters also claimed that the upwind case was physically impossible.\n\n   a. Consider ﬁrst the downwind faster than the wind case.\n\n       • Is the motion actually possible as claimed? If not, oﬀer a brief explanation!\n\n       • If the motion is possible, is power transferred from the propeller to the wheels or vice\n          versa?\n\n       • If the motion is possible, what ground speed is attained? For this question, suppose\n          that when transferring power in either direction between the propeller and the wheels,\n         a fraction α of the useful work is lost; let the wind speed be vw. Neglect all other losses\n            of energy.\n\n   b. Answer the previous questions for the upwind case.\n\n2013 Semifinal Exam Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2013 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2013-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2013-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2013-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2013-usapho-question-paper",
+   "year": 2013,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2013-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "Question B2\n\nThis problem concerns three situations involving the transfer of energy into a region of space by\nelectromagnetic ﬁelds. In the ﬁrst case, that energy is stored in the kinetic energy of a charged\nobject; in the second and third cases, the energy is stored in an electric or magnetic ﬁeld.\n   In general, whenever an electric and a magnetic ﬁeld are at an angle to each other, energy\nis transferred; for example, this principle is the reason electromagnetic radiation transfers energy.\nThe power transferred per unit area is given by the Poynting vector:\n\n                                          1\n                                                            ⃗S =    ⃗E × ⃗B\n                                         µ0\n\n   In each part of this problem, the last subpart asks you to verify that the rate of energy transfer\nagrees with the formula for the Poynting vector. Therefore, you should not use the formula for the\nPoynting vector before the last subpart!\n\n   a. A long, insulating cylindrical rod has radius R and carries a uniform volume charge density\n      ρ. A uniform external electric ﬁeld E exists in the direction of its axis. The rod moves in the\n      direction of its axis at speed v.\n\n             i. What is the power per unit length P delivered to the rod?\n\n            ii. What is the magnetic ﬁeld B at the surface of the rod? Draw the direction on a diagram.\n\n           iii. Compute the Poynting vector, draw its direction on a diagram, and verify that it agrees\n          with the rate of energy transfer.\n\n   b. A parallel plate capacitor consists of two discs of radius R separated by a distance d ≪R.\n    The capacitor carries charge Q, and is being charged by a small, constant current I.\n\n             i. What is the power P delivered to the capacitor?\n\n            ii. What is the magnetic ﬁeld B just inside the edge of the capacitor? Draw the direction\n         on a diagram. (Ignore fringing eﬀects in the electric ﬁeld for this calculation.)\n\n           iii. Compute the Poynting vector, draw its direction on a diagram, and verify that it agrees\n          with the rate of energy transfer.\n\n    c. A long solenoid of radius R has N turns of wire per unit length. The solenoid carries current\n      I, and this current is increased at a small, constant rate dI .                                                                                 dt\n\n             i. What is the power per unit length P delivered to the solenoid?\n\n            ii. What is the electric ﬁeld E just inside the surface of the solenoid? Draw its direction\n         on a diagram.\n\n           iii. Compute the Poynting vector, draw its direction on a diagram, and verify that it agrees\n          with the rate of energy transfer.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2013 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/2019/upload/USAPhO-2013-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2013-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2013-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2013-usapho-question-paper__q06.md"
+  }
+ ]
+}

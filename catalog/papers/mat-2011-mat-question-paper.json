@@ -1,0 +1,337 @@
+{
+ "group": "mat-2011-mat-question-paper",
+ "course_id": "MAT",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 7,
+ "questions": [
+  {
+   "paper_id": "mat-2011-mat-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2011-mat-question-paper__q01",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "不等式",
+   "problem_type": "求满足不等式的范围",
+   "search_text": "1. For ALL APPLICANTS.\n\n\n   For each part of the question on pages 3—7 you will be given four possible answers,\n   just one of which is correct. Indicate for each part A—J which answer (a), (b), (c),\n   or (d) you think is correct with a tick (X) in the corresponding column in the table\n   below. Please show any rough working in the space provided between the parts.\n\n\n\n\n                           (a)           (b)            (c)           (d)\n\n\n\n       A\n\n\n\n       B\n\n\n\n       C\n\n\n\n      D\n\n\n\n        E\n\n\n\n        F\n\n\n\n      G\n\n\n\n      H\n\n\n\n             I\n\n\n\n          J\n\nA. A sketch of the graph y = x3 −x2 −x + 1 appears on which of the following axes?\n\n\n                             y                                             y\n                                            2                                                                      2\n\n\n\n\n                                            1                                                                      1\n\n\n                                                  x                                             x\n           -2            -1                             1               2      -2            -1                             1               2\n\n\n\n                                     -1                                                            -1\n\n\n\n\n                                     -2                                                            -2\n       (a)                                  (b)\n                             y                                             y\n                                            2                                                                      2\n\n\n\n\n                                            1                                                                      1\n\n\n                                                  x                                             x\n           -2            -1                             1               2      -2            -1                             1               2\n\n\n\n                                     -1                                                            -1\n\n\n\n\n                                     -2                                                            -2\n       (c)                                  (d)\n\n\n\nB. A rectangle has perimeter P and area A. The values P and A must satisfy\n\n   (a)  P 3 > A,     (b)  A2 > 2P + 1,     (c)  P 2 ⩾16A,     (d) PA ⩾A + P.\n\nC. The sequence xn is given by the formula\n\n                            xn = n3 −9n2 + 631.\n\nThe largest value of n for which xn > xn+1 is\n\n                     (a)   5,     (b)   7,     (c)  11,     (d)  17.\n\n\n\n\n\nD. The fraction of the interval 0 ⩽x ⩽2π, for which one (or both) of the inequalities\n\n                                 sin x ⩾1      sin 2x ⩾1                                      2,            2\n\nis true, equals\n                      1          13          7          5\n                    (a)  3,     (b)  24,     (c)  12,     (d)  8.\n\nE. The circle in the diagram has centre C. Three angles α, β, γ are also indicated.\n\n\n\n\n\n                                              Γ\n\n\n\n                                        C\n\n\n\n\n                             Β\n                          Α\n\n\nThe angles α, β, γ are related by the equation:\n   (a) cos α = sin (β + γ) ;\n   (b) sin β = sin α sin γ;\n    (c) sin β (1 −cos α) = sin γ;\n   (d) sin (α + β) = cos γ sin α.\n\n\n\n\n\nF. Given θ in the range 0 ⩽θ < π, the equation\n\n                        x2 + y2 + 4x cos θ + 8y sin θ + 10 = 0\n\nrepresents a circle for\n\n            π         π      3π               π\n (a)  0 < θ < 3,     (b)  4 < θ < 4 ,     (c)  0 < θ < 2,     (d)   all values of θ.\n\nG. A graph of the function y = f (x) is sketched on the axes below:\n\n                              y\n                                              1\n\n\n\n\n                                                    x\n              -2            -1              0               1               2\n\n\n                  1\nThe value of    f (x2 −1) dx equals              −1\n\n                       1          1          3          2\n                      (a)  4,     (b)  3,     (c)  5,     (d)  3.\n\n\n\n\n\nH. The number of positive values x which satisfy the equation\n\n                   x = 8log2 x −9log3 x −4log2 x + log0.5 0.25\n\nis\n                       (a)   0,     (b)   1,     (c)   2,     (d)   3.\n\nI. In the range 0 ⩽x < 2π the equation\n\n                                      sin8 x + cos6 x = 1\n\nhas\n\n   (a)  3 solutions ,    (b)  4 solutions,     (c)  6 solutions,    (d)  8 solutions.\n\n\n\n\n\nJ. The function f(n) is deﬁned for positive integers n according to the rules\n\n          f(1) = 1,        f(2n) = f(n),        f(2n + 1) = (f(n))2 −2.\n\nThe value of f(1) + f(2) + f(3) + · · · + f(100) is\n\n                 (a)  −86,     (b)  −31,     (c)  23,     (d)  58.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2011",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions11_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2011-mat-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2011-mat-question-paper__q01.md"
+  },
+  {
+   "paper_id": "mat-2011-mat-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2011-mat-question-paper__q02",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. For ALL APPLICANTS.\n\nSuppose that x satisﬁes the equation\n\n                             x3 = 2x + 1.          (∗)\n\n(i) Show that\n                     x4 = x + 2x2    and    x5 = 2 + 4x + x2.\n\n(ii) For every integer k ⩾0, we can uniquely write\n\n                              xk = Ak + Bkx + Ckx2\n\nwhere Ak, Bk, Ck are integers. So, in part (i), it was shown that\n\n           A4 = 0, B4 = 1, C4 = 2    and    A5 = 2, B5 = 4, C5 = 1.\n\nShow that\n                Ak+1 = Ck,    Bk+1 = Ak + 2Ck,    Ck+1 = Bk.\n\n(iii) Let\n                        Dk = Ak + Ck −Bk.\nShow that Dk+1 = −Dk and hence that\n\n                        Ak + Ck = Bk + (−1)k .\n\n(iv) Let Fk = Ak+1 + Ck+1. Show that\n\n                             Fk + Fk+1 = Fk+2.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2011",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions11_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2011-mat-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2011-mat-question-paper__q02.md"
+  },
+  {
+   "paper_id": "mat-2011-mat-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2011-mat-question-paper__q03",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3.                                     \n             MATHEMATICS                                                                                            \n               MATHEMATICS & STATISTICS\nFor APPLICANTS IN                                     ONLY.\n             MATHEMATICS & PHILOSOPHY                                                                                  \n               MATHEMATICS & COMPUTER SCIENCE\n\nComputer Science and Computer Science & Philosophy applicants should turn to\npage 14.\n\nThe graphs of y = x3 −x and y = m (x −a) are drawn on the axes below. Here m > 0\nand a ⩽−1.\n\nThe line y = m (x −a) meets the x-axis at A = (a, 0), touches the cubic y = x3 −x at B\nand intersects again with the cubic at C. The x-coordinates of B and C are respectively\nb and c.\n                                          y\n\n\n\n\n                                                                 2\n\n                                              y=mHx-aL      C\n\n\n                                                                 1\n                                  R\n                        B\n                  A\n                                                                  x\n                                        -1  b                                  1      c\n                                              y=x3-x\n                                                        -1\n\n(i) Use the fact that the line and cubic touch when x = b, to show that m = 3b2 −1.\n\n(ii) Show further that\n                                             2b3\n                               a =                                           3b2 −1.\n(iii) If a = −106, what is the approximate value of b?\n\n(iv) Using the fact that\n\n                        x3 −x −m (x −a) = (x −b)2 (x −c)\n\n(which you need not prove), show that c = −2b.\n\n(v) R is the ﬁnite region bounded above by the line y = m (x −a) and bounded below\nby the cubic y = x3 −x. For what value of a is the area of R largest?\n\nShow that the largest possible area of R is 274 .\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2011",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions11_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2011-mat-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2011-mat-question-paper__q03.md"
+  },
+  {
+   "paper_id": "mat-2011-mat-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2011-mat-question-paper__q04",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.                                 \n              MATHEMATICS           \nFor APPLICANTS IN  MATHEMATICS & STATISTICS                                     ONLY.\n                MATHEMATICS & PHILOSOPHY\nMathematics & Computer Science, Computer Science and Computer Science & Philos-\nophy applicants should turn to page 14.\n\nLet Q denote the quarter-disc of points (x, y) such that x ⩾0, y ⩾0 and x2 + y2 ⩽1 as\ndrawn in Figures A and B below.\n\n   y                                            y\n  2.0                                                                                 2.0\n\n\n\n\n\n  1.5                                                                                 1.5\n\n\n\n\n\n  1.0                                                                                 1.0\n\n\n\n\n\n  0.5                                                                                 0.5\n\n\n\n\n  0.0                                        x    0.0                                        x\n     0.0               0.5               1.0               1.5               2.0         0.0               0.5               1.0               1.5               2.0\n                Figure A                                Figure B\n\n(i) On the axes in Figure A, sketch the graphs of\n\n                            1                          3\n                  x + y = 2,    x + y = 1,    x + y = 2.\n\nWhat is the largest value of x + y achieved at points (x, y) in Q? Justify your answer.\n\n(ii) On the axes in Figure B, sketch the graphs of\n\n                             1\n                       xy = 4,    xy = 1,    xy = 2.\n\nWhat is the largest value of x2 + y2 + 4xy achieved at points (x, y) in Q?\n\nWhat is the largest value of x2 + y2 −6xy achieved at points (x, y) in Q?\n\n(iii) Describe the curve\n                               x2 + y2 −4x −2y = k\nwhere k > −5.\n\nWhat is the smallest value of x2 + y2 −4x −2y achieved at points (x, y) in Q?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2011",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions11_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2011-mat-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2011-mat-question-paper__q04.md"
+  },
+  {
+   "paper_id": "mat-2011-mat-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2011-mat-question-paper__q05",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "5. For ALL APPLICANTS.\n\nAn n × n grid consists of squares arranged in n rows and n columns; for example, a\nchessboard is an 8 × 8 grid. Let us call a semi-grid of size n the lower left part of an\nn × n grid — that is, the squares located on or below the grid’s diagonal. For example,\nFigure C shows an example of a semi-grid of size 4.\n\n\n\n\n\n                                 R\n\n                                    Figure C\nLet us suppose that a robot is located in the lower-left corner of the grid. The robot\ncan move only up or right, and its goal is to reach one of the goal squares, which are\nall located on the semi-grid’s diagonal. In the example shown in Figure C, the robot is\ninitially located in the square denoted with R, and the goal squares are shown in grey.\nLet us call a solution a sequence of the robot’s moves that leads the robot from the\ninitial location to some goal square.\n\n(i) Write down all 8 solutions for a robot on a semi-grid of size 4.\n\n(ii) Devise a concise way of representing the possible journeys of the robot in a semi-grid\nof size n. In your notation, which of the journeys are solutions?\n\n(iii) Write down a formula for the number of possible solutions in a semi-grid of size n.\nExplain why your formula is correct.\n\nNow let us change the problem slightly and redeﬁne a goal square as any square that\ncan be described as follows:\n   • the lower-left square is not a goal square;\n   • each square that is located immediately above or immediately to the right of a\n     non-goal square is a goal square; and\n   • each square that is located immediately above or immediately to the right of a\n      goal square is a non-goal square.\n\nFurthermore, let us assume that, upon reaching a goal square, the robot may decide to\nstop or to continue moving (provided that there are more allowed moves).\n\n(iv) With these modiﬁcations in place, write down all the solutions in a semi-grid of size\n4, and all the solutions in a semi-grid of size 5.\n\n(v) How many solutions are there now in a semi-grid of size n, where n is a positive\ninteger? You may wish to consider separately the cases where n is even or odd.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2011",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions11_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2011-mat-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2011-mat-question-paper__q05.md"
+  },
+  {
+   "paper_id": "mat-2011-mat-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2011-mat-question-paper__q06",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6.                                     \n             COMPUTER SCIENCE            \nFor APPLICANTS IN  MATHEMATICS & COMPUTER SCIENCE                                          ONLY.\n               COMPUTER SCIENCE & PHILOSOPHY\n\nAlice, Bob, Charlie and Diane are playing together when one of them breaks a precious\nvase. They all know who broke the vase. When questioned they make the following\nstatements:\n\n                              Alice:   It was Bob.\n                         Bob:   It was Diane.\n                          Charlie:   It was not me.\n                         Diane:  What Bob says is wrong.\n\nEach statement is either true or false.\n\n(i) Explain why at least one of the four must be lying.\n\n(ii) Explain why at least one of them must be telling the truth.\n\n(iii) Let us suppose that exactly one of the four is lying, so the other three are telling\nthe truth. Who is lying? Who did break the vase? Explain your answer.\n\n(iv) Let us now suppose that exactly one of the four is telling the truth, so the other\nthree are lying. Who is telling the truth? Who did break the vase? Explain your answer.\n\n(v) Let us now suppose that two of the statements are true and two are false. List the\npeople who might now have broken the vase. Justify your answers.\n\n(vi) Hence show that if we don’t know how many of the four statements are true, then\nany one of the four could have broken the vase.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2011",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions11_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2011-mat-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2011-mat-question-paper__q06.md"
+  },
+  {
+   "paper_id": "mat-2011-mat-question-paper",
+   "year": 2011,
+   "session": "Annual",
+   "paper": "MAT",
+   "variant": "",
+   "id": "mat-2011-mat-question-paper__q07",
+   "exam_id": "MAT",
+   "course_id": "MAT",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "7.\n              COMPUTER SCIENCE\nFor APPLICANTS IN                                   ONLY.\n              COMPUTER SCIENCE & PHILOSOPHY\n\nAlice and Bob have a large bag of coins which they use to play a game called HT-2. In\nthis game, Alice and Bob take turns placing one coin at a time on the table, each to the\nright of the previous one; thus they build a row of coins that grows to the right. Alice\nalways places the ﬁrst coin. Each coin is placed head-up (H) or tail-up (T), and cannot\nbe ﬂipped or moved once it has been placed.\n  A player loses the game if he or she places a coin that results in two adjacent coins\nhaving the same pattern of heads and tails as another adjacent pair somewhere in the\nrow (reading a pattern from left to right).  For example, Bob has lost this game by\nproducing a second instance of HT (where a and b denote coins placed by Alice and Bob\nrespectively):\n                           a   b   a   b  a   b\n                 H H  T  T H  T\n\nand Alice has lost this game by producing a second instance of TT (overlapping pairs\ncan count as repeats):\n                              a   b  a   b  a\n                          T H  T  T  T\n\n(i) What is the smallest number of coins that might be placed in a game of HT-2\n(including the ﬁnal coin that causes a player to lose)? What is the largest number?\nJustify each answer.\n\n(ii) Bob can always win a game of HT-2 by adopting a particular strategy. Describe the\nstrategy.\n\nFor any positive integer n, there is a game HT-n with the same rules as HT-2, except\nthat the game is lost by a player who creates an unbroken sequence of n heads and tails\nthat appears elsewhere in the row. For example, Bob has lost this game of HT-3 by\nproducing a second instance of THT:\n\n                         a   b  a   b  a   b  a   b\n               H H  T  T H  T H  T\n\n(iii) Suppose n is odd, and Bob chooses to play by always duplicating Alice’s previous\nplay (and Alice knows that this is Bob’s strategy). Show that Alice can always win.\n\nIn these games, a maximum time of one minute is allowed for each turn.\n\n(iv) Can we be certain that a game of HT-6 will be ﬁnished within two hours? Justify\nyour answer.\n\nEnd of last question\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Solutions 2011",
+     "url": "https://www.maths.ox.ac.uk/system/files/attachments/websolutions11_0.pdf"
+    }
+   ],
+   "topic_tags": [
+    "mat-2011-mat-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/mat-2011-mat-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/MAT/mat-2011-mat-question-paper__q07.md"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "group": "egmo-2017-day1-english-question-paper",
+ "course_id": "EGMO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 3,
+ "questions": [
+  {
+   "paper_id": "egmo-2017-day1-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "day1",
+   "variant": "English",
+   "id": "egmo-2017-day1-english-question-paper__q01",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "Problem 1.  Let ABCD be a convex quadrilateral with ∠DAB = ∠BCD = 90◦and ∠ABC >\n∠CDA. Let Q and R be points on segments BC and CD, respectively, such that line QR intersects\nlines AB and AD at points P and S, respectively.  It is given that PQ = RS. Let the midpoint of\nBD be M and the midpoint of QR be N. Prove that the points M, N, A and C lie on a circle.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2017-day1-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2017-day1-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2017-day1-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2017-day1-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "egmo-2017-day1-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "day1",
+   "variant": "English",
+   "id": "egmo-2017-day1-english-question-paper__q02",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "Problem 2.  Find the smallest positive integer k for which there exist a colouring of the positive\nintegers Z>0 with k colours and a function f : Z>0 →Z>0 with the following two properties:\n   (i) For all positive integers m, n of the same colour, f(m + n) = f(m) + f(n).\n  (ii) There are positive integers m, n such that f(m + n) ̸= f(m) + f(n).\nIn a colouring of Z>0 with k colours, every integer is coloured in exactly one of the k colours. In both\n(i) and (ii) the positive integers m, n are not necessarily diﬀerent.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2017-day1-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2017-day1-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2017-day1-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2017-day1-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "egmo-2017-day1-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "day1",
+   "variant": "English",
+   "id": "egmo-2017-day1-english-question-paper__q03",
+   "exam_id": "EGMO",
+   "course_id": "EGMO",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "函数",
+   "knowledge_point": "图像与方程",
+   "problem_type": "利用交点、截距或渐近线分析图像",
+   "search_text": "Problem 3.  There are 2017 lines in the plane such that no three of them go through the same\npoint. Turbo the snail sits on a point on exactly one of the lines and starts sliding along the lines in\nthe following fashion: she moves on a given line until she reaches an intersection of two lines. At the\nintersection, she follows her journey on the other line turning left or right, alternating her choice at\neach intersection point she reaches. She can only change direction at an intersection point. Can there\nexist a line segment through which she passes in both directions during her journey?\n\n\n\n\n\nLanguage: English                                             Time: 4 hours and 30 minutes\n                                                        Each problem is worth 7 points\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "egmo-2017-day1-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-009.zip",
+     "member": "question-corpus/questions/egmo-2017-day1-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-009.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/egmo-2017-day1-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-009.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EGMO/egmo-2017-day1-english-question-paper__q03.md"
+  }
+ ]
+}

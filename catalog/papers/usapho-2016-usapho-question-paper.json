@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2016-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2016-usapho-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2016-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "Question A1\n\nThe Doppler effect for a source moving relative to a stationary observer is described by\n\n                                                  f0\n                                   f =\n                                       1 −(v/c) cos θ\n\nwhere f is the frequency measured by the observer, f0 is the frequency emitted by the source, v is\nthe speed of the source, c is the wave speed, and θ is the angle between the source velocity and the\nline between the source and observer. (Thus θ = 0 when the source is moving directly towards the\nobserver and θ = π when moving directly away.)\n  A sound source of constant frequency travels at a constant velocity past an observer, and the\nobserved frequency is plotted as a function of time:\n\n      450\n                                                             Observed Frequency\n      448\n\n      446\n\n      444\n\n      442\n\n      440\n     (Hz)  438\n      436\n\n      434          Frequency  432\n\n      430\n\n      428\n\n      426\n\n      424\n\n      422\n\n      420\n         0    1    2    3    4    5    6    7    8    9    10   11   12   13   14\n                                     Time (s)\n\n\n   The experiment happens in room temperature air, so the speed of sound is 340 m/s.\n\n   a. What is the speed of the source?\n\n   b. What is the smallest distance between the source and the observer?\n\n2016 USA Physics Olympiad Exam         Part A                                       4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2016 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2016-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2016-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2016-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2016-usapho-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2016-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "Question A2\n\nA simple integrated circuit device has two inputs, Va and Vb, and two outputs, Vo and Vg. The\ninputs are effectively connected internally to a single resistor with effectively infinite resistance.\nThe outputs are effectively connected internally to a perfect source of emf E. The integrated circuit\nis configured so that E = G(Va −Vb), where G is positive and very large. (In your answers below,\nyou may neglect terms suppressed by 1/G.) On the left is an internal schematic for the device; on\nthe right is the symbol that is used in circuit diagrams.\n\n                            Va          Vo             a   o\n\n                              Vb          Vg                b    g\n\n   a. Consider the following circuit. R1 = 8.2 kΩand R2 = 560 Ωare two resistors. Terminal g\n     and the negative side of Vin are connected to ground, so both are at a potential of 0 volts.\n     Determine the ratio Vout/Vin.\n\n                                      a   o                 Vout\n                                                R1\n                                              b    g                                 Vin\n\n                                                R2\n\n\n\n\n   b. Consider the circuit below, where all four resistors have resistance R. Note that the positions\n      of terminals a and b have been switched. Determine Vout in terms of V1, V2, and R.\n\n                           R\n\n                      R\n                                             b    o                 Vout\n                  V1         R\n                                     a   g\n\n                             V2\n                          R\n\n\n\n    c. Now consider a circuit with a capacitor C and a resistor R with time constant RC = τ, where\n      Vin(t) smoothly varies in time. Determine Vout in terms of Vin(t) and τ  .\n\n                           R\n\n                        C\n                                              b    o                 Vout\n\n                                  Vin         a   g\n\n2016 USA Physics Olympiad Exam         Part A                                       5\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2016 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2016-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2016-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2016-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2016-usapho-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2016-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Motion",
+   "problem_type": "从运动条件或图像求速度和加速度",
+   "search_text": "Question A3\n\nThroughout this problem the inertial rest frame of the rod will be referred to as the rod’s frame,\nwhile the inertial frame of the cylinder will be referred to as the cylinder’s frame.\n  A rod is traveling at a constant speed of v = 45c to the right relative to a hollow cylinder. The\nrod passes through the cylinder, and then out the other side. The left end of the rod aligns with\nthe left end of the cylinder at time t = 0 and x = 0 in the cylinder’s frame and time t′ = 0 and\nx′ = 0 in the rod’s frame.\n   The left end of the rod aligns with the left end of the cylinder at the same time as the right\nend of the rod aligns with the right end of the cylinder in the cylinder’s frame; in this reference\nframe the length of the cylinder is 15 m.\n   For the following, sketch accurate, scale diagrams of the motions of the ends of the rod and the\ncylinder on the graphs provided. The horizontal axis corresponds to x, the vertical axis corresponds\nto ct, where c is the speed of light. Both the vertical and horizontal gridlines have 5.0 meter spacing.\n\n   a. Sketch the world lines of the left end of the rod (RL), left end of the cylinder (CL), right end\n      of the rod (RR), and right end of the cylinder (CR) in the cylinder’s frame.\n\n   b. Do the same in the rod’s frame.\n\n    c. On both diagrams clearly indicate the following four events by the letters A, B, C, and D.\n\n      A: The left end of the rod is at the same point as the left end of the cylinder\n\n       B: The right end of the rod is at the same point as the right end of the cylinder\n\n      C: The left end of the rod is at the same point as the right end of the cylinder\n\n      D: The right end of the rod is at the same point as the left end of the cylinder\n\n   d. At event B a small particle P is emitted that travels to the left at a constant speed vP = 45c\n      in the cylinder’s frame.\n\n             i. Sketch the world line of P in the cylinder’s frame.\n\n            ii. Sketch the world line of P in the rod’s frame.\n\n    e. Now consider the following in the cylinder’s frame. The right end of the rod stops instanta-\n     neously at event B and emits a flash of light, and the left end of the rod stops instantaneously\n    when the light reaches it. Determine the final length of the rod after it has stopped. You can\n     assume the rod compresses uniformly with no other deformation.\n\n   Any computation that you do must be shown on a separate sheet of paper, and not on the\ngraphs. Graphical work that does not have supporting computation might not receive full credit.\n\n2016 USA Physics Olympiad Exam         Part A                                       6\n\n2016 USA Physics Olympiad Exam     Answer Sheets                                   11\n\n\n\n\n                        The Cylinder’s Frame\n                                                   ct\n\n\n\n\n\n                                                                         x\n\n2016 USA Physics Olympiad Exam     Answer Sheets                                   12\n\n\n\n\n                          The Rod’s Frame\n                                                             ct′\n\n\n\n\n\n                                                                                                           x′\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2016 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2016-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2016-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2016-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2016-usapho-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2016-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A4",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Thermal properties",
+   "problem_type": "从加热条件求热量或比热容",
+   "search_text": "Question A4\n\nThe flow of heat through a material can be described via the thermal conductivity κ. If the two faces\nof a slab of material with thermal conductivity κ, area A, and thickness d are held at temperatures\ndiffering by ∆T, the thermal power P transferred through the slab is\n\n                               κA∆T\n                             P =\n                                           d\n\n  A large, flat lake in the upper Midwest has a uniform depth of 5.0 meters of water that is covered\nby a uniform layer of 1.0 cm of ice. Cold air has moved into the region so that the upper surface\nof the ice is now maintained at a constant temperature of −10 ◦C by the cold air (an infinitely\nlarge constant temperature heat sink). The bottom of the lake remains at a fixed 4.0 ◦C because\nof contact with the earth (an infinitely large constant temperature heat source).  It is reasonable\nto assume that heat flow is only in the vertical direction and that there is no convective motion in\nthe water.\n\n   a. Determine the initial rate of change in ice thickness.\n\n   b. Assuming the air stays at the same temperature for a long time, find the equilibrium thickness\n      of the ice.\n\n    c. Explain why convective motion can be ignored in the water.\n\n   Some important quantities for this problem:\n     Specific heat capacity of water   Cwater  4200 J/(kg · C◦)\n     Specific heat capacity of ice      Cice    2100 J/(kg · C◦)\n    Thermal conductivity of water   κwater   0.57 W/(m · C◦)\n    Thermal conductivity of ice       κice     2.2 W/(m · C◦)\n    Latent heat of fusion for water  Lf      330, 000 J/kg\n    Density of water                  ρwater   999 kg/m3\n    Density of ice                        ρice     920 kg/m3\n\n2016 USA Physics Olympiad Exam         Part A                                       7\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\n If there is still time remaining for Part A, you should review your work for\n   Part A, but do not continue to Part B until instructed by your exam\n                                 supervisor.\n\n2016 USA Physics Olympiad Exam         Part B                                       8\n\n\n\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2016 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2016-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2016-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2016-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2016-usapho-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2016-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "Question B1\n\nA uniform solid spherical ball starts from rest on a loop-the-loop track.  It rolls without slipping\nalong the track. However, it does not have enough speed to make it to the top of the loop. From\nwhat height h would the ball need to start in order to land at point P directly underneath the top\nof the loop? Express your answer in terms of R, the radius of the loop. Assume that the radius of\nthe ball is very small compared to the radius of the loop, and that there are no energy losses due\nto friction.\n\n\n\n\n\n                   h\n\n\n                                       R\n\n\n\n\n                                        P\n\n2016 USA Physics Olympiad Exam         Part B                                       9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2016 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2016-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2016-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2016-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2016-usapho-question-paper",
+   "year": 2016,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2016-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Space physics",
+   "knowledge_point": "Earth and the Solar System",
+   "problem_type": "从天体运动和轨道条件解释现象",
+   "search_text": "Question B2\n\n   a. A spherical region of space of radius R has a uniform charge density and total charge +Q.\n    An electron of charge −e is free to move inside or outside the sphere, under the influence of\n     the charge density alone. For this first part ignore radiation effects.\n\n             i. Consider a circular orbit for the electron where r < R. Determine the period of the orbit\n        T in terms of any or all of r, R, Q, e, and any necessary fundamental constants.\n\n            ii. Consider a circular orbit for the electron where r > R. Determine the period of the orbit\n        T in terms of any or all of r, R, Q, e, and any necessary fundamental constants.\n\n           iii. Assume the electron starts at rest at r = 2R.  Determine the speed of the electron\n        when it passes through the center in terms of any or all of R, Q, e, and any necessary\n         fundamental constants.\n\n   b. Accelerating charges radiate. The total power P radiated by charge q with acceleration a is\n     given by\n                                P = Cξan\n\n     where C  is a dimensionless numerical constant (which is equal to 1/6π), ξ  is a physical\n     constant that is a function only of the charge q, the speed of light c, and the permittivity of\n      free space ϵ0, and n is a dimensionless constant. Determine ξ and n.\n\n    c. Consider the electron in the first part, except now take into account radiation. Assume that\n     the orbit remains circular and the orbital radius r changes by an amount |∆r| ≪r.\n\n             i. Consider a circular orbit for the electron where r < R. Determine the change in the\n           orbital radius ∆r during one orbit in terms of any or all of r, R, Q, e, and any necessary\n         fundamental constants. Be very specific about the sign of ∆r.\n\n            ii. Consider a circular orbit for the electron where r > R. Determine the change in the\n           orbital radius ∆r during one orbit in terms of any or all of r, R, Q, e, and any necessary\n         fundamental constants. Be very specific about the sign of ∆r.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2016 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2016-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2016-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2016-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2016-usapho-question-paper__q06.md"
+  }
+ ]
+}

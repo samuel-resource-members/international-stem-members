@@ -1,0 +1,773 @@
+{
+ "group": "live-poshenloh-aime-2026i-question_paper",
+ "course_id": "AIME",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 15,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q01",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.  Patrick started walking at a constant speed along a straight road from his school to the\n    park. One hour after Patrick left, Tanya started running at a constant speed of 2 miles\n   per hour faster than Patrick walked, following the same straight road from the school\n   to the park. One hour after Tanya left, José started bicycling at a constant speed of 7\n    miles per hour faster than Tanya ran, following the same straight road from the school\n   to the park. All three people arrived at the park at the same time. The distance from the\n               m   school to the park is                                                                        ​ miles, where m and n are relatively prime positive integers. Find                       n\n  m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q02",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2.  Find the number of positive integer palindromes written in base 10, with no zero digits,\n   and whose digits add up to 13. For example, 42124 has these properties. Recall that a\n   palindrome is a number whose representation reads the same from left to right as\n   from right to left.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q03",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3. A hemisphere with radius 200 sits on top of a horizontal circular disk with radius 200,\n   and the hemisphere and disk have the same center. Let T be the region of points P in\n   the disk such that a sphere of radius 42 can be placed on top of the disk at P and lie\n   completely inside the hemisphere. The area of T divided by the area of the disk is p                                                                                                          q ​,\n   where p and q are relatively prime positive integers. Find p + q.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q04",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4. Find the number of integers less than or equal to 100 that are equal to a + b + ab for\n   some choice of distinct positive integers a and b.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q05",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. A plane contains points A and B with AB = 1. Point A is rotated in the plane\n   counterclockwise through an acute angle θ around point B to point A .′ Then B is\n   rotated in the plane clockwise through angle θ around point A′ to point B .′ Suppose\n                ′    4                       m  AB =     ​. The value of cos θ can be written as     ​, where m and n are relatively prime             3                                  n\n    positive integers. Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q06",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6. The product of all positive real numbers x satisfying the equation\n\n                                                           20 xlog 2026                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​ x        ​ = 26x\n\n     is an integer P. Find the number of positive integer divisors of P.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q07",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7.  Find the number of functions π mapping the set A = {1, 2, 3, 4, 5, 6} onto A such\n    that for every a ∈A,\n\n                           π(π(π(π(π(π(a)))))) = a.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q08",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "8. Let N be the number of positive integer divisors of 1701717 that leave a remainder of 5\n   upon division by 12. Find the remainder when N is divided by 1000.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q09",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "9. Joanne has a blank fair six-sided die and six stickers each displaying a different integer\n   from 1 to 6. Joanne rolls the die and then places the sticker labeled 1 on the top face\n   of the die. She then rolls the die again, places the sticker labeled 2 on the top face, and\n   continues this process to place the rest of the stickers in order. If the die ever lands\n    with a sticker already on its top face, the new sticker is placed to cover the old sticker.\n   Let p be the conditional probability that at the end of the process exactly one face has\n   been left blank, given that all the even-numbered stickers are visible on faces of the\n                    m    die. Then p can be written as                            where m and n are relatively prime positive integers.                              n ​,\n   Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q10",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "10. Let △ABC have side lengths AB = 13,BC = 14, and CA = 15. Triangle △A ′ B ′ C ′\n                                                                                                                                        ′    ′     is obtained by rotating △ABC about its circumcenter so that A C is perpendicular\n                                                                                                               ′    ′   to BC , with A′ and B not on the same side of line B C . Find the integer closest to the\n                                                 ′        ′         ′   area of hexagon AA CC BB .\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q11",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "11. The integers from 1 to 64 are placed in some order into an 8 × 8 grid of cells with one\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ​ be the number placed in the cell in row i and column j, and   number in each cell. Let a i,j\n    let M be the sum of the absolute differences between adjacent cells. That is,\n\n                                         8    7\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ​                                                                                                                                                                                                                                                                                                                                                                           ​            M =            ​( ∣a i,j+1 −a i,j ​∣          ∑ ∑                                                        ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                                     i=1 j=1\n                       + ∣a j+1,i −a j,i ​∣).\n\n   Find the remainder when the maximum possible value of M is divided by 1000.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q12",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "12. Triangle △ABC lies in plane P with AB = 6,AC = 4, and ∠BAC = 90 ∘ . Let D be\n   the reflection across BC of the centroid of △ABC. Four spheres, all on the same\n   side of P, have radii 1,2,3, and r and are tangent to P at points A,B,C, and D,\n    respectively. The four spheres are also each tangent to a second plane T and are all on\n   the same side of T . The value of r can be written as m ​, where m and n are relatively                                                   n\n   prime positive integers. Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q13",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "13. For each nonnegative integer r less than 502 define\n\n                                        10,000\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                                                                                                                                                                                                                               ​                                                                                                                                                                                                                                                                                                                                                                                                 ​                      S r =                           ,                    ∑(502m + r )                               m≥0\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ​                       is defined to be 0 when n > 10,000. That is, S ​r is the sum of all the   where ( 10,000)n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​ for which 0 ≤k ≤10,000 and k −r is a   binomial coefficients of the form ( 10,000)k\n    multiple of 502.\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ​ that are multiples of the   Find the number of integers in the list S 0 ​, S 1 ​, S 2 ​, … ,S 501\n   prime number 503.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q14",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "14. In an equiangular pentagon, the sum of the squares of the side lengths equals 308,\n   and the sum of the squares of the diagonal lengths equals 800. The square of the\n   perimeter of the pentagon can be expressed as m n ​, where m and n are positive\n    integers and n is not divisible by the square of any prime. Find m + n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026i-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "I",
+   "id": "live-poshenloh-aime-2026i-question_paper__q15",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "15. Let a,b, and n be positive integers with both a and b greater than or equal to 2 and less\n     than or equal to 2n. Define an a × b cell loop in a 2n × 2n grid of cells to be the 2a +\n    2b −4 cells that surround an (a −2) × (b −2) (possibly empty) rectangle of cells in\n     the grid. For example, the following diagram shows a way to partition a 6 × 6 grid of\n      cells into 4 cell loops.\n\n\n\n\n\n     Find the number of ways to partition a 10 × 10 grid of cells into 5 cell loops so that\n     every cell of the grid belongs to exactly one cell loop.\n\n\n\n      Answer\n\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/aime/2026I/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME I — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-answers.pdf"
+    },
+    {
+     "title": "2026 AIME I — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026I-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026i-question_paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026i-question_paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026i-question_paper__q15.md"
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "group": "cemc-hypatia-2017-contest-english-question-paper",
+ "course_id": "CEMC-HYPATIA",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-hypatia-2017-contest-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2017-contest-english-question-paper__q01",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "A\n1. A cyclic quadrilateral  is a quadrilateral whose four vertices\n     lie on some circle. In a cyclic quadrilateral, opposite angles\n   add to 180◦. In the diagram, ABCD is a cyclic quadrilateral.                    B\n    Therefore, ∠ABC + ∠ADC = 180◦= ∠BAD + ∠BCD.        D\n\n\n                                                          C\n          (a) In Figure A below, ABCD is a cyclic quadrilateral. If ∠BAD = 88◦, what is the\n             value of u?\n         (b) In Figure B, PQRS and STQR are cyclic quadrilaterals. If ∠STQ = 58◦, what\n                 is the value of x and what is the value of y?\n\n          (c) In Figure C, JKLM  is a cyclic quadrilateral with JK = KL and JL = LM.\n                 If ∠KJL = 35◦, what is the value of w?\n\n         (d) In Figure D, DEFG is a cyclic quadrilateral. FG is extended to H, as shown.\n                 If ∠DEF = z◦, determine the measure of ∠DGH in terms of z.\n\n              A                                         J                         P          S                           D\n                 88º                     yº                                                                        35º                                   K     D\n                                       M                                                             H                   B                                    58º         xº R        wº                                                                                                      zº              (2u)º                                                          G                         T                                                        E\n                                             L\n       C                   Q                           F\n               Figure A               Figure B               Figure C                Figure D\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2017-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2017-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2017-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2017-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2017-contest-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2017-contest-english-question-paper__q02",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. A  list of integers  is written in a table, row after\n  row from  left to right.  Row 1 has the integer 1.  Row 1  1\n  Row 2 has the integers 1, 2 and 3. Row n has the  Row 2  1  2  3\n   consecutive integers beginning at 1 and ending at  Row 3  1  2  3  4  5\n   the nth odd integer.  In the table, the 9th integer to  Row 4  1  2  3  4  5  6  7\n   be written is 5, and it appears at the end of Row 3.                                  ...   In general, after having completed n rows, a total of\n   n2 integers have been written.\n\n         (a) What is the 25th integer written in the table and in which row does the 25th\n            integer appear?\n        (b) What is the 100th integer written in the table?\n\n         (c) What is the 2017th integer written in the table?\n\n        (d) In how many of the ﬁrst 200 rows does the integer 96 appear?\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2017-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2017-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2017-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2017-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2017-contest-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2017-contest-english-question-paper__q03",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "函数",
+   "knowledge_point": "图像与方程",
+   "problem_type": "利用交点、截距或渐近线分析图像",
+   "search_text": "3.        (a) The line y = −15 intersects the parabola with equation y = −x2 + 2x at two\n             points. What are the coordinates of these two points of intersection?\n         (b) A line intersects the parabola with equation y = −x2 −3x at x = 4 and at x = a.\n            This line intersects the y-axis at (0, 8). Determine the value of a.\n\n          (c) A line intersects the parabola with equation y = −x2 + kx at x = p and at x = q\n            with p ̸= q. Determine the y-intercept of this line.\n                                       1      1\n         (d) For all k ̸= 0, the curve x =   y2 +     intersects the parabola with equation                                         k3    ky\n            y = −x2 + kx at (0, 0) and at a second point T whose coordinates depend on k.\n             All such points T lie on a parabola. Determine the equation of this parabola.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2017-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2017-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2017-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2017-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-hypatia-2017-contest-english-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-hypatia-2017-contest-english-question-paper__q04",
+   "exam_id": "CEMC-HYPATIA",
+   "course_id": "CEMC-HYPATIA",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4. A positive integer is called an n-digit zigzag number  if\n      • 3 ≤n ≤9,\n      • the number’s digits are exactly 1, 2, . . . , n (without repetition), and\n      •  for each group of three adjacent digits, either the middle digit is greater than each\n           of the other two digits or the middle digit is less than each of the other two digits.\n    For example, 52314 is a 5-digit zigzag number but 52143 is not.\n\n          (a) What is the largest 9-digit zigzag number?\n\n         (b) Let G(n, k) be the number of n-digit zigzag numbers with ﬁrst digit k and second\n              digit greater than k. Let L(n, k) be the number of n-digit zigzag numbers with\n             ﬁrst digit k and second digit less than k.\n\n                    (i) Show that G(6, 3) = L(5, 3) + L(5, 4) + L(5, 5).\n\n                     (ii) Show that\n                         G(6, 1) + G(6, 2) + G(6, 3) + G(6, 4) + G(6, 5) + G(6, 6)\n                  equals\n\n                           L(6, 1) + L(6, 2) + L(6, 3) + L(6, 4) + L(6, 5) + L(6, 6).\n\n          (c) Determine the number of 8-digit zigzag numbers.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-hypatia-2017-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-008.zip",
+     "member": "question-corpus/questions/cemc-hypatia-2017-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-008.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-hypatia-2017-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-008.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-HYPATIA/cemc-hypatia-2017-contest-english-question-paper__q04.md"
+  }
+ ]
+}

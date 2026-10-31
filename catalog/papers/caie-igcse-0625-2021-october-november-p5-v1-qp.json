@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2021-october-november-p5-v1-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p5-v1-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-october-november-p5-v1-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "1    In this experiment, you will investigate the stretching of a spring.\n\n    Carry out the following instructions, referring to Fig. 1.1.\n\n                                        0 cm mark\n\n\n                   clamp\n\n\n                boss\n\n\n                                                  spring\n\n                                            metre rule\n\n               clamp\n                 stand\n\n                                                              bench\n\n\n\n\n                                        100 cm mark\n\n                                               Fig. 1.1\n\n     (a) The metre rule is clamped in position near to the spring. Do not change the position of the\n        metre rule.\n\n             (i)  Write down the scale readings in mm from the metre rule at the top and bottom of the\n              spring.\n\n                                                 top reading = ................................................... mm\n\n                                         bottom reading = ................................................... mm\n                                                                                                                       [1]\n\n             (ii)  Using the two readings, calculate the length l0 of the spring in mm. Record l0 in Table 1.1.\n           The value l0 is the length of the spring when the load L = 0.00 N.                         [1]\n\n\n\n\n\n© UCLES 2021                                         0625/51/O/N/21\n\n(b)  •   Suspend a load L = 0.20 N from the spring. Record the new length l of the spring in\n             Table 1.1.\n         •   Use the equation e = (l – l0) to calculate the extension e of the spring. Record the value\n               of e in Table 1.1.\n         •   Repeat the procedure using loads L = 0.40 N, L = 0.60 N, L = 0.80 N and L = 1.00 N.\n            Record all the readings and results in the Table 1.1.\n\n                                        Table 1.1\n\n                             L / N             l / mm     e / mm\n                                 0.00                  0\n                                 0.20\n                                 0.40\n                                 0.60\n                                 0.80\n                                 1.00\n                                                                                                                       [3]\n\n     (c)  Plot a graph of e / mm (y-axis) against L / N (x-axis).\n\n\n\n\n\n                                                                                                                       [4]\n\n\n© UCLES 2021                                         0625/51/O/N/21                              [Turn over\n\n(d)  Fig. 1.2 shows the unstretched spring and the spring with a load. On Fig. 1.2, show clearly\n         the distances l0, l and e.\n\n\n\n\n\n                                               Fig. 1.2\n                                                                                                                       [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2021                                         0625/51/O/N/21\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p5-v1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p5-v1-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p5-v1-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-october-november-p5-v1-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2    In this experiment, you will investigate the resistance of combinations of resistors.\n\n     Fig. 2.1 shows the first circuit arrangement. The circuit is set up for you.\n\n                                 power supply\n\n\n\n                                                 A\n\n                       X             Y\n\n\n\n\n\n                      V\n\n                                               Fig. 2.1\n\n     (a)  Switch on.\n\n             (i)  Record VX, the potential difference (p.d.) across resistor X.\n                                              VX = ....................................................  [1]\n             (ii)  Record IX, the current in the circuit and then switch off the power supply.\n                                                          IX = ....................................................  [1]\n\n                                                             VX\n            (iii)  Calculate RX, the resistance of resistor X, using the equation RX =     .                                                                              IX\n\n\n                                           RX = ....................................................  [1]\n\n\n\n\n\n© UCLES 2021                                         0625/51/O/N/21                              [Turn over\n\n(b)  Disconnect the voltmeter.\n\n        Reconnect the voltmeter to measure VXY, the potential difference across the two resistors X\n       and Y in series.\n\n        Switch on.\n\n             (i)  Record VXY.\n                                               VXY = ..........................................................\n            Record IXY, the current in the circuit and then switch off the power supply.\n                                                        IXY = ..........................................................\n                                                                                                                       [1]\n\n             (ii)  Calculate RXY, the combined resistance of resistors X and Y connected in series, using\n                           VXY\n             the equation RXY =       .                                IXY\n                                             RXY = ....................................................  [1]\n     (c)  Disconnect the voltmeter.\n\n        Connect resistor Z in parallel with resistor X.\n\n        Connect the voltmeter to measure VXZ, the potential difference across the parallel combination\n          of resistor X and resistor Z.\n\n             (i)  Draw the circuit diagram for this arrangement. Label the resistors X, Y and Z.\n\n\n\n\n\n                                                                                                                       [2]\n\n\n\n\n\n© UCLES 2021                                         0625/51/O/N/21\n\n(ii)  Switch on.\n\n            Record VXZ, the potential difference across the two resistors X and Z in parallel.\n                                                VXZ = ..........................................................\n            Record IXZ, the current in the circuit and then switch off the power supply.\n                                                         IXZ = ..........................................................\n                                                                                                                       [1]\n\n            (iii)  Calculate RXZ, the combined resistance of resistors X and Z connected in parallel, using\n                           VXZ\n             the equation RXZ =       .                                 IXZ\n\n\n                                               RXZ = ....................................................  [1]\n     (d) A student does this experiment using a set of three identical resistors. Her results show that,\n          within the limits of experimental accuracy, the combined resistance of two identical resistors\n        connected in series is four times the combined resistance of the same two resistors connected\n           in parallel. To test whether her results are true for other values of resistance, she does the\n       same procedure with other sets of three identical resistors.\n\n        Suggest the values of resistance she could use to reach a conclusion during a 1 hour practical\n         lesson.\n\n               ...................................................................................................................................................\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n                                                                                                           [Total: 11]\n\n\n\n\n\n© UCLES 2021                                         0625/51/O/N/21                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p5-v1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p5-v1-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p5-v1-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-october-november-p5-v1-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3    In this experiment you will investigate the position of the image in a plane mirror.\n\n    Carry out the following instructions. Use the ray-trace sheet supplied, referring to Fig. 3.1 for\n    guidance.\n\n                      hole\n\n\n\n\n                               N\n\n\n\n\n\n               M                         R                                  B\n\n\n               A\n\n\n\n                   C\n                                     L\n\n\n                                                               eye\n\n                                               Fig. 3.1\n     (a)  •   Draw a line 10 cm long near the middle of the ray-trace sheet. Label the line MR. Draw a\n            normal to this line that passes through its centre. Label the normal NL. Label the point at\n            which NL crosses MR with the letter B.\n         •   Draw a line 7.0 cm long from B at an angle of incidence i = 70° to the normal below MR\n           and to the left of the normal. Label the end of this line A.\n         •   Draw another line 7.0 cm long from B at an angle θ = 40° to the normal below MR and to\n             the left of the normal. Label the end of this line C.\n                                                                                                                       [2]\n\n\n\n\n\n© UCLES 2021                                         0625/51/O/N/21\n\n(b)  •   Place the reflecting face of the mirror vertically on the line MR.\n         •   Place two pins, P1 and P2, on line AB at a suitable distance apart for this type of ray-trace\n             experiment. Label the positions of P1 and P2.\n         •   View the images of pins P1 and P2 from the direction indicated by the eye in Fig. 3.1.\n            Place two pins, P3 and P4, so that pins P3 and P4 and the images of P2 and P1 all appear\n              exactly one behind the other. Label the positions of P3 and P4.\n                                                                                                                       [2]\n\n     (c) Remove the pins and the mirror. Draw a line through the positions of P3 and P4. Continue the\n           line until it meets MR.\n\n       Measure the angle α between the line and the normal NL below MR.\n\n                             α = ....................................................  [1]\n\n     (d)  Place the reflecting face of the mirror vertically on the line AB with the centre of the mirror\n          at B.\n\n        Place pins P1 and P2 on line CB at a suitable distance apart for this type of ray-trace\n         experiment.\n\n        View the images of pins P1 and P2. Place pins P3 and P4 so that pins P3 and P4 and the\n        images of P2 and P1 all appear exactly one behind the other. Label the new positions of P3\n       and P4.\n                                                                                                                       [1]\n\n     (e) Remove the pins and the mirror. Draw a line through the new positions of P3 and P4. Continue\n         the line until it meets NL.\n\n       Measure the angle β between the line and NL below MR.\n\n                                β = ....................................................  [2]\n\n      (f)  A student investigates a possible relationship between angles α and β. The angle θ remains\n         constant at θ = 40°. Suggest values of the angle of incidence i that he could use.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [2]\n\n     (g) A student does this experiment with care. Suggest one practical reason why the results may\n        not be exactly those that the theory of reflection predicts.\n\n               ...................................................................................................................................................\n\n               .............................................................................................................................................  [1]\n\n         Tie your ray-trace sheet into this booklet between pages 8 and 9.\n\n                                                                                                           [Total: 11]\n\n\n\n© UCLES 2021                                         0625/51/O/N/21                              [Turn over\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p5-v1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p5-v1-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2021-october-november-p5-v1-qp",
+   "year": 2021,
+   "session": "October/November",
+   "paper": "5",
+   "variant": "1",
+   "id": "caie-igcse-0625-2021-october-november-p5-v1-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4  A student investigates the time taken to heat water in different uninsulated containers. The\n    containers all have the same volume and shape. The water is heated with an electric immersion\n     heater.\n\n    The following apparatus is available:\n\n    a selection of containers\n    measuring cylinder\n    thermometer\n    supply of cold water\n    immersion heater with power supply.\n\n    Plan an experiment to investigate the time taken to heat water in different uninsulated containers.\n\n    You are not required to carry out this investigation.\n\n    You should:\n     •     list any additional apparatus that is required\n     •    explain briefly how you would carry out the investigation\n     •    state the key variables that you would keep constant\n     •   draw a table, or tables, with column headings to show how you would display your readings\n        (you are not required to enter any readings in the table)\n     •    explain briefly how you would use your readings to reach a conclusion.\n\n\n\n\n\n© UCLES 2021                                         0625/51/O/N/21\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — October/November 2021 — Paper 5 — 1 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_w21_ms_51.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2021-october-november-p5-v1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-003.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2021-october-november-p5-v1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2021-october-november-p5-v1-qp__q04.md"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+# AMC8 · 2011 · Q24
+
+- id: live-poshenloh-amc8-2011-question_paper__q24
+- course: AMC8
+- exam: AMC8
+- subject: math
+- year: 2011
+- question_number: 24
+- problem_type: 质数奇偶约束：奇数和迫使其中一项为二 / 奇数拆两质数
+- topic_tags: AMC8-2011-Q24, live-poshenloh-amc8-2011-question_paper__q24
+
+## Statement
+
+In how many ways can \(10001\) be written as the sum of two primes?
+
+
+## Text (OCR)
+
+```text
+In how many ways can \(10001\) be written as the sum of two primes?
+```
+
+## Source files
+
+- package `AMC8_complete_bank_20261013.zip` (release `amc`): https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC8_complete_bank_20261013.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2017-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2017-usapho-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2017-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Forces",
+   "problem_type": "从受力或形变条件求力",
+   "search_text": "Question A1\n\nA pair of wedges are located on a horizontal surface. The coeﬃcient of friction (both sliding and\nstatic) between the wedges is µ, the coeﬃcient of friction between the bottom wedge B and the\nhorizontal surface is µ, and the angle of the wedge is θ. The mass of the top wedge A is m, and\nthe mass of the bottom wedge B is M = 2m. A horizontal force F directed to the left is applied to\nthe bottom wedge as shown in the ﬁgure.\n\n\n                                              F                          A\n\n                                 B\n                                         θ\n\n\n   Determine  the range of values for F so that the the top wedge does not slip on the bottom\nwedge. Express your answer(s) in terms of any or all of m, g, θ, and µ.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2017 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2017-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2017-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2017-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2017-usapho-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2017-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Thermal physics",
+   "knowledge_point": "Thermal properties",
+   "problem_type": "从加热条件求热量或比热容",
+   "search_text": "Question A2\n\nConsider two objects with equal heat capacities C and initial temperatures T1 and T2. A Carnot\nengine is run using these objects as its hot and cold reservoirs until they are at equal temperatures.\nAssume that the temperature changes of both the hot and cold reservoirs is very small compared\nto the temperature during any one cycle of the Carnot engine.\n\n   a. Find the ﬁnal temperature Tf of the two objects, and the total work W done by the engine.\n\n  Now consider three objects with equal and constant heat capacity at initial temperatures\nT1 = 100 K, T2 = 300 K, and T3 = 300 K. Suppose we wish to raise the temperature of the\nthird object.\n\n   To do this, we could run a Carnot engine between the ﬁrst and second objects, extracting work\nW. This work can then be dissipated as heat to raise the temperature of the third object. Even\nbetter, it can be stored and used to run a Carnot engine between the ﬁrst and third object in\nreverse, which pumps heat into the third object.\n\nAssume that all work produced by running engines can be stored and used without dissipation.\n\n   b. Find the minimum temperature TL to which the ﬁrst object can be lowered.\n\n    c. Find the maximum temperature TH to which the third object can be raised.\n\n2017 USA Physics Olympiad Exam         Part A                                       4\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2017 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2017-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2017-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2017-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2017-usapho-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2017-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "Question A3\n\nA ship can be thought of as a symmetric arrangement of soft iron. In the presence of an external\nmagnetic ﬁeld, the soft iron will become magnetized, creating a second, weaker magnetic ﬁeld. We\nwant to examine the eﬀect of the ship’s ﬁeld on the ship’s compass, which will be located in the\nmiddle of the ship.\n   Let the strength of the Earth’s magnetic ﬁeld near the ship be Be, and the orientation of the\nﬁeld be horizontal, pointing directly toward true north.\n   The Earth’s magnetic ﬁeld Be will magnetize the ship, which will then create a second magnetic\nﬁeld Bs in the vicinity of the ship’s compass given by\n\n                                   ⃗Bs = Be −Kb cos θ ˆb + Ks sin θ ˆs\n\nwhere Kb and Ks are positive constants, θ is the angle between the heading of the ship and magnetic\nnorth, measured clockwise, ˆb and ˆs are unit vectors pointing in the forward direction of the ship\n(bow) and directly right of the forward direction (starboard), respectively.\n   Because of the ship’s magnetic ﬁeld, the ship’s compass will no longer necessarily point North.\n\n   a. Derive an expression for the deviation of the compass, δθ, from north as a function of Kb,\n     Ks, and θ.\n\n   b. Assuming that Kb and Ks are both much smaller than one, at what heading(s) θ will the\n      deviation δθ be largest?\n\n  A pair of iron balls placed in the same horizontal plane as the compass but a distance d away\ncan be used to help correct for the error caused by the induced magnetism of the ship.\n\n\n\n\n\n A binnacle, protecting the ship’s compass in the center, with two soft iron spheres to help correct for errors in the\n                   compass heading. The use of the spheres was suggested by Lord Kelvin.\n\n   Just like the ship, the iron balls will become magnetic because of the Earth’s ﬁeld Be. As\nspheres, the balls will individually act like dipoles. A dipole can be thought of as the ﬁeld produced\nby two magnetic monopoles of strength ±m at two diﬀerent points.\n\n2017 USA Physics Olympiad Exam         Part A                                       5\n\n\n\n\n   The magnetic ﬁeld of a single pole is\n\n                                                                                            ˆr\n                                              ⃗B = ±m\n                                                     r2\n\nwhere the positive sign is for a north pole and the negative for a south pole. The dipole magnetic\nﬁeld is the sum of the two ﬁelds: a north pole at y = +a/2 and a south pole at y = −a/2, where\nthe y axis is horizontal and pointing north. a is a small distance much smaller than the radius of\nthe iron balls; in general a = KiBe where Ki is a constant that depends on the size of the iron\nsphere.\n\n                               North\n\n\n                                                                                             ⃗Bi\n\n\n                                  φ\n\n\n\n                        a\n                                              iron ball\n\n    c. Derive an expression for the magnetic ﬁeld ⃗Bi from the iron a distance d ≫a from the center\n      of the ball. Note that there will be a component directed radially away from the ball and a\n     component directed tangent to a circle of radius d around the ball, so using polar coordinates\n       is recommended.\n\n   d. If placed directly to the right and left of the ship compass, the iron balls can be located at a\n      distance d to cancel out the error in the magnetic heading for any angle(s) where δθ is largest.\n     Assuming that this is done, ﬁnd the resulting expression for the combined deviation δθ due\n      to the ship and the balls for the magnetic heading for all angles θ.\n\n2017 USA Physics Olympiad Exam         Part A                                       6\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2017 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2017-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2017-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2017-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2017-usapho-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2017-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A4",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "Question A4\n\nRelativistic particles obey the mass energy relation\n\n                             E2 = (pc)2 + (mc2)2\n\nwhere E is the relativistic energy of the particle, p is the relativistic momentum, m is the mass,\nand c is the speed of light.\n  A proton with mass mp and energy Ep collides head on with a photon which is massless and\nhas energy Eb. The two combine and form a new particle with mass m∆called ∆, or “delta”. It\nis a one dimensional collision that conserves both relativistic energy and relativistic momentum.\n\n   a. Determine Ep in terms of mp, m∆, and Eb. You may assume that Eb is small.\n\n   b. In this case, the photon energy Eb is that of the cosmic background radiation, which is an EM\n     wave with wavelength 1.06 mm. Determine the energy of the photons, writing your answer\n      in electron volts.\n\n    c. Assuming this value for Eb, what is the energy of the proton, in electron volts, that will allow\n     the above reaction? This sets an upper limit on the energy of cosmic rays. The mass of the\n     proton is given by mpc2 = 938 MeV and the mass of the ∆is given by m∆c2 = 1232 MeV.\n\n   The following relationships may be useful in solving this problem:\n\n                               velocity parameter        β = v                                                                                   c\n\n                            Lorentz factor           γ = √ 1\n                                                              1−β2\n\n                                  relativistic momentum    p = γβmc\n\n                                  relativistic energy     E = γmc2\n\n                                                                   f  q 1−β                                  relativistic doppler shift   =                                                                      f0     1+β\n\n2017 USA Physics Olympiad Exam         Part A                                       7\n\n\n\n\n\n STOP: Do Not Continue to Part B\n\n\n\n\n\n If there is still time remaining for Part A, you should review your work for\n   Part A, but do not continue to Part B until instructed by your exam\n                                 supervisor.\n\n2017 USA Physics Olympiad Exam         Part B                                       8\n\n\n\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2017 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2017-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2017-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2017-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2017-usapho-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2017-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "Question B1\n\nSuppose a domino stands upright on a table. It has height h, thickness t, width w (as shown below),\nand mass m. The domino is free to rotate about its edges, but will not slide across the table.\n\n\n\n\n                                                                       p\n\n                                                      h\n                                       h\n\n\n                                                                                           t\n                                                                     table surface\n                                                   l       w\n                                                 t\n\n   a. Suppose we give the domino a sharp, horizontal impulsive push with total momentum p.\n\n             i. At what height H above the table is the impulse p required to topple the domino smallest?\n            ii. What is the minimum value of p to topple the domino?\n\n   b. Next, imagine a long row of dominoes with equal spacing l between the nearest sides of any\n      pair of adjacent dominos, as shown above. When a domino topples, it collides with the next\n     domino in the row. Imagine this collision to be completely inelastic. What fraction of the\n      total kinetic energy is lost in the collision of the ﬁrst domino with the second domino?\n\n    c. After the collision, the dominoes rotate in such a way so that they always remain in contact.\n    Assume that there is no friction between the dominoes and the ﬁrst domino was given the\n      smallest possible push such that it toppled. What is the minimum l such that the second\n     domino will topple?\n\n    You may work to lowest nontrivial order in the angles through which the dominoes have\n      rotated. Equivalently, you may approximate t, l ≪h.\n\n   d. A row of toppling dominoes can be considered to have a propagation speed of the length l + t\n     divided by the time between successive collisions. When the ﬁrst domino is given a minimal\n     push just large enough to topple and start a chain reaction of toppling dominoes, the speed\n      increases with each domino, but approaches an asymptotic speed v.\n\n\n\n\n\n     Suppose there is a row of dominoes on another planet. These dominoes have the same density\n      as the dominoes previously considered, but are twice as tall, wide, and thick, and placed with\n     a spacing of 2l between them.  If this row of dominoes topples with the same asymptotic\n     speed v previously found, what is the local gravitational acceleration on this planet?\n\n2017 USA Physics Olympiad Exam         Part B                                       9\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2017 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2017-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2017-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2017-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2017-usapho-question-paper",
+   "year": 2017,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2017-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Magnetic effects",
+   "problem_type": "判断磁场、受力或电机作用",
+   "search_text": "Question B2\n\nBeloit College has a “homemade” 500 kV VanDeGraﬀproton accelerator, designed and constructed\nby the students and faculty.\n\n\n\n\n\n              Accelerator dome (assume it is a sphere); accelerating column; bending electromagnet\n\n   The accelerator dome, an aluminum sphere of radius a = 0.50 meters, is charged by a rubber\nbelt with width w = 10 cm that moves with speed vb = 20 m/s. The accelerating column consists\nof 20 metal rings separated by glass rings; the rings are connected in series with 500 MΩresistors.\nThe proton beam has a current of 25 µA and is accelerated through 500 kV and then passes through\na tuning electromagnet. The electromagnet consists of wound copper pipe as a conductor. The\nelectromagnet eﬀectively creates a uniform ﬁeld B inside a circular region of radius b = 10 cm and\nzero outside that region.\n\n                            Metal rings of accelerating column\n\n              Dome                                                    Glass separators\n                                                                       Electromagnet\n\n\n\n\n\n                                                                                        Target\n\n\n\n                                       Resistor Chain\n Only six of the 20 metals rings and resistors are shown in the ﬁgure. The fuzzy grey path is the path taken by the\n            protons as they are accelerated from the dome, through the electromagnet, into the target.\n\n   a. Assuming the dome is charged to 500 kV, determine the strength of the electric ﬁeld at the\n      surface of the dome.\n\n   b. Assuming the proton beam is oﬀ, determine the time constant for the accelerating dome (the\n     time it takes for the charge on the dome to decrease to 1/e ≈1/3 of the initial value.\n\n    c. Assuming the 25 µA proton beam is on, determine the surface charge density that must be\n     sprayed onto the charging belt in order to maintain a steady charge of 500 kV on the dome.\n\n2017 USA Physics Olympiad Exam         Part B                                      10\n\n\n\n   d. The proton beam enters the electromagnet and is deﬂected by an angle θ = 10◦. Determine\n     the magnetic ﬁeld strength.\n\n                                            Electromagnet\n\n\n\n\n                                                              θ\n\n                                                             Proton beam path\n\n\n\n    e. The electromagnet is composed of layers of spiral wound copper pipe; the pipe has inner\n     diameter di = 0.40 cm and outer diameter do = 0.50 cm. The copper pipe is wound into this\n     ﬂat spiral that has an inner diameter Di = 20 cm and outer diameter Do = 50 cm. Assuming\n     the pipe almost touches in the spiral winding, determine the length L in one spiral.\n\n                                           Do\n                                               Di\n\n\n\n\n\n     f. Hollow pipe is used instead of solid conductors in order to allow for cooling of the magnet.\n       If the resistivity of copper is ρ = 1.7 × 10−8Ω· m, determine the electrical resistance of one\n       spiral.\n\n   g. There are N = 24 coils stacked on top of each other. Tap water with an initial temperature\n      of Tc = 18◦C enters the spiral through the copper pipe to keep it from over heating; the\n     water exits at a temperature of Th = 31◦C. The copper pipe carries a direct 45 Amp current\n      in order to generate the necessary magnetic ﬁeld. At what rate must the cooling water ﬂow\n     be provided to the electromagnet? Express your answer in liters per second with only one\n      signiﬁcant digit. The speciﬁc heat capacity of water is 4200 J/◦C · kg; the density of water is\n     1000 kg/m3.\n\n   h. The protons are ﬁred at a target consisting of Fluorine atoms (Z = 9). What is the distance\n      of closest approach to the center of the Fluorine nuclei for the protons? You can assume that\n     the Fluorine does not move.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2017 USAPhO  Solutions",
+     "url": "https://www.aapt.org/physicsteam/upload/USAPhO-2017-Solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2017-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2017-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2017-usapho-question-paper__q06.md"
+  }
+ ]
+}

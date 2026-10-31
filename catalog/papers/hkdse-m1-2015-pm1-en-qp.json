@@ -1,0 +1,572 @@
+{
+ "group": "hkdse-m1-2015-pm1-en-qp",
+ "course_id": "DSE-M1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 12,
+ "questions": [
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q01",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "概率分布",
+   "knowledge_point": "离散随机变量",
+   "problem_type": "从概率分布求参数、期望或方差",
+   "search_text": "1. The table below shows the probability distribution of a discrete random variable XY, where a and b\nare constants:\n2\n3\nx\nP(X = x)\n0.45\n0.08\n0.15\nIt is given that E(X)=5.64 . Find\n(a) aand b,\n(b) E((6—5X)?) and Var(6-5X) .\n(6 marks)\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q01.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q02",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "2. A and B are two events. Suppose that P(A)=0.3 , P(B)=0.28 and P(B'| A’)=0.6 , where A’\nand B’ are the complementary events of 4 and B respectively.\n(a) Find P(4'q B’) and P(A’ B) .\n(b) Are A and B mutually exclusive? Explain your answer.\n(6 marks)\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q02.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q03",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "概率",
+   "knowledge_point": "条件概率",
+   "problem_type": "在新增条件下计算概率",
+   "search_text": "3. A bag contains 2 white balls and 5 yellow balls. In a survey, each interviewee draws a ball randomly\nfrom the bag. Ifa white ball is drawn, then the interviewee considers the question ‘Are you a smoker?’ .\nIf a yellow ball is drawn, then the interviewee considers the question ‘Are you a non-smoker?’ .\nFinally, the interviewee answers either ‘Yes’ or ‘No’. Let p be the probability that a randomly selected\ninterviewee is a smoker.\n(a) Express, in terms of p, the probability that a randomly selected interviewee answers ‘Yes’.\n(b)  Inthis survey, 50 out of 91 interviewees answer ‘Yes’ .\n(i) Find p.\n(ii) Given that an interviewee answers ‘No’, find the probability that the interviewee is a\nnon-smoker.\n(6 marks)\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q03.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q04",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "4, A manufacturer of brand B biscuits starts a promotion plan by giving one reward points card in each\npacket of biscuits. It is found that 75% of the packets of brand B biscuits contain 3-point cards and\nthe rest contain 7-point cards. A total of 20 points or more can be exchanged for a gift coupon.\nJohn buys 4 packets of brand B biscuits and he opens them one by one.\n(a) Find the probability that John gets the first 7-point card when the 4th packet of brand B biscuits\nhas been opened.\n(b) Find the probability that John can exchange for a gift coupon.\n(c) Given that John can exchange for a gift coupon, find the probability that he gets a 7-point card\nwhen the 4th packet of brand B biscuits has been opened.\n(7 marks)\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q04.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q05",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "2\n5. (a) Expand e7** in ascending powers of x as far as the term in x?\n5\n(b) Find the coefficient of x? in the expansion of ae .\ne\n(5 marks)\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q05.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q06",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "3 x+1\n6. Consider the curves C,:y=e**+e* and Cy: y=e**\n+e\n(a) _ Find the x-coordinates of the two points of intersection of C, and C, .\n(b) Express, in terms of e, the area of the region bounded by C, and C, .\n(6 marks)\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q06.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q07",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "te Consider the curve C: y=xV2x 41.\n., dy\n(a) in dx\nFind — .\n(b) Two of the tangents to C are perpendicular to the straight line 3x+17y=0 . Find the equations\nof the two tangents.\n(7 marks)\n\nPlease stick the barcode label here.\n_ ‘poyRUl oq JOU [JIM SUTSIeW ot) UT UOWIIM sIomsuy\n“poyIeUT 9q JOU TIM SUIZIeUT oy} UI Ua} SIOMsUy\nAnswers written in the margins will not be marked.\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q07.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q08",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "8. (a) Express (x8 +1) Inix? +0) in the form £(x) + g(x) In(x? +1) ; where f(x) and g(x) are\npolynomials.\n(b) Find f x) In(x? + 1dr\n(7 marks)\n\n門ease stick the barcode label here.\n\n\n\n\n\n·                                               ·\np                                               p;9I                                                                                             ){\nm                                                                                                                                                                                          .ill\n                                                EgE                                                q<qi                                                                                                                                            :J.\no                                               O\nu                                               U\nW                                                mA\\sSM\n lf!                                                                                            ur21 l3JB                                                                                                                                            1:?\nUI                                               mg                                               =qi                                                                                           qi\n lI!                                                                          UI\nu                                               Ug                                               >\nu                                                U!]pM                                                                                             M.sJ                                                                                             SJg                                                                              0\nMs                                                                                                                                        A\\S\nu                                               U\ny                                               V\n\n\n\n\n\n   Answers written in the margins will not be marked.\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q08.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q09",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "概率分布",
+   "knowledge_point": "正态分布",
+   "problem_type": "用正态分布求概率、分位点或参数",
+   "search_text": "9.    The speeds of cars passing a checkpoint on a highway follow a normal distribution with a mean\n       ofµkm/h and a standard deviation of 16 km/h    .\n            (a)   A survey on the speeds of cars to estimateµis conducted.\n                     (i)  A random sample of 25  cars is taken and the stem-and-leaf diagram below shows the\n                          distribution of their speeds (in km/h):\n                      Stem (tens)  Leaf (units)\n                                   6   0   0      I       1       1   2   2    3   4   4  5 5  6   6  7\n                                  7     I      1   2    3    5   5   6\n                                      8   3    6   7\n                      Find a 95% confidence interval forµ.\n·                    (ii)    Find the least sample size to be taken such that the width of a 97.5% confidence interval\np              forµis less than 9   .                          、                                             薳8I                                                                                                                                                                  '.,｀karm7丿s勺                                             考S                                                                                                                                        .:i                                             qq日a        (b)    Suppose thatµ= 66    .  If the speed of a car passing the checkpoint exceeds  90 km/h  , a penalty\niou                ticket wi1l be issued.                                                              iou\nm                                                                                        IH\n                                             Ms .M.S                    (i)     If a car passes the checkpoint, find the probability that a penalty ticket will be issued.\n                                             ƚƛ 'CJ!ƙ\n .ll!                    (ii)    If 12  cars pass the checkpoint, find the probability that more than 2  penalty tickets will    .rn\n                                             ES                                             0a                  be issued.                                                                                   q1 q:i                                                                                                                   (5 marks)\n 'CJ!                                            5uua                                            a.n                                                                                        :p\nµ.M.                                                                                        M.p\n s.1.i                                                                                      s1.:i\n .M.s                                                                                                                                     M.s\nu\ny                                                                                                                                        uy\n\n\n\n\n\n    Answers written in the margins will not be marked.\n\n“power oq JOU [[IM SUISIeW ot) UT UOyLIM SIomsuy\n“PoyILUL 0g JOU [JIM SUTSIVUT OY} UT UOyLIM SIomsuy\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q09.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q10",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "10. The number of customers buying tickets at cinema A in a minute can be modelled by a Poisson\ndistribution with a mean of 3.2 . The probability distribution of the number of tickets bought by a\ncustomer at cinema A is shown in the following table:\nNumber of tickets bought 1 2 3 4 5 6 27\nProbability 0.12 0.7 0.08 0.04 0.03 0.02 0.01\n(a) Find the probability that fewer than 4 customers buy tickets at cinema 4 in a certain minute.\n(3 marks)\n(b) Find the probability that the 8th customer buying tickets at cinema A is the 3rd customer who\nbuys 2 tickets. (2 marks)\n(c) Find the probability that exactly 3 customers buy tickets at cinema A ina certain minute and\neach of them buys 2 tickets. (2 marks)\n(d) Find the probability that exactly 3 customers buy tickets at cinema A ina certain minute and\nthey buy a total of 6 tickets. (3 marks)\n(e) Given that fewer than 4 customers buy tickets at cinema A in a certain minute, find the\nprobability that they buy a total of 6 tickets.\n(3 marks)\n\n“poyreu oq JOU | [IM SUISIeUr oY} UT UOPLIM sIoMsUy\n“poxieUd oq JOU [ILM SUISIRUI OU} UT UOWLIM sIOMsUy\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q10.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q11",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "11. An engineer models the rates of change of the amount of oil produced (in hundred barrels per day) by oil\ncompanies X and Y respectively by\n£() =In(e! 1) and 20) = ,\nwhere 1(2 <¢<12) is the time measured in days.\nUsing the trapezoidal rule with 5 sub-intervals, estimate the total amount of oil produced by oil\n(a)\ncompany X from ¢=2 to ¢=12. (3 marks)\nDetermine whether the estimate in (a) is an over-estimate or an under-estimate. Explain your\n(b)\nanswer. (3 marks)\nFind [ae . (3 marks)\n. t\nl+t\nThe engineer claims that the total amount of oil produced by oil company X from ¢=2\n(d)\nto t=12 is less than that of oil company Y. Do you agree? Explain your answer. (3 marks)\n\n“poyEUT 9q JOU [JIM SUISICU oY} UI UsyLIM sIomsuy\n“poxeU 9q JOU [JIM SUTSIeU ou} UL UOLIM sIomsuy\nAnswers written in the margins will not be marked.\n\n“PoxJLW 0q JOU [JIM SUTSIeU OY} UI UaQLIM sIomsuy\n“poxyeU 9q JOU [JIM SULBIEUL ou} UT UoyWLIM SIOMSUy\nAnswers written in the margins will not be marked.\n\n“PoYIeUL 0q JOU [JIM SUTSIeUI OY} UT UONLIM sIoMsUy\n“payRU 9g JOU [IM SUTSIeUL OU} UI WOM SIOMSUy\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q11.md"
+  },
+  {
+   "paper_id": "hkdse-m1-2015-pm1-en-qp",
+   "year": 2015,
+   "session": "Annual",
+   "paper": "M1",
+   "variant": "English M1",
+   "id": "hkdse-m1-2015-pm1-en-qp__q12",
+   "exam_id": "DSE-M1",
+   "course_id": "DSE-M1",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "12. In an experiment, the temperature (in °C ) of a certain liquid can be modelled by\n200\n1+a2!?\nwhere a and b are constants and ¢ is the number of hours elapsed since the start of the experiment.\n200 . :\n(a) Express In! — ~—1| asa linear function of 7. (2 marks)\n(b) It is found that the intercepts on the vertical axis and the horizontal axis of the graph of the linear\nfunction obtained in (a) are In4 and 4 respectively.\n(i) Find a and b.\n« _ dS ds\n(ii) in q an i\nFind — and ——.\n(iii) Describe how S and S vary during the first 48 hours after the start of the\nexperiment. Explain your answer.\n(11 marks)\n\nmarked.                                                                                                                                                               marked.\nbe                                              be\nnot                                                                    not\nwill                                                                                           will\nmargins                                                                                                                                                               margins\nthe                                                                    the\nin                                              in\nwritten                                                                                                                                                               written\nAnswers                                                                                                                                                               Answers\n\n\n\n\n\n    Ans wers wri tte n i n t he mar gi ns w illnot be mar ke d.\n\n“PpoxJLU 9q JOU | [IM SUTSILUI OY} UT UOYLIM SIomsuy\n“POALUL 9q JOU [JIM SUISIVUI 9) Ul UOyTIM sIOMSUY\nAnswers written in the margins will not be marked.\n\n“poxiRU oq JOU [JIM SUTSIRU OY} UT UOWLIM sIoMsUy\n“PoysUT 9q JOU JIM SUTSIVUI OY} UI UOWIIM SIOMsUy\n\nStandard Normal Distribution Table\nZz 00 01 02 03 04 05 06 07 08 09\n0.0 | 0000 .0040 .0080 .0120 .0160 0199 0239 0279 .0319 .0359\n0.1 0398 .0438 0478 0517 .0557 0596 =.0636 §=.0675 = 0714 — 0753\n0.2 0793 0832-0871 = 0910) 0948) 0987 1026S «1064 = 1103141\n0.30) 1179 1217) 1255) 1293, .1331 £1368 = 1406) 1443, 14801517\n0.4 1554 15911628) 1664. 1700S .1736—S 1772S s—« 1808 )~=— 18441879\n0.5 | 1915 1950 1985 = .2019 2054) .2088 = 2123) 2157S .2190 2224\n0.6 | 2257 .2291  .2324 «2357-2389 .2422,) 24542486) 25172549\n0.7 | 2580 .2611 .2642 2673. 2704 = .2734 2764 = 279428232852\n0.8 2881 = .2910 2939 2967) .2995 3023, 3051 = 3078 )=— 3106) 3133\n0.9 3159 3186 = .3212) 3238 = .3264. 3289) 3315 3340) 3365 = 3389\n1.0 3413 3438 = .3461 3485) .3508 = 3531) 3554. 3577 3599 3621\nLl 3643 3665 = 3686 = 3708 )=— 3729S 3749. 3770) 3790) 3810 = .3830\n1.2 3849 3869 = 3888 = 3907 = 3925. 3944 3962) 3980) = 39974015\n1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 4177\n1.4 | 4192 4207 4222 4236 4251 4265 4279 4292 -.4306 4319\n1.5 4332 4345 =.4357. 4370 = 4382. 4394. 4406 = 4418 44294441\n1.6 4452 4463 4474 4484004495 4505 4515 452545354545\n1.7 4554 4564 4573 .4582 .4591 4599 4608 4616 .4625 .4633\n1.8 4641 4649 4656 4664 4671 4678 4686 .4693 4699 .4706\n1.9 | 4713 4719 4726 4732 4738 4744 4750 4756 4761 .4767\n2.0 A772, ATT8.~—«A783.—s A788) — 4793, A798-~— 48034808 = 48124817\n2.1 4821 =.4826 ~=.4830 Ss 4834-4838 = 48424846 4850) = 48544857\n2.2 | 4861 4864 4868 4871 4875 4878 4881 4884 .4887 4890\n2.3 A893 4896 ~— 4898 4901 = 64904 4906 = 4909S 491149134916\n24 4918 4920 4922 4925 4927 4929 4931 4932 4934 4936\n2.5 4938 4940 4941 4943 4945 4946 4948 4949 4951 .4952\n2.6 4953, 4955 4956 =.4957 — 4959 4960 = 4961 = 4962) 49634964\n2.7 4965 4966 4967 4968 4969 4970 4971 4972 4973 .4974\n2.8 | 4974 4975 4976 4977 4977 4978 4979 .4979 4980 4981\n2.9 | 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986\n3.0 4987 4987 4987 4988 4988 4989 4989 4989 4990 .4990\n3.1 | 4990 4991 4991 4991 4992 .4992 4992 4992 4993 4993\n3.2 4993 4993 4994 4994 4994 4994 4994 4995 49954995\n3.3 4995 4995 4995 4996 4996 .4996 4996 4996 4996 4997\n3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997  .4998\n3.5 4998 4998 4998 4998 4998 4998 4998 4998 4998 4998\nNote: An entry in the table is the area under the standard normal curve between x=0 and\nx=z (z20). Areas for negative values of z can be obtained by symmetry.\n1\ne2 dx\nA@=f\n\\2x\n27\nProvided by dse.life\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "HKDSE Mathematics M1 2015 Paper M1 English mark_scheme",
+     "url": "https://dse247.com/wp-content/uploads/storage/M1%20/DSE/2015/2015ans.pdf"
+    }
+   ],
+   "topic_tags": [
+    "hkdse-m1-2015-pm1-en-qp__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-010.zip",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-010.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/hkdse-m1-2015-pm1-en-qp__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-010.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/DSE-M1/hkdse-m1-2015-pm1-en-qp__q12.md"
+  }
+ ]
+}

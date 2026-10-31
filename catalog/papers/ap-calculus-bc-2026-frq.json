@@ -1,0 +1,290 @@
+{
+ "group": "ap-calculus-bc-2026-frq",
+ "course_id": "AP-CALCULUS-BC",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "ap-calculus-bc-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2026-frq__q01",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "微分",
+   "knowledge_point": "相关变化率",
+   "problem_type": "连接两个量的变化率",
+   "search_text": "1. Male birds of a certain species arrive at a nesting area over a thirty-day period. The rate at\n  which the male birds arrive at the nesting area at time t days is modeled by a differentiable\n  function M, where M     is measured in number of birds per day. Selected values of M    are                           t^ h                                                                     t^ h  shown in the table.\n\n\n                          t (days)               0   5   10  15  20  25  30\n          M    (birds per day)    2   7   16   6   5   2   0                         t^ h\n\n  (Note: Your calculator should be in radian mode.)\n\n  Part A\n  Approximate M  7.5 using the average rate of change of M over the interval 5 # t # 10 . Show                        l^   h  the work that leads to your answer, and indicate units of measure.\n\n  Part B\n            i. Use a midpoint Riemann sum with the three subintervals  ,0 10  10, 20  and 20, 30 to                             30                                              6     @, 6       @,      6      @\n              M                                               t                                    dt . Show the work that leads to your answer.        approximate y0                                ^                                  h                                           30\n                    M                                                                 t                                                 dt in the context of the problem.          ii. Interpret the meaning of y0                                             ^                                                h\n  Part C\n  The rate at which female birds of the same species arrive at the same nesting area, in birds per\n  day, is modeled by the function F defined as follows.\n\n                             0                           for 0 # t < 15\n                   =                              r                  F                                            t                             18 + 16 sin                                                                             t + 15    for 15 # t # 45                              ^                                h                                        20                                *                                                  `   ^      hj\n\n  How many female birds of this species arrive at the nesting area from t = 15 to t = 45 ? Show the\n  setup for your calculations, and round your answer to the nearest integer.\n\n  Part D\n  On the interval 15 < t < 30 , the difference in the rates at which male and female birds\n  of this species arrive at the nesting area can be modeled by the differentiable function\n  D  t = M  t - F  t  where F is the function defined in part C. Is there a time t in the interval                h     ^                             h,         20^  15^<ht <            D          when                                     t = 0 ? Justify your answer.                         ^ h\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus BC ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2026-frq__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2026-frq__q01.md"
+  },
+  {
+   "paper_id": "ap-calculus-bc-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2026-frq__q02",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "2. Let S be the shaded region bounded by the graph of the polar curve\n   r i = 3 + 2 sin 2i + cos 2i  for 0 # i # r, as shown in the figure.    ^ h             ^   h       ^   h\n\n\n\n\n\n   It can be shown that r i = 4 cos 2 i - 2 sin 2i                               l^ h         ^   h        ^   h.\n  (Note: Your calculator should be in radian mode.)\n\n  Part A\n  Find the area of region S. Show the setup for your calculations.\n\n  Part B\n                                                                           3\n  There is a point on the curve at which the slope of the line tangent to the curve is - 7 . At this\n         dy   3 2       dx  point,   =  2    . Find     at this point. Show the work that leads to your answer.        di            di\n\n  Part C\n                                  r\n            i. Find the value of i in the interval 0 < i < 2 at which r has a critical point.\n          ii. Use a derivative test to determine whether the critical point is the location of a relative\n       minimum, a relative maximum, or neither for r.\n\n  Part D\n  Find the average distance from the origin to a point on the polar curve\n                        r   r i = 3 + 2 sin 2i + cos 2 i  for  # i # r. Show the setup for your calculations.    ^ h             ^   h       ^   h    2\n\n\n\n                          END OF PART A\n\nCALCULUS BC\n                            SECTION II PART B\n                               TIME – 1 HOUR\n\n\n\n\nDirections:\nSection II, Part B has 4 free-response questions and lasts 1 hour.\nA calculator is not allowed for this part of the exam.\nYou may use the available paper for scratch work and planning, but only work written in the free-\nresponse booklet will be scored. Any work done on scratch paper will not be scored. In the free-\nresponse booklet, write your solution to each part of each question in the space provided for that\npart. For questions that have sub-parts, be sure to label those clearly in your solution. Use a pencil\nor a pen with black or dark blue ink.\nShow all of your work, even though a question may not explicitly remind you to do so. Clearly label\nany functions, graphs, tables, or other objects that you use. Justifications require that you give\nmathematical reasons and that you verify the needed conditions under which relevant theorems,\nproperties, definitions, or tests are applied. Your work will be scored on the correctness and\ncompleteness of your methods as well as your answers. Answers without supporting work will\nusually not receive credit.\nYour work must be expressed in standard mathematical notation rather than calculator syntax. For\n                            X 2, X, ,1 5             x 2 dx may not be written as fnIntexample, 5y1                                                  ^                                                                         h.\nUnless otherwise specified, answers (numeric or algebraic) need not be simplified. If you use\ndecimal approximations in calculations, your work will be scored on accuracy. Unless otherwise\nspecified, your final answers should be accurate to three places after the decimal point.\nUnless otherwise specified, the domain of a function f is assumed to be the set of all real numbers x\nfor which  f x  is a real number.             ^ h\nYou can go back and forth between questions in this part until time expires. The clock will turn red\nwhen 5 minutes remain—the proctor will not give you any time updates or warnings.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus BC ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2026-frq__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2026-frq__q02.md"
+  },
+  {
+   "paper_id": "ap-calculus-bc-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2026-frq__q03",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "微分方程",
+   "knowledge_point": "微分方程",
+   "problem_type": "解微分方程并代入初始条件",
+   "search_text": "3. A pie is taken from a hot oven and put on a table. The internal temperature of the pie at\n  time t minutes can be modeled by the function H that satisfies the differential equation\n          1  dH    = -         H - 20  where H     is measured in degrees Celsius and H 0 = 75 . For t > 0 , it is         15    dt         ^         h,           t^ h                                           ^ h\n  known that 20 < H  t < 75 .                        ^ h\n\n  Part A\n  Explain why the following could not be a slope field for the differential equation\n          1  dH    = -         H - 20         15    dt         ^         h.\n\n\n\n\n\n  Part B\n  Find the slope of the line tangent to the graph of H at time t = 0 . Show the work that leads to\n  your answer.\n\n  Part C\n                     d                              2 H                      H - 20   It can be shown that                                    The line tangent to the graph of H at time t = 0 is used                               2 = 225                            1  ^                                                         h.                           dt\n  to approximate H 5  the internal temperature of the pie at time t = 5 . Is this approximation an                       ^  h,  overestimate or an underestimate for the actual value of H 5  Give a reason for your answer.                                                                     ^ h?\n\n  Part D\n  Use separation of variables to find an expression for H    the particular solution to the given                                                                t^ h,   differential equation with initial condition H 0 = 75 .                                                     ^ h\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus BC ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2026-frq__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2026-frq__q03.md"
+  },
+  {
+   "paper_id": "ap-calculus-bc-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2026-frq__q04",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "求导法则",
+   "problem_type": "求函数导数或指定点的导数",
+   "search_text": "4. Let f be a twice-differentiable function on the closed interval - ,4 4 with  f 2 = 3 . The graph of                                                                       6     @        ^ h     f l, the derivative of f, is shown.\n\n\n\n\n\n  Part A\n  For x > 0 , the function g is defined by g x = f x - ln x . Find g 2  Show the work that leads to                                               ^ h    ^ h                  l^  h.  your answer.\n\n  Part B\n  Find all values of x on the open interval 0 < x < 3 at which the graph of f has a point of\n   inflection. Give a reason for your answer.\n\n  Part C\n  For - 4 # x # 4 , on what open intervals, if any, is the graph of f both increasing and concave\n  down? Give a reason for your answer.\n\n  Part D\n  For - 4 # x # 4 , find the value of x at which f has an absolute minimum and the value of x at\n  which f has an absolute maximum. Give reasons for your answers.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus BC ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2026-frq__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2026-frq__q04.md"
+  },
+  {
+   "paper_id": "ap-calculus-bc-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2026-frq__q05",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "积分",
+   "knowledge_point": "定积分",
+   "problem_type": "用定积分求累积量或区间积分",
+   "search_text": "5. Let f be the function defined by  f x = 3 x - 1 , and let g be the function defined by                                        ^ h\n          -2x + 4                                                                         ,2 1  g     x     = e ^                                                                Let R be the region bounded     ^       h                          h. The graphs of f and g intersect at the point ^                                                                                        h.\n  by the graph of f, the x-axis, and the vertical line x = 2 , as shown in the figure.\n\n\n\n\n\n  Part A\n\n                2\n                        f                 x                  dx . Show the work that leads to your answer.  Evaluate y1                  ^                    h\n\n  Part B\n  Write, but do not evaluate, an expression involving one or more integrals that gives the volume\n  of the solid generated when region R is rotated about the x-axis.\n\n  Part C\n  Write, but do not evaluate, an expression involving one or more integrals that gives the\n  perimeter of region R.\n\n  Part D\n\n          3\n  Evaluate y  g x dx . Show the work that leads to your answer.               2   ^ h\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus BC ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2026-frq__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2026-frq__q05.md"
+  },
+  {
+   "paper_id": "ap-calculus-bc-2026-frq",
+   "year": 2026,
+   "session": "May",
+   "paper": "FRQ",
+   "variant": "",
+   "id": "ap-calculus-bc-2026-frq__q06",
+   "exam_id": "AP-CALCULUS-BC",
+   "course_id": "AP-CALCULUS-BC",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "级数",
+   "knowledge_point": "麦克劳林展开",
+   "problem_type": "构造展开式并进行近似或组合",
+   "search_text": "6. The Maclaurin series for a function g is given by\n   3\n                 2                       2                             2                                     2     -                                    -     2                                            x 4 - g + 2                                                                                      x                                        + g and converges to g        5         = 2 - 5                                                  5                     x + 25                            x 2 - 125                                    x 3 + 625 /                                                                                                 ^                                                                                                   h        `          x jn                                                              `                                                          x jn   = 0   n\n  for x < 5 .\n\n  Part A\n  For x > 0 , the Maclaurin series for g is an alternating geometric series. Find g 3  Show the                                                                                          ^  h.  work that leads to your answer.\n\n  Part B\n  The function f is defined by  f x = g l x  Write the first four nonzero terms of the Maclaurin                                   ^ h     ^  h.  series for f.\n\n  Part C\n                                                                         5      3\n  The second-degree Taylor polynomial for f about x = 0 is used to approximate  f 2  as - 10 ,                                                                                            a  k                                                   5      3    1\n  where f is the function defined in part B. Justify that   f 2 - - 10 # 5 .                                                                a  k  a     k\n  Part D\n  The function h is defined by h x = 25 g x - 2 e x .                                    ^ h       ^ h\n            i. Write the first three nonzero terms of the Maclaurin series for ex.\n          ii. Write the first three nonzero terms of the Maclaurin series for h.\n\n\n\n                              STOP\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 Scoring Guidelines: AP® Calculus BC ",
+     "url": "https://apcentral.collegeboard.org/media/pdf/ap26-sg-calculus-bc.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ap-calculus-bc-2026-frq__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-002.zip",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-002.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ap-calculus-bc-2026-frq__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-002.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AP-CALCULUS-BC/ap-calculus-bc-2026-frq__q06.md"
+  }
+ ]
+}

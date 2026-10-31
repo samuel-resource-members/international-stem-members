@@ -1,0 +1,196 @@
+{
+ "group": "caie-igcse-0625-2025-may-june-p5-v2-qp",
+ "course_id": "CIE-0625",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "caie-igcse-0625-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2025-may-june-p5-v2-qp__q01",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Physical quantities and measurement",
+   "problem_type": "读仪器、换单位或求测量量",
+   "search_text": "1    In this experiment, you will determine the internal diameter d of a boiling tube.\n\n    You are provided with an empty boiling tube held vertically in the clamp of a retort stand.\n\n    The apparatus is assembled as shown in Fig. 1.1.\n\n\n\n\n\n                           stand\n\n\n\n\n                                        d        boiling tube\n\n                                     water\n\n                                           h\n\n\n\n                                               Fig. 1.1\n\n     (a)  •   Add water from the beaker to the measuring cylinder up to the 100 cm3 mark.\n\n           •   Add water from the measuring cylinder to the boiling tube until the boiling tube is\n             approximately one‑sixth full.\n\n             (i)  Measure the height h of the water in the boiling tube in centimetres to the nearest\n               millimetre.\n\n            Record your result in the top row of Table 1.1.                                                [1]\n\n                                        Table 1.1\n\n\n               h / cm             R / cm3               V / cm3\n\n\n\n\n\n             (ii)  Take the reading R of the volume of water remaining in the measuring cylinder.\n\n            Record your answer in the top row of Table 1.1.                                             [1]\n\n(b)   (i)   •   Add approximately a further 10 cm3 of water from the measuring cylinder into the\n                       boiling tube.\n\n                   •   Measure the new height h of the water in the boiling tube and the reading R of the\n                   water remaining in the measuring cylinder.\n\n             Record your results in the second row of Table 1.1.                                         [1]\n\n                (ii)  Repeat (b)(i) three more times, so that you have five sets of readings in Table 1.1.    [1]\n\n        (c)  Calculate the volume V of water poured into the boiling tube for each different height h of\n            water.\n\n         Use the equation V = (100 cm3 – R).\n\n          Record your results in Table 1.1.\n\n\n\n                                                                                                                          [1]\n\n       (d)  Plot a graph of V / cm3 (y‑axis) against h / cm (x‑axis). Start your axes at the origin (0, 0).\n\n         Draw the best‑fit straight line.\n\n\n\n\n\nV / cm3\n\n\n\n\n\n         0\n          0\n\n                                             h / cm\n\n                                                                                                                          [3]\n\n(e)  Determine the gradient G of your line. Show all working and indicate on the graph the values\n    you use.\n\n\n\n\n\n                              G =  .........................................................  [1]\n\n(f)    (i)  The internal diameter d of a cylinder is given by the equation d = k G, where k = 1.13 cm.\n\n         Calculate d for the boiling tube.\n\n\n\n\n\n                                          d =  ................................................... cm [1]\n\n      (ii)  Suggest one reason why your calculated value for d is only approximate.\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n(g)   It is important to avoid line‑of‑sight (parallax) errors when reading the scale of the measuring\n     cylinder.\n\n    Describe how such errors are avoided. You may draw a diagram.\n\n\n\n\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n                                                                                                      [Total: 12]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-may-june-p5-v2-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v2-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v2-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-may-june-p5-v2-qp__q01.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2025-may-june-p5-v2-qp__q02",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "2    In this experiment, you will investigate a light‑dependent resistor (LDR).\n\n    You are provided with a series circuit consisting of a power supply, a switch, a 470 Ω resistor and\n    an LDR.\n\n     (a) Draw a circuit diagram of the circuit that has been set up for you. Choose symbols from the\n             list in Fig. 2.1.\n\n\n\n\n\n              + –\n\n\n\n                                               Fig. 2.1\n\n\n\n\n\n                                                                                                                       [2]\n\n     (b)   (i)   •   Close the switch.\n                •   Connect the voltmeter between points X and Y.\n\n            Record the voltmeter reading VXY.\n\n                                            VXY =  ...................................................... V [1]\n\n             (ii)   •   Connect the voltmeter between points Y and Z.\n\n            Record the voltmeter reading VYZ.\n\n                                             VYZ =  ........................................................... V\n\n                •   Open the switch.                                                                            [1]\n\n(c)   (i)  The current I in the circuit is calculated using the equation:\n                                    VXY\n                                            I =        ,                             R\n\n        where R = 470 Ω.\n\n       Use your voltmeter reading in (b)(i) to calculate the current I.\n\n\n\n\n\n                                                        I =  ...................................................... A [1]\n\n      (ii)  The resistance of the LDR is calculated using the equation:\n                                      VYZ\n                          R =        .                                                  I\n\n       Use your voltmeter reading in (b)(ii) to calculate the resistance R of the LDR.\n\n\n\n\n\n                                R =  ..................................................... Ω [1]\n\n(d)  •   Disconnect the voltmeter from points Y and Z.\n     •   Place the piece of card on top of the LDR.\n\n    Repeat the measurements made in (b).\n\n\n                                        VXY =  ........................................................... V\n\n                                          VYZ =  ........................................................... V\n                                                                                                                 [1]\n\n(e)  •   Ensure that the voltmeter is connected between points Y and Z.\n     •   Close the switch.\n     •   Hold the card horizontally about 50 cm above the LDR.\n     •   Slowly move the card towards the LDR until it rests on top of the LDR.\n     •   Observe the reading on the voltmeter as you move the card.\n\n    Describe your observations.\n\n        ...................................................................................................................................................\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n(f)  When the LDR is covered by the card, the current in the circuit changes.\n\n   Use your results in (b) and (d) to state how this change in current affects the total potential\n     difference (VXY + VYZ).\n\n\n\n\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n(g) Compare your value for the potential difference VYZ across the LDR in bright light in (b) with\n    the value for the potential difference VYZ across the LDR in the dark in (d).\n\n    Suggest what causes the change in the readings as the intensity of the light reaching the\n   LDR decreases.\n\n        ...................................................................................................................................................\n\n        .............................................................................................................................................  [1]\n\n                                                                                                      [Total: 10]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-may-june-p5-v2-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v2-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v2-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-may-june-p5-v2-qp__q02.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2025-may-june-p5-v2-qp__q03",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "3",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "3    In this experiment, you will investigate the image formed by a converging lens.\n\n    Refer to Fig. 3.1.\n\n\n                            illuminated\n                           object            converging lens\n                                                      in holder\n                                                                         screen\n\n\n\n\n\n                               D\n\n\n\n                                               Fig. 3.1\n\n     (a)   (i)   •   Switch on the lamp.\n                •   Place the screen a distance D = 80.0 cm from the illuminated object (the triangular\n                 hole in the card).\n                •   Place the lens close to the illuminated object.\n                •   Move the lens away from the illuminated object until a magnified, sharp image of the\n                   illuminated object is formed on the screen.\n                •   Do not move the illuminated object, the lens or the screen after this image position\n                       is found.\n\n            Measure, to the nearest 0.1 cm, the object distance x1 from the centre of the lens to the\n              illuminated object.\n\n                                                       x1 =  ................................................... cm [1]\n\n             (ii)  Continue to move the lens away from the illuminated object until a diminished, sharp\n           image of the illuminated object is formed on the screen.\n\n            Measure, to the nearest 0.1 cm, the object distance y1 from the centre of the lens to the\n              illuminated object.\n\n                                                       y1 =  ................................................... cm [1]\n\n            (iii)  Calculate the value d = (y1 – x1).\n\n\n\n                                              d =  ................................................... cm [1]\n\n(b) The focal length f of the lens can be found using the equation:\n                                    (D 2 – d 2)\n                                                               f =                 .\n                                4D\n\n   Use the value of D from (a)(i) and d from (a)(iii) to calculate a value f1 for the focal length of\n    the lens.\n\n    Give your answer to a suitable number of significant figures for this experiment.\n\n\n\n\n\n                                                                   f1 =  ................................................... cm [2]\n\n(c)   (i)  Repeat the procedure in (a)(i), (a)(ii) and (a)(iii) for an illuminated object to screen\n         distance D = 100.0 cm.\n\n        Record your values of x2, y2 and d.\n\n                                                   x2 =  ......................................................... cm\n\n                                                   y2 =  ......................................................... cm\n\n                                          d =  ......................................................... cm\n                                                                                                                 [1]\n\n      (ii)  Calculate a second value f2 for the focal length of the lens using the equation in (b) and\n        your values in (c)(i).\n\n\n\n\n\n                                                                    f2 =  ................................................... cm [1]\n\n(d) Two quantities can be considered to be equal within the limits of experimental accuracy  if\n     their values are within 10% of each other.\n\n    State whether your values of f1 and f2 from (b) and (c)(ii) can be considered equal.\n\n    Support your statement with a calculation.\n\n\n\n\n\n    statement ..................................................................................................................................\n\n        ...................................................................................................................................................\n                                                                                                                 [2]\n\n(e)   (i)  State one technique you use when doing the experiment to ensure that the image on the\n        screen is focused as clearly as possible.\n\n                ...........................................................................................................................................\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n      (ii)  This experiment is usually done in a darkened room.\n\n         Explain how this makes it easier to see when the image is in focus.\n\n                ...........................................................................................................................................\n\n                .....................................................................................................................................  [1]\n\n                                                                                                      [Total: 11]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-may-june-p5-v2-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v2-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v2-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-may-june-p5-v2-qp__q03.md"
+  },
+  {
+   "paper_id": "caie-igcse-0625-2025-may-june-p5-v2-qp",
+   "year": 2025,
+   "session": "May/June",
+   "paper": "5",
+   "variant": "2",
+   "id": "caie-igcse-0625-2025-may-june-p5-v2-qp__q04",
+   "exam_id": "CIE-0625",
+   "course_id": "CIE-0625",
+   "subject": "physics",
+   "question_number": "4",
+   "chapter": "Practical skills",
+   "knowledge_point": "Experimental design and data",
+   "problem_type": "处理实验变量、读数、图像和误差",
+   "search_text": "4   Hot water is poured into a glass beaker and allowed to cool down for 5 minutes.\n\n    Plan an experiment to investigate whether the rate of cooling of the hot water depends upon the\n      initial temperature of the hot water.\n\n    The rate of cooling of the water can be calculated using the equation:\n\n                                        decrease in temperature\n                              rate of cooling =                                          .\n                                                  time taken\n\n    You are provided with:\n\n     •   a supply of cold water\n     •   an electric kettle\n     •   a 250 cm3 glass beaker\n     •   a measuring cylinder.\n\n    You may use any other common laboratory apparatus.\n\n    You are not required to do this investigation.\n\n     In your plan, include:\n\n     •   any other apparatus needed\n     •   a brief description of the method, including what you will measure and how you will make\n        sure your measurements are accurate\n     •    the variables you will control\n     •   a results table to record your measurements (you are not required to enter any readings in\n         the table)\n     •   how you will process your results to reach a conclusion.\n\n    You may include a labelled diagram.\n\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n..........................................................................................................................................................\n.................................................................................................................................................... [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "Cambridge IGCSE Physics 0625 — May/June 2025 — Paper 5 — 2 — Mark Scheme",
+     "url": "https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0625_s25_ms_52.pdf"
+    }
+   ],
+   "topic_tags": [
+    "caie-igcse-0625-2025-may-june-p5-v2-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-005.zip",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v2-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/caie-igcse-0625-2025-may-june-p5-v2-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CIE-0625/caie-igcse-0625-2025-may-june-p5-v2-qp__q04.md"
+  }
+ ]
+}

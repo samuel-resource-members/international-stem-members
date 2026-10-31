@@ -1,0 +1,260 @@
+{
+ "group": "bmo1-2025-round-1-question-paper",
+ "course_id": "BMO1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "bmo1-2025-round-1-question-paper",
+   "year": 2025,
+   "session": "20 November 2024",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2025-round-1-question-paper__q01",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "1. We say that the positive integer 𝑛≥3 is happy if it is possible to arrange 𝑛different positive\n   integers in a circle such that two conditions are satisfied:\n    (a) If integers 𝑢and 𝑣in the circle are neighbours, then either 𝑢divides 𝑣or 𝑣divides 𝑢;\n    (b) If different integers 𝑢and 𝑣are in the circle but are not neighbours, then neither divides\n        the other.\n   Determine, with proof, which positive integers 𝑛in the range 3 ≤𝑛≤12 are happy.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2025-round-1-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2025-round-1-question-paper__q01.md"
+  },
+  {
+   "paper_id": "bmo1-2025-round-1-question-paper",
+   "year": 2025,
+   "session": "20 November 2024",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2025-round-1-question-paper__q02",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "2. A magician performs a trick with a deck of 𝑛cards that are numbered from 1 to 𝑛. The\n   magician prepares for the trick by putting the cards in an order of her choosing. Then she\n   challenges a member of the audience to write an integer on a board. The magician turns over\n   the cards one by one, in their pre-arranged order. Every time the magician turns over a card,\n   the audience member multiplies the number on the board by −1, adds it to the number on\n   the card, writes the result on the board, and erases the old number. The magician guarantees\n   that, no matter which initial integer is chosen, the initial and final numbers will sum to 0.\n   Determine for which natural numbers 𝑛the magician can perform the trick. You must both\n   prove that the trick is possible for the numbers you claim, and prove that it is not possible\n   for any other numbers.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2025-round-1-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2025-round-1-question-paper__q02.md"
+  },
+  {
+   "paper_id": "bmo1-2025-round-1-question-paper",
+   "year": 2025,
+   "session": "20 November 2024",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2025-round-1-question-paper__q03",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3. Rhian and Jack are playing a game in which initially the number 106 is written on a\n   blackboard.  If the current number on the board is 𝑛, a move consists of choosing two\n   different positive integers 𝑎, 𝑏such that 𝑛= 𝑎𝑏and replacing 𝑛with |𝑎−𝑏|. Rhian starts,\n   then the players make moves alternately. A player loses if they are unable to move.\n\n   Determine, with proof, which player has a winning strategy.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2025-round-1-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2025-round-1-question-paper__q03.md"
+  },
+  {
+   "paper_id": "bmo1-2025-round-1-question-paper",
+   "year": 2025,
+   "session": "20 November 2024",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2025-round-1-question-paper__q04",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "4. In the acute-angled triangle 𝐴𝐵𝐶we have 𝐴𝐵< 𝐴𝐶< 𝐵𝐶. The midpoint of 𝐵𝐶is 𝑀.\n   There is a point 𝑃on the line segment 𝐴𝑀such that 𝐴𝐵= 𝐶𝑃, and ∠𝑃𝐴𝐵= ∠𝐵𝐶𝑃.\n   Prove that ∠𝐶𝑃𝐵= 90◦.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2025-round-1-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2025-round-1-question-paper__q04.md"
+  },
+  {
+   "paper_id": "bmo1-2025-round-1-question-paper",
+   "year": 2025,
+   "session": "20 November 2024",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2025-round-1-question-paper__q05",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "5. Let 𝑝be a prime number, and let 𝑛be the smallest positive integer, strictly greater than 1,\n   for which 𝑛6 −1 is divisible by 𝑝.\n   Prove that at least one of (𝑛+ 1)6 −1 and (𝑛+ 2)6 −1 is divisible by 𝑝.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2025-round-1-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2025-round-1-question-paper__q05.md"
+  },
+  {
+   "paper_id": "bmo1-2025-round-1-question-paper",
+   "year": 2025,
+   "session": "20 November 2024",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-2025-round-1-question-paper__q06",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "6. Björk has 64 sugar cubes, all of size 1 × 1 × 1. Each sugar cube is either white or demerara\n   or muscovado in flavour. She piles the sugar cubes into a neat 4 × 4 × 4 cube.\n\n   Prove that there must be 12 sugar cubes of the same flavour which can be put into 6 disjoint\n   pairs so that the distance between the centres of the cubes in each pair is the same.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-2025-round-1-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-2025-round-1-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-2025-round-1-question-paper__q06.md"
+  }
+ ]
+}

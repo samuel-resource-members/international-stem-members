@@ -1,0 +1,36 @@
+# CIE-9701 · 2024 · Q27
+
+- id: caie-a-level-9701-2024-may-june-p1-v2-qp__q27
+- course: CIE-9701
+- exam: CIE-9701
+- subject: chemistry
+- year: 2024
+- question_number: 27
+- chapter: Hydroxy compounds
+- knowledge_point: Hydroxy compounds
+- problem_type: 由氧化产物的碘仿试验反推醇
+- topic_tags: caie-a-level-9701-2024-may-june-p1-v2-qp__q27
+
+## Text (OCR)
+
+```text
+27 Compound X can be oxidised to compound Y.
+
+   Compound Y gives a yellow precipitate with alkaline I2(aq).
+
+   What is compound X?
+
+   A   butan-1-ol
+
+   B   butan-2-ol
+
+   C   methylpropan-1-ol
+
+   D   methylpropan-2-ol
+```
+
+## Source files
+
+- `projects/caie-9701/question-processing/2024/assets/9701_s24_qp_12_assets_01.zip` (2983980 bytes, sha256 `5781725c2c7ae8f03616b2de5a71510f30888dabe04d260008da4df25a5fd9a3`) inside shard `pdfs-f4e7d21db78df5c0.zip` (100 MB): https://github.com/samuel-resource-members/international-stem-members/releases/download/resources/pdfs-f4e7d21db78df5c0.zip
+
+Download the shard or package ZIP, verify the SHA-256 when given, and extract only the listed member path.

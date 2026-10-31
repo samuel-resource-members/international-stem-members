@@ -1,0 +1,773 @@
+{
+ "group": "live-poshenloh-aime-2026ii-question_paper",
+ "course_id": "AIME",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 15,
+ "questions": [
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q01",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "代数",
+   "knowledge_point": "等差数列",
+   "problem_type": "利用首项、公差和项数求项或和",
+   "search_text": "1.  Find the sum of the 10 th terms of all arithmetic sequences of integers that have first\n   term equal to 4 and include both 24 and 34 as terms.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q01.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q02",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2. The figure below shows a grid of 10 squares in a row. Each square has a diagonal\n   connecting its lower left vertex to its upper right vertex. A bug moves along the line\n   segments from vertex to vertex, never traversing the same segment twice and never\n   moving from right to left along a horizontal or diagonal segment. Let N be the number\n   of paths the bug can take from the lower left corner (A) to the upper right corner (B).\n   One such path from A to B is shown by the thick line segments in the figure. Find N ​.\n\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q02.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q03",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3. Let ABCDE be a nonconvex pentagon with internal angles ∠A = ∠E = 90∘ and\n  ∠B = ∠D = 45 ∘ . Suppose that DE < AB,AE = 20,BC = 14   ​,2 and points B,\n   C, and D lie on the same side of line AE. Suppose further that AB is an integer with\n  AB < 2026 and the area of pentagon ABCDE is an integer multiple of 16. Find the\n   number of possible values of AB.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q03.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q04",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4. For each positive integer n let f(n) be the value of the base-ten numeral n viewed in\n   base b, where b is the least integer greater than the greatest digit in n. For example, if\n  n = 72, then b = 8, and 72 as a numeral in base 8 equals 7 ⋅8 + 2 = 58; therefore\n   f(72) = 58. Find the number of positive integers n less than 1000 such that f(n) =\n   n.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q04.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q05",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "概率",
+   "knowledge_point": "树状图与分类",
+   "problem_type": "按互斥情况或分步事件计算概率",
+   "search_text": "5. An urn contains n marbles. Each marble is either red or blue, and there are at least 7\n   marbles of each color. When 7 marbles are drawn randomly from the urn without\n   replacement, the probability that exactly 4 of them are red equals the probability that\n    exactly 5 of them are red. Find the sum of the five least values of n for which this is\n    possible.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q05.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q06",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "6.  Find the sum of all real numbers r such that there is at least one point where the circle\n                                                                                             2    with radius r centered at (4, 39) is tangent to the parabola with equation 2y = x −\n   8x + 12.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q06.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q07",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "7. A standard fair six-sided die is rolled repeatedly. Each time the die reads 1 or 2, Alice\n   gets a coin; each time it reads 3 or 4, Bob gets a coin; and each time it reads 5 or 6,\n   Carol gets a coin. The probability that Alice and Bob each receive at least two coins\n                                  m   before Carol receives any coins can be written as     ​, where m and n are relatively                                                 n\n   prime positive integers. Find 100m + n.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q07.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q08",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "代数",
+   "knowledge_point": "比例与变化",
+   "problem_type": "按比例或正反比关系求量",
+   "search_text": "8. Isosceles triangle △ABC has AB = BC. Let I be the incenter of △ABC. The\n   perimeters of △ABC and △AIC are in the ratio 125 : 6, and all the sides of both\n    triangles have integer lengths. Find the minimum possible value of AB.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q08.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q09",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "9.  Let S denote the value of the infinite sum\n\n                        1   1    1     1\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​                                                                                                                                                                                              ​                                                                                                                                                                                                                                    ​                                                                                                                                                                                                                                                                           ​                 +  +   +   + ⋯\n                        9   99   999   9999\n\n                                                                                100   Find the remainder when the greatest integer less than or equal to 10  S is divided by\n   1000.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q09.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q10",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "函数",
+   "knowledge_point": "图像与方程",
+   "problem_type": "利用交点、截距或渐近线分析图像",
+   "search_text": "10. Let △ABC be a triangle with D on BC such that AD bisects ∠BAC. Let ω be the\n    circle that passes through A and is tangent to segment BC at D. Let E =A and\n  F =A be the intersections of ω with segments AB and AC , respectively. Suppose\n    that AB = 200,AC = 225, and all of AE,AF,BD, and CD are positive integers.\n   Find the greatest possible value of BC.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q10.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q11",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "代数",
+   "knowledge_point": "复数",
+   "problem_type": "在代数形式或极坐标形式下处理复数",
+   "search_text": "11. Find the greatest integer n such that the cubic polynomial\n\n                        n                                    3        2                     x −   ​x + (n −11)x −400\n                             6\n\n                 2   2        2   has roots α , β  , and γ  , where α,β, and γ are complex numbers, and there are\n    exactly seven different possible values for α + β + γ.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q11"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q11/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q11/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q11.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q12",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "微分",
+   "knowledge_point": "切线与法线",
+   "problem_type": "先求导数再求切线或法线方程",
+   "search_text": "12. Consider a tetrahedron with two isosceles triangle faces with side lengths 5  10 ​,\n   5  10 ​, and 10 and two isosceles triangle faces with side lengths 5  10 , 5  10 ​, and 18.\n   The four vertices of the tetrahedron lie on a sphere with center S, and the four faces of\n   the tetrahedron are tangent to a sphere with center R. The distance RS can be written\n    m   as     ​, where m and n are relatively prime positive integers. Find m + n.      n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q12"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q12/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q12/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q12.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q13",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "13. Call finite sets of integers S and T cousins if\n\n   • S and T have the same number of elements,\n\n   • S and T are disjoint, and\n\n   • the elements of S can be paired with the elements of T so that the elements in each\n    pair differ by exactly 1.\n\n   For example, {1, 2, 5} and {0, 3, 4} are cousins. Suppose that the set S has exactly\n   4040 cousins. Find the least number of elements the set S can have.\n\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q13"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q13/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q13/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q13.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q14",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "14. For integers a and b, let a ∘b = a −b if a is odd and b is even, and a ∘b = a + b\n    otherwise. Find the number of sequences a 1 ​, a 2 , a 3 ​, … ,a ​n of positive integers such\n    that\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                                                                                                                                                                      ​                                                                                                                                                                      ​                                                                                                                                                                                                                                                                                                                                                                    ​                       a 1 + a 2 + a 3 + ⋯+ a n = 12\n\n   and\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​                                                                                                                                                ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ​                        a 1 ∘ a 2 ∘ a 3 ∘ ⋯∘a n = 0,\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ​   where the operations are performed from left to right; that is, a 1                                                     ∘ a 2                                                        ∘ a ​3 means\n\n\n\n\n\n                                                                                                                                                                                                                      ​   (a 1 ∘ a 2 ​) ∘ a 3 ​.\n\n\n\n     Answer\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q14"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q14/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q14/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q14.md"
+  },
+  {
+   "paper_id": "live-poshenloh-aime-2026ii-question_paper",
+   "year": 2026,
+   "session": "annual",
+   "paper": "AIME",
+   "variant": "II",
+   "id": "live-poshenloh-aime-2026ii-question_paper__q15",
+   "exam_id": "AIME",
+   "course_id": "AIME",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "15. Find the number of ordered 7 -tuples (a 1 ​, a 2 ​, a 3 ​, … , a 7 ​) having the following\n     properties:\n\n\n\n\n\n                                                                                                                                                                                                                                                                                        ​      ∈ {1, 2, 3} for all k.     • a k\n\n\n\n\n\n                                                                                                                                                                                                                                                                                     ​                                                                                                                                                                                                                                                                                                                                                                                                                                                            ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ​     • a 1     + a 2        + a 3          + a ​4 +a 5                + a 6                  + a ​7 is a multiple of 3.\n\n\n\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                     ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​                                                                                                                                                                                                                                                                                              ​                                                                                                                                                                                                                                                                                              ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ​     • a 1 ​a 2 ​a 4 +a 2 ​a 3 ​a 5 +a 3 ​a 4 ​a 6 +a 4 ​a 5 ​a 7 +a 5 ​a 6 ​a 1 +a 6 ​a 7 ​a 2 +a 7 ​a 1 ​a 3 is a multiple of 3.\n\n\n\n      Answer\n\n\n\n\nSolutions: https://live.poshenloh.com/past-contests/aime/2026II/solutions\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2026 AIME II — Answer Key",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-answers.pdf"
+    },
+    {
+     "title": "2026 AIME II — Solutions",
+     "url": "https://live.poshenloh.com/images/past-contests/pdf/aime-2026II-solutions.pdf"
+    }
+   ],
+   "topic_tags": [
+    "live-poshenloh-aime-2026ii-question_paper__q15"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q15/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/live-poshenloh-aime-2026ii-question_paper__q15/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AIME/live-poshenloh-aime-2026ii-question_paper__q15.md"
+  }
+ ]
+}

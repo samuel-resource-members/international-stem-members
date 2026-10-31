@@ -1,0 +1,79 @@
+{
+ "course_id": "EDEXCEL-UK",
+ "subject": "math",
+ "exam_id": "EDEXCEL-UK",
+ "question_count": 43,
+ "years": [
+  "2025"
+ ],
+ "questions_dir": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/EDEXCEL-UK/",
+ "papers": [
+  {
+   "group": "edexcel-uk-9ma0-2025-june-p1-qp",
+   "paper_id": "edexcel-uk-9ma0-2025-june-p1-qp",
+   "year": 2025,
+   "session": "June",
+   "paper": "1",
+   "variant": "9MA0",
+   "question_count": 16,
+   "chapters": [
+    "三角",
+    "代数",
+    "函数",
+    "向量",
+    "坐标几何",
+    "微分",
+    "积分",
+    "证明"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-uk-9ma0-2025-june-p1-qp.json"
+  },
+  {
+   "group": "edexcel-uk-9ma0-2025-june-p2-qp",
+   "paper_id": "edexcel-uk-9ma0-2025-june-p2-qp",
+   "year": 2025,
+   "session": "June",
+   "paper": "2",
+   "variant": "9MA0",
+   "question_count": 15,
+   "chapters": [
+    "三角",
+    "函数",
+    "坐标几何",
+    "微分",
+    "微分方程"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-uk-9ma0-2025-june-p2-qp.json"
+  },
+  {
+   "group": "edexcel-uk-9ma0-2025-june-p3-mech-qp",
+   "paper_id": "edexcel-uk-9ma0-2025-june-p3-mech-qp",
+   "year": 2025,
+   "session": "June",
+   "paper": "3",
+   "variant": "9MA0 Mechanics",
+   "question_count": 6,
+   "chapters": [
+    "力学"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-uk-9ma0-2025-june-p3-mech-qp.json"
+  },
+  {
+   "group": "edexcel-uk-9ma0-2025-june-p3-stats-qp",
+   "paper_id": "edexcel-uk-9ma0-2025-june-p3-stats-qp",
+   "year": 2025,
+   "session": "June",
+   "paper": "3",
+   "variant": "9MA0 Statistics",
+   "question_count": 6,
+   "chapters": [
+    "坐标几何",
+    "概率",
+    "概率分布",
+    "统计",
+    "统计推断"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-uk-9ma0-2025-june-p3-stats-qp.json"
+  }
+ ]
+}

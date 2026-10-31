@@ -1,0 +1,428 @@
+{
+ "group": "cemc-euclid-2021-contest-english-question-paper",
+ "course_id": "CEMC-EUCLID",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 10,
+ "questions": [
+  {
+   "paper_id": "cemc-euclid-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2021-contest-english-question-paper__q01",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.        (a) What is the value of a for which (a −1) + (2a −3) = 14?\n\n         (b) What are the two values of c for which (c2 −c) + (2c −3) = 9?\n\n                                           1    3\n          (c) Determine all values of x for which  +   = 10.\n                                             x2   2x2\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2021-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2021-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2021-contest-english-question-paper__q02",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "百分比与增长",
+   "problem_type": "求百分比变化或复利结果",
+   "search_text": "2.        (a) What is the sum of the digits of the integer equal to (103 + 1)2?\n\n\n         (b) A bakery sells small and large cookies. Before a price increase, the price of each\n            small cookie is $1.50 and the price of each large cookie is $2.00. The price of each\n            small cookie is increased by 10% and the price of each large cookie is increased\n           by 5%. What is the percentage increase in the total cost of a purchase of 2 small\n             cookies and 1 large cookie?\n\n          (c) Qing is twice as old as Rayna. Qing is 4 years younger than Paolo. The average\n            age of Paolo, Qing and Rayna is 13. Determine their ages.\n\ny\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2021-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2021-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2021-contest-english-question-paper__q03",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "y\n3.        (a) In the diagram, PQRS  is a quadrilateral.             P (0, 12)\n         What is its perimeter?\n\n                                                 Q (5, 0)                                                                                x                                                      S (–5, 0)\n\n\n                                                      R (0, –12)\n\n                                                       y\n         (b) In the diagram, A has coordinates  (0, 8).\n                                                      B             Also, the midpoint of AB is M(3, 9) and the      M\n            midpoint of BC is N(7, 6). What is the slope    A              of AC?                                      N\n\n                                                    C\n                                                                           x\n\n          (c) The parabola with equation y = −2x2 +4x+c has vertex V (1, 18). The parabola\n              intersects the y-axis at D and the x-axis at E and F. Determine the area of\n        △DEF.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2021-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2021-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2021-contest-english-question-paper__q04",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "微分",
+   "knowledge_point": "驻点与最值",
+   "problem_type": "求驻点并判断极值或变化趋势",
+   "search_text": "4.        (a) If 3(8x) + 5(8x) = 261, what is the value of the real number x?\n\n\n         (b) For some real numbers m and n, the list 3n2, m2, 2(n + 1)2 consists of three\n             consecutive integers written in increasing order. Determine all possible values\n              of m.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2021-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2021-contest-english-question-paper__q04.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2021-contest-english-question-paper__q05",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "函数",
+   "knowledge_point": "图像变换",
+   "problem_type": "描述变换或画变换后的图像",
+   "search_text": "5.        (a) Chinara starts with the point (3, 5), and applies the following three-step process,\n           which we call P:\n\n            Step 1: Reﬂect the point in the x-axis.\n\n            Step 2: Translate the resulting point 2 units upwards.\n\n            Step 3: Reﬂect the resulting point in the y-axis.\n\n          As she does this, the point (3, 5) moves to (3, −5), then to (3, −3), and then to\n            (−3, −3).\n\n           Chinara then starts with a diﬀerent point S0. She applies the three-step process\n        P to the point S0 and obtains the point S1. She then applies P to S1 to obtain\n            the point S2. She applies P four more times, each time using the previous output\n              of P to be the new input, and eventually obtains the point S6(−7, −1). What\n             are the coordinates of the point S0?\n\n(b) In the diagram, ABDE  is a rectangle, △BCD\n     is equilateral, and AD  is parallel to BC.  Also,   A         B\n  AE = 2x for some real number x.\n                                                     C\n       (i) Determine the length of AB in terms of x.\n                                         E        D       (ii) Determine positive integers r and s for which\n      AC  rr\n        =     AD      s.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2021-contest-english-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2021-contest-english-question-paper__q05.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2021-contest-english-question-paper__q06",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "6",
+   "chapter": "代数",
+   "knowledge_point": "等比数列",
+   "problem_type": "利用公比求项、有限和或无穷和",
+   "search_text": "6.        (a) Suppose that n > 5 and that the numbers t1, t2, t3, . . . , tn−2, tn−1, tn form an\n             arithmetic sequence with n terms.  If t3 = 5, tn−2 = 95, and the sum of all n\n            terms is 1000, what is the value of n?\n\n          (An arithmetic sequence is a sequence in which each term after the ﬁrst is obtained\n           from the previous term by adding a constant, called the common diﬀerence. For\n            example, 3, 5, 7, 9 are the ﬁrst four terms of an arithmetic sequence.)\n\n         (b) Suppose that a and r are real numbers. A geometric sequence with ﬁrst term a                                               √\n           and common ratio r has 4 terms. The sum of this geometric sequence is 6+6  2.\n        A second geometric sequence has the same ﬁrst term a and the same common                                               √\n              ratio r, but has 8 terms. The sum of this second geometric sequence is 30+30  2.\n           Determine all possible values for a.\n\n          (A geometric sequence is a sequence in which each term after the ﬁrst is obtained\n           from the previous term by multiplying  it by a non-zero constant, called the\n         common ratio. For example, 3, −6, 12, −24 are the ﬁrst four terms of a geometric\n             sequence.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2021-contest-english-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2021-contest-english-question-paper__q06.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2021-contest-english-question-paper__q07",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "7",
+   "chapter": "代数",
+   "knowledge_point": "指数与对数方程",
+   "problem_type": "利用指数或对数关系求未知量",
+   "search_text": "7.        (a) A bag contains 3 green balls, 4 red balls, and no other balls. Victor removes balls\n           randomly from the bag, one at a time, and places them on a table. Each ball in\n            the bag is equally likely to be chosen each time that he removes a ball. He stops\n           removing balls when there are two balls of the same colour on the table. What\n                 is the probability that, when he stops, there is at least 1 red ball and at least 1\n            green ball on the table?\n         (b) Suppose that f(a) = 2a2 −3a + 1 for all real numbers a and g(b) = log 1 b for all\n                                                                                                              2\n             b > 0. Determine all θ with 0 ≤θ ≤2π for which f(g(sin θ)) = 0.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2021-contest-english-question-paper__q07"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q07/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q07/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2021-contest-english-question-paper__q07.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2021-contest-english-question-paper__q08",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "8",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "8.        (a) Five distinct integers are to be chosen from\n            the set {1, 2, 3, 4, 5, 6, 7, 8} and placed in some\n            order in the top row of boxes in the diagram.\n           Each box that  is not in the top row then\n             contains the product of the integers in the\n           two boxes connected to it in the row directly\n            above.  Determine the number of ways in\n           which the integers can be chosen and placed\n              in the top row so that the integer in the\n           bottom box is 9 953 280 000.\n\n(1!)(2!)(3!) · · · (398!)(399!)(400!)\n(b) Prove that the integer                                            is a perfect square. (In\n                                        200!\n    this fraction, the numerator is the product of the factorials of the integers from\n   1 to 400, inclusive.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2021-contest-english-question-paper__q08"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q08/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q08/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2021-contest-english-question-paper__q08.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2021-contest-english-question-paper__q09",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "9",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "9.        (a) Suppose that a = 5 and b = 4. Determine all pairs of integers (K, L) for which\n         K2 + 3L2 = a2 + b2 −ab.\n         (b) Prove that, for all integers K and L, there is at least one pair of integers (a, b)\n              for which K2 + 3L2 = a2 + b2 −ab.\n          (c) Prove that, for all integers a and b, there is at least one pair of integers (K, L)\n              for which K2 + 3L2 = a2 + b2 −ab.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2021-contest-english-question-paper__q09"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q09/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q09/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2021-contest-english-question-paper__q09.md"
+  },
+  {
+   "paper_id": "cemc-euclid-2021-contest-english-question-paper",
+   "year": 2021,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-euclid-2021-contest-english-question-paper__q10",
+   "exam_id": "CEMC-EUCLID",
+   "course_id": "CEMC-EUCLID",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "几何",
+   "knowledge_point": "圆的性质",
+   "problem_type": "利用圆周角、切线或共圆条件推理",
+   "search_text": "10.       (a) In the diagram, eleven circles of four diﬀerent\n               sizes are drawn. Each circle labelled W has                                                           X  W  X\n             radius 1, each circle labelled X has radius 2,\n                                                  W            the circle labelled Y has radius 4, and the\n               circle  labelled Z has radius  r.   Each  of         Z          Y     X\n            the circles labelled W  or X  is tangent to                 W\n             three other circles. The circle labelled Y  is              X W  X\n            tangent to all ten of the other circles. The\n               circle labelled Z  is tangent to three other\n               circles. Determine positive integers s and t\n                          s\n              for which r =   .\n                                 t\n\n         (b) Suppose that c is a positive integer. Deﬁne\n             f(c) to be the number  of  pairs  (a, b)  of                                                                     b             positive integers with c < a < b for which        a\n           two circles of radius a, two circles of radius b,\n           and one circle of radius c can be drawn so                     c\n            that\n               • each circle of radius a is tangent to both                 a                                                        b\n                     circles of radius b and to the circle of\n                  radius c, and\n\n               • each circle of radius b is tangent to both\n                     circles of radius a and to the circle of\n                  radius c,\n\n             as shown. Determine all positive integers c\n              for which f(c) is even.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-euclid-2021-contest-english-question-paper__q10"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-004.zip",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q10/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-004.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-euclid-2021-contest-english-question-paper__q10/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-004.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-EUCLID/cemc-euclid-2021-contest-english-question-paper__q10.md"
+  }
+ ]
+}

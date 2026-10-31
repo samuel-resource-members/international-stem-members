@@ -1,0 +1,219 @@
+{
+ "course_id": "IAL-MATH-P3",
+ "subject": "math",
+ "exam_id": "IAL-MATH-P3",
+ "question_count": 134,
+ "years": [
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025"
+ ],
+ "questions_dir": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IAL-MATH-P3/",
+ "papers": [
+  {
+   "group": "edexcel-ial-WMA13-2021-january-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2021-january-p3-01-qp",
+   "year": 2021,
+   "session": "January",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 10,
+   "chapters": [],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2021-january-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2021-june-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2021-june-p3-01-qp",
+   "year": 2021,
+   "session": "June",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 9,
+   "chapters": [],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2021-june-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2021-october-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2021-october-p3-01-qp",
+   "year": 2021,
+   "session": "October",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 10,
+   "chapters": [],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2021-october-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2022-january-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2022-january-p3-01-qp",
+   "year": 2022,
+   "session": "January",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 10,
+   "chapters": [],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2022-january-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2022-june-p3-01-qp",
+   "year": 2022,
+   "session": "June",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 9,
+   "chapters": [],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2022-june-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2022-october-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2022-october-p3-01-qp",
+   "year": 2022,
+   "session": "October",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 9,
+   "chapters": [
+    "微分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2022-october-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2023-january-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2023-january-p3-01-qp",
+   "year": 2023,
+   "session": "January",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 10,
+   "chapters": [
+    "三角",
+    "函数",
+    "微分",
+    "数值方法"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2023-january-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2023-june-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2023-june-p3-01-qp",
+   "year": 2023,
+   "session": "June",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 10,
+   "chapters": [
+    "三角",
+    "代数",
+    "函数",
+    "微分",
+    "数值方法"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2023-june-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2023-october-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2023-october-p3-01-qp",
+   "year": 2023,
+   "session": "October",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 10,
+   "chapters": [
+    "代数",
+    "函数",
+    "微分",
+    "数值方法",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2023-october-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2024-january-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2024-january-p3-01-qp",
+   "year": 2024,
+   "session": "January",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 9,
+   "chapters": [
+    "三角",
+    "代数",
+    "函数",
+    "微分",
+    "数值方法",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2024-january-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2024-june-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2024-june-p3-01-qp",
+   "year": 2024,
+   "session": "June",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 9,
+   "chapters": [
+    "三角",
+    "代数",
+    "函数",
+    "微分",
+    "数值方法",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2024-june-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2024-october-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2024-october-p3-01-qp",
+   "year": 2024,
+   "session": "October",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 9,
+   "chapters": [
+    "三角",
+    "函数",
+    "数值方法",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2024-october-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2025-january-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2025-january-p3-01-qp",
+   "year": 2025,
+   "session": "January",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 10,
+   "chapters": [
+    "三角",
+    "几何",
+    "微分",
+    "数值方法",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2025-january-p3-01-qp.json"
+  },
+  {
+   "group": "edexcel-ial-WMA13-2025-june-p3-01-qp",
+   "paper_id": "edexcel-ial-WMA13-2025-june-p3-01-qp",
+   "year": 2025,
+   "session": "June",
+   "paper": "P3",
+   "variant": "01",
+   "question_count": 10,
+   "chapters": [
+    "三角",
+    "函数",
+    "微分",
+    "积分"
+   ],
+   "file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/catalog/papers/edexcel-ial-WMA13-2025-june-p3-01-qp.json"
+  }
+ ]
+}

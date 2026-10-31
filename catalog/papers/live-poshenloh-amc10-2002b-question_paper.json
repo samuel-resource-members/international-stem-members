@@ -1,0 +1,1276 @@
+{
+ "group": "live-poshenloh-amc10-2002b-question_paper",
+ "course_id": "AMC10",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 25,
+ "questions": [
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q01",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "01",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "大幂分式：提出共同幂并整块约去 / 不同底数大指数：拆成质因数后约幂",
+   "search_text": "What is the value of the ratio\n\n\\[\\dfrac{2^{2001} \\cdot 3^{2003}}{6^{2002}}?\\]",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q01",
+    "live-poshenloh-amc10-2002b-question_paper__q01",
+    "AMC10-2002B-Q01"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the value of the ratio\n\n\\[\\dfrac{2^{2001} \\cdot 3^{2003}}{6^{2002}}?\\]"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q01.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q02",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "02",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "自定义二元运算：对照定义直接代入 / 自定义运算：按定义逐项代入",
+   "search_text": "For the nonzero numbers \\(a,\\) \\(b,\\) and \\(c,\\) define \\[(a, b, c) = \\dfrac{abc}{a+b+c}.\\] What is \\((2, 4, 6)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q02",
+    "live-poshenloh-amc10-2002b-question_paper__q02",
+    "AMC10-2002B-Q02"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For the nonzero numbers \\(a,\\) \\(b,\\) and \\(c,\\) define \\[(a, b, c) = \\dfrac{abc}{a+b+c}.\\] What is \\((2, 4, 6)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q02.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q03",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "03",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "数位对称求和：逐位累计相同数字贡献 / 重复数字数列的平均数：按位求和",
+   "search_text": "The arithmetic mean of the nine numbers in the set \\(\\{9, 99, 999, 9999, \\ldots, 999999999\\}\\) is a \\(9\\)-digit number \\(M,\\) all of whose digits are distinct. Which digit does the number \\(M\\) not contain?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q03",
+    "live-poshenloh-amc10-2002b-question_paper__q03",
+    "AMC10-2002B-Q03"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The arithmetic mean of the nine numbers in the set \\(\\{9, 99, 999, 9999, \\ldots, 999999999\\}\\) is a \\(9\\)-digit number \\(M,\\) all of whose digits are distinct. Which digit does the number \\(M\\) not contain?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q03.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q04",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "04",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "代数式化简：展开、合并或提出公共部分 / 带公共因子的表达式：先消项后代值",
+   "search_text": "What is the value of \\[ \\begin{aligned} &(3x - 2)(4x + 1) \\\\ &\\quad {}- (3x - 2)4x + 1 \\end{aligned} \\] when \\(x = 4?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q04",
+    "live-poshenloh-amc10-2002b-question_paper__q04",
+    "AMC10-2002B-Q04"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What is the value of \\[ \\begin{aligned} &(3x - 2)(4x + 1) \\\\ &\\quad {}- (3x - 2)4x + 1 \\end{aligned} \\] when \\(x = 4?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q04.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q05",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "05",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "圆直径相接或等圆排列：先累计直径求半径再算面积 / 相切圆沿直径排列：总直径求外圆后相减",
+   "search_text": "Circles of radius \\(2\\) and \\(3\\) are externally tangent and are circumscribed by a third circle, as shown in the figure. What is the area of the shaded region?\n\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q05",
+    "live-poshenloh-amc10-2002b-question_paper__q05",
+    "AMC10-2002B-Q05"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Circles of radius \\(2\\) and \\(3\\) are externally tangent and are circumscribed by a third circle, as shown in the figure. What is the area of the shaded region?\n\n"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q05.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q06",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "06",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整式值为质数：因式中必须出现1",
+   "search_text": "For how many positive integers \\(n\\) is \\(n^2 - 3n + 2\\) a prime number?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q06",
+    "live-poshenloh-amc10-2002b-question_paper__q06",
+    "AMC10-2002B-Q06"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For how many positive integers \\(n\\) is \\(n^2 - 3n + 2\\) a prime number?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q06.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q07",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "07",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "单位分数和为整数：先夹住整数再解未知分母",
+   "search_text": "Let \\(n\\) be a positive integer such that \\(\\dfrac12 + \\dfrac13 + \\dfrac17 + \\dfrac1n\\) is an integer. Which of the following statements is not true?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q07",
+    "live-poshenloh-amc10-2002b-question_paper__q07",
+    "AMC10-2002B-Q07"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(n\\) be a positive integer such that \\(\\dfrac12 + \\dfrac13 + \\dfrac17 + \\dfrac1n\\) is an integer. Which of the following statements is ",
+     {
+      "tag": "b",
+      "children": [
+       "not"
+      ]
+     },
+     " true?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q07.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q08",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "08",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "整月星期次数：四整周以外的连续日期逐个检查 / 连续31天月份：枚举月初三种星期",
+   "search_text": "Suppose July of year \\(N\\) has five Mondays. Which of the following must occur five times in August of year \\(N?\\) (Note: both months have \\(31\\) days.)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q08",
+    "live-poshenloh-amc10-2002b-question_paper__q08",
+    "AMC10-2002B-Q08"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose July of year \\(N\\) has five Mondays. Which of the following must occur five times in August of year \\(N?\\) (Note: both months have \\(31\\) days.)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q08.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q09",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "09",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "互异字母字典序排名：逐位累加前置排列",
+   "search_text": "Using the letters \\(A,\\) \\(M,\\) \\(O,\\) \\(S,\\) and \\(U,\\) we can form \\(120\\) five-letter “words.” If these “words” are arranged in alphabetical order, then the “word” \\(USAMO\\) occupies which position?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q09",
+    "live-poshenloh-amc10-2002b-question_paper__q09",
+    "AMC10-2002B-Q09"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Using the letters \\(A,\\) \\(M,\\) \\(O,\\) \\(S,\\) and \\(U,\\) we can form \\(120\\) five-letter “words.” If these “words” are arranged in alphabetical order, then the “word” \\(USAMO\\) occupies which position?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q09.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q10",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "10",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "二次方程的根和积：韦达关系代替逐根求解 / 二次方程系数同时是根：韦达后用非零条件",
+   "search_text": "Suppose that \\(a\\) and \\(b\\) are nonzero real numbers, and that the equation \\(x^2 + ax + b = 0\\) has solutions \\(a\\) and \\(b.\\) What is the pair \\((a, b)?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q10",
+    "live-poshenloh-amc10-2002b-question_paper__q10",
+    "AMC10-2002B-Q10"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose that \\(a\\) and \\(b\\) are nonzero real numbers, and that the equation \\(x^2 + ax + b = 0\\) has solutions \\(a\\) and \\(b.\\) What is the pair \\((a, b)?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q10.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q11",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "11",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "多项式方程：移项提因式后分零因子讨论 / 连续三整数乘积与和：用中间数消因子",
+   "search_text": "The product of three consecutive positive integers is \\(8\\) times their sum. What is the sum of their squares?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q11",
+    "live-poshenloh-amc10-2002b-question_paper__q11",
+    "AMC10-2002B-Q11"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The product of three consecutive positive integers is \\(8\\) times their sum. What is the sum of their squares?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q11.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q12",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "12",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分式方程无解：交叉相乘并检查退化",
+   "search_text": "For which of the following values of \\(k\\) does the equation \\[\\dfrac{x - 1}{x - 2} = \\dfrac{x - k}{x - 6}\\] have no solution for \\(x?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q12",
+    "live-poshenloh-amc10-2002b-question_paper__q12",
+    "AMC10-2002B-Q12"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For which of the following values of \\(k\\) does the equation \\[\\dfrac{x - 1}{x - 2} = \\dfrac{x - k}{x - 6}\\] have no solution for \\(x?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q12.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q13",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "13",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "对所有输入恒成立：展开后比较系数 / 对所有变量恒成立：令系数同时为零",
+   "search_text": "What value of \\(x\\) makes \\(8xy - 12y + 2x - 3 = 0\\) true for all values of \\(y?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q13",
+    "live-poshenloh-amc10-2002b-question_paper__q13",
+    "AMC10-2002B-Q13"
+   ],
+   "display": {
+    "stem_nodes": [
+     "What value of \\(x\\) makes \\(8xy - 12y + 2x - 3 = 0\\) true for all values of \\(y?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q13.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q14",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "14",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "大整数或小数的位数：分离十的幂并夹住有效部分 / 巨大整数开平方后的数位和：配出十的幂",
+   "search_text": "The number \\(25^{64} \\cdot 64^{25}\\) is the square of a positive integer \\(N.\\) In decimal representation, what is the sum of the digits of \\(N?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q14",
+    "live-poshenloh-amc10-2002b-question_paper__q14",
+    "AMC10-2002B-Q14"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The number \\(25^{64} \\cdot 64^{25}\\) is the square of a positive integer \\(N.\\) In decimal representation, what is the sum of the digits of \\(N?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q14.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q15",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "15",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "含质数的和差或根：先用奇偶排除除2外的偶数 / 两个质数及和差均质数：奇偶与模三夹定",
+   "search_text": "The positive integers \\(A,\\) \\(B,\\) \\(A - B,\\) and \\(A + B\\) are all prime numbers. The sum of these four primes is",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q15",
+    "live-poshenloh-amc10-2002b-question_paper__q15",
+    "AMC10-2002B-Q15"
+   ],
+   "display": {
+    "stem_nodes": [
+     "The positive integers \\(A,\\) \\(B,\\) \\(A - B,\\) and \\(A + B\\) are all prime numbers. The sum of these four primes is"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q15.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q16",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "16",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "分式须为整数：化简成整除关系再筛因数 / 有理式是整数平方：反解后筛除数",
+   "search_text": "For how many integers \\(n\\) is \\(\\dfrac{n}{20 - n}\\) the square of an integer?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q16",
+    "live-poshenloh-amc10-2002b-question_paper__q16",
+    "AMC10-2002B-Q16"
+   ],
+   "display": {
+    "stem_nodes": [
+     "For how many integers \\(n\\) is \\(\\dfrac{n}{20 - n}\\) the square of an integer?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q16.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q17",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "17",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "正多边形内部面积：统一边长后按对称分割成三角形 / 正八边形指定三角形：坐标拆分求面积",
+   "search_text": "A regular octagon \\(ABCDEFGH\\) has sides of length two. What is the area of \\(\\triangle ADG?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q17",
+    "live-poshenloh-amc10-2002b-question_paper__q17",
+    "AMC10-2002B-Q17"
+   ],
+   "display": {
+    "stem_nodes": [
+     "A regular octagon \\(ABCDEFGH\\) has sides of length two. What is the area of \\(\\triangle ADG?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q17.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q18",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "18",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "曲线或线段交点上界：按对象对计数并检查可实现 / 多个圆交点上界：按圆对计数并避免三重交点",
+   "search_text": "Four distinct circles are drawn in a plane. What is the maximum number of points where at least two of the circles intersect?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q18",
+    "live-poshenloh-amc10-2002b-question_paper__q18",
+    "AMC10-2002B-Q18"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q18.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q19",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "19",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相邻或错位求和：配对相减消去公共项 / 相邻等长块的数列和：错位相减求公差",
+   "search_text": "Suppose that \\(\\{a_n\\}\\) is an arithmetic sequence with \\[a_1 + a_2 + \\cdots + a_{100} = 100\\] and \\[a_{101} + a_{102} + \\cdots + a_{200} = 200.\\] What is the value of \\(a_2 - a_1?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q19",
+    "live-poshenloh-amc10-2002b-question_paper__q19",
+    "AMC10-2002B-Q19"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Suppose that \\(\\{a_n\\}\\) is an arithmetic sequence with \\[a_1 + a_2 + \\cdots + a_{100} = 100\\] and \\[a_{101} + a_{102} + \\cdots + a_{200} = 200.\\] What is the value of \\(a_2 - a_1?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q19.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q20",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "20",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "给定和积关系求对称式：展开平方并整体代换 / 两个线性关系下的二次式：参数消元识别恒等值",
+   "search_text": "Let \\(a,\\) \\(b,\\) and \\(c\\) be real numbers such that \\(a - 7b + 8c = 4\\) and \\(8a + 4b - c = 7.\\) What is \\(a^2 - b^2 + c^2?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q20",
+    "live-poshenloh-amc10-2002b-question_paper__q20",
+    "AMC10-2002B-Q20"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(a,\\) \\(b,\\) and \\(c\\) be real numbers such that \\(a - 7b + 8c = 4\\) and \\(8a + 4b - c = 7.\\) What is \\(a^2 - b^2 + c^2?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q20.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q21",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "21",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "固定效率任务：工作量等于单位时间效率乘有效时间 / 工作量与效率分别成比例：比较耗时比",
+   "search_text": "Andy’s lawn has twice as much area as Beth’s lawn and three times as much area as Carlos’ lawn. Carlos’ lawn mower cuts half as fast as Beth’s mower and one third as fast as Andy’s mower. If they all start to mow their lawns at the same time, who will finish first?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q21",
+    "live-poshenloh-amc10-2002b-question_paper__q21",
+    "AMC10-2002B-Q21"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q21.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q22",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "22",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "直角三角形两中线已知：勾股方程相加",
+   "search_text": "Let \\(\\triangle XOY\\) be a right-angled triangle with \\(m\\angle XOY = 90^\\circ.\\) Let \\(M\\) and \\(N\\) be the midpoints of legs \\(OX\\) and \\(OY,\\) respectively. Given that \\(XN = 19\\) and \\(YM = 22,\\) what is \\(XY?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q22",
+    "live-poshenloh-amc10-2002b-question_paper__q22",
+    "AMC10-2002B-Q22"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(\\triangle XOY\\) be a right-angled triangle with \\(m\\angle XOY = 90^\\circ.\\) Let \\(M\\) and \\(N\\) be the midpoints of legs \\(OX\\) and \\(OY,\\) respectively. Given that \\(XN = 19\\) and \\(YM = 22,\\) what is \\(XY?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q22.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q23",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "23",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "相邻和生成数列：先写新旧行或项之间的递推 / 二元下标递推：固定一个下标转一阶差分",
+   "search_text": "Let \\(\\{a_k\\}\\) be a sequence of integers such that \\(a_1 = 1\\) and \\(a_{m+n} = a_m + a_n + mn\\) for all positive integers \\(m\\) and \\(n.\\) What is \\(a_{12}?\\)",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q23",
+    "live-poshenloh-amc10-2002b-question_paper__q23",
+    "AMC10-2002B-Q23"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Let \\(\\{a_k\\}\\) be a sequence of integers such that \\(a_1 = 1\\) and \\(a_{m+n} = a_m + a_n + mn\\) for all positive integers \\(m\\) and \\(n.\\) What is \\(a_{12}?\\)"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q23.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q24",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "24",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "匀速圆周运动指定高度：高度转圆心角再求时间",
+   "search_text": "Riders on a Ferris wheel travel in a circle in a vertical plane. A particular wheel has radius \\(20\\) feet and revolves at the constant rate of one revolution per minute. How many seconds does it take a rider to travel from the bottom of the wheel to a point \\(10\\) vertical feet above the bottom?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q24",
+    "live-poshenloh-amc10-2002b-question_paper__q24",
+    "AMC10-2002B-Q24"
+   ],
+   "display": {
+    "stem_nodes": [
+     "Riders on a Ferris wheel travel in a circle in a vertical plane. A particular wheel has radius \\(20\\) feet and revolves at the constant rate of one revolution per minute. How many seconds does it take a rider to travel from the bottom of the wheel to a point \\(10\\) vertical feet above the bottom?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q24.md"
+  },
+  {
+   "paper_id": "",
+   "year": 2002,
+   "session": "",
+   "paper": "",
+   "variant": "",
+   "id": "live-poshenloh-amc10-2002b-question_paper__q25",
+   "exam_id": "AMC10",
+   "course_id": "AMC10",
+   "subject": "math",
+   "question_number": "25",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "加入数据改变均值：比较加入前后的总和 / 先后新增数据改变均值：用总和守恒求项数",
+   "search_text": "When \\(15\\) is appended to a list of integers, the mean is increased by \\(2.\\) When \\(1\\) is appended to the enlarged list, the mean of the enlarged list is decreased by \\(1.\\) How many integers were in the original list?",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "AMC10-2002-B-Q25",
+    "live-poshenloh-amc10-2002b-question_paper__q25",
+    "AMC10-2002B-Q25"
+   ],
+   "display": {
+    "stem_nodes": [
+     "When \\(15\\) is appended to a list of integers, the mean is increased by \\(2.\\) When \\(1\\) is appended to the enlarged list, the mean of the enlarged list is decreased by \\(1.\\) How many integers were in the original list?"
+    ],
+    "choices": [],
+    "asset_urls": {}
+   },
+   "paths": [],
+   "packages": [
+    {
+     "tag": "amc",
+     "name": "AMC10_complete_bank_20261013.zip",
+     "member": null
+    }
+   ],
+   "files": [
+    {
+     "package": "AMC10_complete_bank_20261013.zip",
+     "release": "amc",
+     "member": null,
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/amc/AMC10_complete_bank_20261013.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/AMC10/live-poshenloh-amc10-2002b-question_paper__q25.md"
+  }
+ ]
+}

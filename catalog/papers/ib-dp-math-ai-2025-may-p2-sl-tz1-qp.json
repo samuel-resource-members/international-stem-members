@@ -1,0 +1,243 @@
+{
+ "group": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp",
+ "course_id": "IB-AI-SL",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 5,
+ "questions": [
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q01",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "统计",
+   "knowledge_point": "数据汇总",
+   "problem_type": "从数据或图表求位置与离散指标",
+   "search_text": "1.   [Maximum mark: 15]\n\n     Paul has a bar graph for the total number of goals scored in each game of a soccer\n     tournament in 2024. The bar graph is shown below, however the frequency of  4  goals in a\n    game is unreadable.\n\n     Paul uses this bar graph to create a frequency table.\n\n\n                   Bar graph                                Frequency table\n\n                                              Number of goals    12                                                                Frequency                                                                 in a game (2024)\n    10\n                                                            0                3\n     8\n                                                            1                11\n     6\n                                                            2                7   Frequency  4\n                                                            3                  k     2\n                                                            4                p     0\n          0      1      2      3      4      5\n                                                            5                1\n            Number of goals in a game (2024)\n\n\n      (a)   Write down the value of  k .                                                                             [1]\n\n     Paul knows that the mean number of goals per game scored during the tournament was  2.2 .\n\n      (b)     (i)    Write down an equation for the mean in terms of  p .\n\n                   (ii)   Determine the value of  p .                                                                      [3]\n\n(This question continues on the following page)\n\n(Question 1 continued)\n\n     Data for the number of goals per game in the 2025 soccer tournament are shown in the\n      following box and whisker diagram.\n\n\n\n\n\n                 0    1    2    3    4    5    6    7    8    9   10\n                         Number of goals in a game (2025)\n\n      After comparing the box and whisker diagram from the 2025 tournament with the frequency\n      table from the 2024 tournament, Paul concludes that the distribution of goals is consistent\n     between the two tournaments.\n\n       (c)   State two observations that support Paul’s conclusion using values from the data to\n         compare any two of:\n\n                          range, symmetry, median, and interquartile range.                              [3]\n\n     Paul plans to watch all the games from the 2024 tournament in a random order.\n    He will watch each game once.\n\n     For the first game he watches, he defines event  F  as:\n\n                               “scoring either  0  goals or exactly  1  goal”.\n\n      (d)   Write down the event(s) from the table that are equivalent to  F′ . There may be more\n           than one correct event.                                                                                 [2]\n\n         Event                              Description\n         A      Scoring exactly  2  goals in this game\n         B      Scoring more than 1 goal in this game\n        C      Scoring at least  2  goals in this game\n        D      Scoring either  0  goals or exactly  1  goal in all games except this game\n         E      Not scoring  0  goals or exactly  1  goal in any game\n\n      (e)     If exactly  1  goal was scored in the first game Paul watches, write down the probability\n            that exactly  1  goal was scored in the second game he watches. Give your answer as\n         a fraction.                                                                                                [2]\n\n        (f)    Calculate the probability that  5  goals were scored in the first game that Paul watches\n         and  0  goals were scored in the second game he watches.                                      [4]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q01.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q02",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "2.   [Maximum mark: 15]\n\n     Give all answers in this question to the nearest dollar.\n\n     Anika invested  10 000  Canadian dollars  (CAD)  in an account which earns a nominal annual\n      interest rate of  3.4 % , compounded monthly.\n\n      (a)   Calculate the value of Anika’s investment after  6  years.                                          [3]\n\n     Anika wants to purchase a house that costs  225 000 CAD . Anika uses the value obtained in\n      part (a) to make an initial payment on the house and takes out a loan to pay the rest.\n\n      (b)   Determine the amount of Anika’s loan.                                                               [1]\n\n     Anika amortizes her loan over  15  years. She arranges to make a loan payment at the end of\n     each month. The nominal annual interest rate for the loan is  6.4 % , compounded half-yearly.\n\n       (c)   Determine Anika’s monthly loan payment.                                                           [5]\n\n      After  2  complete years, Anika decides to increase her monthly loan payment to  2200 CAD .\n     At the time, the remaining amount of the loan is  194 572 CAD .\n\n      (d)     (i)    Calculate the amount by which the loan will decrease during the next\n                         3  complete years.\n\n                   (ii)   Determine the total interest that Anika will pay over this  3 -year period.                  [6]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q02.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q03",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "代数",
+   "knowledge_point": "等比数列",
+   "problem_type": "利用公比求项、有限和或无穷和",
+   "search_text": "3.   [Maximum mark: 17]\n\n      Felix is training for a competition consisting of running and swimming. He plans to train\n       for  12  weeks to prepare for the competition.\n\n    The running part of the competition is a  5 km  race. During the  12  weeks, Felix runs\n     on  3  days each week. On the first day of training, Felix runs  2 km . Each subsequent day\n      that he runs, he increases his distance by  5 % .\n\n      (a)   Explain why the distances of each of Felix’s runs form a geometric sequence and\n            state the common ratio.                                                                                [2]\n\n      (b)   Find the total distance of Felix’s first  15  runs.                                                      [2]\n\n    A published recommendation states that, on the last day of training, an athlete should run a\n      distance that is at least twice as far as the race distance.\n\n       (c)  Show that Felix’s final run of his  12 -week training plan meets this recommendation.         [3]\n\n     For the swimming part of the competition, competitors must swim  375 m  out to a marker in\n      the water and then  375 m  back to the shore.\n\n\n                                                         Marker               Shore                  Felix\n\n\n      Felix plans to swim  2  times per week to train for the swimming portion of the competition.\n    On each day he swims in the 1st week, Felix swims out to a marker that is  80 m  from the\n      shore, and then swims back to shore.\n\n     At the start of each subsequent week, the marker is moved to increase the distance between\n      the marker and the shore by a constant amount. Felix swims a total distance of  704 m  in the\n      4th week.\n\n    The distances that Felix swims each week form an arithmetic sequence, where each\n      term,  un , is the total distance he swims in the  n th week.\n      (d)     (i)   Find  u1 .\n\n                   (ii)   Determine the increase in the total distance Felix swims each week.\n\n                   (iii)  Hence calculate the distance between the marker and the shore in the\n              2nd week of training.                                                                            [7]\n\n      (e)   Calculate the distance of Felix’s final swim in his 12th week of training.                        [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q03.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q04",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4.   [Maximum mark: 14]\n\n     AirFlow Industries is designing a doorstop in the shape of a triangular prism,  ABCDEF .\n\n    The points  A (13 , 1 , 0) ,  B (13 , 25 , 0)  and  C (13 , 25 , 7)  are the coordinates of the vertices\n      of one of the triangular faces of the prism. Point  D (4 , 25 , 7)  is another vertex as shown in\n      the following diagram. All the measurements are in centimetres.\n\n                                                             diagram not to scale\n\n                             z\n                                                         y\n\n                                  D       C\n\n\n                                         E       B\n\n\n\n\n\n                              F       A\n                                                                      x\n\n\n      (a)   Write down the coordinates of  F .                                                                     [2]\n\n      (b)   Find  AC .                                                                                                 [2]\n\n       (c)  Show that triangle  ABC  is a right-angled triangle.                                                 [2]\n\n      (d)   Find the volume of material needed to make the doorstop.                                       [3]\n\n(This question continues on the following page)\n\n(Question 4 continued)\n\n     To lower the cost of the doorstop, AirFlow decides to reduce its volume to  625 cm3  by\n     removing the shaded section shown in the following diagram. The remaining triangular faces\n     are still right-angled triangles.\n\n                                                             diagram not to scale\n\n                             z\n                                                         y\n\n                                  D       C\n\n\n                                              B\n                                         X\n\n\n\n\n                              F       A\n                                                                      x\n\n\n    The length of the smaller doorstop,  AX , can be calculated by\n\n                                      VS                         AX  AB\n                                      VO\n\n     where  VS  is the volume of the smaller doorstop, and  VO  is the volume of the original\n      doorstop, both in cubic centimetres.\n\n      (e)   Find  AX .                                                                                                 [2]\n\n    The material needed to make the doorstop costs  0.025  US dollars  (USD)  per cubic\n      centimetre. The production of each doorstop requires  10 %  more material than its final\n     volume, due to wastage in the production process.\n\n     To make a profit, the company will sell the doorstop for  20 %  more than the cost of the material.\n\n        (f)   Determine the price, to two decimal places, the company will charge for the new\n           doorstop.                                                                                                 [3]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q04.md"
+  },
+  {
+   "paper_id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp",
+   "year": 2025,
+   "session": "May",
+   "paper": "2",
+   "variant": "AI SL TZ1",
+   "id": "ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q05",
+   "exam_id": "IB-AI-SL",
+   "course_id": "IB-AI-SL",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "积分",
+   "knowledge_point": "曲线围成的面积",
+   "problem_type": "确定边界并用积分求面积",
+   "search_text": "5.   [Maximum mark: 19]\n\n    The locations of three fire stations within a  50  by  50  kilometre rural area of Japan are shown\n     on the following map.\n\n    A Voronoi diagram can be used to determine the part of the rural area for which each\n       fire station is responsible. The Voronoi diagram for the three fire stations is shown on the\n      coordinate grid beside the map, where  1  unit represents  2.5 km .\n\n                                     y\n                               20           Map\n\n\n        C              B                               15\n                                                         C(8, 13)\n                                                                         B(16, 12)\n              A\n\n                               10\n\n                                                                           A(18, 8)\n\n                                5\n\n\n\n                                0                                                                                    x                                 0         5        10        15        20\n\n      (a)     (i)   Find the midpoint of  [BC] .\n\n                   (ii)   Find the gradient of the perpendicular bisector of  [BC] .\n\n                   (iii)  Hence find the equation of the edge between sites  B  and  C .                            [6]\n\n      (b)     (i)    Identify the fire station that is expected to respond, based on the Voronoi\n                diagram, if a fire is reported at a location with coordinates  (14 , 10) .\n                   Justify your response.\n\n                   (ii)   Suggest a reason why a different fire station might respond to this fire.                  [2]\n\n(This question continues on the following page)\n\n(Question 5 continued)\n\n                                                    1    A fire is reported at a location  D  with coordinates  111 , 7      . The distance of  D  from  A  on\n                                                3   6\n      the Voronoi diagram, to six significant figures, is  6.71855  units ( 16.7964 km  on the map).\n\n       (c)     (i)   Show that the distance of  D  from  B , to six significant figures, is also  6.71855 \n                   units.\n\n                   (ii)  Show that any of the three fire stations would be expected to respond to the fire\n                 reported at  D .                                                                                    [4]\n\n    The equation of the edge between fire stations  A  and  B  is  y = 0.5x + 1.5 . The edge\n     between fire stations  A  and  C  has an  x-intercept of 7.75 .\n\n      (d)     (i)   Determine the area, to the nearest square unit, of the region within the given\n                Voronoi diagram for which fire station  A  is responsible.\n\n                   (ii)   Hence, calculate the actual area, in square kilometres, of this region.                   [7]\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "IB Diploma Programme Mathematics — May 2025 — Paper 2 — AI SL TZ1 — Mark Scheme",
+     "url": "https://papers.xtremepape.rs/IB/2025%20Examination%20Session/May%202025%20Examination%20Session/Mathematics/Mathematics_applications_and_interpretation_paper_2_TZ1_SL_markscheme.pdf"
+    }
+   ],
+   "topic_tags": [
+    "ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-012.zip",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-012.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-012.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/IB-AI-SL/ib-dp-math-ai-2025-may-p2-sl-tz1-qp__q05.md"
+  }
+ ]
+}

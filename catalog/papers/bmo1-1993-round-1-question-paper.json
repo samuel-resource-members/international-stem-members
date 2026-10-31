@@ -1,0 +1,218 @@
+{
+ "group": "bmo1-1993-round-1-question-paper",
+ "course_id": "BMO1",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 5,
+ "questions": [
+  {
+   "paper_id": "bmo1-1993-round-1-question-paper",
+   "year": 1993,
+   "session": "13 January 1993",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-1993-round-1-question-paper__q01",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1. Find, showing your method, a six-digit integer n with the\n   following properties:   (i) n  is a perfect square,  (ii) the\n   number formed by the last three digits of n is exactly one\n   greater than the number formed by the ﬁrst three digits\n    of n. (Thus n might look like 123124, although this is not\n   a square.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-1993-round-1-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-1993-round-1-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-1993-round-1-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-1993-round-1-question-paper__q01.md"
+  },
+  {
+   "paper_id": "bmo1-1993-round-1-question-paper",
+   "year": 1993,
+   "session": "13 January 1993",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-1993-round-1-question-paper__q02",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "排列组合",
+   "knowledge_point": "排列与组合",
+   "problem_type": "判断顺序和限制并计算方案数",
+   "search_text": "2. A square piece of toast ABCD of side length 1 and centre O\n    is cut in half to form two equal pieces ABC and CDA. If the\n   triangle ABC has to be cut into two parts of equal area, one\n   would usually cut along the line of symmetry BO. However,\n   there are other ways of doing this. Find, with justiﬁcation,\n   the length and location of the shortest straight cut which\n   divides the triangle ABC into two parts of equal area.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-1993-round-1-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-1993-round-1-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-1993-round-1-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-1993-round-1-question-paper__q02.md"
+  },
+  {
+   "paper_id": "bmo1-1993-round-1-question-paper",
+   "year": 1993,
+   "session": "13 January 1993",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-1993-round-1-question-paper__q03",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "3. For each positive integer c, the sequence un of integers is\n   deﬁned by\n   u1 = 1, u2 = c,  un = (2n+1)un−1−(n2−1)un−2, (n ≥3).\n   For which values of c does this sequence have the property\n   that ui divides uj whenever i ≤j?\n   (Note: If x and y are integers, then x divides y if and only\n     if there exists an integer z such that y = xz. For example,\n   x = 4 divides y = −12, since we can take z = −3.)\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-1993-round-1-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-1993-round-1-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-1993-round-1-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-1993-round-1-question-paper__q03.md"
+  },
+  {
+   "paper_id": "bmo1-1993-round-1-question-paper",
+   "year": 1993,
+   "session": "13 January 1993",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-1993-round-1-question-paper__q04",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "4. Two circles touch internally at M. A straight line touches\n   the inner circle at P and cuts the outer circle at Q and R.\n   Prove that QMP = RMP.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-1993-round-1-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-1993-round-1-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-1993-round-1-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-1993-round-1-question-paper__q04.md"
+  },
+  {
+   "paper_id": "bmo1-1993-round-1-question-paper",
+   "year": 1993,
+   "session": "13 January 1993",
+   "paper": "Round 1",
+   "variant": "",
+   "id": "bmo1-1993-round-1-question-paper__q05",
+   "exam_id": "BMO1",
+   "course_id": "BMO1",
+   "subject": "math",
+   "question_number": "5",
+   "chapter": "函数",
+   "knowledge_point": "定义域与值域",
+   "problem_type": "从条件确定定义域或值域",
+   "search_text": "5. Let x, y, z be positive real numbers satisfying\n                   1\n               ≤xy + yz + zx ≤3.\n                   3\n   Determine the range of values for (i) xyz, and (ii) x + y + z.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "bmo1-1993-round-1-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-003.zip",
+     "member": "question-corpus/questions/bmo1-1993-round-1-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-003.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/bmo1-1993-round-1-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-003.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/BMO1/bmo1-1993-round-1-question-paper__q05.md"
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "group": "usapho-2008-usapho-question-paper",
+ "course_id": "USAPHO",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 6,
+ "questions": [
+  {
+   "paper_id": "usapho-2008-usapho-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2008-usapho-question-paper__q01",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A1",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "Part A\n\nQuestion A1\n\nFour square metal plates of area A are arranged at an even spacing d as shown in the diagram. (Assume\nthat A ≫d2.)\n\n                                                                                                                                      Plate 1\n\n                                                                                                                                      Plate 2\n\n                                                                                                                                      Plate 3\n                                                            d\n                                                                                                                                      Plate 4\n                                                            d\n\n                                                            d\n\n\n   Plates 1 and 4 are ﬁrst connected to a voltage source of magnitude V0, with plate 1 positive; plates 2 and\n3 are then connected together with a wire. The wire is subsequently removed. Finally, the voltage source\nattached between plates 1 and 4 is replaced with a wire. The steps are summarized in the diagrams below.\n\n\n\n\n\n                   Step 1                                 Step 2                                 Step 3\n\n   Find the resulting potential diﬀerence ∆V12 between plates 1 and 2; like wise ﬁnd ∆V23 and ∆V34, deﬁned\nsimilarly.\n   Assume, in each case, that a positive potential diﬀerence means that the top plate is at a higher potential\nthan the bottom plate.\n\n2008 Semifinal Exam Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2008 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2008-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2008-usapho-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2008-usapho-question-paper__q01.md"
+  },
+  {
+   "paper_id": "usapho-2008-usapho-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2008-usapho-question-paper__q02",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A2",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Pressure",
+   "problem_type": "从力、面积或液柱高度求压强",
+   "search_text": "Question A2\n\nA simple heat engine consists of a moveable piston in a cylinder ﬁlled with an ideal monatomic gas. Initially\nthe gas in the cylinder is at a pressure P0 and volume V0. The gas is slowly heated at constant volume. Once\nthe pressure reaches 32P0 the piston is released, allowing the gas to expand so that no heat either enters\nor escapes the gas as the piston moves. Once the pressure has returned to P0 the outside of the cylinder is\ncooled back to the original temperature, keeping the pressure constant. For the monatomic ideal gas you\nshould assume that the molar heat capacity at constant volume is given by CV = 32R, where R is the ideal\ngas constant. You may express your answers in fractional form or as decimals. If you choose decimals, keep\nthree signiﬁcant ﬁgures in your calculations. The diagram below is not necessarily drawn to scale.\n\n\n\n                    32P0\n\n                                                           Pressure\n\n\n                    P0\n\n\n                            V0        Vmax   Volume\n\n   a. Let Vmax be the maximum volume achieved by the gas during the cycle. What is Vmax in terms of\n     V0? If you are unable to solve this part of the problem, you may express your answers to the remaining\n      parts in terms of Vmax without further loss of points.\n\n   b. In terms of P0 and V0 determine the heat added to the gas during a complete cycle.\n\n    c. In terms of P0 and V0 determine the heat removed from the gas during a complete cycle.\n\n   d. What is the eﬃciency of this cycle?\n\n2008 Semifinal Exam\nPart A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2008 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2008-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2008-usapho-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2008-usapho-question-paper__q02.md"
+  },
+  {
+   "paper_id": "usapho-2008-usapho-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2008-usapho-question-paper__q03",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A3",
+   "chapter": "Space physics",
+   "knowledge_point": "Earth and the Solar System",
+   "problem_type": "从天体运动和轨道条件解释现象",
+   "search_text": "Question A3\n\nA certain planet of radius R is composed of a uniform material that, through radioactive decay, generates a\nnet power P. This results in a temperature diﬀerential between the inside and outside of the planet as heat\nis transfered from the interior to the surface.\n   The rate of heat transfer is governed by the thermal conductivity. The thermal conductivity of a ma-\nterial is a measure of how quickly heat ﬂows through that material in response to a temperature gradient.\nSpeciﬁcally, consider a thin slab of material of area A and thickness ∆x where one surface is hotter than the\nother by an amount ∆T . Suppose that an amount of heat ∆Q ﬂows through the slab in a time ∆t. The\nthermal conductivity k of the material is then\n\n                           ∆Q 1 ∆x\n                                       k =                  .\n                                     ∆t A ∆T\n\nIt is found that k is approximately constant for many materials; assume that it is constant for the planet.\n   For the following assume that the planet is in a steady state; temperature might depend on position, but\ndoes not depend on time.\n\n   a. Find an expression for the temperature of the surface of the planet assuming blackbody radiation, an\n      emissivity of 1, and no radiation incident on the planet surface. You may express your answer in terms\n      of any of the above variables and the Stephan-Boltzmann constant σ.\n\n   b. Find an expression for the temperature diﬀerence between the surface of the planet and the center of\n     the planet. You may express your answer in terms of any of the above variables; you do not need to\n     answer part (a) to be able to answer this part.\n\n2008 Semifinal Exam Part A\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2008 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2008-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2008-usapho-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2008-usapho-question-paper__q03.md"
+  },
+  {
+   "paper_id": "usapho-2008-usapho-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2008-usapho-question-paper__q04",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "A4",
+   "chapter": "Waves",
+   "knowledge_point": "General wave properties",
+   "problem_type": "用频率、波长和波速关系求量",
+   "search_text": "Question A4\n\nA tape recorder playing a single tone of frequency f0 is dropped from rest at a height h. You stand directly\nunderneath the tape recorder and measure the frequency observed as a function of time. Here t = 0 s is the\ntime at which the tape recorder was dropped.\n\n                                                         t (s)  f (Hz)\n                                                 2.0    581\n                                                 4.0    619\n                                                 6.0    665\n                                                 8.0    723\n                                              10.0    801\n\n   The acceleration due to gravity is g = 9.80 m/s2 and the speed of sound in air is vsnd = 340 m/s. Ignore\nair resistance. You might need to use the Doppler shift formula for co-linear motion of sources and observers\nin still air,\n                                                      vsnd ± vobs\n                                        f = f0\n                                                      vsnd ± vsrc\nwhere f0 is the emitted frequency as determined by the source, f is the frequency as detected by the observer,\nand vsnd, vsrc, and vobs are the speed of sound in air, the speed of the source, and the speed of the observer.\nThe positive and negative signs are dependent upon the relative directions of the motions of the source and\nthe observer.\n\n   a. Determine the frequency measured on the ground at time t, in terms of f0, g, h, and vsnd. Consider\n     only the case where the falling tape recorder doesn’t exceed the speed of sound vsnd.\n\n   b. Verify graphically that your result is consistent with the provided data.\n\n    c. What (numerically) is the frequency played by the tape recorder?\n\n   d. From what height h was the tape recorder dropped?\n\n2008 Semiﬁnal Exam                          Part A                                           7\n\n\n\n\n\n STOP: Do Not Continue to Part B\n If there is still time remaining for Part A, you should review your work for\n   Part A, but do not continue to Part B until instructed by your exam\n                                 supervisor.\n\n2008 Semiﬁnal Exam                          Part B                                           8\n\n\n\nPart B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2008 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2008-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2008-usapho-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2008-usapho-question-paper__q04.md"
+  },
+  {
+   "paper_id": "usapho-2008-usapho-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2008-usapho-question-paper__q05",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B1",
+   "chapter": "Motion, forces and energy",
+   "knowledge_point": "Momentum",
+   "problem_type": "使用动量守恒或冲量关系",
+   "search_text": "Part B\n\nQuestion B1\n\nA platform is attached to the ground by an ideal spring of constant k; both the spring and the platform\nhave negligible mass; assume that your mass is mp. Sitting on the platform is a rather large lump of clay of\nmass mc = rmp, with r some positive constant that measures the ratio mc/mp. You then gently step onto\nthe platform, and the platform settles down to a new equilibrium position, a vertical distance D below the\noriginal position. Throughout the problem assume that you never lose contact with the platform.\n\n\n\n\n\n                                                                     h\n\n                              D\n\n\n\n\n\n   a. You then slowly pick up the lump of clay and hold it a height h above the platform. Upon releasing\n     the clay you and the platform will oscillate up and down; you notice that the clay strikes the platform\n      after the platform has completed exactly one oscillation. Determine the numerical value of the ratio\n     h/D.\n\n   b. Assume the resulting collision between the clay and the platform is completely inelastic. Find the\n      ratio of the amplitude of the oscillation of the platform after the collision (Af) to the amplitude of the\n      oscillations of the platform before the collision (Ai). Determine Af/Ai in terms of the mass ratio r and\n     any necessary numerical constants.\n\n    c. Sketch a graph of the position of the platform as a function of time, with t = 0 corresponding to the\n    moment when the clay is dropped. Show one complete oscillation after the clay has collided with the\n      platform. It is not necessary to use graph paper.\n\n   d. The above experiment is only possible if the mass ratio r is less than some critical value rc. Otherwise,\n      despite the clay having been dropped from the height determined in part (a), the oscillating platform\n      will hit the clay before the platform has completed one full oscillation. On your graph in part (c)\n      sketch the position of the clay as a function of time relative to the position of the platform for the\n     mass ratio r = rc.\n\n2008 Semifinal Exam Part B\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2008 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2008-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2008-usapho-question-paper__q05"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q05/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q05/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2008-usapho-question-paper__q05.md"
+  },
+  {
+   "paper_id": "usapho-2008-usapho-question-paper",
+   "year": 2008,
+   "session": "Annual",
+   "paper": "USAPhO",
+   "variant": "",
+   "id": "usapho-2008-usapho-question-paper__q06",
+   "exam_id": "USAPHO",
+   "course_id": "USAPHO",
+   "subject": "physics",
+   "question_number": "B2",
+   "chapter": "Electricity and magnetism",
+   "knowledge_point": "Electrical quantities",
+   "problem_type": "用电流、电压、电阻关系分析电路",
+   "search_text": "Question B2\n\nConsider a parallel plate capacitor with the plates vertical. The plates of the capacitor are rigidly supported\nin place. The distance between the plates is d. The plates have height h and area A ≫d2. Assume\nthroughout this problem that the force of air resistance may be neglected; however, the force of gravity\ncannot be neglected. Neglect any edge eﬀects as well as any magnetic eﬀects.\n\n                                                                                       d/2\n                                           d\n\n                                                                                                                                                                                                                                                                                                   Support\n                                                                                                                                                                                                                Rigid\n\n                                                                                                                                                                                                                                                          String                                              L\n                                                                                        h\n                        h\n\n                                                                  h/2\n\n\n\n\n   a. A small metal ball with a mass M and a charge q is suspended from a string of length L that is tied\n      to a rigid support. When the capacitor is not charged, the metal ball is located at the center of the\n     capacitor— at a distance d/2 from both plates and at a height h/2 above the bottom edge of the plates.\n        If instead a constant potential diﬀerence V0 is applied across the plates, the string will make an angle\n      θ0 to the vertical when the metal ball is in equilibrium.\n\n             i. Determine θ0 in terms of the given quantities and fundamental constants.\n\n            ii. The metal ball is then lifted until it makes an angle θ to the vertical where θ is only slightly\n           greater than θ0. The metal ball is then released from rest. Show that the resulting motion is\n          simple harmonic motion and ﬁnd the period of the oscillations in terms of the given quantities\n         and fundamental constants.\n\n           iii. When the ball is at rest in the equilibrium position θ0, the string is cut. What is the maximum\n          value for V0 so that the ball will not hit one of the plates before exiting? Express your answer in\n          terms of the given quantities and fundamental constants.\n\n   b. Suppose instead that the ball of mass M and charge q is released from rest at a point halfway between\n     the plates at a time t = 0. Now, an AC potential diﬀerence V (t) = V0 sin ωt is also placed across the\n      capacitor. The ball may hit one of the plates before it falls (under the inﬂuence of gravity) out of the\n      region between the plates.  If V0 is suﬃciently large, this willp only occur for somep  range of angular\n      frequencies ωmin < ω < ωmax. You may assume that ωmin ≪  g/h and ωmax ≫   g/h. Making these\n     assumptions, ﬁnd expressions for ωmin and ωmax in terms of the given quantities and/or fundamental\n      constants.\n\n    c. Assume that the region between the plates is not quite a vacuum, but instead humid air with a uniform\n      resistivity ρ. Ignore any eﬀects because of the motion of the ball, and assume that the humid air doesn’t\n     change the capacitance of the original system.\n\n             i. Determine the resistance between the plates.\n\n            ii. If the plates are originally charged to a constant potential source V0, and then the potential is\n          removed, how much time is required for the potential diﬀerence between the plates to decrease to\n         a value of V0/e, where ln e = 1?\n\n           iii.  If the plates are instead connected to an AC potential source so that the potential diﬀerence\n           across the plates is V0 sin ωt, determine the amplitude I0 of the alternating current through the\n           potential source.\n\n2008 Semiﬁnal Exam                          Part B                                          10\n\n\n\n\n\n STOP: Do Not Continue to Part C\n If there is still time remaining for Part B, you should review your work for\n   Part B, but do not continue to Part C until instructed by your exam\n                 supervisor. You may not return to Part A\n\n2008 Semiﬁnal Exam                          Part C                                          11\n\n\n\nOptical Society of America Bonus Question\n\nResearchers have developed a lens made of liquid. The spherical lens consists of a droplet of transparent\nliquid resting on an electrically controllable surface. When the voltage of the surface is changed, the droplet\nitself changes shape; it either tries to “ball-up” more strongly or it becomes ﬂatter. The ﬁgure below is a\nsketch of the liquid lens and several parameters that describe it, including the thickness of the lens (t), the\nradius of curvature of the top surface (R) and the contact angle (θ), which represents the angle between the\nﬂat surface beneath the droplet and the tangent to the curved surface at the point of contact.\n\n                                  t\n\n                                                  θ\n\n                      R           R\n\n\n\n\n   a. When a certain voltage is applied, both the contact angle and lens thickness increase (and the lens\n     becomes more curved). In this case, is the liquid attracted or repelled by the surface?\n\n   b. Express the contact angle as a function of R and t.\n\n    c. The total volume of the liquid lens is an important parameter because as the liquid lens changes shape,\n       its volume is conserved. Calculate the volume of the lens as a function of R and t.\n\n   d. Use your result to part (b) to eliminate the variable t from your expression for the volume and ﬁnd\n    V (R, θ).\n\n    e. By changing the voltage on the control surface, the contact angle, θ, can be changed, which in turn\n     changes the focal length of the lens, f. The lensmaker’s formula can be used to calculate the focal\n      length and is given by\n                                   1                                                      1 −1     ,                        = (nliquid −nair)\n                                    f               R1   R2\n\n     where nliquid and nair are the refractive indices of the liquid in the lens and air around it, and R1 and\n    R2 are the radii of curvature of the two surfaces of the lens. In ﬁgure 1, R1 is the curved face and R2\n       is the ﬂat face. Use the lensmaker’s formula to calculate the focal length of the lens in terms of the\n      total volume of the liquid, the contact angle, and the relevant refractive indices.\n\n      Sidenote: liquid lenses are interesting because they are electrically controllable, variable focus lenses\n     that can be very compact.  People are working on putting them into cell phone cameras for ultra-\n     compact zoom lenses. For more information on this type of liquid lens, see T. Krupenkin, S. Yang,\n     and P. Mach, “Tunable liquid microlens,” Appl. Phys. Lett. 82, 316-318 (2003).\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip"
+   },
+   "figures": [],
+   "answer_candidates": [
+    {
+     "title": "2008 USAPhO  Solutions",
+     "url": "https://www.aapt.org/Common/upload/USAPhO-2008-Solutions_rev-4012021.pdf"
+    }
+   ],
+   "topic_tags": [
+    "usapho-2008-usapho-question-paper__q06"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-physics-part-007.zip",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q06/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-physics-part-007.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/usapho-2008-usapho-question-paper__q06/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-physics-part-007.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/USAPHO/usapho-2008-usapho-question-paper__q06.md"
+  }
+ ]
+}

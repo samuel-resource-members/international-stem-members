@@ -1,0 +1,176 @@
+{
+ "group": "cemc-fryer-2024-contest-english-question-paper",
+ "course_id": "CEMC-FRYER",
+ "repository": "samuel-resource-members/international-stem-members",
+ "question_count": 4,
+ "questions": [
+  {
+   "paper_id": "cemc-fryer-2024-contest-english-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2024-contest-english-question-paper__q01",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "1",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "1.    In a sequence of integers, the 1st term is 3. Each new term is obtained by adding 6 to\n      the previous term. In this sequence, the ﬁrst four terms are 3, 9, 15, 21.\n\n          (a) What is the 5th term?\n\n         (b) What is the average (mean) of the 4th, 5th and 6th terms?\n\n          (c) What is the 20th term?\n\n         (d) Determine the smallest term that is greater than 1000.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2024-contest-english-question-paper__q01"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2024-contest-english-question-paper__q01/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2024-contest-english-question-paper__q01/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2024-contest-english-question-paper__q01.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2024-contest-english-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2024-contest-english-question-paper__q02",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "2",
+   "chapter": "代数",
+   "knowledge_point": "百分比与增长",
+   "problem_type": "求百分比变化或复利结果",
+   "search_text": "2.    Each day, Ella loaded her truck with red shirts and blue shirts for delivery to two stores.\n     At Store 1, she dropped oﬀsome shirts, and at Store 2 she dropped oﬀall remaining\n       shirts.\n          (a) On Monday, she loaded 800 red shirts and 200 blue shirts. At Store 1, she dropped\n           oﬀonly red shirts. At Store 2, 50% of the shirts dropped oﬀwere red. How many\n            red shirts were dropped oﬀat Store 1?\n\n         (b) On Tuesday, she loaded 5x red shirts and 5x blue shirts. At Store 1, she dropped\n        oﬀ40% of the red shirts, and no blue shirts. What percentage of the shirts\n           dropped oﬀat Store 2 were blue?\n\n          (c) On Wednesday, she loaded 3y red shirts and y blue shirts. At Store 1, she dropped\n         oﬀsome red shirts and no blue shirts. Additionally, she picked up some green\n               shirts. At Store 2, she dropped oﬀall remaining shirts and the numbers of red,\n             green, and blue shirts dropped oﬀwere equal. Of all the shirts that she dropped\n         oﬀon Wednesday, determine the percentage that were green.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2024-contest-english-question-paper__q02"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2024-contest-english-question-paper__q02/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2024-contest-english-question-paper__q02/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2024-contest-english-question-paper__q02.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2024-contest-english-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2024-contest-english-question-paper__q03",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "3",
+   "chapter": "坐标几何",
+   "knowledge_point": "直线",
+   "problem_type": "求直线方程、斜率或交点",
+   "search_text": "3.   A square slice of bread, ABCD, has dimensions 30 × 30. The slice of bread has crusts\n     on three of its edges, as shown by the bolded sides AB, BC and CD in Figure 1. When\n      the slice is cut into smaller pieces, the smaller pieces are called fair if\n         • each piece has the same area, and\n         • each piece has the same length of crust.\n        A            D        A     M     D        A     M     D\n                                                                               S\n                                      N\n                                                                       T\n        30                           30                           30\n                                               U              V\n\n\n        B             C        B             C        B  P       Q  C\n                   30                           30                           30\n                    Figure 1                            Figure 2                             Figure 3\n\n          (a) In Figure 2, M is the midpoint of AD and MN is perpendicular to AD. If ABCD\n                 is cut along the lines MN, NB and NC to create three fair pieces, what is the\n             length of MN?\n\n         (b) In Figure 3, M is the midpoint of AD, MT  is perpendicular to AD, and S lies\n           on MT.  If ABCD is cut along the lines MT, TP, TQ, SU, and SV to create\n           ﬁve fair pieces, what is the length of PQ?\n\n          (c) In Figure 3, determine the length of ST.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2024-contest-english-question-paper__q03"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2024-contest-english-question-paper__q03/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2024-contest-english-question-paper__q03/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2024-contest-english-question-paper__q03.md"
+  },
+  {
+   "paper_id": "cemc-fryer-2024-contest-english-question-paper",
+   "year": 2024,
+   "session": "Annual",
+   "paper": "contest",
+   "variant": "English",
+   "id": "cemc-fryer-2024-contest-english-question-paper__q04",
+   "exam_id": "CEMC-FRYER",
+   "course_id": "CEMC-FRYER",
+   "subject": "math",
+   "question_number": "4",
+   "chapter": "",
+   "knowledge_point": "",
+   "problem_type": "",
+   "search_text": "2\n4.   A game is played with spinners having three equally sized sections\n                                                                                       7     numbered with three distinct integers. Each game is played between\n                                                                                            4\n     two players.  Each player spins their spinner once and the player\n     who spins the highest number is the winner.  Using either of the\n                                                                                            2     two spinners shown, a player could spin a 2, a 4 or a 7, each with a\n      probability of 13, and so the spinners would be considered to be the        4                                                                                            7\n     same and both are labelled {2, 4, 7}.\n\n          (a) Alice spins the spinner {5, 9, 11} and Binh spins the spinner {1, 8, 10}. What is\n            the probability that Alice wins?\n\n         (b) Carole makes the spinner {1, 5, 10}. Darsh makes a spinner by choosing three\n              distinct integers from 2, 3, 4, 6, 7, 8, 9.  Determine how many diﬀerent spinners\n           Darsh can make so that his probability of winning  is greater than Carole’s\n             probability of winning.\n\n          (c) Erin makes the spinner {5, 8, 15} and Fynn makes the spinner {2, 10, 18}.\n           Gina makes a spinner {x, y, z} by choosing three integers x < y < z from the list\n\n                                      1, 3, 4, 6, 7, 9, 11, 12, 13, 14, 16, 17, 19, 20\n\n           Suppose that\n\n               • the probability that Fynn beats Erin is equal to p,\n\n               • the probability that Erin beats Gina is equal to q, and\n\n               • the probability that Gina beats Fynn is equal to r.\n\n           Determine how many diﬀerent spinners Gina can make so that p = q = r.\n",
+   "links": {
+    "download": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip"
+   },
+   "figures": [],
+   "answer_candidates": [],
+   "topic_tags": [
+    "cemc-fryer-2024-contest-english-question-paper__q04"
+   ],
+   "paths": [],
+   "packages": [
+    {
+     "tag": "subject-resources",
+     "name": "question-bank-math-part-005.zip",
+     "member": "question-corpus/questions/cemc-fryer-2024-contest-english-question-paper__q04/question.pdf"
+    }
+   ],
+   "files": [
+    {
+     "package": "question-bank-math-part-005.zip",
+     "release": "subject-resources",
+     "member": "question-corpus/questions/cemc-fryer-2024-contest-english-question-paper__q04/question.pdf",
+     "url": "https://github.com/samuel-resource-members/international-stem-members/releases/download/subject-resources/question-bank-math-part-005.zip",
+     "resolved": true
+    }
+   ],
+   "question_file": "https://raw.githubusercontent.com/samuel-resource-members/international-stem-members/main/questions/CEMC-FRYER/cemc-fryer-2024-contest-english-question-paper__q04.md"
+  }
+ ]
+}
