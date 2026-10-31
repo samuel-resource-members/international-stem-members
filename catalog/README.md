@@ -1,6 +1,6 @@
-# Public question bank — how an AI should read it
+# Question bank — how an AI should read it
 
-Repository: <https://github.com/samuel-resource-members/international-stem-members> (public, no login, no activation code).
+Repository: <https://github.com/samuel-resource-members/international-stem-members>.
 
 Everything is reachable through small files. Follow the links level by level; do not download the whole repository unless your runtime needs a local clone.
 
