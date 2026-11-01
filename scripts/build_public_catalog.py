@@ -63,6 +63,9 @@ def build_human_catalog():
     """Create readable views from existing identities without rewriting question content."""
     index = json.loads((CATALOG / 'index.json').read_text(encoding='utf-8'))
     courses = index['courses']
+    overlay_path = ROOT / 'data' / 'reader-question-files.json'
+    overlay = json.loads(overlay_path.read_text(encoding='utf-8')) if overlay_path.is_file() else {}
+    retired = {qid for qid, value in overlay.get('questions', {}).items() if value.get('retired') is True}
     overview = ['# 按学科找题', '', '[返回首页](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)', '',
                 '选择课程，再按章节、年份或试卷查阅题目。题目页保留原题及已有分类；完整题面与图表请以原题文件为准。', '']
     generated = set()
@@ -76,14 +79,13 @@ def build_human_catalog():
             course_path = CATALOG / 'courses' / filename
             course = json.loads(course_path.read_text(encoding='utf-8'))
             course_md = course_path.with_suffix('.md')
-            overview.append(f"| [{cell(c['course_id'])}](courses/{course_md.name}) | {cell(c.get('years')) or '见课程目录'} | {c['question_count']:,} |")
             chapters = collections.defaultdict(list)
             groups = []
             for entry in course['papers']:
                 paper_json = CATALOG / 'papers' / Path(urlparse(entry['file']).path).name
                 data = json.loads(paper_json.read_text(encoding='utf-8'))
                 paper_md = paper_json.with_suffix('.md')
-                questions = data['questions']
+                questions = [q for q in data['questions'] if q['id'] not in retired]
                 year, paper_label = paper_identity(entry)
                 chapter_groups = collections.defaultdict(list)
                 for q in questions:
@@ -101,8 +103,10 @@ def build_human_catalog():
                 paper_md.write_text('\n'.join(paper_lines) + '\n', encoding='utf-8')
                 generated.add(paper_md)
                 groups.append((year, paper_label, paper_md.name, len(questions), list(chapter_groups), questions[0] if questions else None))
+            question_count = sum(group[3] for group in groups)
+            overview.append(f"| [{cell(c['course_id'])}](courses/{course_md.name}) | {cell(c.get('years')) or '见课程目录'} | {question_count:,} |")
             lines = [f"# {cell(c['course_id'])}", '', '[全部课程](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)', '',
-                     f"{title} · {c['question_count']:,} 道题 · {len(groups):,} 个试卷或题组入口", '',
+                     f"{title} · {question_count:,} 道题 · {len(groups):,} 个试卷或题组入口", '',
                      '[按年份与试卷](#papers) · [按章节](#chapters)', '', '<a id="papers"></a>', '', '## 年份与试卷', '']
             by_year = collections.defaultdict(list)
             for group in groups:

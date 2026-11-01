@@ -4,14 +4,6 @@
 
 点击题号查看题目。
 
-<a id="chapter-469bae7528"></a>
-
-## Atoms, elements and compounds
-
-| 题目 | 知识点 | 题型 |
-| --- | --- | --- |
-| [Q4](../../questions/CIE-9701/caie-a-level-9701-2025-may-june-p3-v7-qp__q04.md) | Atomic structure | 从质子、电子和同位素信息判断结构 |
-
 <a id="chapter-a447bb98e0"></a>
 
 ## Practical assessment

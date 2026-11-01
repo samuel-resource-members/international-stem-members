@@ -70,7 +70,7 @@
 | --- | --- | ---: |
 | [AP-CHEMISTRY](courses/AP-CHEMISTRY.md) | 2023–2026 | 28 |
 | [CIE-0620](courses/CIE-0620.md) | 2025–2025 | 306 |
-| [CIE-9701](courses/CIE-9701.md) | 2024–2025 | 967 |
+| [CIE-9701](courses/CIE-9701.md) | 2024–2025 | 960 |
 | [DSE-CHEMISTRY](courses/DSE-CHEMISTRY.md) | 2022–2026 | 398 |
 | [IAL-CHEMISTRY-UNIT-1](courses/IAL-CHEMISTRY-UNIT-1.md) | 2021–2025 | 304 |
 | [IB-CHEMISTRY-HL](courses/IB-CHEMISTRY-HL.md) | 2025–2025 | 151 |

@@ -17,6 +17,7 @@ import os
 from pathlib import Path
 import re
 import secrets
+import signal
 import shutil
 import threading
 import tempfile
@@ -150,7 +151,7 @@ class Library:
         for row in raw:
             course = paper_course(row); subject = row.get('subject') or subject_for(course)
             title = ' · '.join(str(v) for v in [course_label(course), row.get('year'), row.get('session'),
-                ('P'+str(row['paper'])) if row.get('paper') else '', row.get('variant'),
+                (('P' if str(row['paper']).isdigit() else '')+str(row['paper'])) if row.get('paper') else '', row.get('variant'),
                 DOCUMENTS.get(row.get('document_type'),row.get('document_type'))] if v)
             self.papers.append({'id':row['id'],'title':title,'course':course,'subject':subject,
                 'year':row.get('year'),'classification':DOCUMENTS.get(row.get('document_type'),''),'_raw':row})
@@ -288,7 +289,7 @@ class Library:
                               'label':'参考评分资料','available':True})
         # Keep matching provenance statuses internally; no classification is upgraded.
         label=flatten(classification)
-        if row.get('classification_state')=='automatic_suggestion': label += '（题型参考）'
+        if row.get('classification_state')=='automatic_suggestion' or overlay.get('classification_note')=='题型参考': label += '（题型参考）'
         return {'id':row['id'],'title':title,'course':course,'subject':question_subject(row,course),
             'year':year,'classification':label,'text':row.get('text',row.get('search_text','')),'files':files}
 
@@ -376,6 +377,7 @@ class ReaderHandler(BaseHTTPRequestHandler):
                 ref,name=library.files[token]; destination=self.server.cache/'opened'/token/name
                 with self.server.file_lock:
                     path=self.server.resolver.resolve(ref,destination)
+                if path.suffix.lower()!=Path(name).suffix.lower(): name=path.name
                 self.send_response(200);self.send_header('Content-Type',mimetypes.guess_type(name)[0] or 'application/octet-stream')
                 self.send_header('Content-Disposition',"inline; filename*=UTF-8''"+quote(name))
                 self.send_header('Content-Length',str(path.stat().st_size));self.send_header('X-Content-Type-Options','nosniff')
@@ -402,6 +404,9 @@ def main():
     parser.add_argument('--idle-minutes',type=int,default=30)
     parser.add_argument('--local-books',type=Path,default=Path.home()/'.config/stem-library/local-books.json')
     args=parser.parse_args()
+    def stop_reader(signum, frame): raise KeyboardInterrupt
+    for signum in (signal.SIGTERM, getattr(signal,'SIGHUP',None)):
+        if signum is not None: signal.signal(signum,stop_reader)
     library=Library(args.root,args.local_books)
     with tempfile.TemporaryDirectory(prefix='stem-reader-') as cache:
         server=ReaderServer(('127.0.0.1',args.port),library,cache)
@@ -411,7 +416,7 @@ def main():
         def idle_stop():
             while True:
                 time.sleep(30)
-                if args.idle_minutes>0 and time.monotonic()-server.last_request>args.idle_minutes*60:
+                if not server.file_lock.locked() and args.idle_minutes>0 and time.monotonic()-server.last_request>args.idle_minutes*60:
                     server.shutdown();return
         threading.Thread(target=idle_stop,daemon=True).start()
         try: server.serve_forever()
