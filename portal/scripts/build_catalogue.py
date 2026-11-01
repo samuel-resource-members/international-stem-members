@@ -14,7 +14,8 @@ html=re.sub(r'<meta\s+http-equiv="Content-Security-Policy"[^>]*>','',html,count=
 scripts=list(re.finditer(r'<script\b[^>]*>(.*?)</script>',html,re.S))
 assert len(scripts)==4
 data=json.loads(scripts[2].group(1));questions=data['questions']
-assert len(questions)==27284 and len({q['course_id'] for q in questions})==68
+assert questions and len({q['id'] for q in questions})==len(questions), 'Question identities must be present and unique'
+courses=sorted({q['course_id'] for q in questions})
 receipts=json.loads((root/'.admin/transfer-receipt.json').read_text())
 assets={(x['target_tag'],x['name']):x['destination_id'] for x in receipts}
 for q in questions:
@@ -33,7 +34,7 @@ for q in questions:
     if size+len(text.encode())>8*1024*1024:flush()
     part.append(text);size+=len(text.encode())
 flush()
-manifest={'records':len(questions),'courses':sorted({q['course_id'] for q in questions}),'parts':chunks}
+manifest={'records':len(questions),'courses':courses,'parts':chunks}
 (directory/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False))
 (dist/'math-config.js').write_text(scripts[0].group(1))
 (dist/'mathjax.js').write_text(scripts[1].group(1))
@@ -54,4 +55,4 @@ html=html.replace('</header>','</header><p id="library-loading" class="loading-n
 html=html.replace('公式、图表与完整题面请以题目 PDF 为准。','完整题面与图表请查看题目包。')
 (dist/'library.html').write_text(html)
 assert max(f.stat().st_size for f in dist.rglob('*') if f.is_file())<25*1024*1024
-print(json.dumps({'records':len(questions),'courses':68,'protected_chunks':len(chunks),'bytes':sum(f.stat().st_size for f in dist.rglob('*') if f.is_file())}))
+print(json.dumps({'records':len(questions),'courses':len(courses),'protected_chunks':len(chunks),'bytes':sum(f.stat().st_size for f in dist.rglob('*') if f.is_file())}))

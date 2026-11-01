@@ -1,11 +1,13 @@
 # 国际课程与竞赛题库
 
-数学、物理、化学与生物的国际课程与竞赛真题，共 27,284 道题：题面文字（OCR）、章节 / 知识点 / 题型标签、原题 PDF 与评分资料。按「课程 → 试卷 → 单题」逐级链接，AI 和程序可以直接沿链接读取。
+数学、物理、化学、生物与综合科学的真题、分类题和评分资料。
 
-- AI 读取说明：[catalog/README.md](catalog/README.md)
-- 课程总索引：[catalog/index.json](catalog/index.json)
-- 单题文件：`questions/<课程>/<题号>.md`
-- 原题 PDF 与资料包：本仓库 [Releases](https://github.com/samuel-resource-members/international-stem-members/releases)，按内容哈希分片，单题文件里给出所在分片与校验值
-- 讲义制作入口：<https://ai-handout-school.pages.dev>
+- [在线找题](https://stem-member-library.xpartara.workers.dev/library)：按课程、章节与题型检索。
+- [按学科与课程浏览](catalog/README.md)：按章节、年份或试卷打开题目。
+- [整套资料](https://stem-member-library.xpartara.workers.dev/resources)：取得课程资料包。
 
-程序化获取可参考 `scripts/member_download.py`。各考试试题与评分资料的版权归其权利人所有。
+在电脑上双击 **[打开题库.command](打开题库.command)**，浏览题目、原卷和评分，按需获取单个文件。首次使用需以有仓库访问权限的 GitHub 账号登录。
+
+[首次使用指南](https://stem-member-library.xpartara.workers.dev/guide) · [资料维护与批量取用](docs/library-maintenance.md)
+
+各考试试题与评分资料的版权归其权利人所有。

@@ -10,11 +10,13 @@ Output (all derived, safe to regenerate):
 from __future__ import annotations
 
 import collections
+import argparse
 import hashlib
 import json
 import re
 import shutil
 from pathlib import Path
+from urllib.parse import unquote, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 REPO = 'samuel-resource-members/international-stem-members'
@@ -23,6 +25,105 @@ REL = f'https://github.com/{REPO}/releases/download'
 CATALOG = ROOT / 'catalog'
 QUESTIONS = ROOT / 'questions'
 CHUNK = 80
+SUBJECTS = {'math': '数学', 'physics': '物理', 'chemistry': '化学', 'biology': '生物', 'science': '综合科学'}
+
+
+def cell(value):
+    return str(value or '').replace('|', '\\|').replace('\n', ' ').strip()
+
+
+def chapter_anchor(value):
+    return 'chapter-' + hashlib.sha256(value.encode()).hexdigest()[:10]
+
+
+def paper_identity(entry):
+    """Only recover missing display fields from an explicit Cambridge paper code."""
+    year, session, paper = entry.get('year'), entry.get('session'), entry.get('paper')
+    match = re.search(r'(?:^|[-_:])(\d{4})-([msw])(\d{2})-(?:qp|ms)-(\d{2})(?:$|[-_])', entry['group'])
+    if match:
+        year = year or 2000 + int(match[3])
+        session = session or {'m': 'February/March', 's': 'May/June', 'w': 'October/November'}[match[2]]
+        paper = paper or match[4]
+    label_parts = [str(v) for v in [session, ('Paper ' + str(paper)) if paper else '', entry.get('variant')] if v and v != 'annual']
+    return str(year or '年份未标注'), ' · '.join(label_parts) or entry['group']
+
+
+def question_link(question):
+    prefix = f'{RAW}/questions/'
+    target = question.get('question_file', '')
+    if not target.startswith(prefix):
+        raise ValueError(f"Question link is outside this catalogue: {question['id']}")
+    relative = '../../questions/' + target[len(prefix):]
+    if not (CATALOG / 'papers' / unquote(relative)).resolve().is_file():
+        raise ValueError(f'Missing question page: {relative}')
+    return f"[Q{cell(question.get('question_number') or question['id'])}]({relative})"
+
+
+def build_human_catalog():
+    """Create readable views from existing identities without rewriting question content."""
+    index = json.loads((CATALOG / 'index.json').read_text(encoding='utf-8'))
+    courses = index['courses']
+    overview = ['# 按学科找题', '', '[返回首页](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)', '',
+                '选择课程，再按章节、年份或试卷查阅题目。题目页保留原题及已有分类；完整题面与图表请以原题文件为准。', '']
+    generated = set()
+    for subject, title in SUBJECTS.items():
+        selected = [c for c in courses if c.get('subject') == subject]
+        if not selected:
+            continue
+        overview += [f'## {title}', '', '| 课程 | 年份 | 题目 |', '| --- | --- | ---: |']
+        for c in selected:
+            filename = Path(urlparse(c['file']).path).name
+            course_path = CATALOG / 'courses' / filename
+            course = json.loads(course_path.read_text(encoding='utf-8'))
+            course_md = course_path.with_suffix('.md')
+            overview.append(f"| [{cell(c['course_id'])}](courses/{course_md.name}) | {cell(c.get('years')) or '见课程目录'} | {c['question_count']:,} |")
+            chapters = collections.defaultdict(list)
+            groups = []
+            for entry in course['papers']:
+                paper_json = CATALOG / 'papers' / Path(urlparse(entry['file']).path).name
+                data = json.loads(paper_json.read_text(encoding='utf-8'))
+                paper_md = paper_json.with_suffix('.md')
+                questions = data['questions']
+                year, paper_label = paper_identity(entry)
+                chapter_groups = collections.defaultdict(list)
+                for q in questions:
+                    chapter_groups[q.get('chapter') or '未标注章节'].append(q)
+                paper_lines = [f"# {cell(c['course_id'])} · {cell(year)} · {cell(paper_label)}", '',
+                               f"[返回课程](../courses/{course_md.name}) · [全部课程](../README.md)", '',
+                               '点击题号查看题目。', '']
+                for chapter, members in sorted(chapter_groups.items()):
+                    anchor = chapter_anchor(chapter)
+                    paper_lines += [f'<a id="{anchor}"></a>', '', f'## {cell(chapter)}', '',
+                                    '| 题目 | 知识点 | 题型 |', '| --- | --- | --- |']
+                    paper_lines += [f"| {question_link(q)} | {cell(q.get('knowledge_point')) or '—'} | {cell(q.get('problem_type')) or '—'} |" for q in members]
+                    paper_lines.append('')
+                    chapters[chapter].append((year, paper_label, paper_md.name, len(members), anchor))
+                paper_md.write_text('\n'.join(paper_lines) + '\n', encoding='utf-8')
+                generated.add(paper_md)
+                groups.append((year, paper_label, paper_md.name, len(questions), list(chapter_groups), questions[0] if questions else None))
+            lines = [f"# {cell(c['course_id'])}", '', '[全部课程](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)', '',
+                     f"{title} · {c['question_count']:,} 道题 · {len(groups):,} 个试卷或题组入口", '',
+                     '[按年份与试卷](#papers) · [按章节](#chapters)', '', '<a id="papers"></a>', '', '## 年份与试卷', '']
+            by_year = collections.defaultdict(list)
+            for group in groups:
+                by_year[group[0]].append(group)
+            for year in sorted(by_year, reverse=True):
+                lines += [f'### {cell(year)}', '', '| 试卷 / 题组 | 题目 | 章节 |', '| --- | --- | --- |']
+                for _, paper_label, name, count, names, first in by_year[year]:
+                    first_link = question_link(first) if first else ''
+                    lines.append(f"| [{cell(paper_label)}](../papers/{name}) | {first_link} · [全部 {count} 题](../papers/{name}) | {cell('、'.join(names))} |")
+                lines.append('')
+            lines += ['<a id="chapters"></a>', '', '## 章节', '']
+            for chapter, entries in sorted(chapters.items()):
+                lines += [f'### {cell(chapter)}', '', ' · '.join(
+                    f"[{cell(year)} {cell(label)}（{count} 题）](../papers/{filename}#{anchor})"
+                    for year, label, filename, count, anchor in entries), '']
+            course_md.write_text('\n'.join(lines) + '\n', encoding='utf-8')
+            generated.add(course_md)
+        overview.append('')
+    overview += ['[资料维护与批量取用](../docs/library-maintenance.md)', '']
+    (CATALOG / 'README.md').write_text('\n'.join(overview), encoding='utf-8')
+    print(f'human_courses={len(courses)} human_papers={sum(1 for p in generated if p.parent.name == "papers")}')
 
 
 def safe(name: str) -> str:
@@ -166,6 +267,12 @@ def question_markdown(rec, files) -> str:
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--human-only', action='store_true', help='Refresh readable course and paper views from the existing catalogue only')
+    args = parser.parse_args()
+    if args.human_only:
+        build_human_catalog()
+        return
     recs = json.load(open(ROOT / 'data/questions.json', encoding='utf-8'))
     store = json.load(open(ROOT / 'data/pdf-store.json', encoding='utf-8'))
     store_files, shards = store['files'], store['shards']
@@ -250,6 +357,7 @@ def main():
         'courses': index_courses,
     }, ensure_ascii=False, indent=1), encoding='utf-8')
     print(f"courses={len(index_courses)} questions={len(recs)} unresolved_paths={unresolved}")
+    build_human_catalog()
 
 
 if __name__ == '__main__':

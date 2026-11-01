@@ -1,0 +1,53 @@
+# IAL-PHYSICS-UNIT-1 · 2022 · October · Paper Unit 1 · 01
+
+[返回课程](../courses/IAL-PHYSICS-UNIT-1.md) · [全部课程](../README.md)
+
+点击题号查看题目。
+
+<a id="chapter-8f9f640e8e"></a>
+
+## Motion, forces and energy
+
+| 题目 | 知识点 | 题型 |
+| --- | --- | --- |
+| [Q1](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q01.md) | Motion | 从运动条件或图像求速度和加速度 |
+| [Q2](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q02.md) | Momentum | 使用动量守恒或冲量关系 |
+| [Q3](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q03.md) | Motion | 从运动条件或图像求速度和加速度 |
+| [Q4](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q04.md) | Motion | 从运动条件或图像求速度和加速度 |
+| [Q6](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q06.md) | Energy, work and power | 连接功、能量、效率和功率 |
+| [Q7](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q07.md) | Forces | 从受力或形变条件求力 |
+| [Q8](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q08.md) | Forces | 从受力或形变条件求力 |
+| [Q10](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q10.md) | Energy, work and power | 连接功、能量、效率和功率 |
+| [Q11](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q11.md) | Motion | 从运动条件或图像求速度和加速度 |
+| [Q13](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q13.md) | Turning effect of forces | 用力矩关系处理平衡 |
+| [Q14](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q14.md) | Forces | 从受力或形变条件求力 |
+| [Q15](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q15.md) | Motion | 从运动条件或图像求速度和加速度 |
+| [Q16](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q16.md) | Momentum | 使用动量守恒或冲量关系 |
+| [Q17](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q17.md) | Motion | 从运动条件或图像求速度和加速度 |
+| [Q18](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q18.md) | Motion | 从运动条件或图像求速度和加速度 |
+| [Q19](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q19.md) | Energy, work and power | 连接功、能量、效率和功率 |
+
+<a id="chapter-8951468d56"></a>
+
+## Nuclear physics
+
+| 题目 | 知识点 | 题型 |
+| --- | --- | --- |
+| [Q9](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q09.md) | Atomic structure | 用核子数和电荷判断原子结构 |
+
+<a id="chapter-d4bef51999"></a>
+
+## Practical skills
+
+| 题目 | 知识点 | 题型 |
+| --- | --- | --- |
+| [Q12](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q12.md) | Experimental design and data | 处理实验变量、读数、图像和误差 |
+
+<a id="chapter-a16fad9214"></a>
+
+## 未标注章节
+
+| 题目 | 知识点 | 题型 |
+| --- | --- | --- |
+| [Q5](../../questions/IAL-PHYSICS-UNIT-1/edexcel-ial-WPH11-2022-october-unit-1-01-qp__q05.md) | — | — |
+
