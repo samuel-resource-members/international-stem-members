@@ -59,6 +59,16 @@ def question_link(question):
     return f"[Q{cell(question.get('question_number') or question['id'])}]({relative})"
 
 
+TOPIC_LABELS = {
+    'Algebra': '代数', 'Geometry': '几何', 'Number theory': '数论',
+    'Counting and probability': '计数与概率', 'Logic and data': '逻辑与数据',
+    'Vectors and Voronoi diagrams': '向量与 Voronoi 图',
+    'Probability and statistics': '概率与统计', 'Integration': '积分',
+    'Complex numbers': '复数', 'Permutations and combinations': '排列组合',
+    'Differentiation': '微分', 'Additional Mathematics': '附加数学',
+}
+
+
 def teacher_shelf():
     groups = collections.defaultdict(lambda: collections.defaultdict(list))
     courses = collections.defaultdict(list)
@@ -67,7 +77,7 @@ def teacher_shelf():
             continue
         label = book['reader_course']
         groups[label][book['section']].append((book['classification'], book['url']))
-        for course in ([book['course'], 'bmo2'] if label == 'BMO 1 & 2' else [book['course']]):
+        for course in [book['course'], *book.get('related_courses', [])]:
             if label not in courses[course]:
                 courses[course].append(label)
 
@@ -82,7 +92,9 @@ def teacher_shelf():
                   '| 卷别或专题 | 教材与讲义 |', '| --- | --- |']
         for section, resources in sections.items():
             links = ' · '.join(f'[{cell(label)}]({url})' for label, url in resources)
-            lines.append(f'| {cell(section)} | {links} |')
+            translated = TOPIC_LABELS.get(section)
+            title = f'{translated} · {section}' if translated else section
+            lines.append(f'| {cell(title)} | {links} |')
         lines.append('')
     (CATALOG / 'books.md').write_text('\n'.join(lines), encoding='utf-8')
     return {course: ' · '.join(f'[{cell(label)} 教材与讲义](../books.md#{anchor(label)})' for label in labels)

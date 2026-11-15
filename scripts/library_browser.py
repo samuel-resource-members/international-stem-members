@@ -129,6 +129,33 @@ BOOK_TERMS = (
     (r'(?<![a-z])student(?: +book)?(?![a-z])|学生册|学生用书|学生', 'student'),
     (r'(?<![a-z])teacher(?: +handout)?(?![a-z])|教师册|教师', 'teacher'),
 )
+# Use the topics printed in the teaching catalogue. Match longer Chinese
+# phrases first so compound names retain the same detail as their English title.
+MATH_TOPICS = {
+    '最大公约数': 'greatest common divisor', '最大公因数': 'greatest common divisor',
+    '最小公倍数': 'least common multiple', '数学归纳法': 'induction', '归纳法': 'induction',
+    '排列组合': 'permutation combination', '坐标几何': 'coordinate geometry',
+    '解析几何': 'coordinate geometry', '立体几何': 'solid geometry',
+    '相似三角形': 'similar triangle', '抽屉原理': 'pigeonhole', '容斥原理': 'inclusion exclusion',
+    '数论': 'number theory', '代数': 'algebra', '几何': 'geometry',
+    '计数': 'counting', '排列': 'permutation', '组合': 'combination',
+    '概率': 'probability', '统计': 'statistics', '不等式': 'inequality',
+    '多项式': 'polynomial', '二次方程': 'quadratic', '一次方程': 'linear equation',
+    '方程': 'equation', '函数': 'function', '图像': 'graph', '图象': 'graph', '数列': 'sequence',
+    '递推': 'recurrence', '对数': 'logarithm', '三角形': 'triangle', '周长': 'perimeter',
+    '面积': 'area', '圆周': 'circle', '圆': 'circle', '对称': 'symmetry',
+    '整除': 'divisibility', '同余': 'congruence', '余数': 'remainder',
+    '逻辑': 'logic', '算术': 'arithmetic', '期望值': 'expected value', '期望': 'expected value',
+}
+MATH_TOPIC_PATTERN = re.compile('|'.join(sorted(MATH_TOPICS, key=len, reverse=True)))
+MATH_WORD_FORMS = {
+    'combinatorics': 'combination', 'combinations': 'combination', 'permutations': 'permutation',
+    'inequalities': 'inequality', 'polynomials': 'polynomial', 'quadratics': 'quadratic',
+    'equations': 'equation', 'functions': 'function', 'graphs': 'graph', 'sequences': 'sequence',
+    'recurrences': 'recurrence', 'logarithms': 'logarithm', 'triangles': 'triangle',
+    'circles': 'circle', 'congruences': 'congruence', 'remainders': 'remainder',
+    'pigeonholes': 'pigeonhole', 'divisors': 'divisor', 'multiples': 'multiple',
+}
 BOOK_FORMATS = {
     '可编辑源稿': '源稿 文稿 稿件 可编辑文稿 教材源文件 editable source manuscript',
     '课件': '幻灯片 演示文稿 slides ppt pptx',
@@ -144,7 +171,9 @@ def book_terms(value):
         text = text.replace(label, ' ' + subject + ' ')
     for pattern, replacement in BOOK_TERMS:
         text = re.sub(pattern, ' ' + replacement + ' ', text)
-    return re.findall(r'[a-z0-9]+|[^\W\da-z_]+', text)
+    text = MATH_TOPIC_PATTERN.sub(lambda match: ' ' + MATH_TOPICS[match[0]] + ' ', text)
+    words = re.findall(r'[a-z0-9]+|[^\W\da-z_]+', text)
+    return [MATH_WORD_FORMS.get(word, word) for word in words if word not in ('与', '和', '及', '的', 'and')]
 
 
 def book_ref_available(book, root):
@@ -252,12 +281,14 @@ class Library:
         for key, book in unique.items():
             if key in local_by_sha and (book.get('ref') or {}).get('kind') != 'local':
                 book['_local_copy'] = local_by_sha[key]
-        self.books = list(unique.values())
+        self.books = sorted(unique.values(), key=lambda book: book.get('status') == 'historical_archive')
         for book in self.books:
-            self.count(book['course'], book['subject'], 'books')
+            related = book.get('related_courses') or []
+            for course in dict.fromkeys([book['course'], *related]):
+                self.count(course, book['subject'], 'books')
             fields = [str(book.get(k) or '') for k in ('title', 'name', 'id', 'course', 'subject', 'year')]
             category = flatten(book.get('classification'))
-            fields.extend([category, BOOK_FORMATS.get(category, ''), flatten(book.get('aliases'))])
+            fields.extend([category, BOOK_FORMATS.get(category.split(' · ')[0], ''), flatten(book.get('aliases')), flatten(related)])
             book['_terms'] = set(book_terms(' '.join(fields)))
         self.papers.sort(key=lambda p:(str(p.get('year') or ''),p['id']),reverse=True)
 
@@ -270,8 +301,9 @@ class Library:
         entry[kind] += amount
 
     def summary(self):
-        return {'courses':list(self.courses.values()),'counts':{
-            kind:sum(c[kind] for c in self.courses.values()) for kind in ('papers','questions','books')}}
+        counts = {kind: sum(c[kind] for c in self.courses.values()) for kind in ('papers', 'questions')}
+        counts['books'] = len(self.books)
+        return {'courses': list(self.courses.values()), 'counts': counts}
 
     def register(self, ref, name, label='', size=None):
         identity = json.dumps(ref, ensure_ascii=False, sort_keys=True)
@@ -395,7 +427,8 @@ class Library:
                     'year':t.get('year'),'classification':'专题练习','_topical':t})
         matches=[]
         for row in rows:
-            if course and row['course']!=course: continue
+            if course and row['course'] != course and course not in (row.get('related_courses') or []):
+                continue
             if subject and row['subject']!=subject and not (subject=='science' and row['course']=='cie-0654'): continue
             if year and str(row.get('year') or '')!=year: continue
             if kind == 'books':
@@ -417,6 +450,18 @@ class Library:
             elif kind=='books':
                 if raw.get('ref') and book_ref_available(raw, self.root): row['files']=[self.register(raw['ref'],raw.get('name') or friendly_name(row['title']))]
                 else: row['files']=[{'url':raw.get('url'),'name':raw.get('name') or friendly_name(row['title']), 'available':bool(raw.get('url'))}]
+                source = raw.get('source') or {}
+                if not self.member and not row['files'][0]['available'] and source.get('manifest_url'):
+                    location = source.get('member') or source.get('archive_path') or raw['title']
+                    row['files'] = [{'kind': 'archive_locator', 'url': source['manifest_url'],
+                                     'name': location, 'available': True}]
+                    if source.get('restore_guide'):
+                        row['files'].append({'kind': 'recovery_guide', 'url': source['restore_guide'],
+                                             'name': '按文件名提取归档资料', 'available': True})
+                public_url = raw.get('public_url')
+                if public_url and public_url != raw.get('url') and urlparse(public_url).scheme == 'https':
+                    row['files'].append({'kind': 'public_pdf', 'url': public_url, 'name': raw.get('name') or raw['title'],
+                                         'available': True})
                 if raw.get('_local_copy') and book_ref_available({'ref': raw['_local_copy']}, self.root):
                     row['files'].append(self.register(raw['_local_copy'], raw.get('name') or friendly_name(row['title']), '本机副本'))
             elif raw.get('_topical'): row['files']=self.paper_files(raw['_topical'],row['title'])

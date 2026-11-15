@@ -62,6 +62,9 @@ def published_books(site, commit):
                     'name': PurePosixPath(path).name, 'url': RAW + path,
                     'bytes': size, 'source': {'kind': 'public_teaching_library', 'commit': commit, 'blob_sha': sha},
                 }
+                if level == 'BMO 1 & 2':
+                    books[path]['related_courses'] = ['bmo2']
+                    books[path]['aliases'] = ['BMO2']
     return list(books.values())
 
 def main():
