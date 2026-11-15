@@ -2,6 +2,8 @@
 
 [全部课程](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)
 
+[AP Calculus AB 教材与讲义](../books.md#books-ap-calculus-ab)
+
 数学 · 24 道题 · 4 个试卷或题组入口
 
 [按年份与试卷](#papers) · [按章节](#chapters)

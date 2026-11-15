@@ -13,9 +13,13 @@ html=(root/'index.html').read_text()
 html=re.sub(r'<meta\s+http-equiv="Content-Security-Policy"[^>]*>','',html,count=1,flags=re.I)
 scripts=list(re.finditer(r'<script\b[^>]*>(.*?)</script>',html,re.S))
 assert len(scripts)==4
-data=json.loads(scripts[2].group(1));questions=data['questions']
+data=json.loads(scripts[2].group(1))
+overlays=json.loads((root/'data/reader-question-files.json').read_text())['questions']
+questions=[q for q in data['questions'] if not overlays.get(q['id'], {}).get('retired')]
 assert questions and len({q['id'] for q in questions})==len(questions), 'Question identities must be present and unique'
 courses=sorted({q['course_id'] for q in questions})
+entry=dist/'portal.js'
+entry.write_text(entry.read_text().replace('__QUESTION_COUNT__',f'{len(questions):,}').replace('__COURSE_COUNT__',str(len(courses))))
 receipts=json.loads((root/'.admin/transfer-receipt.json').read_text())
 assets={(x['target_tag'],x['name']):x['destination_id'] for x in receipts}
 for q in questions:

@@ -1,6 +1,6 @@
 # 按学科找题
 
-[返回首页](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)
+[返回首页](../README.md) · [教材与讲义](books.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)
 
 选择课程，再按章节、年份或试卷查阅题目。题目页保留原题及已有分类；完整题面与图表请以原题文件为准。
 

@@ -59,6 +59,36 @@ def question_link(question):
     return f"[Q{cell(question.get('question_number') or question['id'])}]({relative})"
 
 
+def teacher_shelf():
+    groups = collections.defaultdict(lambda: collections.defaultdict(list))
+    courses = collections.defaultdict(list)
+    for book in json.loads((ROOT / 'data/library-books.json').read_text())['books']:
+        if not book.get('url') or not book.get('reader_course'):
+            continue
+        label = book['reader_course']
+        groups[label][book['section']].append((book['classification'], book['url']))
+        for course in ([book['course'], 'bmo2'] if label == 'BMO 1 & 2' else [book['course']]):
+            if label not in courses[course]:
+                courses[course].append(label)
+
+    def anchor(label):
+        return 'books-' + re.sub('[^a-z0-9]+', '-', label.lower()).strip('-')
+
+    lines = ['# 教材与讲义', '', '[按课程找原卷与分类题](README.md)', '',
+             '选择课程，再点学生册、详解册或练习名称即可下载 PDF。', '']
+    lines += [' · '.join(f'[{cell(name)}](#{anchor(name)})' for name in groups), '']
+    for name, sections in groups.items():
+        lines += [f'<a id="{anchor(name)}"></a>', '', f'## {cell(name)}', '',
+                  '| 卷别或专题 | 教材与讲义 |', '| --- | --- |']
+        for section, resources in sections.items():
+            links = ' · '.join(f'[{cell(label)}]({url})' for label, url in resources)
+            lines.append(f'| {cell(section)} | {links} |')
+        lines.append('')
+    (CATALOG / 'books.md').write_text('\n'.join(lines), encoding='utf-8')
+    return {course: ' · '.join(f'[{cell(label)} 教材与讲义](../books.md#{anchor(label)})' for label in labels)
+            for course, labels in courses.items()}
+
+
 def build_human_catalog():
     """Create readable views from existing identities without rewriting question content."""
     index = json.loads((CATALOG / 'index.json').read_text(encoding='utf-8'))
@@ -66,7 +96,8 @@ def build_human_catalog():
     overlay_path = ROOT / 'data' / 'reader-question-files.json'
     overlay = json.loads(overlay_path.read_text(encoding='utf-8')) if overlay_path.is_file() else {}
     retired = {qid for qid, value in overlay.get('questions', {}).items() if value.get('retired') is True}
-    overview = ['# 按学科找题', '', '[返回首页](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)', '',
+    shelves = teacher_shelf()
+    overview = ['# 按学科找题', '', '[返回首页](../README.md) · [教材与讲义](books.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)', '',
                 '选择课程，再按章节、年份或试卷查阅题目。题目页保留原题及已有分类；完整题面与图表请以原题文件为准。', '']
     generated = set()
     for subject, title in SUBJECTS.items():
@@ -108,6 +139,9 @@ def build_human_catalog():
             lines = [f"# {cell(c['course_id'])}", '', '[全部课程](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)', '',
                      f"{title} · {question_count:,} 道题 · {len(groups):,} 个试卷或题组入口", '',
                      '[按年份与试卷](#papers) · [按章节](#chapters)', '', '<a id="papers"></a>', '', '## 年份与试卷', '']
+            shelf = shelves.get(c['course_id'].lower())
+            if shelf:
+                lines[3:3] = ['', shelf]
             by_year = collections.defaultdict(list)
             for group in groups:
                 by_year[group[0]].append(group)

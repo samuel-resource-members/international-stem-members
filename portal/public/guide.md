@@ -1,6 +1,6 @@
 # 会员使用指南
 
-在网页中检索题目，或使用自己的 GitHub 账号按课程、题号获取资料。
+直接打开[教师教材目录](https://github.com/samuel-resource-members/international-stem-members/blob/main/catalog/books.md)选择课程，点击书名即可下载 PDF。[原卷与分类题目录](https://github.com/samuel-resource-members/international-stem-members/blob/main/catalog/README.md)也可免登录浏览。以下步骤适用于会员网站。
 
 [进入会员题库](https://stem-member-library.xpartara.workers.dev/) · [账户与仓库邀请](https://stem-member-library.xpartara.workers.dev/account)
 
@@ -16,31 +16,21 @@
 
 激活后可以在网页中使用[题目检索](https://stem-member-library.xpartara.workers.dev/library)和[资源库](https://stem-member-library.xpartara.workers.dev/resources)。网页下载无需克隆仓库。
 
-## 3. 接受仓库邀请
+## 3. 在电脑上连接仓库
 
-需要在电脑或自动化环境中获取资料时，进入[账户页面](https://stem-member-library.xpartara.workers.dev/account#github-access)，在「GitHub 仓库访问」中点击「接受仓库邀请」，并在 GitHub 上确认接受。此步骤通常只需完成一次。
-
-如果显示正在开通，请稍后刷新账户页面；如果需要重新检查，点击「检查访问状态」。始终使用同一个 GitHub 账号。
-
-网站登录与电脑上的 GitHub 授权各自独立。接受邀请后，使用该账号授权的浏览器或终端才能访问私有仓库；只具备普通网页读取能力的客户端无法读取私有资料。
-
-本指南无需登录即可阅读。题目、资料清单和下载仍需有效的会员权限。激活码用于开通网站会员，不能代替 GitHub 登录凭证；不要提供密码或访问令牌给他人。
-
-## 4. 在电脑上连接仓库
-
-准备好 [GitHub CLI](https://cli.github.com/) 与 Python 3.9 或以上版本。在需要获取资料的电脑或终端中，先检查当前授权账号：
+需要批量取用时，可使用 [GitHub CLI](https://cli.github.com/) 与 Python 3.9 或以上版本。先检查 GitHub CLI 登录状态。
 
 ```sh
 gh auth status --hostname github.com
 ```
 
-如果尚未登录，或当前账号与会员绑定账号不同，请使用会员账号登录；需要确认登录或安全验证时，由你本人完成：
+如 CLI 提示登录，请按提示使用自己的 GitHub 账号。
 
 ```sh
 gh auth login --hostname github.com --web
 ```
 
-确认当前账号有仓库权限后运行：
+下载公开仓库。
 
 ```sh
 gh repo clone samuel-resource-members/international-stem-members
@@ -49,9 +39,9 @@ cd international-stem-members
 
 如果本机已经有这个仓库，进入已有目录，运行 `git pull --ff-only` 更新即可。
 
-仓库包含题目索引与获取入口。PDF 和资料包保存在私有 Releases 中，克隆仓库后仍需按需获取。
+仓库包含题目索引与获取入口。PDF 和资料包保存在公开下载区，克隆仓库后仍需按需获取。
 
-## 5. 按课程或题号获取资料
+## 4. 按课程或题号获取资料
 
 查看可用课程、题号与资料包：
 
@@ -86,8 +76,8 @@ python3 scripts/member_download.py download --name AMC8 --output resources
 ## 遇到访问问题
 
 - 激活码不能使用：检查当前 GitHub 账号是否与开通时一致。新注册的账号需要先将用户名提供给管理员，再领取绑定该账号的码。
-- 仓库显示 404 或没有访问权限：先确认已激活会员、已接受邀请，并检查浏览器及 `gh auth status` 中的账号。
-- 网页能用，终端仍无法下载：使用有仓库权限的同一 GitHub 账号完成终端授权。网站登录不会自动给其他设备或软件授权。
-- 无法使用终端：可以直接在会员网站中检索和下载；自动获取需要具备终端执行与 GitHub 授权能力的客户端。
+- 单本教材链接显示 404 时，从教师教材目录按课程和书名重新打开。
+- 终端提示需要登录时，用自己的账号运行 `gh auth login`。
+- 手机上可直接打开教师教材目录，点选 PDF。
 
 各考试试题与评分资料的版权归其权利人所有。

@@ -2,6 +2,8 @@
 
 [全部课程](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)
 
+[HKDSE M1 教材与讲义](../books.md#books-hkdse-m1)
+
 数学 · 271 道题 · 18 个试卷或题组入口
 
 [按年份与试卷](#papers) · [按章节](#chapters)

@@ -22,6 +22,7 @@ import shutil
 import threading
 import tempfile
 import time
+import unicodedata
 from urllib.parse import parse_qs, quote, unquote, urlparse
 import webbrowser
 
@@ -111,6 +112,54 @@ def flatten(value):
     return ''
 
 
+# Normalise terms at word boundaries so "organic" never matches "inorganic".
+# Non-Latin text still supports ordinary substring queries within a topic.
+BOOK_TERMS = (
+    (r'(?<![a-z])(?:caie|cambridge|cie)(?![a-z])|剑桥', 'cie'),
+    (r'(?<![a-z])(ib)?[ -]*(aa|ai)[ -]*(hl|sl)(?![a-z])', r'\1 \2 \3'),
+    (r'(?<![a-z])(?:paper|p)[ -]*(\d+)(?![a-z0-9])', r'p\1'),
+    (r'(?<![a-z])(amc|bmo|bpho)[ -]*(\d+)(?![a-z0-9])', r'\1\2'),
+    (r'(?<![a-z])math(?:ematic)?s?(?![a-z])|数学', 'math'),
+    (r'(?<![a-z])inorganic(?![a-z])|无机', 'inorganic'),
+    (r'(?<![a-z])organic(?![a-z])|有机', 'organic'),
+    (r'(?<![a-z])vectors?(?![a-z])|向量|矢量', 'vector'),
+    (r'(?<![a-z])calculus(?![a-z])|微积分', 'calculus'),
+    (r'(?<![a-z])mechanics(?![a-z])|力学', 'mechanics'),
+    (r'(?<![a-z])(?:worked +)?solutions?(?![a-z])|详解册|详解', 'solutions'),
+    (r'(?<![a-z])student(?: +book)?(?![a-z])|学生册|学生用书|学生', 'student'),
+    (r'(?<![a-z])teacher(?: +handout)?(?![a-z])|教师册|教师', 'teacher'),
+)
+BOOK_FORMATS = {
+    '可编辑源稿': '源稿 文稿 稿件 可编辑文稿 教材源文件 editable source manuscript',
+    '课件': '幻灯片 演示文稿 slides ppt pptx',
+    '题型索引': '题型目录 题型清单',
+    '题目索引': '题号索引 题目目录',
+}
+BOOK_SUBJECTS = {label: subject for subject, label in SUBJECTS.items()}
+
+
+def book_terms(value):
+    text = unicodedata.normalize('NFKC', str(value)).casefold().replace('_', ' ')
+    for label, subject in BOOK_SUBJECTS.items():
+        text = text.replace(label, ' ' + subject + ' ')
+    for pattern, replacement in BOOK_TERMS:
+        text = re.sub(pattern, ' ' + replacement + ' ', text)
+    return re.findall(r'[a-z0-9]+|[^\W\da-z_]+', text)
+
+
+def book_ref_available(book, root):
+    ref = book.get('ref') or {}
+    if ref.get('kind') != 'local':
+        return bool(ref or book.get('url'))
+    path = root / Path(ref.get('path') or '')
+    expected_size = ref.get('package_bytes') if ref.get('member') else ref.get('bytes')
+    try:
+        return (not path.is_symlink() and path.is_file()
+                and (expected_size is None or path.stat().st_size == expected_size))
+    except OSError:
+        return False
+
+
 def question_year(row):
     explicit=row.get('year') or (row.get('extra') or {}).get('year')
     if explicit: return explicit
@@ -175,17 +224,41 @@ class Library:
         for row in topical:
             course = course_key(row.get('course_id')); self.topical[course].append(row)
             self.count(course, subject_for(course), 'questions')
-        self.books = read_json(self.root/'data/library-books.json', {}).get('books', [])
-        if local_books and Path(local_books).is_file() and not self.member:
-            self.books += read_json(Path(local_books), {}).get('books', [])
-        # Multiple aliases to the exact same reader PDF appear only once.
-        unique = {}; by_id={b['id']:dict(b) for b in self.books}; self.books=list(by_id.values())
-        for book in self.books:
-            ref = book.get('ref', {}); key = ref.get('sha256') or book['id']
-            if key not in unique: unique[key] = book
-            elif ref.get('kind') == 'local': unique[key]['ref'] = ref
+        books = read_json(self.root/'data/library-books.json', {}).get('books', [])
+        if local_books and not self.member:
+            books += read_json(Path(local_books), {}).get('books', [])
+        # The shared catalogue is current. An older personal row with the same
+        # ID can only fill a missing locator for the same known edition.
+        by_id = {}
+        local_by_sha = {}
+        for book in books:
+            ref = book.get('ref') or {}
+            digest = ref.get('sha256') or book.get('sha256')
+            available = book_ref_available(book, self.root)
+            if ref.get('kind') == 'local' and available and digest:
+                local_by_sha[digest] = ref
+            current = by_id.get(book['id'])
+            if current is None:
+                by_id[book['id']] = book
+            elif not book_ref_available(current, self.root) and available:
+                current_digest = (current.get('ref') or {}).get('sha256') or current.get('sha256')
+                if not current_digest or current_digest == digest:
+                    by_id[book['id']] = book
+        unique = {}
+        for book in by_id.values():
+            key = (book.get('ref') or {}).get('sha256') or book.get('sha256') or book['id']
+            if key not in unique or not book_ref_available(unique[key], self.root):
+                unique[key] = book
+        for key, book in unique.items():
+            if key in local_by_sha and (book.get('ref') or {}).get('kind') != 'local':
+                book['_local_copy'] = local_by_sha[key]
         self.books = list(unique.values())
-        for book in self.books: self.count(book['course'],book['subject'],'books')
+        for book in self.books:
+            self.count(book['course'], book['subject'], 'books')
+            fields = [str(book.get(k) or '') for k in ('title', 'name', 'id', 'course', 'subject', 'year')]
+            category = flatten(book.get('classification'))
+            fields.extend([category, BOOK_FORMATS.get(category, ''), flatten(book.get('aliases'))])
+            book['_terms'] = set(book_terms(' '.join(fields)))
         self.papers.sort(key=lambda p:(str(p.get('year') or ''),p['id']),reverse=True)
 
     def count(self, course, subject, kind, amount=1):
@@ -271,6 +344,12 @@ class Library:
                 if asset.get('kind')=='repository':
                     found=self.store_file(asset.get('path'),friendly_name(title),'题目')
                     if found: files.append(found)
+                elif asset.get('kind') == 'library' and asset.get('available'):
+                    # Personal Library URLs belong only to the owner's reader.
+                    url = asset.get('url', '')
+                    if urlparse(url)[:3] == ('https', 'chatgpt.com', '/library'):
+                        name = asset.get('file_name') or title
+                        files.append({'url': url, 'name': '个人资料库 · ' + name, 'available': True})
                 elif asset.get('kind')=='release':
                     member=asset.get('member') or asset.get('member_reference') or asset.get('relative_to_handoff')
                     if asset.get('relative_to_handoff') and asset.get('handoff'):
@@ -298,6 +377,7 @@ class Library:
         if kind not in ('papers','questions','books'): raise ValueError('未知资料类型')
         limit=max(1,min(100,int(params.get('limit',30)))); offset=max(0,int(params.get('offset',0)))
         terms=params.get('q','').casefold().split(); year=params.get('year','')
+        book_query = book_terms(params.get('q', '')) if kind == 'books' else ()
         if kind=='questions' and not course: return {'total':0,'items':[]}
         if kind=='papers': rows=self.papers
         elif kind=='books': rows=self.books
@@ -308,7 +388,7 @@ class Library:
                 rows.append({'id':q['id'],'course':course,'subject':question_subject(q,course),
                     'year':question_year(q),
                     'title':(q.get('extra') or {}).get('source_as_recorded') or self.reader_extra.get(q['id'],{}).get('title') or q['id'],
-                    'text':q.get('text',q.get('search_text','')),
+                    'text':q.get('text',q.get('search_text','')), '_aliases':flatten(q.get('aliases')),
                     'classification':q.get('classification') or {k:q.get(k) for k in ('chapter','knowledge_point','problem_type')},'_raw':q})
             for t in self.topical.get(course,[]):
                 rows.append({'id':t['id'],'course':course,'subject':subject_for(course),'title':t['title'],
@@ -318,16 +398,27 @@ class Library:
             if course and row['course']!=course: continue
             if subject and row['subject']!=subject and not (subject=='science' and row['course']=='cie-0654'): continue
             if year and str(row.get('year') or '')!=year: continue
-            text=' '.join([str(row.get(k) or '') for k in ('id','title','text','year')]+[flatten(row.get('classification'))]).casefold()
-            if not all(term in text for term in terms): continue
+            if kind == 'books':
+                words = row['_terms']
+                if not all(term in words or (not term.isascii() and any(term in word for word in words))
+                           for term in book_query):
+                    continue
+            elif terms:
+                fields = [str(row.get(k) or '') for k in ('id', 'title', 'text', 'year', 'course', '_aliases')]
+                fields.extend([SUBJECTS.get(row['subject'], row['subject']), flatten(row.get('classification'))])
+                text = ' '.join(fields).casefold()
+                if not all(term in text for term in terms):
+                    continue
             matches.append(row)
         results=[]
         for raw in matches[offset:offset+limit]:
             row={k:v for k,v in raw.items() if not k.startswith('_') and k not in ('ref','url','name','status','source')}
             if kind=='papers': row['files']=self.paper_files(raw['_raw'],row['title'])
             elif kind=='books':
-                if raw.get('ref'): row['files']=[self.register(raw['ref'],raw.get('name') or friendly_name(row['title']))]
+                if raw.get('ref') and book_ref_available(raw, self.root): row['files']=[self.register(raw['ref'],raw.get('name') or friendly_name(row['title']))]
                 else: row['files']=[{'url':raw.get('url'),'name':raw.get('name') or friendly_name(row['title']), 'available':bool(raw.get('url'))}]
+                if raw.get('_local_copy') and book_ref_available({'ref': raw['_local_copy']}, self.root):
+                    row['files'].append(self.register(raw['_local_copy'], raw.get('name') or friendly_name(row['title']), '本机副本'))
             elif raw.get('_topical'): row['files']=self.paper_files(raw['_topical'],row['title'])
             else: row=self.question_item(raw['_raw'],course)
             results.append(row)

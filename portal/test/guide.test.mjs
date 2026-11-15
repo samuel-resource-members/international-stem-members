@@ -9,7 +9,7 @@ test('the public guide is readable without a login or JavaScript',async()=>{
   assert.match(response.headers.get('content-type'),/text\/html/);
   const html=await response.text();
   assert.match(html,/<h1[^>]*>会员使用指南<\/h1>/);
-  assert.match(html,/接受邀请/);
+  assert.match(html,/catalog\/books\.md/);
   assert.match(html,/gh repo clone samuel-resource-members\/international-stem-members/);
   assert.doesNotMatch(html,/<script\b|library-data|better-auth\.session_token|BEGIN PRIVATE KEY/i);
 });
@@ -22,7 +22,7 @@ test('plain Markdown provides the full public onboarding and download instructio
   const body=await response.text();
   assert.match(body,/^# 会员使用指南/m);
   assert.match(body,/绑定/);
-  assert.match(body,/接受邀请/);
+  assert.match(body,/免登录浏览/);
   assert.match(body,/gh auth status/);
   assert.match(body,/materialize --course amc8 --dry-run/);
   assert.doesNotMatch(body,/BEGIN (?:RSA )?PRIVATE KEY|gh[pousr]_[A-Za-z0-9]{20}|\.admin\/|客户名单/);

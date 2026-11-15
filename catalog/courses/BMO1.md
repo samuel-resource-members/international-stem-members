@@ -2,6 +2,8 @@
 
 [全部课程](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)
 
+[BMO 1 教材与讲义](../books.md#books-bmo-1) · [BMO 1 & 2 教材与讲义](../books.md#books-bmo-1-2)
+
 数学 · 197 道题 · 35 个试卷或题组入口
 
 [按年份与试卷](#papers) · [按章节](#chapters)

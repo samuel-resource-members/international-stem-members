@@ -15,8 +15,9 @@ document.getElementById('signout').addEventListener('click',async()=>{await api(
 function enter(){location.replace(me?.role==='admin'?'/admin':'/library');}
 
 async function authPage(){
- const intro=h('section',{class:'entry-intro'},h('span',{class:'eyebrow'},'INTERNATIONAL COURSES & COMPETITIONS'),h('h1',{},'让每次练习，',h('br'),'都有章可循。'),h('p',{},'从课程到专题，从原题到评分资料。找到适合当前进度的练习，留下自己的选题清单。'),h('div',{class:'numbers'},h('div',{},h('strong',{},'27,284'),h('small',{},'题目记录')),h('div',{},h('strong',{},'68'),h('small',{},'课程与考试分类'))),h('div',{class:'subjects'},['数学','物理','化学','生物'].map(x=>h('span',{},x))));
+ const intro=h('section',{class:'entry-intro'},h('span',{class:'eyebrow'},'INTERNATIONAL COURSES & COMPETITIONS'),h('h1',{},'让每次练习，',h('br'),'都有章可循。'),h('p',{},'从课程到专题，从原题到评分资料。找到适合当前进度的练习，留下自己的选题清单。'),h('div',{class:'numbers'},h('div',{},h('strong',{},'__QUESTION_COUNT__'),h('small',{},'题目记录')),h('div',{},h('strong',{},'__COURSE_COUNT__'),h('small',{},'课程与考试分类'))),h('div',{class:'subjects'},['数学','物理','化学','生物'].map(x=>h('span',{},x))));
  const button=h('button',{class:'full',type:'button'},'使用 GitHub 登录'),card=h('section',{class:'panel auth-panel'},h('span',{class:'eyebrow'},'MEMBER LIBRARY'),h('h2',{},'登录会员题库'),h('p',{},'使用自己的 GitHub 账号登录。首次进入时，输入为你开通的专属激活码。'),button,h('small',{},'会员资格与开通时指定的 GitHub 账号关联。'),h('p',{},h('a',{href:'/guide'},'首次使用？查看使用指南')));
+ card.append(h('p',{},h('a',{href:'https://github.com/samuel-resource-members/international-stem-members/blob/main/catalog/books.md'},'免登录下载教材与讲义')));
  if(new URLSearchParams(location.search).has('error'))card.append(notice('GitHub 登录未完成，请重试。',true));
  app.replaceChildren(h('div',{class:'entry'},intro,card));
  button.disabled=true;const options=await api('/api/login-options');
@@ -27,7 +28,7 @@ function activationPage(){const body=page('激活会员','输入为当前 GitHub
 function friendlyResource(row){let m=row.name.match(/question-bank-(math|physics|chemistry|biology)-part-(\d+)/);if(m)return({math:'数学',physics:'物理',chemistry:'化学',biology:'生物'}[m[1]])+'题目包 · '+Number(m[2]);m=row.name.match(/^(AMC\d+)_/);if(m)return m[1]+' 题库';return row.group;}
 async function resourcePage(){
  const body=page('整套资料','按课程取得题库或试卷资料包。'),{resources}=await api('/api/resources');
- body.append(h('p',{},'本页下载整套资料。单题与原卷请从',h('a',{href:'/library'},'题目检索'),'中选择。'),h('p',{},h('a',{href:'/account#github-access'},'在电脑上按需取用')));
+ body.append(h('p',{},h('a',{href:'https://github.com/samuel-resource-members/international-stem-members/blob/main/catalog/books.md'},'按课程下载学生册与详解')),h('p',{},'本页下载整套资料。单题与原卷请从',h('a',{href:'/library'},'题目检索'),'中选择。'),h('p',{},h('a',{href:'/account#github-access'},'在电脑上按需取用')));
  const packages=resources.filter(row=>row.group!=='题目与评分资料');
  const order=['AMC','IGCSE Physics 0625','IGCSE Co-ordinated Sciences 0654','BBO 2026 试卷','学科题目包'];
  const rank=row=>{const n=order.indexOf(row.group);return n<0?order.length:n;};
@@ -47,7 +48,7 @@ async function submissionPage(){const body=page('提交资料','分享试卷、�
 const repositoryLabels={pending:'等待开通',invited:'等待接受邀请',ready:'已开通',revoked:'已撤销',blocked:'需要管理员处理',retry:'等待重新同步'};
 async function accountPage(){
  const body=page('账户','查看你的会员账户与 GitHub 访问。');
- if(new URLSearchParams(location.search).has('activated'))body.append(notice('会员已激活，可以开始使用题库。接受下方邀请后，还可通过 GitHub 获取资料。'));
+ if(new URLSearchParams(location.search).has('activated'))body.append(notice('会员已激活，可以开始使用在线题库。'));
  body.append(h('section',{class:'panel narrow'},h('h2',{},'GitHub · @'+me.github.login),h('p',{},'会员状态：使用中'),h('a',{href:'https://github.com/settings/security',target:'_blank',rel:'noopener noreferrer'},'管理 GitHub 登录安全')));
  const section=h('section',{id:'github-access',class:'panel narrow',style:'margin-top:1.5rem'});body.append(section);
  async function render(){
@@ -65,7 +66,7 @@ async function accountPage(){
   if(!['ready','invited'].includes(state))return;
   const instructions='请阅读公开使用指南，按其中步骤使用我的 GitHub 账号获取我指定的课程或题目。需要登录、验证或接受邀请时，请提示我完成：\n'+location.origin+'/guide.md';
   const copy=h('button',{type:'button',class:'secondary compact',onclick:async()=>{try{await navigator.clipboard.writeText(instructions);copy.textContent='已复制';}catch{section.append(notice('请直接复制下方获取说明。'));}}},'复制获取说明');
-  section.append(h('h3',{style:'margin-top:2rem'},'批量获取资料'),h('p',{},'接受邀请后，在自己的终端中完成 GitHub 授权，即可按课程或题号获取资料。'),h('p',{},h('a',{href:'/guide',target:'_blank',rel:'noopener noreferrer'},'查看获取方法')),copy,h('pre',{class:'code-box'},instructions));
+  section.append(h('h3',{style:'margin-top:2rem'},'批量获取资料'),h('p',{},'公开教材目录可直接下载。批量获取工具的使用方法见指南。'),h('p',{},h('a',{href:'/guide',target:'_blank',rel:'noopener noreferrer'},'查看获取方法')),copy,h('pre',{class:'code-box'},instructions));
  }
  await render();
 }

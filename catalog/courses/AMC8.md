@@ -2,6 +2,8 @@
 
 [全部课程](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)
 
+[AMC 8 教材与讲义](../books.md#books-amc-8)
+
 数学 · 1,025 道题 · 41 个试卷或题组入口
 
 [按年份与试卷](#papers) · [按章节](#chapters)

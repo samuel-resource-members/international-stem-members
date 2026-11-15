@@ -12,12 +12,12 @@ writeFileSync(new URL('../dist/llms.txt',import.meta.url),`# 国际课程与竞�
 
 > 数学、物理、化学与生物会员题库。公开指南说明账号开通、仓库授权与按需获取资料的方法。
 
-使用指南可匿名阅读。题目、资源清单和下载需要会员使用本人 GitHub 账号登录、激活并接受私有仓库邀请。激活码不能代替 GitHub 授权。
+公开教材与分类目录支持免登录下载。会员网站的题目检索和账户服务需登录。
 
 ## 使用入口
 
 - [会员使用指南](${origin}/guide.md): 完整开通步骤与下载命令。
 - [网页使用指南](${origin}/guide): 无需执行 JavaScript 即可阅读。
 - [会员入口](${origin}/): 使用本人 GitHub 账号登录并激活。
-- [账户与仓库邀请](${origin}/account): 激活后接受仓库邀请。
+- [公开教材与讲义](https://github.com/samuel-resource-members/international-stem-members/blob/main/catalog/books.md): 选择课程并直接下载 PDF。
 `);

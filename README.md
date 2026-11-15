@@ -1,13 +1,16 @@
 # 国际课程与竞赛题库
 
-数学、物理、化学、生物与综合科学的真题、分类题和评分资料。
+**[按课程下载教材与讲义](catalog/books.md)** · **[按学科查原卷、分类题与评分](catalog/README.md)**
 
-- [在线找题](https://stem-member-library.xpartara.workers.dev/library)：按课程、章节与题型检索。
-- [按学科与课程浏览](catalog/README.md)：按章节、年份或试卷打开题目。
-- [整套资料](https://stem-member-library.xpartara.workers.dev/resources)：取得课程资料包。
+教材按课程和专题排列，学生册与对应详解放在同一行。点击书名旁的链接即可下载 PDF，无需登录。
 
-在电脑上双击 **[打开题库.command](打开题库.command)**，浏览题目、原卷和评分，按需获取单个文件。首次使用需以有仓库访问权限的 GitHub 账号登录。
+| 课程 | 入口 |
+| --- | --- |
+| 数学竞赛 | [AMC 8](catalog/books.md#books-amc-8) · [AMC 10](catalog/books.md#books-amc-10) · [AMC 12](catalog/books.md#books-amc-12) · [BMO 1](catalog/books.md#books-bmo-1) |
+| 国际数学课程 | [IB AA HL](catalog/books.md#books-ib-aa-hl) · [Cambridge 9709](catalog/books.md#books-cambridge-9709) · [更多课程](catalog/books.md) |
+| IGCSE 综合科学 | [0654 分类题与评分资料](catalog/courses/CIE-0654.md) |
+| 真题与评分资料 | [全部学科与课程](catalog/README.md) |
 
-[首次使用指南](https://stem-member-library.xpartara.workers.dev/guide) · [资料维护与批量取用](docs/library-maintenance.md)
+[会员网站](https://stem-member-library.xpartara.workers.dev/library) 提供登录后的在线题目检索与账户服务。需要在电脑上按题号批量取用时，可查看[使用说明](docs/library-maintenance.md)。
 
 各考试试题与评分资料的版权归其权利人所有。

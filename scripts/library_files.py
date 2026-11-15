@@ -356,8 +356,13 @@ class FileResolver:
         elif kind == 'local':
             supplied = Path(ref['path'])
             source = supplied if supplied.is_absolute() else self.root / relative_path(ref['path'])
-            check_file(source, ref.get('sha256'), ref.get('bytes'))
-            result = self._copy(source, destination)
+            if ref.get('member'):
+                check_file(source, ref['package_sha256'], ref['package_bytes'])
+                result = extract_member(source, ref['member'], destination, ref['sha256'],
+                                        ref['bytes'], allow_suffix=False)
+            else:
+                check_file(source, ref.get('sha256'), ref.get('bytes'))
+                result = self._copy(source, destination)
         elif kind == 'release':
             package = self._package(ref)
             if ref.get('member'):

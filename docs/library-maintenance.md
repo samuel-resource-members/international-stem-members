@@ -1,6 +1,6 @@
 # 题库维护与批量取用
 
-日常使用从仓库首页进入在线题库，或双击根目录的 `打开题库.command`。课程目录位于 `catalog/README.md`，不需要手工浏览资料分片。
+老师可直接从[教材与讲义](../catalog/books.md)免登录下载，按题查找可打开[课程目录](../catalog/README.md)。也可双击根目录的 `打开题库.command`。课程目录位于 `catalog/README.md`，不需要手工浏览资料分片。
 
 本地入口也可用 `python3 scripts/library_browser.py` 启动，文件取用复用 `member_download.py`，退出后清理临时缓存。`reader.html` 为三类资料的本地入口，`index.html` 仍供在线题目页面构建。
 
@@ -20,6 +20,8 @@
 | `portal/` | 已有会员网站 | 复用现有认证与下载权限 |
 
 课程页按章节、年份和试卷连接到单题。大型课程沿用原有试卷目录分组，避免一个 Markdown 页面塞入数千道题。新增 Markdown 不另建目录，不另复制题目正文。
+
+公开教学网站教材更新后，运行 `python3 scripts/sync_teaching_books.py /path/to/teaching-site`，再刷新可阅读目录。
 
 ## 更新可阅读目录
 
@@ -43,7 +45,7 @@ python3 scripts/build_public_catalog.py
 
 ## 按需取得原文件
 
-会员使用自己的 GitHub 权限。列出课程与题号，再按需恢复单题文件：
+公开目录支持免登录浏览。批量下载工具使用本机 GitHub CLI。列出课程与题号，再按需恢复单题文件：
 
 ```sh
 python3 scripts/member_download.py courses

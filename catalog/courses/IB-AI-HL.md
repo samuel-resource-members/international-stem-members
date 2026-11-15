@@ -2,6 +2,8 @@
 
 [全部课程](../README.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)
 
+[IB AI HL 教材与讲义](../books.md#books-ib-ai-hl)
+
 数学 · 74 道题 · 9 个试卷或题组入口
 
 [按年份与试卷](#papers) · [按章节](#chapters)
