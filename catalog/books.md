@@ -13,7 +13,9 @@
 | 卷别或专题 | 教材与讲义 |
 | --- | --- |
 | 化学（2022–2026） | [分类题与知识讲解](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-chemistry-questions.pdf) · [评分标准](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-chemistry-marks.pdf) |
-| 实验技能（2022–2026） | [分类题与知识讲解](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-practical-questions.pdf) |
+| 实验技能（2022–2026） | [分类题与知识讲解](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-practical-questions.pdf) · [评分标准](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-practical-marks.pdf) |
+| 物理（2022–2026） | [分类题与知识讲解](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-physics-questions.pdf) · [评分标准](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-physics-marks.pdf) |
+| 生物（2022–2026） | [分类题与知识讲解](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-biology-questions.pdf) · [评分标准](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-biology-marks.pdf) |
 
 <a id="books-amc-8"></a>
 
