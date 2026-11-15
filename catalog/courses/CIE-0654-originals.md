@@ -41,7 +41,24 @@
 
 | 考季 | 卷号 | 题卷与评分 |
 | --- | --- | --- |
-| May/June | 43 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_43.pdf>) |
+| February/March | 12 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_qp_12.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_ms_12.pdf>) |
+| February/March | 22 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_qp_22.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_ms_22.pdf>) |
+| February/March | 32 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_qp_32.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_ms_32.pdf>) |
+| February/March | 42 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_qp_42.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_ms_42.pdf>) |
+| February/March | 52 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_qp_52.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_ms_52.pdf>) |
+| February/March | 62 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_qp_62.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_m25_ms_62.pdf>) |
+| May/June | 11 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_11.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_11.pdf>) |
+| May/June | 12 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_12.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_12.pdf>) |
+| May/June | 13 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_13.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_13.pdf>) |
+| May/June | 21 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_21.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_21.pdf>) |
+| May/June | 22 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_22.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_22.pdf>) |
+| May/June | 23 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_23.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_23.pdf>) |
+| May/June | 31 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_31.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_31.pdf>) |
+| May/June | 32 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_32.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_32.pdf>) |
+| May/June | 33 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_33.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_33.pdf>) |
+| May/June | 41 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_41.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_41.pdf>) |
+| May/June | 42 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_42.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_42.pdf>) |
+| May/June | 43 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_43.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_43.pdf>) |
 | May/June | 51 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_51.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_51.pdf>) |
 | May/June | 52 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_52.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_52.pdf>) |
 | May/June | 53 | [题卷](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_qp_53.pdf>) · [评分](<https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0654_s25_ms_53.pdf>) |
