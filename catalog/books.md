@@ -10,6 +10,8 @@
 
 ## IGCSE 0654
 
+[历年原卷与评分](courses/CIE-0654-originals.md)
+
 | 卷别或专题 | 教材与讲义 |
 | --- | --- |
 | 化学（2022–2026） | [分类题与知识讲解](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-chemistry-questions.pdf) · [评分标准](https://github.com/samuel-resource-members/international-stem-members/releases/download/library/0654-chemistry-marks.pdf) |

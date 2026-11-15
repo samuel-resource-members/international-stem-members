@@ -90,6 +90,8 @@ def teacher_shelf():
     for name, sections in groups.items():
         lines += [f'<a id="{anchor(name)}"></a>', '', f'## {cell(name)}', '',
                   '| 卷别或专题 | 教材与讲义 |', '| --- | --- |']
+        if name == 'IGCSE 0654':
+            lines[-2:-2] = ['[历年原卷与评分](courses/CIE-0654-originals.md)', '']
         for section, resources in sections.items():
             links = ' · '.join(f'[{cell(label)}]({url})' for label, url in resources)
             translated = TOPIC_LABELS.get(section)
@@ -101,6 +103,35 @@ def teacher_shelf():
             for course, labels in courses.items()}
 
 
+def coordinated_science_originals():
+    records = json.loads((ROOT / 'data/reader-papers.json').read_text())['papers']
+    hosts = {'pastpapers.papacambridge.com', 'papers.xtremepape.rs', 'azpastpapers.com'}
+    kinds = {'question_paper': '题卷', 'mark_scheme': '评分'}
+    by_year = collections.defaultdict(lambda: collections.defaultdict(dict))
+    for record in records:
+        if (not record['id'].startswith('caie-igcse-0654-') or record.get('access') != 'public'
+                or record.get('document_type') not in kinds):
+            continue
+        url = record.get('url', '')
+        location = urlparse(url)
+        if location.scheme != 'https' or location.hostname not in hosts or not location.path.lower().endswith('.pdf'):
+            continue
+        sitting = (record['session'], record['paper'], record['variant'])
+        by_year[record['year']][sitting][record['document_type']] = url
+    years = sorted(by_year, reverse=True)
+    lines = ['# IGCSE 0654 综合科学历年原卷与评分', '',
+             '[综合科学教材与讲义](../books.md#books-igcse-0654) · [按章节找题](CIE-0654.md#chapters)', '',
+             ' · '.join(f'[{year}](#year-{year})' for year in years), '']
+    for year in years:
+        lines += [f'<a id="year-{year}"></a>', '', f'## {year}', '',
+                  '| 考季 | 卷号 | 题卷与评分 |', '| --- | --- | --- |']
+        for (session, paper, variant), documents in sorted(by_year[year].items()):
+            links = [f'[{label}](<{documents[kind]}>)' for kind, label in kinds.items() if kind in documents]
+            lines.append(f"| {cell(session)} | {cell(paper)}{cell(variant)} | {' · '.join(links)} |")
+        lines.append('')
+    (CATALOG / 'courses' / 'CIE-0654-originals.md').write_text('\n'.join(lines), encoding='utf-8')
+
+
 def build_human_catalog():
     """Create readable views from existing identities without rewriting question content."""
     index = json.loads((CATALOG / 'index.json').read_text(encoding='utf-8'))
@@ -109,6 +140,7 @@ def build_human_catalog():
     overlay = json.loads(overlay_path.read_text(encoding='utf-8')) if overlay_path.is_file() else {}
     retired = {qid for qid, value in overlay.get('questions', {}).items() if value.get('retired') is True}
     shelves = teacher_shelf()
+    coordinated_science_originals()
     overview = ['# 按学科找题', '', '[返回首页](../README.md) · [教材与讲义](books.md) · [在线检索](https://stem-member-library.xpartara.workers.dev/library)', '',
                 '选择课程，再按章节、年份或试卷查阅题目。题目页保留原题及已有分类；完整题面与图表请以原题文件为准。', '']
     generated = set()
@@ -154,6 +186,8 @@ def build_human_catalog():
             shelf = shelves.get(c['course_id'].lower())
             if shelf:
                 lines[3:3] = ['', shelf]
+            if c['course_id'] == 'CIE-0654':
+                lines[3:3] = ['', '[历年原卷与对应评分](CIE-0654-originals.md)']
             by_year = collections.defaultdict(list)
             for group in groups:
                 by_year[group[0]].append(group)
