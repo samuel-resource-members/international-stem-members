@@ -227,7 +227,8 @@ class Library:
         raw = read_json(self.root/'data/papers.json')
         if raw is None: raw = read_json(self.root/'data/reader-papers.json', {}).get('papers', [])
         for row in raw:
-            course = paper_course(row); subject = row.get('subject') or subject_for(course)
+            course = paper_course(row)
+            subject = 'science' if course == 'cie-0654' else row.get('subject') or subject_for(course)
             title = ' · '.join(str(v) for v in [course_label(course), row.get('year'), row.get('session'),
                 (('P' if str(row['paper']).isdigit() else '')+str(row['paper'])) if row.get('paper') else '', row.get('variant'),
                 DOCUMENTS.get(row.get('document_type'),row.get('document_type'))] if v)
